@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block title %}Projekte{% endblock %}
+{% block content %}
+
+    <div class="container">
+        <div class="row">
+            {% for name, project in projects.items() %}
+                <div class="col">
+                    <div class="card" style="min-height: 600px; height: auto;">
+                        <img src="/static/images/{{ project.image }}"
+                             class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ project.title }}</h5>
+                            <p class="card-text">{{ project.subtitle }}</p>
+                            <p><b>Projektzeitraum:</b> {{ project.duration }} </p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="projekte/{{ name }}" class="btn btn-info" style="width: 100%">Projektdetails</a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock %}
+
+
+
+

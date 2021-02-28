@@ -1,0 +1,36 @@
+.persondetails {
+  position:absolute;
+  top:0;
+  left:-100%;
+  width:100%;
+  height:100%;
+  background-color:rgba(255,255,255,0.8);
+  box-sizing:border-box;
+
+  .exit {
+    position:absolute;
+    top:5px;
+    right:10px;
+    font-family:FontAwesome;
+    background-color:transparent;
+  }
+
+}
+
+.persondetails.slide-enter {
+  transition: 300ms;
+  left:0;
+}
+
+.persondetails.slide-enter-done {
+  left:0;
+}
+
+.persondetails.slide-exit {
+  transition: 300ms;
+  left:-100%;
+}
+
+.persondetails.slide-exit-done {
+  left:-100%;
+}

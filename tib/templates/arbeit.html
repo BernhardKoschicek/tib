@@ -1,0 +1,110 @@
+{% extends "layout.html" %}
+{% block title %}Öffentlichkeitsarbeit{% endblock %}
+{% block content %}
+    <div class="col-md-12">
+        <h3 class="text-center">Öffentlichkeitsarbeit</h3>
+        <p class="text-center">
+            Veranstaltungen, Vorträge, Veröffentlichungen und Pressemeldungen
+        </p>
+    </div>
+    <div class="astrodivider">
+        <div class="astrodividermask"></div>
+        <span><i>&#10009;</i></span>
+    </div>
+    {#    <div class="col-md-12">
+        {% for name, item in public.items() %}
+            <h5>{{ item.title|safe }}</h5>
+            <p class="font-weight-light">{{ item.type }} von {{ item.date }}</p>
+            <p class="justify-content-center">{{ item.description | safe }}</p>
+            <hr>
+        {% endfor %}
+    </div>#}
+
+
+
+    <div class="card-columns">
+        {% for name, item in public.items() %}
+            <div class="card">
+                <a href="#" data-toggle="modal" data-target="#arbeit-{{ item.id }}">
+                    <img class="card-img-top"
+                         src="/static/images/arbeit/{{ item.image }}" alt="{{ item.image }}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ item.title|safe }}</h5>
+                        <p class="card-text">
+                            {{ item.description | safe }}
+                        </p>
+                        <p class="card-text"><small class="text-muted">
+                            <img src="/static/images/icons/calendar4-week.svg" class="icon" alt=""
+                                 title="Calendar">{{ item.type }} von {{ item.date }}
+                        </small></p>
+                    </div>
+                </a>
+            </div>
+            <div class="modal fade" id="arbeit-{{ item.id }}" tabindex="-1"
+                 role="dialog" aria-labelledby="arbeitModalLabel"
+                 aria-hidden="true">
+                <div class="modal-dialog modal-lg modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">{{ item.title|safe }}</h5>
+                            <button type="button" class="close"
+                                    data-dismiss="modal"
+                                    aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <p>
+                                            <img src="/static/images/icons/calendar4-week.svg"
+                                                 class="icon"
+                                                 alt="" title="Calendar">{{ item.type }}
+                                            von {{ item.date }}
+
+                                        </p>
+                                        {{ item.text | safe }}
+                                    </div>
+                                    {#                                    <div class="col-md-4 ml-auto">
+                                        <img class="card-img-top"
+                                             src="/static/images/arbeit/{{ item.image }}"
+                                             alt="{{ item.image }}">
+                                    </div>#}
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        {{ item.attachment | safe }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <div class="row">
+                                <div class="col-sm-10" style="align-content: flex-start">
+
+                                    <button type="button" class="btn btn-info"
+                                            data-dismiss="modal">Close
+                                    </button>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+{% endblock %}

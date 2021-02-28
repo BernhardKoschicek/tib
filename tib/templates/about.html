@@ -1,0 +1,94 @@
+{% extends "layout.html" %}
+{% block title %}Orthodoxes Europa{% endblock %}
+{% block content %}
+    <div class="row">
+        <h4>Das Digitales Geoportal der Geschichte der Orthodoxen in Österreich</h4>
+
+        <div class="col-sm-8">
+            <p class="text-justify">
+                Die Initiative eines digitalen Geoportals der Geschichte der Orthodoxen in
+                Österreich fußt
+                auf der Erkenntnis, daß nach Durchsicht der bisherigen einschlägigen
+                Geschichtsforschung
+                augenscheinlich geworden ist, daß die orthodoxe Bevölkerung sowie deren politische
+                und
+                gesellschaftliche Rolle bzw. Stellung auf dem Staatsgebiet der jetzigen Zweiten
+                Republik
+                Österreich zwischen 1914 und 1945 dringend einer tiefschürfenden und
+                öffentlichkeitswirksamen Aufarbeitung bedürfen.
+            </p>
+            <p class="text-justify">
+                Einerseits stehen im Falle der orthodoxen Bevölkerung in Österreich einer Vielzahl
+                an
+                einschlägigen geschichtswissenschaftlichen Publikationen über die Orthodoxen im 18.
+                und 19.
+                Jahrhundert sehr wenige wissenschaftliche Arbeiten über die erste Hälfte des 20.
+                Jahrhunderts gegenüber. Andererseits kommt hinzu, daß des öfteren im
+                zeitgenössischen
+                öffentlichen Diskurs zu vernehmen ist, daß die orthodoxe Bevölkerung erst im Laufe
+                der
+                sogenannten „Gastarbeiterbewegung“ der 1960er und 1970er Jahre nach Österreich
+                gekommen sei.
+                Allerdings reicht deren Geschichte und Präsenz in Österreich weit in das 16.
+                Jahrhundert
+                zurück. Darauf basierend ist erklärbar, warum die bisherige Forschung entweder auf
+                die
+                Zeitspanne vom 16. bis zum 19. Jahrhundert oder aber erst auf jene nach 1945
+                fokussiert war
+                bzw. ist.
+            </p>
+            <p class="text-justify">
+                Um diese Lücke in der historischen Forschung zu schließen und um die erwähnte
+                Thematik
+                stärker in den aktuellen gesellschaftlichen Diskurs in Österreich zu rücken,
+                verfolgen wir
+                das Ziel, in Zukunft verschiedene wissenschaftliche Themen zu den Orthodoxen in
+                Österreich
+                vom 17. Jahrhundert bis 1945, im besonderen jedoch im Zeitraum von 1914 bis 1945, im
+                Wege
+                von unterschiedlichen Einzelprojekten zu erforschen und deren Resultate der
+                österreichischen
+                Gesellschaft online frei zugänglich zu machen. Aus diesem Grund haben wir das
+                digitale
+                Geoportal der Geschichte der Orthodoxen in Österreich erstellt, in das alle unsere
+                Forschungsdaten laufend einfließen werden.
+            </p>
+            <p class="text-center">
+                Details finden Sie unter <a href="{{ url_for('geoportal') }}" target="_blank">Geoportal</a>
+            </p>
+        </div>
+        <div class="col-sm-4">
+            <div class="image-container">
+                <figure class="figure">
+                    <img src="{{ url_for('static', filename='images/lager_oberhollabrunn.jpg') }}"
+                         class="figure-img img-fluid rounded"
+                         alt="Flüchtlingslager Oberhollabrun">
+                    <figcaption class="figure-caption">Das Eingangstor zum k.k. Flüchtlingslager
+                        Oberhollabrunn im Jahre
+                        1916 (Ecke Wienerstraße/Dr. Kutschergasse, 2020 Hollabrunn) <br/> <small>Wikipedia:
+                            https://regiowiki.at/wiki/Datei:Stockerau_Fl%C3%BCchtlingslager.jpg</small>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+
+        <div id="credits" class="col-sm-4">
+            <p>
+                Gefördert von:
+            </p>
+            {{ ['ZF']|display_institutes|safe }}
+        </div>
+        <div id="credits" class="col-sm-8">
+            <p>
+                In Zusammenarbeit mit:
+            </p>
+            {{ ['MT', 'AIT']|display_institutes|safe }}
+
+        </div>
+    </div>
+
+
+{% endblock %}

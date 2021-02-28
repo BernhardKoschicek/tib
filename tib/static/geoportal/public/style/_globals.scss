@@ -1,0 +1,15 @@
+@import 'common/colors';
+@import 'common/consts';
+@import 'common/fonts';
+@import 'common/mixins';
+@import 'common/modal';
+
+button {
+  display:block;
+  font-family:FontAwesome;
+  font-size:20px;
+  line-height:44px;
+  border:0;
+  outline:none;
+  cursor:pointer;
+}

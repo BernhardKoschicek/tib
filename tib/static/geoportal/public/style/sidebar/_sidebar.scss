@@ -1,0 +1,77 @@
+@import '../globals';
+@import 'searchbox';
+@import 'personlist';
+@import 'persondetails';
+
+.sidebar {
+  position:absolute;
+  top:0;
+  left:-$sidebar-width;
+  width:$sidebar-width;
+  height:100%;
+  padding:0;
+  z-index:9998;
+  @include box-shadow(0, 0, 18px, rgba(0, 0, 0, 0.35));
+
+  .tab {
+    z-index:9997;
+
+    button {
+      position:absolute;
+      top:20px;
+      right:-44px;
+      color:#fff;
+      width:44px;
+      height:44px;
+      text-align:left;
+      padding-left:8px;
+      background-color:$oeaw-blue;
+      margin-bottom:10px;
+      @include rounded-corners-right(100%);
+      @include box-shadow(0, 0, 18px, rgba(0, 0, 0, 0.35));
+    }
+
+    button:hover {
+      background-color:$oeaw-blue-hover;
+    }
+
+  }
+
+  .content {
+    display:flex;
+    flex-direction:column;
+    background-color:#fff;
+    width:100%;
+    height:100%;
+    z-index:9998;
+    padding:0;
+
+    * { z-index:9998; }
+
+  }
+
+  .body {
+    flex:1;
+    position:relative;
+  }
+
+}
+
+.sidebar.slide-enter {
+  transition: 300ms;
+  left:0;
+}
+
+.sidebar.slide-enter-done {
+  left:0;
+}
+
+.sidebar.slide-exit {
+  transition: 300ms;
+  left:-$sidebar-width;
+}
+
+.sidebar.slide-exit-done {
+  left:-$sidebar-width;
+  @include no-shadow();
+}

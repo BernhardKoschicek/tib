@@ -5,8 +5,8 @@ from flask import render_template
 from tib import app
 
 
-@app.route('/öffentlichkeitsarbeit')
-def öffentlichkeitsarbeit():
+@app.route('/outreach')
+def outreach():
     public = OrderedDict([
         ('Streifzug', {
             'id': 'Streifzug',
@@ -104,4 +104,4 @@ def öffentlichkeitsarbeit():
         })
     ])
 
-    return render_template('arbeit.html', public=public)
+    return render_template('outreach.html', public=public)

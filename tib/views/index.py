@@ -8,23 +8,23 @@ from tib import app
 @app.route('/')
 def home() -> str:
     front_menu = OrderedDict([
-        ('projekte', {
+        ('longterm', {
             'id': '1',
+            'image': 'oeffentlich.jpg',
+            'title': 'Long Term Project',
+            'subtitle': 'Langzeitprojekt Stand und Geschichte'
+        }),
+        ('subprojekte', {
+            'id': '2',
             'image': 'projekte.jpg',
-            'title': 'Projekte',
+            'title': 'Subprojekte',
             'subtitle': 'Übersicht über alle Projekte'
         }),
-        ('öffentlichkeitsarbeit', {
-            'id': '2',
-            'image': 'oeffentlich.jpg',
-            'title': 'Öffentlichkeitsarbeit',
-            'subtitle': 'Veranstaltungen, Vorträge, Veröffentlichungen und Pressemeldungen'
-        }),
-        ('geoportal', {
+        ('digital', {
             'id': '3',
             'image': 'Österreich-Europa-Karte.png',
-            'title': 'Geoportal',
-            'subtitle': 'Digitales Geoportal der Orthodoxen in Österreich'
+            'title': 'Digitale Tools',
+            'subtitle': 'Digitales Tools der TIB'
         }),
         ('team', {
             'id': '4',

@@ -6,7 +6,7 @@ app = Flask(__name__, instance_relative_config=True)
 # app.config.from_pyfile('production.py')  # type: ignore
 
 from tib.util import filters, util
-from tib.views import arbeit, download, geoportal, about, impressum, projekte, team, \
+from tib.views import outreach, download, digital, longterm, kontakt, subprojekte, team, \
     verein, index
 
 

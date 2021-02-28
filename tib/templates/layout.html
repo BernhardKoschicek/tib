@@ -16,7 +16,8 @@
 <nav class="navbar navbar-expand-lg navbar-light static-top mb-4">
     <div class="container">
         <a class="navbar-brand" href="{{ url_for('home') }}">
-            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" style="max-height: 100px">
+            <img src="{{ url_for('static', filename='images/institutes/oeaw-de-long.png') }}"
+                 alt="Logo" style="max-height: 100px">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse"
                 data-target="#navbarResponsive" aria-controls="navbarResponsive"
@@ -28,6 +29,14 @@
                 {{ request.path|display_menu|safe }}
             </div>
         </div>
+        <a class="navbar-brand" href="{{ url_for('home') }}">
+            <img src="{{ url_for('static', filename='images/institutes/digtib.png') }}"
+                 alt="Logo" style="max-height: 100px">
+        </a>
+        <a class="navbar-brand" href="{{ url_for('home') }}">
+            <img src="{{ url_for('static', filename='images/institutes/TIB-logo.png') }}"
+                 alt="Logo" style="max-height: 100px">
+        </a>
     </div>
 </nav>
 <div class="container">

@@ -47,10 +47,29 @@ def home() -> str:
         'uros_predic.jpg': 'Ölgemälde des ersten serbischen Erzbischofs des Hl. Sava von Uroš Predić (1857-1953) (Mihailo St. Popović)'
     }
 
-    return render_template('home.html', front_menu=front_menu, home_gallery=home_gallery)
+    news = OrderedDict([
+        ('1', {
+            'header': 'New publication',
+            'content': 'New publication by the TIB in the fields of Historical Geography and History'
+                       ' of Science entitled <a href="https://akademskaknjiga.com/en/katalog/raum-und-geschichte-der-historische-atlas-tabula-imperii-byzantini-an-der-osterreichischen-akademie-der-wissenschaften/" target="_blank">'
+                       '"Raum und Geschichte: der Historische Atlas \"Tabula Imperii Byzantini\" an'
+                       ' der Österreichischen Akademie der Wissenschaften"</a>'
+        }),
+        ('2', {
+            'header': 'Report on Relief Map',
+            'content': 'Report in the blog of the Austrian Newspaper "Der Standard" on our Sub-Project "Cultural Heritage in Times of World War I": <br/>'
+                       '<a href="https://www.derstandard.at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan" target="_blank">'
+                       'https://www.derstandard.at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan</a>'
+        }),
+        ('3', {
+            'header': 'TIB 13 Published',
+            'content': 'It is our great pleasure to announce the publication of the TIB volume 13 on "Bithynien und Hellespont" by our colleague Klaus Belke. For further details please cf.'
+                       ' <a href="https://verlag.oeaw.ac.at/Bithynien-und-Hellespont" target="_blank">'
+                       'https://verlag.oeaw.ac.at/Bithynien-und-Hellespont</a>'
+        })
+    ])
 
-
-
+    return render_template('home.html', front_menu=front_menu, news=news)
 
 
 @app.errorhandler(404)

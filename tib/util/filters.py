@@ -36,7 +36,7 @@ INSTITUTES = {
     'ABF': {
         'name': 'Abteilung Byzanzforschung (ABF)',
         'url': 'https://www.oeaw.ac.at/en/byzantine-research/',
-        'logo': 'oeaw.jpg',
+        'logo': 'byzantine_research.jpg',
         'member': 'Österreichische Akademie der Wissenschaften (ÖAW) <br> Institut für Mittelalterforschung (IMAFO)',
         'address': 'Hollandstraße 11-13<br> 1020 Wien<br> Österreich'},
     'ACDH': {
@@ -174,3 +174,5 @@ def display_sponsors(self: Any, institutes: Iterator) -> str:
                 '''.format(url=institute['url'], logo=institute['logo'], name=institute['name'],
                            member=institute['member'], address=institute['address'])
     return html + '</div>'
+
+

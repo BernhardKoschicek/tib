@@ -1,15 +1,6 @@
 {% extends "layout.html" %}
 {% block title %}Orthodoxes Europa{% endblock %}
 {% block content %}
-    <div class="row pt-5">
-        <div class="col-12 text-center">
-            <h4 class="display-4" style="text-align: center">Tabula Imperii Byzantini</h4>
-        </div>
-        <div class="astrodivider">
-            <div class="astrodividermask"></div>
-            <span><i>&#10009;</i></span>
-        </div>
-    </div>
     <div class="row pt-2">
         {% for name, item in front_menu.items() %}
             <div class="col-sm-3">
@@ -35,90 +26,69 @@
 
         <div class="col-sm-8">
             <p class="text-justify">
-                Die Initiative eines digitalen Geoportals der Geschichte der Orthodoxen in
-                Österreich fußt
-                auf der Erkenntnis, daß nach Durchsicht der bisherigen einschlägigen
-                Geschichtsforschung
-                augenscheinlich geworden ist, daß die orthodoxe Bevölkerung sowie deren politische
-                und
-                gesellschaftliche Rolle bzw. Stellung auf dem Staatsgebiet der jetzigen Zweiten
-                Republik
-                Österreich zwischen 1914 und 1945 dringend einer tiefschürfenden und
-                öffentlichkeitswirksamen Aufarbeitung bedürfen.
+                Research on the Historical Geography of the Byzantine Empire at the Austrian Academy
+                of
+                Sciences in Vienna is conducted by the Tabula Imperii Byzantini (TIB). This renowned
+                project was accepted by the Union Académique Internationale in Brussels in 2015
+                (Project
+                87), and at the same time included into the scheme of Long-Term-Projects at the
+                Austrian
+                Academy of Sciences, based on independent excellent international evaluations. The
+                TIB
+                carries out systematic research in the historical geography of the Byzantine Empire,
+                from the beginning of the 4th century to the mid-15th century. The aim of the
+                project is
+                to create a historical atlas of the Byzantine space from Late Antiquity to the Early
+                Modern period.
             </p>
             <p class="text-justify">
-                Einerseits stehen im Falle der orthodoxen Bevölkerung in Österreich einer Vielzahl
-                an
-                einschlägigen geschichtswissenschaftlichen Publikationen über die Orthodoxen im 18.
-                und 19.
-                Jahrhundert sehr wenige wissenschaftliche Arbeiten über die erste Hälfte des 20.
-                Jahrhunderts gegenüber. Andererseits kommt hinzu, daß des öfteren im
-                zeitgenössischen
-                öffentlichen Diskurs zu vernehmen ist, daß die orthodoxe Bevölkerung erst im Laufe
-                der
-                sogenannten „Gastarbeiterbewegung“ der 1960er und 1970er Jahre nach Österreich
-                gekommen sei.
-                Allerdings reicht deren Geschichte und Präsenz in Österreich weit in das 16.
-                Jahrhundert
-                zurück. Darauf basierend ist erklärbar, warum die bisherige Forschung entweder auf
-                die
-                Zeitspanne vom 16. bis zum 19. Jahrhundert oder aber erst auf jene nach 1945
-                fokussiert war
-                bzw. ist.
+                Individual regions are represented on maps on a scale of 1 : 800,000. A separate
+                accompanying volume provides the results of further research in each region. Each
+                volume
+                contains detailed introductory chapters on geography and climate, borders and
+                territorial designations, history, administrative history, church history and
+                monasticism, traffic routes, economy and demographic trends. The main part of each
+                volume consists of an alphabetical catalogue of all toponyms, hydronyms etc. that
+                were
+                known in Byzantine times. Also included are the historical places, whose historical
+                names are unknown, but for whose existence there is (or there was) archaeological
+                evidence. Written sources (from Late Antiquity to Early Modern Times) and
+                archaeological
+                materials elucidate the history of individual places, along with brief descriptions
+                of
+                monuments, both those that are known to have existed and those that are still
+                preserved.
+                The aforesaid results are enriched by systematic field research in order to verify,
+                modify or complete the information of the sources.
             </p>
             <p class="text-justify">
-                Um diese Lücke in der historischen Forschung zu schließen und um die erwähnte
-                Thematik
-                stärker in den aktuellen gesellschaftlichen Diskurs in Österreich zu rücken,
-                verfolgen wir
-                das Ziel, in Zukunft verschiedene wissenschaftliche Themen zu den Orthodoxen in
-                Österreich
-                vom 17. Jahrhundert bis 1945, im besonderen jedoch im Zeitraum von 1914 bis 1945, im
-                Wege
-                von unterschiedlichen Einzelprojekten zu erforschen und deren Resultate der
-                österreichischen
-                Gesellschaft online frei zugänglich zu machen. Aus diesem Grund haben wir das
-                digitale
-                Geoportal der Geschichte der Orthodoxen in Österreich erstellt, in das alle unsere
-                Forschungsdaten laufend einfließen werden.
+                Since 1986 new methods have been included into the scholarly work of the TIB,
+                namely:
+                studies of Palaeo-climate and settlement theories (for example the modified "Central
+                Place Theory"), as well as the regular use of the Global Positioning System (GPS)
+                during
+                field missions and surveys. Digital Humanities, e.g. in the form of Historical
+                Geographical Information Systems (HGIS), further contribute to the analysis and
+                interpretation of the research data.
             </p>
 
         </div>
 
         <div class="col-sm-4">
-            <div id="homeCarousel" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    {% for img, desc in home_gallery.items() %}
-                        {% if loop.first %}
-                            <div class="carousel-item active" data-interval="3000">
-                                <img src="{{ url_for('static', filename='images/projekte/' + img) }}"
-                                     class="d-block w-100" alt="...">
-                                <figcaption class="figure-caption">{{ desc| safe }}</figcaption>
-                            </div>
-                        {% else %}
-                            <div class="carousel-item" data-interval="3000">
-                                <img src="{{ url_for('static', filename='images/projekte/' + img) }}"
-                                     class="d-block w-100" alt="...">
-                                <figcaption class="figure-caption">{{ desc | safe }}</figcaption>
-                            </div>
-                        {% endif %}
-                    {% endfor %}
 
+            {% for name, item in news.items() %}
+                <div class="col-12">
+                    <h5>{{ item.header }}</h5>
+                    <p class="text-justify">{{ item.content|safe }}</p>
                 </div>
-                <a class="carousel-control-prev" href="#homeCarousel" role="button"
-                   data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#homeCarousel" role="button"
-                   data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+            {% endfor %}
+
+            <div>
+                <iframe src="https://t210d45f9.emailsys2a.net/180/1051/a33e665ee4/subscribe/form.html?_g=1614592150"
+                        width="100%" height="400px"></iframe>
             </div>
         </div>
     </div>
-
     <hr>
     <div class="row">
 
@@ -132,7 +102,7 @@
             <p>
                 In Zusammenarbeit mit:
             </p>
-            {{ ['MT', 'AIT']|display_institutes|safe }}
+            {{ ['ABF', 'OEAW']|display_institutes|safe }}
 
         </div>
     </div>

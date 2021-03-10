@@ -25,12 +25,6 @@ def home() -> str:
             'image': 'Österreich-Europa-Karte.png',
             'title': 'Digitale Tools',
             'subtitle': 'Digitales Tools der TIB'
-        }),
-        ('team', {
-            'id': '4',
-            'image': 'team.jpg',
-            'title': 'Team',
-            'subtitle': 'Vorstellung des Teams'
         })
     ])
 

@@ -1,8 +1,8 @@
 body {
 
-/*    background-image: url(../images/background.png);
-    background-repeat: no-repeat;
-    background-attachment: fixed;*/
+    /*    background-image: url(../images/background.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -21,12 +21,12 @@ body {
     color: white;
 }
 
-.list-footer{
+.list-footer {
     list-style-type: none;
     margin-bottom: 10px;
 }
 
-.list-footer li{
+.list-footer li {
     margin: 0 0 3px 0;
 }
 
@@ -44,6 +44,49 @@ body {
     margin-bottom: 1.5em;
 }
 
+
+/*header*/
+header {
+    position: relative;
+    height: 300px;
+    background-image: linear-gradient(#ff9d2f, #ff6126);
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 50% 20%;
+}
+
+h1 {
+    margin: 0;
+    padding: 100px 0;
+    font: 44px "Arial";
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgba(252, 245, 227, 0.2);
+}
+
+.jumbotron {
+    color: white;
+    background-image: url(../images/start.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: unset;
+}
+
+/* Image Text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 #team {
     /*background: #fff;*/
@@ -288,12 +331,12 @@ a:hover {
 }
 
 .wrapword {
-    white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
-/*    white-space: -webkit-pre-wrap;          !* Chrome & Safari *!
-    white-space: -pre-wrap;                 !* Opera 4-6 *!*/
-    white-space: -o-pre-wrap;               /* Opera 7 */
-    white-space: pre-wrap;                  /* CSS3 */
-    word-wrap: break-word;                  /* Internet Explorer 5.5+ */
+    white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+    /*    white-space: -webkit-pre-wrap;          !* Chrome & Safari *!
+        white-space: -pre-wrap;                 !* Opera 4-6 *!*/
+    white-space: -o-pre-wrap; /* Opera 7 */
+    white-space: pre-wrap; /* CSS3 */
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
     word-break: break-all;
     white-space: normal;
 }

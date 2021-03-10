@@ -1,109 +1,35 @@
 {% extends "layout.html" %}
 {% block title %}Orthodoxes Europa{% endblock %}
 {% block content %}
-    <div class="row pt-2">
-        {% for name, item in front_menu.items() %}
-            <div class="col-sm-3">
-                <div class="card">
-                    <a href="{{ url_for(name) }}" class="btn btn-info"
-                       style="height: auto; min-height: 330px;">
-                        <img class="card-img-top"
-                             src="{{ url_for('static', filename='images/'+item.image) }}"
-                             alt="Card image cap">
-                        <div class="card-body text-center">
-                            <h5 class="card-title">{{ item.title }}</h5>
-                            <p class="card-text">{{ item.subtitle }}</p>
-                        </div>
-                    </a>
+
+    <div class="jumbotron jumbotron-fluid">
+        <nav class="navbar navbar-expand-lg navbar-light ">
+            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarResponsive" aria-controls="navbarResponsive"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand centered" href="{{ url_for('home') }}">
+                <img src="{{ url_for('static', filename='images/logo/TIB-logo-small.png') }}"
+                     alt="Logo" style="max-height: 70px">
+            </a>
+            <div class="collapse navbar-collapse justify-content-end pt-5" id="navbarResponsive">
+                <div class="navbar-nav" role="menubar">
+                    {{ request.path|display_menu|safe }}
                 </div>
             </div>
-        {% endfor %}
-    </div>
 
+        </nav>
 
-    <div class="row pt-5">
-
-
-        <div class="col-sm-8">
-            <p class="text-justify">
-                Research on the Historical Geography of the Byzantine Empire at the Austrian Academy
-                of
-                Sciences in Vienna is conducted by the Tabula Imperii Byzantini (TIB). This renowned
-                project was accepted by the Union Académique Internationale in Brussels in 2015
-                (Project
-                87), and at the same time included into the scheme of Long-Term-Projects at the
-                Austrian
-                Academy of Sciences, based on independent excellent international evaluations. The
-                TIB
-                carries out systematic research in the historical geography of the Byzantine Empire,
-                from the beginning of the 4th century to the mid-15th century. The aim of the
-                project is
-                to create a historical atlas of the Byzantine space from Late Antiquity to the Early
-                Modern period.
-            </p>
-            <p class="text-justify">
-                Individual regions are represented on maps on a scale of 1 : 800,000. A separate
-                accompanying volume provides the results of further research in each region. Each
-                volume
-                contains detailed introductory chapters on geography and climate, borders and
-                territorial designations, history, administrative history, church history and
-                monasticism, traffic routes, economy and demographic trends. The main part of each
-                volume consists of an alphabetical catalogue of all toponyms, hydronyms etc. that
-                were
-                known in Byzantine times. Also included are the historical places, whose historical
-                names are unknown, but for whose existence there is (or there was) archaeological
-                evidence. Written sources (from Late Antiquity to Early Modern Times) and
-                archaeological
-                materials elucidate the history of individual places, along with brief descriptions
-                of
-                monuments, both those that are known to have existed and those that are still
-                preserved.
-                The aforesaid results are enriched by systematic field research in order to verify,
-                modify or complete the information of the sources.
-            </p>
-            <p class="text-justify">
-                Since 1986 new methods have been included into the scholarly work of the TIB,
-                namely:
-                studies of Palaeo-climate and settlement theories (for example the modified "Central
-                Place Theory"), as well as the regular use of the Global Positioning System (GPS)
-                during
-                field missions and surveys. Digital Humanities, e.g. in the form of Historical
-                Geographical Information Systems (HGIS), further contribute to the analysis and
-                interpretation of the research data.
-            </p>
-
-        </div>
-
-        <div class="col-sm-4">
-
-            {% for name, item in news.items() %}
-                <div class="col-12">
-                    <h5>{{ item.header }}</h5>
-                    <p class="text-justify">{{ item.content|safe }}</p>
-                </div>
-            {% endfor %}
-
-            <div>
-                <iframe src="https://t210d45f9.emailsys2a.net/180/1051/a33e665ee4/subscribe/form.html?_g=1614592150"
-                        width="100%" height="400px"></iframe>
+        <div class="container-fluid">
+            <div class="row vh-100 justify-content-center ml-5 mr-5 ">
+                {% for name, item in front_menu.items() %}
+                    <div class="col-lg-3 bg-dark shadow-lg align-self-center text-center m-3">
+                    <img src="{{ url_for('static', filename='images/' + item.image) }}">
+                        <h3>{{ item.title }}</h3>
+                    </div>
+                {% endfor %}
             </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-
-        <div id="credits" class="col-sm-4">
-            <p>
-                Gefördert von:
-            </p>
-            {{ ['ZF']|display_institutes|safe }}
-        </div>
-        <div id="credits" class="col-sm-8">
-            <p>
-                In Zusammenarbeit mit:
-            </p>
-            {{ ['ABF', 'OEAW']|display_institutes|safe }}
-
         </div>
     </div>
 

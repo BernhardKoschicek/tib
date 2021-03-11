@@ -70,10 +70,10 @@ project_gallery = {
 }
 
 
-@app.route('/subprojekte', methods=['GET'])
-@app.route('/subprojekte/<projekt>', methods=['GET'])
-def subprojekte(projekt=None):
+@app.route('/subprojects', methods=['GET'])
+@app.route('/subprojects/<projekt>', methods=['GET'])
+def subprojects(projekt=None):
     if projekt:
         return render_template('projekt_details.html', projekt=projects_[projekt], gallerie=project_gallery)
     else:
-        return render_template('subprojekte.html', projects=projects_)
+        return render_template('subprojects.html', projects=projects_)

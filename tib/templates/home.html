@@ -1,35 +1,39 @@
 {% extends "layout.html" %}
 {% block title %}Orthodoxes Europa{% endblock %}
 {% block content %}
-
-    <div class="jumbotron jumbotron-fluid">
-        <nav class="navbar navbar-expand-lg navbar-light ">
-            <button class="navbar-toggler" type="button" data-toggle="collapse"
-                    data-target="#navbarResponsive" aria-controls="navbarResponsive"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand centered" href="{{ url_for('home') }}">
-                <img src="{{ url_for('static', filename='images/logo/TIB-logo-small.png') }}"
-                     alt="Logo" style="max-height: 70px">
-            </a>
-            <div class="collapse navbar-collapse justify-content-end pt-5" id="navbarResponsive">
-                <div class="navbar-nav" role="menubar">
-                    {{ request.path|display_menu|safe }}
-                </div>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light ">
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand " href="{{ url_for('home') }}">
+            <img src="{{ url_for('static', filename='images/logo/TIB-logo-small.png') }}"
+                 alt="Logo" style="max-height: 100px">
+        </a>
+        <div class="collapse navbar-collapse justify-content-end pt-5" id="navbarResponsive">
+            <div class="navbar-nav" role="menubar">
+                {{ request.path|display_menu|safe }}
             </div>
+        </div>
 
-        </nav>
+    </nav>
+    <div class="jumbotron jumbotron-fluid">
+
 
         <div class="container-fluid">
             <div class="row vh-100 justify-content-center ml-5 mr-5 ">
                 {% for name, item in front_menu.items() %}
-                    <div class="col-lg-3 bg-dark shadow-lg align-self-center text-center m-3">
-                    <img src="{{ url_for('static', filename='images/' + item.image) }}">
-                        <h3>{{ item.title }}</h3>
+                    <div class="col-lg-3 align-self-center text-center m-3 fade-in-images">
+                        <img class="jumbotron-images"
+                             src="{{ url_for('static', filename='images/' + item.image) }}">
+                        <div class="centered">
+                            <h2 class="">{{ item.title }}</h2>
+                        </div>
                     </div>
                 {% endfor %}
             </div>
+            <span class="text-center triangle-down"></span>
         </div>
     </div>
 

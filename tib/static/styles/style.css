@@ -1,3 +1,4 @@
+
 body {
 
     /*    background-image: url(../images/background.png);
@@ -66,9 +67,20 @@ header h1 {
 }
 
 /* Navbar */
+
 .navbar {
-    background-color: rgba(252, 245, 227, 0.2);
+    /*background-color: rgba(252, 245, 227, 0.2);*/
+    font-size: 1.3em;
 }
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important; /* 50% of your logo width */
+    display: block;
+}
+
+/* Home Screen */
 
 .jumbotron {
     color: white;
@@ -80,6 +92,11 @@ header h1 {
     padding: unset;
 }
 
+.jumbotron-images {
+    border-radius: 20%;
+}
+
+
 /* Image Text */
 .centered {
     position: absolute;
@@ -88,11 +105,70 @@ header h1 {
     transform: translate(-50%, -50%);
 }
 
-#team {
-    /*background: #fff;*/
-    padding: 60px 0;
-    /*box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1)*/
+
+.triangle-down {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid red;
 }
+
+/* Fade effect*/
+
+.fade-in-images {
+    animation: fadeIn ease 3s;
+    -webkit-animation: fadeIn ease 3s;
+    -moz-animation: fadeIn ease 3s;
+    -o-animation: fadeIn ease 3s;
+    -ms-animation: fadeIn ease 3s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 
 .section-header h3 {
     font-size: 36px;
@@ -110,6 +186,7 @@ header h1 {
     color: #556877;
     width: 50%
 }
+
 
 .fadeInUp {
     animation-name: fadeInUp

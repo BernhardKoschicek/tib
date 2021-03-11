@@ -4,7 +4,7 @@ import flask
 import jinja2
 from flask import url_for
 
-from tib.views import subprojekte
+from tib.views import subprojects
 
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
@@ -107,34 +107,32 @@ INSTITUTES = {
         'address': ''}}
 
 
-
-
 @jinja2.contextfilter
 @blueprint.app_template_filter()
 def display_menu(self: Any, route: str) -> str:
-    """ Returns HTML with the menu and mark appropriate item as selected."""
     html = ''
-    items = ['longterm', 'subprojekte', 'team', 'kontakt']
+    items = ['longterm', 'subprojects', 'digital_tools', 'team', 'kontakt']
     for item in items:
         active = ''
         if route.startswith('/' + item):
             active = 'active'
-        if item == 'subprojekte':
+        if item == 'subprojects':
             html += """<div class="nav-item dropdown">
                     <a class=" nav-link dropdown-toggle {active}" href="{url}" 
                     id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{label}</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class ="dropdown-item" href="{url}">Übersicht</a>
+                    <a class ="dropdown-item" href="{url}">Overview</a>
                     <div class="dropdown-divider"></div>""".format(
-                    active=active, url=url_for(item), label=item.title())
-            for projekt in subprojekte.projects_:
+                active=active, url=url_for(item), label=item.title())
+            for project in subprojects.projects_:
                 html += '<a class ="dropdown-item" href="{url}">{label}</a>'.format(
-                    url=url_for(item, projekt=projekt, _method='GET'), label=projekt.replace('-', ' '))
+                    url=url_for(item, projekt=project, _method='GET'),
+                    label=project.replace('-', ' '))
 
             html += '  </div></div>'
         else:
             html += '<a class="nav-item nav-link {active}" href="{url}">{label}</a>'.format(
-            active=active, url=url_for(item), label=item.title())
+                active=active, url=url_for(item), label=item.title().replace('_', ' '))
     return html
 
 
@@ -174,5 +172,3 @@ def display_sponsors(self: Any, institutes: Iterator) -> str:
                 '''.format(url=institute['url'], logo=institute['logo'], name=institute['name'],
                            member=institute['member'], address=institute['address'])
     return html + '</div>'
-
-

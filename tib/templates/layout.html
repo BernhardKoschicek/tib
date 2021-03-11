@@ -8,13 +8,42 @@
           crossorigin="anonymous">
     <link rel="stylesheet" type="text/css"
           href="{{ url_for('static', filename='styles/style.css') }}">
-    <script type="text/javascript"
-            src="{{ url_for('static', filename='javascript/jumbotron.js') }}"></script>
+    <link rel="stylesheet" type="text/css"
+          href="{{ url_for('static', filename='styles/burger.css') }}">
     <meta charset="UTF-8">
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
-
+<nav role="navigation" class="sticky-top" >
+    <a class="navbar-brand" href="{{ url_for('home') }}">
+        <img src="{{ url_for('static', filename='images/logo/TIB-logo.png') }}"
+             alt="Logo" style="max-height: 100px">
+    </a>
+    <div id="menuToggle" >
+        <!--
+        A fake / hidden checkbox is used as click reciever,
+        so you can use the :checked selector on it.
+        -->
+        <input type="checkbox"/>
+        <!--
+        Some spans to act as a hamburger.
+        They are acting like a real hamburger,
+        not that McDonalds stuff.
+        -->
+        <span></span>
+        <span></span>
+        <span></span>
+        <!--
+        Too bad the menu has to be inside of the button
+        but hey, it's pure CSS magic.
+        -->
+    <div class="vh-100 justify-content-center" id="menu">
+        <div class="navbar-nav">
+            {{ request.path|display_menu|safe }}
+        </div>
+    </div>
+    </div>
+</nav>
 {#<nav class="navbar navbar-expand-lg navbar-light ">
     <button class="navbar-toggler" type="button" data-toggle="collapse"
             data-target="#navbarResponsive" aria-controls="navbarResponsive"
@@ -37,29 +66,6 @@
     {% block content %}{% endblock %}
 </main>
 
-<div id="footer">
-    {% block footer %}
-        <div class="container">
-            <div class="row site-footer">
-                <div class="col-sm-3">
-                    <ul class="list-footer">
-                        <li class="font-weight-bold">Austrian Academy of Sciences</li>
-                        <li>Institute for Medieval Research</li>
-                        <li>Division of Byzantine Research</li>
-                        <li>Hollandstraße 11-13</li>
-                        <li>1020 Vienna, Austria, Europe</li>
-                        <li>+43(1)51581 - 3444</li>
-                        <li><a href="mailto:tib@oeaw.ac.at">tib@oeaw.ac.at</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-6"></div>
-
-
-            </div>
-        </div>
-    {% endblock %}
-</div>
-
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -70,6 +76,9 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
         crossorigin="anonymous"></script>
+
+<script type="text/javascript"
+        src="{{ url_for('static', filename='javascript/jumbotron.js') }}"></script>
 </body>
 
 </html>

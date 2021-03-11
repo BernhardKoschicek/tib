@@ -14,36 +14,53 @@
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
-<nav role="navigation" class="sticky-top" >
+
+<nav role="navigation" class="sticky-top">
     <a class="navbar-brand" href="{{ url_for('home') }}">
         <img src="{{ url_for('static', filename='images/logo/TIB-logo.png') }}"
              alt="Logo" style="max-height: 100px">
     </a>
-    <div id="menuToggle" >
-        <!--
-        A fake / hidden checkbox is used as click reciever,
-        so you can use the :checked selector on it.
-        -->
+    <div id="menuToggle">
         <input type="checkbox"/>
-        <!--
-        Some spans to act as a hamburger.
-        They are acting like a real hamburger,
-        not that McDonalds stuff.
-        -->
         <span></span>
         <span></span>
         <span></span>
-        <!--
-        Too bad the menu has to be inside of the button
-        but hey, it's pure CSS magic.
-        -->
-    <div class="vh-100 justify-content-center" id="menu">
-        <div class="navbar-nav">
-            {{ request.path|display_menu|safe }}
+        <div class="vh-100 min-vw-100 justify-content-center" id="menu">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Tabula Imperii Byzantini</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path|display_menu|safe }}
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Subprojekte</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path|display_menu|safe }}
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Digitale Werkzeuge</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path|display_menu|safe }}
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Sonstiges</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path|display_menu|safe }}
+                    </ul>
+                </div>
+            </div>
+
         </div>
     </div>
-    </div>
 </nav>
+
 {#<nav class="navbar navbar-expand-lg navbar-light ">
     <button class="navbar-toggler" type="button" data-toggle="collapse"
             data-target="#navbarResponsive" aria-controls="navbarResponsive"

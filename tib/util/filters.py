@@ -116,23 +116,9 @@ def display_menu(self: Any, route: str) -> str:
         active = ''
         if route.startswith('/' + item):
             active = 'active'
-        if item == 'subprojects':
-            html += """<div class="nav-item dropdown">
-                    <a class=" nav-link dropdown-toggle {active}" href="{url}" 
-                    id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{label}</a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class ="dropdown-item" href="{url}">Overview</a>
-                    <div class="dropdown-divider"></div>""".format(
-                active=active, url=url_for(item), label=item.title())
-            for project in subprojects.projects_:
-                html += '<a class ="dropdown-item" href="{url}">{label}</a>'.format(
-                    url=url_for(item, projekt=project, _method='GET'),
-                    label=project.replace('-', ' '))
-
-            html += '  </div></div>'
-        else:
-            html += '<a class="nav-item nav-link {active}" href="{url}">{label}</a>'.format(
-                active=active, url=url_for(item), label=item.title().replace('_', ' '))
+        html += '<li class="nav-item {active}">' \
+                '<a class="nav-link" href="{url}">{label}</a>' \
+                '</li>'.format(active=active, url=url_for(item), label=item.title().replace('_', ' '))
     return html
 
 

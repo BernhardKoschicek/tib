@@ -124,6 +124,18 @@ def display_menu(self: Any, route: str) -> str:
 
 @jinja2.contextfilter
 @blueprint.app_template_filter()
+def include_css(self: Any, route: str) -> str:
+    html = ''
+    items = ['style', 'burger', 'navbar']
+    for style in items:
+        html += """<link rel="stylesheet" type="text/css"
+        href="/static/styles/{style}.css">
+        """.format(style=style)
+    return html
+
+
+@jinja2.contextfilter
+@blueprint.app_template_filter()
 def display_institutes(self: Any, institutes: Iterator) -> str:
     html = ''
     for short_name in institutes:

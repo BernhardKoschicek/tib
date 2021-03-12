@@ -1,0 +1,19 @@
+/* Footer */
+#footer {
+    background: #762d80;
+    padding-top: 20px;
+}
+
+.site-footer {
+    font-size: 0.8em;
+    color: white;
+}
+
+.list-footer {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.list-footer li {
+    margin: 0 0 3px 0;
+}

@@ -1,0 +1,35 @@
+/* Navbar */
+.brand-image {
+    height: 50px;
+    transition: height 200ms linear;
+}
+
+@media (min-width: 992px) {
+    .brand {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .brand-image {
+        height: 100px;
+        transition: height 200ms linear;
+    }
+
+    .brand-image.scrolled {
+        height: 50px;
+        transition: height 200ms linear;
+    }
+}
+
+.navigation {
+    background-color: unset;
+}
+
+.navigation.scrolled {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    height: 80px;
+    transition: background-color 200ms linear;
+}
+
+
+

@@ -2,24 +2,23 @@
 <html lang="en">
 <head>
     <!-- CSS only -->
-    <link rel="stylesheet"
-          href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
           crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css"
-          href="{{ url_for('static', filename='styles/style.css') }}">
-    <link rel="stylesheet" type="text/css"
-          href="{{ url_for('static', filename='styles/burger.css') }}">
+    {{ request.path|include_css|safe }}
     <meta charset="UTF-8">
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
 
-<nav role="navigation" class="sticky-top">
-    <a class="navbar-brand" href="{{ url_for('home') }}">
-        <img src="{{ url_for('static', filename='images/logo/TIB-logo.png') }}"
-             alt="Logo" style="max-height: 100px">
-    </a>
+<nav role="navigation" class="navigation fixed-top">
+        <div class="text-center float-end m-3 col-2 brand">
+            <a href="{{ url_for('home') }}">
+                <img class="brand-image" src="{{ url_for('static', filename='images/logo/brand-small.png') }}"
+                     alt="Logo">
+            </a>
+        </div>
     <div id="menuToggle">
         <input type="checkbox"/>
         <span></span>
@@ -56,29 +55,9 @@
                     </ul>
                 </div>
             </div>
-
         </div>
     </div>
 </nav>
-
-{#<nav class="navbar navbar-expand-lg navbar-light ">
-    <button class="navbar-toggler" type="button" data-toggle="collapse"
-            data-target="#navbarResponsive" aria-controls="navbarResponsive"
-            aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarResponsive">
-        <div class="navbar-nav" role="menubar">
-            {{ request.path|display_menu|safe }}
-        </div>
-    </div>
-    <a class="navbar-brand" href="{{ url_for('home') }}">
-        <img src="{{ url_for('static', filename='images/logo/TIB-logo-small.png') }}"
-             alt="Logo" style="max-height: 70px">
-    </a>
-
-</nav>#}
-
 <main role="main">
     {% block content %}{% endblock %}
 </main>
@@ -93,9 +72,10 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
         crossorigin="anonymous"></script>
-
 <script type="text/javascript"
         src="{{ url_for('static', filename='javascript/jumbotron.js') }}"></script>
+<script type="text/javascript"
+        src="{{ url_for('static', filename='javascript/test.js') }}"></script>
 </body>
 
 </html>

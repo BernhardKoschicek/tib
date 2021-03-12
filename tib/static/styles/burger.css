@@ -1,15 +1,10 @@
-nav {
-    margin-top: -30px;
-}
-
 #menuToggle {
     display: block;
     position: absolute;
-    top: 50px;
+    top: 30px;
     left: 50px;
-
     z-index: 1;
-
+    transition: top 200ms linear;
     -webkit-user-select: none;
     user-select: none;
 }

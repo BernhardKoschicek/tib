@@ -23,6 +23,7 @@
 
 .navigation {
     background-color: unset;
+    transition: background-color 200ms linear;
 }
 
 .navigation.scrolled {

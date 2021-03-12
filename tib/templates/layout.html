@@ -6,13 +6,15 @@
           rel="stylesheet"
           integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
           crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
     {{ request.path|include_css|safe }}
     <meta charset="UTF-8">
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
 
-<nav role="navigation" class="navigation fixed-top">
+<nav role="navigation" class="navigation fixed-top ">
         <div class="text-center float-end m-3 col-2 brand">
             <a href="{{ url_for('home') }}">
                 <img class="brand-image" src="{{ url_for('static', filename='images/logo/brand-small.png') }}"
@@ -72,8 +74,11 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
         crossorigin="anonymous"></script>
+<script type="module" src="https://cdn.skypack.dev/jquery@~3.5.1"></script>
 <script type="text/javascript"
         src="{{ url_for('static', filename='javascript/jumbotron.js') }}"></script>
+<script type="text/javascript"
+        src="{{ url_for('static', filename='javascript/navbar.js') }}"></script>
 <script type="text/javascript"
         src="{{ url_for('static', filename='javascript/test.js') }}"></script>
 </body>

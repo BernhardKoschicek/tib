@@ -123,3 +123,7 @@ p {
     text-align: center;
     background: #000
 }
+
+.image-description {
+    font-size: 0.7em;
+}

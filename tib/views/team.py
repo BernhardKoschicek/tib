@@ -13,4 +13,4 @@ def team() -> str:
         team.append(Entity.get_entity(i['features'][0]))
     for t in team:
         print(t)
-    return render_template('team.html', )
+    return render_template('team.html', team=team)

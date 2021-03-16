@@ -1,8 +1,23 @@
 {% extends "layout.html" %}
 {% block title %}Team{% endblock %}
 {% block content %}
-    <div class="col-md-12">
-        <h3 class="text-center">Team</h3>
-    </div>
+    <div class="container-fluid">
+        <div class="col-md-12">
+            <h3 class="text-center">Team</h3>
+        </div>
 
+        {% for member in team %}
+            <div class="row">
+                <div class="col-8">
+                    <img src="{{ member.profile_image[0] }}" style="max-height: 200px;">
+                    <p>Name: {{ member.name | safe }}</p>
+                    <p>Titel: {{ member.titles[0] | safe }}</p>
+                    <p>Beschreibung: {{ member.description | safe }}</p>
+                    <p>Tätigkeit bei der TIB: {{ member.current_employment[0] | safe }}</p>
+                    <p>Projekte: {{ member.projects[0] | safe }}</p>
+                </div>
+                <hr>
+            </div>
+        {% endfor %}
+    </div>
 {% endblock %}

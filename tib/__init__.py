@@ -8,7 +8,7 @@ app = Flask(__name__, instance_relative_config=True)
 from tib.util import filters, util
 from tib.views import outreach, download, digital_tools, longterm, kontakt, subprojects, team, \
     verein, index
-
+from tib.models import entity
 
 @app.before_request
 def before_request():

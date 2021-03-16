@@ -7,7 +7,10 @@ from tib.models.entity import Entity
 
 @app.route('/team')
 def team() -> str:
-    data = Entity.get_entity(
-        requests.get('http://meta.sarfstation.de/api/0.2/system_class/person').json()['result'])
-
+    data = requests.get('http://meta.sarfstation.de/api/0.2/system_class/person').json()['result']
+    team = []
+    for i in data:
+        team.append(Entity.get_entity(i['features'][0]))
+    for t in team:
+        print(t)
     return render_template('team.html', )

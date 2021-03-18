@@ -1,0 +1,16 @@
+#plx {
+    background: url(../images/parallax_home.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+#plx-church {
+    background: url(../images/kirche.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}

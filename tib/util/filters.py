@@ -4,8 +4,6 @@ import flask
 import jinja2
 from flask import url_for
 
-from tib.views import subprojects
-
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
 INSTITUTES = {
@@ -109,16 +107,20 @@ INSTITUTES = {
 
 @jinja2.contextfilter
 @blueprint.app_template_filter()
-def display_menu(self: Any, route: str) -> str:
+def display_menu(self: Any, route: str, category: str) -> str:
+    menu = {
+        'tib': ['longterm', 'team', 'tib', 'publications', 'youth'],
+        'sub': ['subprojects'],
+        'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''
-    items = ['longterm', 'subprojects', 'digital_tools', 'team', 'kontakt']
-    for item in items:
+    for item in menu[category]:
         active = ''
         if route.startswith('/' + item):
             active = 'active'
         html += '<li class="nav-item {active}">' \
                 '<a class="nav-link" href="{url}">{label}</a>' \
-                '</li>'.format(active=active, url=url_for(item), label=item.title().replace('_', ' '))
+                '</li>'.format(active=active, url=url_for(item),
+                               label=item.title().replace('_', ' '))
     return html
 
 

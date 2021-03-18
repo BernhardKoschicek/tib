@@ -1,25 +1,21 @@
-class Entity:
+from tib.models.util import Util
+
+
+class Team:
 
     @staticmethod
     def get_entity(data):
 
         entity = {
             'name': data['properties']['title'],
-            'description': Entity.get_description(data['description']),
-            'titles': Entity.get_type_label_by_hierarchy(data['types'], 'Title'),
-            'profile_image': Entity.get_profile_depiction(data['depictions']),
-            'current_employment': Entity.get_type_label_by_hierarchy(data['types'],
+            # 'description': Util.get_description(data['description']),
+            'titles': Team.get_type_label_by_hierarchy(data['types'], 'Title'),
+            'profile_image': Team.get_profile_depiction(data['depictions']),
+            'current_employment': Team.get_type_label_by_hierarchy(data['types'],
                                                                      'Current Employment'),
-            'projects': Entity.get_type_label_by_hierarchy(data['types'], 'Project')
+            'projects': Team.get_type_label_by_hierarchy(data['types'], 'Project')
         }
         return entity
-
-    @staticmethod
-    def get_description(data):
-        if not data:
-            return None
-        desc = [i['value'] for i in data]
-        return desc[0]
 
     @staticmethod
     def get_type_label_by_hierarchy(data, hierarchy):

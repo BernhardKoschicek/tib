@@ -1,22 +1,27 @@
 {% extends "layout.html" %}
 {% block title %}Team{% endblock %}
 {% block content %}
-    <div class="container-fluid">
+    <div class="container-fluid ">
         <div class="col-md-12">
             <h3 class="text-center">Team</h3>
         </div>
+        <h1 class="pt-5"><button>sort</button></h1>
+        {% for m in team %}
+            <div class="row" data-order="{{ m | safe }}">
+            <h2>{{ m | safe }}</h2>
+            {% for member in team[m] %}
 
-        {% for member in team %}
-            <div class="row">
-                <div class="col-8">
-                    <img src="{{ member.profile_image[0] }}" style="max-height: 200px;">
-                    <p>Name: {{ member.name | safe }}</p>
-                    <p>Titel: {{ member.titles | safe }}</p>
-                    <p>Beschreibung: {{ member.description | safe }}</p>
-                    <p>Tätigkeit bei der TIB: {{ member.current_employment | safe }}</p>
-                    <p>Projekte: {{ member.projects | safe }}</p>
-                </div>
-                <hr>
+                    <div class="col-8">
+                        <img src="{{ member.profile_image[0] }}" style="max-height: 200px;">
+                        <p>Name: {{ member.name | safe }}</p>
+                        <p>Titel: {{ member.titles | safe }}</p>
+                        <p>Beschreibung: {{ member.description | safe }}</p>
+                        <p>Tätigkeit bei der TIB: {{ member.current_employment | safe }}</p>
+                        <p>Projekte: {{ member.projects | safe }}</p>
+                    </div>
+                    <hr>
+
+            {% endfor %}
             </div>
         {% endfor %}
     </div>

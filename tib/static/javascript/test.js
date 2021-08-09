@@ -1,15 +1,3 @@
-const items = Array.from(document.querySelectorAll("div"));
-const btn = document.querySelector("button");
-const orderBy = ["PI", "Scientific Employee", "Student Employee", "Director", "Former Employee", "Volunteer", "Freelancer"];
-
-btn.addEventListener("click", () => {
-  orderBy
-    .map((x) => items.find((item) => item.getAttribute("data-order") === x))
-    // .forEach((item, i) => (item.style.order = i));
-    .forEach((item) => item.parentElement.appendChild(item));
-});
-
-
 
 
 

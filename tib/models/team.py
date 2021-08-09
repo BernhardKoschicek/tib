@@ -8,12 +8,13 @@ class Team:
 
         entity = {
             'name': data['properties']['title'],
-            # 'description': Util.get_description(data['description']),
+            #'description': Util.get_description(data['description']),
             'titles': Team.get_type_label_by_hierarchy(data['types'], 'Title'),
             'profile_image': Team.get_profile_depiction(data['depictions']),
             'current_employment': Team.get_type_label_by_hierarchy(data['types'],
                                                                      'Current Employment'),
-            'projects': Team.get_type_label_by_hierarchy(data['types'], 'Project')
+            'projects': Team.get_type_label_by_hierarchy(data['types'], 'Project'),
+            'category': Team.get_type_label_by_hierarchy(data['types'], 'Actor Category')
         }
         return entity
 

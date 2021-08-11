@@ -1,32 +1,29 @@
-from tib.models.util import Util
+from collections import defaultdict
+
+from tib.models.entity import get_basic_data, get_type_label_by_hierarchy
+from tib.util.api_calls import system_class_results
 
 
-class Team:
+def get_team():
+    entity = []
+    for i in system_class_results('person'):
+        entity.append(get_team_member(i['features'][0]))
+    team = defaultdict(list)
+    for e in entity:
+        team[e['category'][0]].append(e)
+    return team
 
-    @staticmethod
-    def get_entity(data):
 
-        entity = {
-            'name': data['properties']['title'],
-            #'description': Util.get_description(data['description']),
-            'titles': Team.get_type_label_by_hierarchy(data['types'], 'Title'),
-            'profile_image': Team.get_profile_depiction(data['depictions']),
-            'current_employment': Team.get_type_label_by_hierarchy(data['types'],
-                                                                     'Current Employment'),
-            'projects': Team.get_type_label_by_hierarchy(data['types'], 'Project'),
-            'category': Team.get_type_label_by_hierarchy(data['types'], 'Actor Category')
-        }
-        return entity
+def get_team_member(data):
+    entity = get_basic_data(data)
+    entity['titles'] = get_type_label_by_hierarchy(data['types'], 'Title')
+    entity['current_employment'] = get_type_label_by_hierarchy(
+        data['types'],
+        'Current Employment')
+    entity['projects'] = get_type_label_by_hierarchy(data['types'], 'Project')
+    entity['category'] = get_type_label_by_hierarchy(
+        data['types'],
+        'Actor Category')
+    return entity
 
-    @staticmethod
-    def get_type_label_by_hierarchy(data, hierarchy):
-        if not data:
-            return None
-        return [titles['label'] for titles in data if titles['hierarchy'] == hierarchy]
-        # Problem: what is, if Title is changed? I have no ID to get by
 
-    @staticmethod
-    def get_profile_depiction(data):
-        if not data:
-            return None
-        return [img['url'] for img in data if img['title'].startswith('profile_')]

@@ -9,3 +9,8 @@ SECRET_KEY = 'CHANGE ME'
 SESSION_COOKIE_SECURE = False  # Should be set to True in instance.py if using HTTPS only
 REMEMBER_COOKIE_SECURE = True
 SESSION_COOKIE_SAMESITE = 'Lax'
+
+API_PATH = 'http://meta.sarfstation.de/api/0.2/'
+
+
+PROJECTS_ID = 159

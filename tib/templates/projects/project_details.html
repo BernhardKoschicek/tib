@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block title %}{{ projects['name'] }}{% endblock %}
+{% block content %}
+
+    <div class="container top7">
+        <h1 class="display-4 text-center">{{ projects['name'] }}</h1>
+        <div class="row pt-5">
+            <div class="col-8">
+                <p>{{ projects['description'] }}</p>
+            </div>
+           {# <div class="col-4 bg-light">
+                <div>
+                    <h5>Team:</h5>
+                    {% for member in projects['team'] %}
+                        {{ member['name'] }}
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <p>Funded by:</p>
+                    {% for sponsor in sponsors %}
+                        <a href="{{ sponsor['website'] }}">
+                            {{ sponsor['alias'][0]['alias'] }}
+                            <img src="{{ sponsor['profile_image'] }}"
+                                 alt="{{ sponsor['name'] }}">
+                        </a>
+                    {% endfor %}
+                </div>
+            </div>#}
+        </div>
+    </div>
+
+{% endblock %}
+
+
+
+

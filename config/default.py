@@ -14,3 +14,4 @@ API_PATH = 'http://meta.sarfstation.de/api/0.2/'
 
 
 PROJECTS_ID = 159
+FINANCIER_ID = 332

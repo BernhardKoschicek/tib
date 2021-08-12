@@ -4,17 +4,21 @@ from tib.models.entity import get_basic_data, get_type_label_by_hierarchy
 from tib.util.api_calls import system_class_results
 
 
-def get_team():
-    entity = []
-    for i in system_class_results('person'):
-        entity.append(get_team_member(i['features'][0]))
+def get_team_categorized():
     team = defaultdict(list)
-    for e in entity:
+    for e in get_team_members():
+        if not e['category']:
+            continue
         team[e['category'][0]].append(e)
     return team
 
 
-def get_team_member(data):
+def get_team_members():
+    return [get_member(i['features'][0]) for i in
+            system_class_results('person')]
+
+
+def get_member(data):
     entity = get_basic_data(data)
     entity['titles'] = get_type_label_by_hierarchy(data['types'], 'Title')
     entity['current_employment'] = get_type_label_by_hierarchy(
@@ -25,5 +29,3 @@ def get_team_member(data):
         data['types'],
         'Actor Category')
     return entity
-
-

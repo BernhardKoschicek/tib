@@ -3,6 +3,7 @@ def get_basic_data(data):
         'name': data['properties']['title'],
         'description': get_description(data['description']),
         'profile_image': get_profile_depiction(data['depictions']),
+        'alias': data['names'],
         'begin': get_date(data['when']['timespans'], 'start'),
         'end': get_date(data['when']['timespans'], 'end')
     }
@@ -19,7 +20,7 @@ def get_description(data):
 def get_profile_depiction(data):
     if not data:
         return None
-    return [img['url'] for img in data if img['title'].startswith('profile_')]
+    return [img['url'] for img in data if img['title'].startswith('profile_')][0]
 
 
 def get_date(data, time):
@@ -29,17 +30,31 @@ def get_date(data, time):
     return timestamp[0]
 
 
-def get_relation_by_type(data, type):
+def get_relation_label_by_type(data, type_):
     if not data:
         return None
     return [titles['label'] for titles in data if
-            titles['type'] == type]
+            titles['type'] == type_]
+
+
+def get_relation_to_by_type(data, type_):
+    if not data:
+        return None
+    return [titles['relationTo'] for titles in data if
+            titles['type'] == type_]
 
 
 def get_relation_by_system_class(data, system_class):
     if not data:
         return None
     return [titles['label'] for titles in data if
+            titles['relationSystemClass'] == system_class]
+
+
+def get_relation_to_by_system_class(data, system_class):
+    if not data:
+        return None
+    return [titles['relationTo'] for titles in data if
             titles['relationSystemClass'] == system_class]
 
 

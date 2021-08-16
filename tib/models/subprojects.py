@@ -1,20 +1,32 @@
-from tib.models.entity import get_basic_data, get_relation_label_by_type, \
-    get_relation_to_by_type, \
-    get_type_label_by_hierarchy
-from tib.util.api_calls import typed_entities_all_results
+from typing import Any, Dict
+
+from tib.models.entity import Entity
+from tib.models.relation import Relation
+from tib.models.team import Team
+from tib.util.api_calls import api_call, typed_entities_all_results
 
 
-def get_subprojects(id_: int):
-    return [get_project_details(project['features'][0]) for project in typed_entities_all_results(id_)]
+class Relations(object):
+    pass
 
 
-def get_project_details(data):
-    entity = get_basic_data(data)
-    entity['sponsors'] = get_relation_label_by_type(data['relations'], 'Sponsor')
-    entity['project'] = get_type_label_by_hierarchy(data['types'], 'Project')
-    return entity
+class Subprojects(Entity):
+    def __init__(self, data: Dict[str, Any]):
+        super().__init__(data)
+        self.sponsors = self.get_relation_label_by_type(
+            data['relations'], 'Sponsor')
+        self.project = self.get_type_label_by_hierarchy(
+            data['types'], 'Project')
+        self.project_team = self.get_project_team()
+
+    def get_project_team(self):
+        member_links = [entry.relationTo for entry in self.relations if entry.relationSystemClass == "person"]
+        # Todo: Call dauert zu lange, lieber einen einzelnen call machen, also query?
+        return [Team(api_call(link)) for link in member_links]
 
 
-
-
+    @staticmethod
+    def get_subprojects(id_: int):
+        return [Subprojects(project['features'][0]) for project in
+                typed_entities_all_results(id_)]
 

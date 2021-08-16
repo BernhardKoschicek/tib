@@ -1,0 +1,19 @@
+<div class="row">
+    <h5>Duration:</h5>
+    <p>{{ projects['begin'] }} - {{ projects['end'] }}</p>
+</div>
+<div class="row">
+    <h5>Team:</h5>
+    {% for member in team %}
+        {% with member=member %}
+            <div class="col-4">
+                {% include 'team/member.html' %}
+            </div>
+        {% endwith %}
+    {% endfor %}
+</div>
+<div class="row">
+    {% with sponsors=sponsors %}
+        {% include 'projects/funded_by.html' %}
+    {% endwith %}
+</div>

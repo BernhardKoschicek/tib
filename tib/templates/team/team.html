@@ -5,15 +5,18 @@
         <div class="container top5">
             <div class="col-md-12 ">
                 <h1 class="display-1 text-center">Team</h1>
-                <p>Das ist das Team der TIB und das hat unterschiedliche Kategorien</p>
+                <p>Das ist das Team der TIB und das hat unterschiedliche
+                    Kategorien</p>
             </div>
             {% for m in team %}
                 <div class="row" data-order="{{ m | safe }}">
                     <h1 class="display-4">{{ m | safe }}</h1>
                     {% for member in team[m] %}
-                        {% with member=member %}
-                            {% include 'team/member.html' %}
-                        {% endwith %}
+                        <div class="col-xl-3 col-sm-6 mb-5">
+                            {% with member=member %}
+                                {% include 'team/member.html' %}
+                            {% endwith %}
+                        </div>
                     {% endfor %}
                 </div>
             {% endfor %}

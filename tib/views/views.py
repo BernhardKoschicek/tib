@@ -2,9 +2,9 @@ from flask import render_template
 
 from tib import app
 from tib.models.index import front_menu
-from tib.models.subprojects import get_subprojects
-from tib.models.sponsors import get_sponsors
-from tib.models.team import get_team_categorized, get_team_members
+from tib.models.sponsors import Sponsors
+from tib.models.subprojects import Subprojects
+from tib.models.team import Team
 
 
 @app.route('/')
@@ -14,33 +14,30 @@ def home() -> str:
 
 @app.route('/team')
 def team() -> str:
-    return render_template('team/team.html', team=dict(get_team_categorized()))
+    return render_template('team/team.html',
+                           team=dict(Team.get_team_categorized()))
 
 
 @app.route('/subprojects')
 @app.route('/subprojects/<project>')
 def subprojects(project=None):
     if project:
-        p = next((item for item in get_subprojects(app.config['PROJECTS_ID']) if
-              item['project'][0] == project), None)
-        team = [member for member in get_team_members() if p['project'][0] in member['projects']]
-        sponsors = get_sponsors(app.config['FINANCIER_ID'])
-
-
-
-        print(p)
-        print(team)
-        print(sponsors)
-
-
-
+        project = next((item for item in
+                  Subprojects.get_subprojects(app.config['PROJECTS_ID']) if
+                  item.project[0] == project), None)
+        sidebar = render_template(
+            'projects/sidebar.html',
+            projects=project,
+            team=project.project_team,
+            sponsors=Sponsors.get_sponsors(app.config['FINANCIER_ID']))
         return render_template(
             'projects/project_details.html',
-            projects=p)
+            projects=project,
+            sidebar=sidebar)
     else:
         return render_template(
             'projects/subprojects.html',
-            projects=get_subprojects(app.config['PROJECTS_ID']))
+            projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
 
 
 @app.route('/longterm')

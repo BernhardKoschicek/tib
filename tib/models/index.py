@@ -4,19 +4,19 @@ front_menu = OrderedDict([
     ('longterm', {
         'id': '1',
         'image': 'oeffentlich.jpg',
-        'title': 'Long-Term-Project',
+        'title': 'Langzeitprojekt',
         'subtitle': 'Langzeitprojekt Stand und Geschichte'
     }),
     ('subprojekte', {
         'id': '2',
         'image': 'projekte.jpg',
-        'title': 'Subprojects',
+        'title': 'Teilprojekte',
         'subtitle': 'Übersicht über alle Projekte'
     }),
     ('digital', {
         'id': '3',
         'image': 'Österreich-Europa-Karte.png',
-        'title': 'Digital Tools',
+        'title': 'Digitales',
         'subtitle': 'Digitales Tools der TIB'
     })
 ])

@@ -1,8 +1,11 @@
-from flask import Flask, request
+from pathlib import Path
+
+from flask import Flask, Response, request
 
 app = Flask(__name__, instance_relative_config=True)
-app.config.from_object('config.default')  # type: ignore
-app.config.from_pyfile('production.py')  # type: ignore
+app.config.from_object('config')  # type: ignore
+if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
+    app.config.from_pyfile('production.py')
 
 from tib.util import filters, util
 from tib import views
@@ -16,8 +19,9 @@ def before_request():
 
 
 @app.after_request
-def apply_caching(response):
-    response.headers['Strict-Transport-Security'] = 'max-age=31536000; includeSubDomains'
+def apply_caching(response: Response) -> Response:
+    response.headers['Strict-Transport-Security'] = \
+        'max-age=31536000; includeSubDomains'
     response.headers['X-Content-Type-Options'] = 'nosniff'
     response.headers['X-Frame-Options'] = 'SAMEORIGIN'
     response.headers['X-XSS-Protection'] = '1; mode=block'

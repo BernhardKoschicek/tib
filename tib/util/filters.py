@@ -127,7 +127,8 @@ def display_menu(self: Any, route: str, category: str) -> str:
 @blueprint.app_template_filter()
 def include_css(self: Any, route: str) -> str:
     css = ''
-    for style in ['style', 'burger', 'navbar', 'parallax', 'footer']:
+    for style in ['style', 'burger', 'navbar', 'parallax', 'footer',
+                  'image_hover_effect']:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css

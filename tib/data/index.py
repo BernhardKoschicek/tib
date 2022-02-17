@@ -10,8 +10,8 @@ front_menu = OrderedDict([
     ('subprojekte', {
         'id': '2',
         'image': 'projekte.jpg',
-        'title': 'Teilprojekte',
-        'subtitle': 'Übersicht über alle Projekte'
+        'title': 'TIB Balkan',
+        'subtitle': 'Tabula Imperii Byzantini auf der Balkanhalbinsel'
     }),
     ('digital', {
         'id': '3',

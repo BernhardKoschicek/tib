@@ -1,8 +1,8 @@
-                    <h5>Funded by:</h5>
-                    {% for sponsor in sponsors %}
-                        <a href="{{ sponsor['website'] }}">
-                            {{ sponsor['alias'][0]['alias'] }}
-                            <img src="{{ sponsor['profile_image'] }}"
-                                 alt="{{ sponsor['name'] }}">
-                        </a>
-                    {% endfor %}
+<h5>Funded by:</h5>
+{% for sponsor in sponsors %}
+  <a href="{{ sponsor['website'] }}">
+    {{ sponsor['alias'][0]['alias'] }}
+    <img src="{{ sponsor['profile_image'] }}"
+         alt="{{ sponsor['name'] }}">
+  </a>
+{% endfor %}

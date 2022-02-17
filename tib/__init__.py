@@ -5,7 +5,7 @@ app.config.from_object('config.default')  # type: ignore
 app.config.from_pyfile('production.py')  # type: ignore
 
 from tib.util import filters, util
-from tib.views import views
+from tib import views
 from tib.models import team
 
 

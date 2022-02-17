@@ -1,0 +1,43 @@
+
+<nav role="navigation" class="navigation fixed-top ">
+    <div class="text-center float-end m-3 col-2 brand">
+        <a href="{{ url_for('home') }}">
+            <img class="brand-image"
+                 src="{{ url_for('static', filename='images/logo/brand-small.png') }}"
+                 alt="Logo">
+        </a>
+    </div>
+    <div id="menuToggle">
+        <input type="checkbox"/>
+        <span></span>
+        <span></span>
+        <span></span>
+        <div class="vh-100 min-vw-100 justify-content-center" id="menu">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Tabula Imperii
+                        Byzantini</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path |display_menu('tib')|safe }}
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Subprojekte</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path |display_menu('sub')|safe }}
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase text-center">Digitale
+                        Werkzeuge</h5>
+                    <hr>
+                    <ul class="">
+                        {{ request.path|display_menu('digtib')|safe }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>

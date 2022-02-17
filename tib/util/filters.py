@@ -117,24 +117,20 @@ def display_menu(self: Any, route: str, category: str) -> str:
         active = ''
         if route.startswith('/' + item):
             active = 'active'
-        html += '<li class="nav-item {active}">' \
-                '<a class="nav-link" href="{url}">{label}</a>' \
-                '</li>'.format(active=active, url=url_for(item),
-                               label=item.title().replace('_', ' '))
+        html += f'<li class="nav-item {active}">' \
+                f'<a class="nav-link" href="{url_for(item)}">' \
+                f'{item.title().replace("_", " ")}</a> </li>'
     return html
 
 
 @jinja2.contextfilter
 @blueprint.app_template_filter()
 def include_css(self: Any, route: str) -> str:
-    html = ''
-    items = ['style', 'burger', 'navbar', 'parallax', 'footer']
-    for style in items:
-        html += """<link rel="stylesheet" type="text/css"
-        href="/static/styles/{style}.css">
-        """.format(style=style)
-    return html
-
+    css = ''
+    for style in ['style', 'burger', 'navbar', 'parallax', 'footer']:
+        css += f'<link rel="stylesheet" type="text/css"' \
+               f' href="/static/styles/{style}.css">'
+    return css
 
 @jinja2.contextfilter
 @blueprint.app_template_filter()

@@ -13,9 +13,6 @@ body {
     padding: unset;
 }
 
-.jumbotron-images {
-    border-radius: 20%;
-}
 
 /* Fade effect*/
 
@@ -72,18 +69,6 @@ body {
     }
 }
 
-
-.wrapword {
-    white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
-    /*    white-space: -webkit-pre-wrap;          !* Chrome & Safari *!
-        white-space: -pre-wrap;                 !* Opera 4-6 *!*/
-    white-space: -o-pre-wrap; /* Opera 7 */
-    white-space: pre-wrap; /* CSS3 */
-    word-wrap: break-word; /* Internet Explorer 5.5+ */
-    word-break: break-all;
-    white-space: normal;
-}
-
 p {
     font-family: 'Work Sans', sans-serif;
     font-size: 1.3em;
@@ -125,6 +110,7 @@ p {
 }
 
 .image-description {
+    color: white;
     font-size: 0.7em;
 }
 

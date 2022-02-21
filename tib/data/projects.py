@@ -9,7 +9,7 @@ subprojects = {
             """Läßt sich im jetzigen Montenegro eine „heilige 
             Landschaft“ aus mittelalterlichen Kirchen und Klöstern 
             rekonstruieren?""",
-        'icon': 'projects/holdura/holdura_icon.jpg',
+        'icon': 'images/projects/holdura_icon.jpg',
         'icon_description':
             'Die Bucht von Kotor, Montenegro, 2021 '
             '(M. St. Popović, TIB 17)'
@@ -23,7 +23,7 @@ subprojects = {
             'Wo und wie lebten die Menschen in der historischen Landschaft '
             'Makedonien während des byzantinisch-serbischen Konflikts im 14. '
             'Jahrhundert?',
-        'icon': 'projects/borderzones/borderzones_icon.jpg',
+        'icon': 'images/projects/borderzones_icon.jpg',
         'icon_description':
             'Die Festung „Samuilova tvrdina“ in Ohrid, Republik Nordmazedonien'
             ', 2008 (M. St. Popović, TIB 16)'
@@ -36,7 +36,7 @@ subprojects = {
         'question':
             'Was blieb von der österreichisch-ungarischen Besetzung '
             'Montenegros im Ersten Weltkrieg?',
-        'icon': 'projects/montenegro/montenegro_icon.jpg',
+        'icon': 'images/projects/montenegro_icon.jpg',
         'icon_description':
             'Die österreichisch-ungarische Reliefkarte Montenegros aus den '
             'Jahren 1916/17, Montenegro, 2020 (Bernhard Koschiček-Krombholz)'
@@ -49,7 +49,7 @@ subprojects = {
         'question':
             'Welchen Beitrag leistet die TIB Balkan zur Dokumentation und '
             'Erhaltung von Kulturdenkmälern auf der Balkanhalbinsel?',
-        'icon': '',
+        'icon': 'images/projects/montenegro_icon.jpg',
         'icon_description':
             ''
     }

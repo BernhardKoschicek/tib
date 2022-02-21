@@ -25,11 +25,15 @@
 
 <div class="container-fluid px-5">
   {% for project, detail in subprojects.items() %}
-    <div class="row pt-3 d-flex {% loop.cycle 'flex-row' 'reverse' %}"
-         data-aos="fade-right">
-      <div class="col-8 text-center"
-           style="background-color: #ece1be; height: 200px; ">
-        {{ detail['title'] }}
+    <div class="row pt-3 {{ loop.cycle('flex-row', 'flex-row-reverse') }}"
+         data-aos="{{ loop.cycle('fade-right', 'fade-left') }}">
+      <div class="col-2" style="background-color: #ece1be;" >
+        <img src="{{ url_for('static', filename=detail['icon']) }}"
+        class="mx-auto d-block">
+      </div>
+      <div class="col-6 {{ loop.cycle('text-end', 'text-start') }}"
+           style="background-color: #ece1be; ">
+        <h4>{{ detail['title'] }}</h4>
       </div>
     </div>
   {% endfor %}

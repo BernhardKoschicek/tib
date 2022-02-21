@@ -72,6 +72,7 @@
 .hover_effect a, .hover_effect p {
   color: #FFF;
   opacity: 0;
+  text-decoration: none;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
   transition: opacity 0.35s, transform 0.35s;
@@ -81,6 +82,7 @@
 
 .hover_effect:hover a, .hover_effect:hover p {
   opacity: 1;
+  text-decoration: none;
   filter: alpha(opacity=100);
   -webkit-transform: translate3d(0,0,0);
   transform: translate3d(0,0,0);

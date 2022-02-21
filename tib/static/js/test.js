@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 function updateCurvedText($curvedText, radius) {
   $curvedText.css("min-width", "initial");
   $curvedText.css("min-height", "initial");

@@ -1,11 +1,12 @@
 from flask import render_template
 
 from tib import app
+from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
+from tib.data.tib_volumes import tib_volumes_dict
 from tib.models.sponsors import Sponsors
 from tib.models.subprojects import Subprojects
 from tib.models.team import Team
-from tib.data.image_descriptions import home_images
 
 
 @app.route('/')
@@ -13,13 +14,27 @@ def home() -> str:
     return render_template(
         'home/home.html',
         front_menu=front_menu,
-        img_description=home_images)
+        img_description=home_images,
+        tib_volumes=tib_volumes_dict)
 
 
 @app.route('/team')
 def team() -> str:
-    return render_template('team/team.html',
-                           team=dict(Team.get_team_categorized()))
+    return render_template(
+        'team/team.html',
+        team=dict(Team.get_team_categorized()))
+
+
+@app.route('/tib-volumes')
+@app.route('/tib-volumes/<volume>')
+def tib_volumes(volume=None):
+    if volume:
+        return render_template(
+            f'tib_volumes/volume.html',
+            tib_volume=tib_volumes_dict[volume])
+    else:
+        return render_template(
+            'tib_volumes/tib_volumes.html')
 
 
 @app.route('/subprojects')
@@ -27,8 +42,9 @@ def team() -> str:
 def subprojects(project=None):
     if project:
         project = next((item for item in
-                  Subprojects.get_subprojects(app.config['PROJECTS_ID']) if
-                  item.project[0] == project), None)
+                        Subprojects.get_subprojects(app.config['PROJECTS_ID'])
+                        if
+                        item.project[0] == project), None)
         sidebar = render_template(
             'projects/sidebar.html',
             projects=project,

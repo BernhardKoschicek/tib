@@ -18,13 +18,27 @@
 <body>
 
 {% macro image_description(title) %}
-        <div class="row justify-content-end">
-          <div class="col-12 align-self-end">
-            <small class="image-description float-end">
-              {{ title }}
-            </small>
-          </div>
-        </div>
+  <div class="row justify-content-end">
+    <div class="col-12 align-self-end">
+      <p>
+        <small class="image-description float-end">
+          {{ title }}
+        </small>
+      </p>
+    </div>
+  </div>
+{% endmacro %}
+
+{% macro icon_description(title) %}
+  <div class="row justify-content-center">
+    <div class="col-12 align-self-center">
+      <p>
+        <small class="image-description">
+          {{ title }}
+        </small>
+      </p>
+    </div>
+  </div>
 {% endmacro %}
 
 
@@ -46,11 +60,11 @@
 
 <script type="module" src="https://cdn.skypack.dev/jquery@~3.5.1"></script>
 <script type="text/javascript"
-        src="{{ url_for('static', filename='javascript/jumbotron.js') }}"></script>
+        src="{{ url_for('static', filename='js/jumbotron.js') }}"></script>
 <script type="text/javascript"
-        src="{{ url_for('static', filename='javascript/navbar.js') }}"></script>
+        src="{{ url_for('static', filename='js/navbar.js') }}"></script>
 <script type="text/javascript"
-        src="{{ url_for('static', filename='javascript/test.js') }}"></script>
+        src="{{ url_for('static', filename='js/test.js') }}"></script>
 </body>
 
 </html>

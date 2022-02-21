@@ -23,28 +23,16 @@
 </div>
 
 
+<div class="container-fluid px-5">
+  {% for project, detail in subprojects.items() %}
+    <div class="row pt-3 d-flex {% loop.cycle 'flex-row' 'reverse' %}"
+         data-aos="fade-right">
+      <div class="col-8 text-center"
+           style="background-color: #ece1be; height: 200px; ">
+        {{ detail['title'] }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
-<div class="row pt-3">
-  <div class="col-9 offset-1 text-center"
-       style="background-color: #ece1be; height: 200px; ">
-    Holdura
-  </div>
-</div>
-<div class="row pt-3">
-  <div class="col-9 offset-2 text-center"
-       style="background-color: #ece1be; height: 200px; ">
-    MESMY
-  </div>
-</div>
-<div class="row pt-3">
-  <div class="col-9 offset-1 text-center"
-       style="background-color: #ece1be; height: 200px; ">
-    Borderzones
-  </div>
-</div>
-<div class="row pt-3">
-  <div class="col-9 offset-2 text-center"
-       style="background-color: #ece1be; height: 200px; ">
-    Montenegro
-  </div>
-</div>
+

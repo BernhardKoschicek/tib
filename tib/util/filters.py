@@ -110,7 +110,7 @@ INSTITUTES = {
 def display_menu(self: Any, route: str, category: str) -> str:
     menu = {
         'tib': ['longterm', 'team', 'tib', 'publications', 'youth'],
-        'sub': ['subprojects'],
+        'sub': ['longterm'],
         'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''
     for item in menu[category]:

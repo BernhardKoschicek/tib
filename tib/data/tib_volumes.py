@@ -107,21 +107,21 @@ tib17 = {
 
 tib_volumes_dict = {
     'TIB_11': {
-        'title': 'Macedonia, Southern Part',
+        'title': 'Makedonien, südlicher Teil',
         'author': 'Peter Soustal',
         'icon_description': project_icons['tib11'],
         'icon': 'images/tib11_icon.jpg',
         'description': tib11['description']
     },
     'TIB_16': {
-        'title': 'Macedonia, Northern Part',
+        'title': 'Makedonien, nördlicher Teil',
         'author': 'Mihailo Popović',
         'icon_description': project_icons['tib16'],
         'icon': 'images/tib16_icon.jpg',
         'description': tib16['description']
     },
     'TIB_17': {
-        'title': 'Nea Epeiros and Praevalis',
+        'title': 'Nea Epeiros und Praevalis',
         'author': 'Mihailo Popović',
         'icon_description': project_icons['tib17'],
         'icon': 'images/tib17_icon.jpg',

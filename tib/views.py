@@ -3,9 +3,8 @@ from flask import render_template
 from tib import app
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
+from tib.data.projects import subprojects
 from tib.data.tib_volumes import tib_volumes_dict
-from tib.models.sponsors import Sponsors
-from tib.models.subprojects import Subprojects
 from tib.models.team import Team
 
 
@@ -15,7 +14,8 @@ def home() -> str:
         'home/home.html',
         front_menu=front_menu,
         img_description=home_images,
-        tib_volumes=tib_volumes_dict)
+        tib_volumes=tib_volumes_dict,
+        subprojects=subprojects)
 
 
 @app.route('/team')
@@ -37,27 +37,27 @@ def tib_volumes(volume=None):
             'tib_volumes/tib_volumes.html')
 
 
-@app.route('/subprojects')
-@app.route('/subprojects/<project>')
-def subprojects(project=None):
-    if project:
-        project = next((item for item in
-                        Subprojects.get_subprojects(app.config['PROJECTS_ID'])
-                        if
-                        item.project[0] == project), None)
-        sidebar = render_template(
-            'projects/sidebar.html',
-            projects=project,
-            team=project.project_team,
-            sponsors=Sponsors.get_sponsors(app.config['FINANCIER_ID']))
-        return render_template(
-            'projects/project_details.html',
-            projects=project,
-            sidebar=sidebar)
-    else:
-        return render_template(
-            'projects/subprojects.html',
-            projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
+# @app.route('/subprojects')
+# @app.route('/subprojects/<project>')
+# def subprojects(project=None):
+#     if project:
+#         project = next((item for item in
+#                         Subprojects.get_subprojects(app.config['PROJECTS_ID'])
+#                         if
+#                         item.project[0] == project), None)
+#         sidebar = render_template(
+#             'projects/sidebar.html',
+#             projects=project,
+#             team=project.project_team,
+#             sponsors=Sponsors.get_sponsors(app.config['FINANCIER_ID']))
+#         return render_template(
+#             'projects/project_details.html',
+#             projects=project,
+#             sidebar=sidebar)
+#     else:
+#         return render_template(
+#             'projects/subprojects.html',
+#             projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
 
 
 @app.route('/longterm')

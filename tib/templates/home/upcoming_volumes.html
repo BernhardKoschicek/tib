@@ -20,7 +20,7 @@
 
 <div class="row pt-5">
   {% for tib, volume in tib_volumes.items() %}
-    <div class="col-xxl-4 px-5 py-5">
+    <div class="col-xxl-4 px-5 py-5" data-aos="zoom-in-up">
       <div class="hover_effect">
         <img src="{{ url_for('static', filename=volume['icon']) }}"
              class="img-fluid" alt="{{ tib }}Icon">

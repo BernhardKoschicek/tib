@@ -1,4 +1,4 @@
-subprojects = {
+subprojects_dict = {
     'holdura': {
         'title':
             """Jenseits von Ost und West: die Geokommunikation der 

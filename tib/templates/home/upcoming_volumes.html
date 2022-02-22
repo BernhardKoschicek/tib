@@ -1,8 +1,8 @@
-<div class="container-fluid">
+<div class="container-fluid px-5">
   <div class="row text-center">
     <h1 class="display-4">Bände der TIB Balkan in Arbeit</h1>
   </div>
-  <div class="row justify-content-center pt-3">
+  <div class="row justify-content-center text-center pt-3">
     <div class="col-8">
       <p>
         Im Rahmen der TIB Balkan arbeiten wir derzeit an drei Bänden. Diese sind
@@ -15,27 +15,27 @@
       </p>
     </div>
   </div>
-</div>
 
 
-<div class="row pt-5">
-  {% for tib, volume in tib_volumes.items() %}
-    <div class="col-xxl-4 px-5 py-5" data-aos="zoom-in-up">
-      <div class="hover_effect">
-        <img src="{{ url_for('static', filename=volume['icon']) }}"
-             class="img-fluid" alt="{{ tib }}Icon">
-        <div class="overlay">
-          <a href="{{ url_for('tib_volumes', volume=tib) }}">
-            <h1 class="display-1 text-white">{{ (tib.replace('_', ' ')) }}</h1>
-            <p>{{ volume['title'] }}</p>
-            <div class="pt-5">
-              {{ icon_description(volume['icon_description']) }}
-            </div>
-          </a>
+  <div class="row">
+
+    {% for tib, volume in tib_volumes.items() %}
+      <div class="col-xxl-4 px-5 py-5" data-aos="zoom-in-up">
+        <div class="hover_effect">
+          <img src="{{ url_for('static', filename=volume['icon']) }}"
+               class="img-fluid" alt="{{ tib }}Icon">
+          <div class="overlay">
+            <a href="{{ url_for('tib_volumes', volume=tib) }}">
+              <h1 class="display-1 text-white">{{ (tib.replace('_', ' ')) }}</h1>
+              <p>{{ volume['title'] }}</p>
+              <div class="pt-5">
+                {{ icon_description(volume['icon_description']) }}
+              </div>
+            </a>
+          </div>
         </div>
       </div>
-    </div>
+    {% endfor %}
 
-  {% endfor %}
-
+  </div>
 </div>

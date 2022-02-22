@@ -3,7 +3,7 @@ from flask import render_template
 from tib import app
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
-from tib.data.projects import subprojects
+from tib.data.subprojects import subprojects_dict
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.models.team import Team
 
@@ -15,7 +15,7 @@ def home() -> str:
         front_menu=front_menu,
         img_description=home_images,
         tib_volumes=tib_volumes_dict,
-        subprojects=subprojects)
+        subprojects=subprojects_dict)
 
 
 @app.route('/team')
@@ -35,6 +35,18 @@ def tib_volumes(volume=None):
     else:
         return render_template(
             'tib_volumes/tib_volumes.html')
+
+
+@app.route('/subprojects')
+@app.route('/subprojects/<project>')
+def subprojects(project=None):
+    if project:
+        return render_template(
+            f'subprojects/subproject.html',
+            subproject=subprojects_dict[project])
+    else:
+        return render_template(
+            'subprojects/subproject_overview.html')
 
 
 # @app.route('/subprojects')

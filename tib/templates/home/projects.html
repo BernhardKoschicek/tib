@@ -2,7 +2,7 @@
   <div class="row text-center">
     <h1 class="display-4">Teilprojekte der TIB Balkan</h1>
   </div>
-  <div class="row justify-content-center pt-3">
+  <div class="row justify-content-center text-center pt-3">
     <div class="col-8">
       <p>Die TIB Balkan gestaltet die Byzantinistik, Historische Geographie und
         Digitalen Geisteswissenschaften sowohl als Langzeitprojekt als auch
@@ -23,18 +23,24 @@
 </div>
 
 
-<div class="container-fluid px-5">
+<div class="container-fluid">
   {% for project, detail in subprojects.items() %}
-    <div class="row pt-3 {{ loop.cycle('flex-row', 'flex-row-reverse') }}"
+    <div class="row my-5 py-2 project-background {{ loop.cycle('flex-row', 'flex-row-reverse') }}"
          data-aos="{{ loop.cycle('fade-right', 'fade-left') }}">
-      <div class="col-2" style="background-color: #ece1be;" >
-        <img src="{{ url_for('static', filename=detail['icon']) }}"
-        class="mx-auto d-block">
+      <div class="col-2">
+        <a href="{{ url_for('subprojects', filename=project) }}">
+          <img src="{{ url_for('static', filename=detail['icon']) }}"
+               class="mx-auto d-block rounded-3">
+        </a>
       </div>
-      <div class="col-6 {{ loop.cycle('text-end', 'text-start') }}"
-           style="background-color: #ece1be; ">
-        <h4>{{ detail['title'] }}</h4>
+      <div class="col-8 {{ loop.cycle('text-end', 'text-start') }}">
+        <a href="{{ url_for('subprojects', filename=project) }}"
+           class="text-decoration-none link-secondary">
+          <h4 class="fst-italic display-6">{{ detail['question'] }}</h4>
+          <h4>{{ detail['title'] }}</h4>
+        </a>
       </div>
+
     </div>
   {% endfor %}
 </div>

@@ -14,3 +14,12 @@
     background-size: cover;
     height: 70vh;
 }
+
+#plx-river {
+    background: url(../images/plx_river.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}

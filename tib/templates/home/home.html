@@ -10,6 +10,7 @@
               <h2 class="">{{ item.title }}</h2>
             </div>
           </div>
+
         {% endfor %}
         {{ image_description(img_description['ohrid_see']) }}
       </div>
@@ -50,6 +51,46 @@
 
   <div class="container-fluid top5 min-vh-100">
     {% include 'home/team.html' %}
+  </div>
+
+  <div id="plx-travel">
+    <div class="container-fluid">
+      {{ image_description(img_description['travel']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'home/travel.html' %}
+  </div>
+
+  <div id="plx-map" class="top5">
+    <div class="container-fluid">
+      {{ image_description(img_description['map']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'home/cartography.html' %}
+  </div>
+
+  <div id="plx-digital" >
+    <div class="container-fluid">
+      {{ image_description(img_description['digital']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'home/digital.html' %}
+  </div>
+
+  <div id="plx-outreach" >
+    <div class="container-fluid">
+      {{ image_description(img_description['outreach']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'home/outreach.html' %}
   </div>
 
 {% endblock content %}

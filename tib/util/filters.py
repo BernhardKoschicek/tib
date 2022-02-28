@@ -109,7 +109,7 @@ INSTITUTES = {
 @blueprint.app_template_filter()
 def display_menu(self: Any, route: str, category: str) -> str:
     menu = {
-        'tib': ['longterm', 'team', 'tib', 'publications', 'youth'],
+        'tib': ['longterm', 'team', 'tib', 'publications', 'youth', 'outreach'],
         'sub': ['longterm'],
         'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''

@@ -49,6 +49,10 @@ def subprojects(project=None):
         return render_template(
             'subprojects/subproject_overview.html')
 
+@app.route('/öffentlichskeitsarbeit')
+def outreach():
+    return render_template('outreach/outreach.html')
+
 
 # @app.route('/subprojects')
 # @app.route('/subprojects/<project>')

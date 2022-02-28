@@ -32,3 +32,29 @@
     background-size: cover;
     height: 70vh;
 }
+
+#plx-map {
+    background: url(../images/plx_map.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+#plx-digital {
+    background: url(../images/plx_digital.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+#plx-outreach {
+    background: url(../images/plx_outreach.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}

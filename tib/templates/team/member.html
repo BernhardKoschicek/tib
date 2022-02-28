@@ -1,55 +1,15 @@
-
-    <div class="bg-white rounded shadow-sm py-5 px-4">
-        <img
-                src="{{ member.profile_image }}"
-                alt="{{ member.name | safe }}" width="200"
-                class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-        <h4 class="mb-0">{{ member.name | safe }}</h4>
-        <h6 class="text-muted">
-            {% for title in member.titles %}
-                {{ title }}
-            {% endfor %}
-        </h6>
-        <h6>{{ member.current_employment[0] | safe }}</h6>
-        <ul class="social mb-0 list-inline mt-3">
-            {#https://icons.getbootstrap.com/#install
-             If reference system, then get the system and if no icon in a dict than take first letter as icon#}
-            <li class="list-inline-item">
-                <a href="#" class="social-link">
-                    <i class="bi-facebook" role="img"></i>
-                </a>
-            </li>
-            <li class="list-inline-item"><a href="#" class="social-link"><i
-                    class="fa fa-twitter"></i></a></li>
-        </ul>
+<div class="row align-self-center justify-content-center">
+  <div class="col-md-12 ">
+    <img src="{{ url_for('static', filename=member.image) }}"
+         alt="{{ member.name | safe }}" width="200px"
+         class="img-fluid mx-auto d-block rounded-circle">
+  </div>
+  <div class="col-md-12 text-center">
+    <div class="pt-2">
+      <h5 class="mt-4 font-weight-medium mb-0">{{ member.name | safe }}</h5>
+      <h6 class="subtitle mb-3">{{ member.titles }}</h6>
+      <h6 class="subtitle mb-3">{{ member.function }}</h6>
     </div>
+  </div>
+</div>
 
-
-
-{#<div class="col-md-6 col-lg-3 pt-5">#}
-{#    <div class="img-block mb-5">#}
-{#        <img src="{{ member.profile_image[0] }}"#}
-{#             class="img-fluid  img-thumbnail rounded-circle"#}
-{#             alt="{{ member.name | safe }}">#}
-{#        <div class="content mt-2">#}
-{#            <h4>{{ member.name | safe }}</h4>#}
-{#            <h6 class="text-muted">#}
-{#                {% for title in member.titles %}#}
-{#                    {{ title }},#}
-{#                {% endfor %}#}
-{#            </h6>#}
-{#            <h5>{{ member.current_employment[0] | safe }}</h5>#}
-{#        </div>#}
-{#    </div>#}
-{#</div>#}
-
-{##}
-{#<div class="col-8">#}
-{#    <img src="{{ member.profile_image[0] }}" style="max-height: 200px;">#}
-{#    <p>Name: {{ member.name | safe }}</p>#}
-{#    <p>Titel: {{ member.titles | safe }}</p>#}
-{#    <p>Beschreibung: {{ member.description | safe }}</p>#}
-{#    <p>Tätigkeit bei der TIB: {{ member.current_employment | safe }}</p>#}
-{#    <p>Projekte: {{ member.projects | safe }}</p>#}
-{#</div>#}
-{#<hr>#}

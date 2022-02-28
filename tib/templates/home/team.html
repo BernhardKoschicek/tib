@@ -19,4 +19,13 @@
         der handelnden Personen widerspiegelt.</p>
     </div>
   </div>
+  <div class="row justify-content-center py-5">
+    {% for member in team.values() %}
+      <div data-aos="zoom-in" class="col-lg-2 mb-4">
+        {% with member=member %}
+          {% include 'team/member.html' %}
+        {% endwith %}
+      </div>
+    {% endfor %}
+  </div>
 </div>

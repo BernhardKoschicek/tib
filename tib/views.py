@@ -4,8 +4,8 @@ from tib import app
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
 from tib.data.subprojects import subprojects_dict
+from tib.data.team import team_members
 from tib.data.tib_volumes import tib_volumes_dict
-from tib.models.team import Team
 
 
 @app.route('/')
@@ -15,14 +15,15 @@ def home() -> str:
         front_menu=front_menu,
         img_description=home_images,
         tib_volumes=tib_volumes_dict,
-        subprojects=subprojects_dict)
+        subprojects=subprojects_dict,
+        team=team_members)
 
 
 @app.route('/team')
 def team() -> str:
     return render_template(
         'team/team.html',
-        team=dict(Team.get_team_categorized()))
+        team=team_members)
 
 
 @app.route('/tib-volumes')

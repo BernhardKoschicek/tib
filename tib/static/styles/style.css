@@ -112,7 +112,7 @@ p {
 .image-description {
     color: white;
     font-size: 0.7em;
-    background-color: rgba(69, 73, 75, 0.73);
+   /* background-color: rgba(69, 73, 75, 0.73);*/
 }
 
 .social-link {

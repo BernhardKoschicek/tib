@@ -1,40 +1,54 @@
+/**
+ * When searching a table with accented characters, it can be frustrating to have
+ * an input such as _Zurich_ not match _Zürich_ in the table (`u !== ü`). This
+ * type based search plug-in replaces the built-in string formatter in
+ * DataTables with a function that will replace the accented characters
+ * with their unaccented counterparts for fast and easy filtering.
+ *
+ * Note that this plug-in uses the Javascript I18n API that was introduced in
+ * ES6. For older browser's this plug-in will have no effect.
+ *
+ *  @summary Replace accented characters with unaccented counterparts
+ *  @name Accent neutralise
+ *  @author Allan Jardine
+ *
+ *  @example
+ *    $(document).ready(function() {
+ *        $('#example').dataTable();
+ *    } );
+ */
 
-function updateCurvedText($curvedText, radius) {
-  $curvedText.css("min-width", "initial");
-  $curvedText.css("min-height", "initial");
-  var w = $curvedText.width(),
-    h = $curvedText.height();
-  $curvedText.css("min-width", w + "px");
-  $curvedText.css("min-height", h + "px");
-  var text = $curvedText.text();
-  var html = "";
-Array.from(text).forEach(function (letter) {
-    html += `<span>${letter}</span>`;
-  });
-  $curvedText.html(html);
-var $letters = $curvedText.find("span");
-  $letters.css({
-    position: "absolute",
-    height:`${radius}px`,
-    // backgroundColor:"orange",
-    transformOrigin:"bottom center"
-  });
+(function(){
 
-  var circleLength = 2 * Math.PI * radius;
-  var angleRad = w/(2*radius);
-  var angle = 2 * angleRad * 180/Math.PI/text.length;
+function removeAccents ( data ) {
+    if ( data.normalize ) {
+        // Use I18n API if avaiable to split characters and accents, then remove
+        // the accents wholesale. Note that we use the original data as well as
+        // the new to allow for searching of either form.
+        return data +' '+ data
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '');
+    }
 
-  $letters.each(function(idx,el){
-    $(el).css({
-        transform:`translate(${w/2}px,0px) rotate(${idx * angle - text.length*angle/2}deg)`
-    })
-  });
+    return data;
 }
-var $curvedText = $(".curved-text");
-updateCurvedText($curvedText,500);
-function settingsChanged(){
-  $curvedText.text($(".text").val());
-  updateCurvedText($curvedText,$(".radius").val());
-}
-$(".radius").on("input change",settingsChanged);
-$(".text").on("input change",settingsChanged);
+
+var searchType = jQuery.fn.DataTable.ext.type.search;
+
+searchType.string = function ( data ) {
+    return ! data ?
+        '' :
+        typeof data === 'string' ?
+            removeAccents( data ) :
+            data;
+};
+
+searchType.html = function ( data ) {
+    return ! data ?
+        '' :
+        typeof data === 'string' ?
+            removeAccents( data.replace( /<.*?>/g, '' ) ) :
+            data;
+};
+
+}());

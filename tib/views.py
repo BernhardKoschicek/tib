@@ -3,6 +3,7 @@ from flask import render_template
 from tib import app
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
+from tib.data.oa_access import get_actors
 from tib.data.subprojects import subprojects_dict
 from tib.data.team import team_members
 from tib.data.tib_volumes import tib_volumes_dict
@@ -49,9 +50,17 @@ def subprojects(project=None):
         return render_template(
             'subprojects/subproject_overview.html')
 
+
 @app.route('/öffentlichskeitsarbeit')
 def outreach():
     return render_template('outreach/outreach.html')
+
+
+@app.route('/tib-interface')
+def access_tib_oa():
+    return render_template(
+        'digital/access_tib_oa.html',
+        actors=get_actors())
 
 
 # @app.route('/subprojects')

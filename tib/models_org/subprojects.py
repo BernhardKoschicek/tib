@@ -1,8 +1,8 @@
 from typing import Any, Dict
 
-from tib.models.entity import Entity
-from tib.models.relation import Relation
-from tib.models.team import Team
+from tib.models_org.entity import Entity
+from tib.models_org.relation import Relation
+from tib.models_org.team import Team
 from tib.util.api_calls import api_call, typed_entities_all_results
 
 

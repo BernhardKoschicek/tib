@@ -1,7 +1,7 @@
 from collections import defaultdict
 from typing import Any, Dict
 
-from tib.models.entity import Entity
+from tib.models_org.entity import Entity
 from tib.util.api_calls import system_class_results
 
 

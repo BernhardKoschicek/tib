@@ -11,7 +11,7 @@ SESSION_COOKIE_SECURE = False
 REMEMBER_COOKIE_SECURE = True
 SESSION_COOKIE_SAMESITE = 'Lax'
 
-API_PATH = 'http://meta.sarfstation.de/api/0.2/'
+API_PATH = ''
 
 
 PROJECTS_ID = 159

@@ -9,7 +9,7 @@ if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
 
 from tib.util import filters, util
 from tib import views
-from tib.models import team
+from tib.models_org import team
 
 
 @app.before_request

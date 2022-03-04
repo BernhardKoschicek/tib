@@ -1,20 +1,22 @@
 from typing import Any, Dict
 
-from tib.models.depiction import Depiction
-from tib.models.relation import Relation
-
+from tib.models_org.depiction import Depiction
+from tib.models_org.relation import Relation
+from tib.util.util import uc_first
 
 
 class Entity:
     def __init__(self, data: Dict[str, Any]):
+        self.id_ = data['@id'].rsplit('/', 1)[-1]
         self.name = data['properties']['title']
-        self.description = self.get_description(data['description'])
-        self.profile_image = self.get_profile_depiction(data['depictions'])
-        self.alias = data['names']
-        self.begin = self.get_date(data['when']['timespans'], 'start')
-        self.end = self.get_date(data['when']['timespans'], 'end')
-        self.relations = self.get_relations(data['relations'])
-        self.depictions = self.get_depiction(data['depictions'])
+        self.description = self.get_description(data['descriptions'])
+        self.system_class = uc_first(data['systemClass'])
+        self.profile_image = self.get_profile_depiction(data['depictions']) if 'depictions' in data else None
+        self.alias = data['names'] if 'names' in data else None
+        # self.begin = self.get_date(data['when']['timespans'], 'start')  if 'depictions' in data else None
+        # self.end = self.get_date(data['when']['timespans'], 'end')  if 'depictions' in data else None
+        self.relations = self.get_relations(data['relations'])  if 'relations' in data else None
+        self.depictions = self.get_depiction(data['depictions'] if 'depictions' in data else None)
 
     # def get_basic_data(data):
     #     entity = {

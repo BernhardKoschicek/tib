@@ -2,6 +2,9 @@ import requests
 
 from tib import app
 
+def view_class(parameter: str):
+    url = f"{app.config['API_PATH']}/view_class/"
+    return requests.get(f"{url}{parameter}").json()['results']
 
 def system_class_results(parameter: str):
     url = f"{app.config['API_PATH']}/system_class/"
@@ -15,3 +18,4 @@ def typed_entities_all_results(id_: int):
 
 def api_call(url):
     return requests.get(url).json()['features'][0]
+

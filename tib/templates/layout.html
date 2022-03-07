@@ -68,11 +68,9 @@
 <script type="text/javascript"
         src="{{ url_for('static', filename='js/jumbotron.js') }}"></script>
 <script type="text/javascript"
-        src="{{ url_for('static', filename='js/datatables.js') }}"></script>
-<script type="text/javascript"
         src="{{ url_for('static', filename='js/navbar.js') }}"></script>
 <script type="text/javascript"
-        src="{{ url_for('static', filename='js/test.js') }}"></script>
+        src="{{ url_for('static', filename='js/accent_neutralise.js') }}"></script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init();
@@ -82,6 +80,10 @@ $(document).ready(function () {
         columnDefs: [{
             targets: 3,
             render: $.fn.dataTable.render.ellipsis( 200, true, false)
+        },
+            {
+            targets: 1,
+            render: $.fn.dataTable.render.ellipsis( 50, true, false)
         }]
     });
 });

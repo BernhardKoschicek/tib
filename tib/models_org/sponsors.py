@@ -1,7 +1,7 @@
 from typing import Any, Dict
 
 from tib.models_org.entity import Entity
-from tib.util.api_calls import api_call, typed_entities_all_results
+from tib.util.api_calls import api_call, get_typed_entities_all_results
 
 
 class Sponsors(Entity):
@@ -15,7 +15,7 @@ class Sponsors(Entity):
     @staticmethod
     def get_sponsors(id_):
         return [Sponsors(sponsor['features'][0]) for sponsor in
-                typed_entities_all_results(id_)]
+                get_typed_entities_all_results(id_)]
 
 # def get_sponsor_entity(data):
 #     entity = get_basic_data(data)

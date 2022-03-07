@@ -1,9 +1,9 @@
-<div class="container-fluid">
+<div class="container">
   <div class="row text-center">
     <h1 class="display-4">Bereisungen</h1>
   </div>
-  <div class="row justify-content-center text-center pt-3">
-    <div class="col-8">
+  <div class="row text-xxl-end text-center pt-3">
+    <div class="col-xxl-6">
       <p>Ein nicht wegzudenkender Bestandteil unserer Arbeit in der TIB Balkan
         sind Bereisungen in jene Gebiete der Balkanhalbinsel, über die wir
         forschen und schreiben. Unsere Vorbereitungen auf solche Bereisungen
@@ -21,26 +21,16 @@
         zuständigen Behörden, Forschungseinrichtungen und FachkollegInnen vor
         Ort.</p>
     </div>
-  </div>
-  <div class="row justify-content-center text-center pt-3">
-    <div class="ratio-16x9 img-fluid">
-      <video loop autoplay muted class="img-fluid">
-        <source src="{{ url_for('static', filename='/video/travel_to_bonce.mp4') }}"
-                type="video/mp4">
 
-        Your browser does not support the video tag.
-      </video>
+    <div class="col-xxl-6 align-self-center text-center pt-3 ">
+      <div class="img-fluid">
+        <video loop autoplay muted class="img-fluid">
+          <source src="{{ url_for('static', filename='/video/travel_to_bonce.mp4') }}"
+                  type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
     </div>
   </div>
-
-  <div class="splide">
-  <div class="splide__track">
-		<div class="splide__list">
-			<div class="splide__slide">Slide 01</div>
-			<div class="splide__slide">Slide 02</div>
-			<div class="splide__slide">Slide 03</div>
-		</div>
-  </div>
-</div>
 
 </div>

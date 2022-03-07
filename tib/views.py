@@ -3,7 +3,7 @@ from flask import render_template
 from tib import app
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
-from tib.data.oa_access import get_actors
+from tib.data.oa_access import get_data_from_oa, get_entity_from_oa
 from tib.data.subprojects import subprojects_dict
 from tib.data.team import team_members
 from tib.data.tib_volumes import tib_volumes_dict
@@ -29,7 +29,7 @@ def team() -> str:
 
 @app.route('/tib-volumes')
 @app.route('/tib-volumes/<volume>')
-def tib_volumes(volume=None):
+def tib_volumes(volume: str = None) -> str:
     if volume:
         return render_template(
             f'tib_volumes/volume.html',
@@ -41,7 +41,7 @@ def tib_volumes(volume=None):
 
 @app.route('/subprojects')
 @app.route('/subprojects/<project>')
-def subprojects(project=None):
+def subprojects(project: str = None) -> str:
     if project:
         return render_template(
             f'subprojects/subproject.html',
@@ -52,15 +52,29 @@ def subprojects(project=None):
 
 
 @app.route('/öffentlichskeitsarbeit')
-def outreach():
+def outreach() -> str:
     return render_template('outreach/outreach.html')
 
 
 @app.route('/tib-interface')
-def access_tib_oa():
+@app.route('/tib-interface/<call>')
+def access_tib_oa(call: str = None) -> str:
     return render_template(
-        'digital/access_tib_oa.html',
-        actors=get_actors())
+        'digital/entity_table.html',
+        data=get_data_from_oa(call))
+
+
+@app.route('/entity/<id_>')
+def entity_view(id_: int = None) -> str:
+    return render_template(
+        'digital/entity_view.html',
+        entity=get_entity_from_oa(id_))
+
+
+@app.route('/digital/')
+def digital() -> str:
+    return render_template(
+        'digital/digital.html')
 
 
 # @app.route('/subprojects')

@@ -75,32 +75,31 @@
                 {% for object, values in subprojects_dict.items() %}
                   <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
                           id="tab-{{ object }}"
-                          data-bs-toggle="tab" data-bs-target="#nav-home"
-                          type="button" role="tab" aria-controls="nav-home"
+                          data-bs-toggle="tab" data-bs-target="#{{ object }}"
+                          type="button" role="tab" aria-controls="{{ object }}"
                           aria-selected="true">
                     {{ object.upper() }}
                   </button>
-                  <div class="tab-content" id="tabContent-project-discovery">
-                    <div class="tab-pane fade show active" id="{{ object }}"
-                         role="tabpanel" aria-labelledby="tab-{{ object }}">TEST
-                    </div>
-                  </div>
-                  </div>
+
 
                 {% endfor %}
+              </div>
+            </nav>
+            <div class="tab-content" id="tabContent-project-discovery">
+              {% for object, values in subprojects_dict.items() %}
+                <div class="tab-pane fade {% if loop.first %}active show {% endif %}"
+                     id="{{ object }}"
+                     role="tabpanel" aria-labelledby="tab-{{ object }}">
+                  {{ values['title'] }}
+                </div>
+              {% endfor %}
+            </div>
 
+          </div>
         </div>
-<<<<<<< HEAD
-        </nav>
-    </div>
-    </div>
-  </section>
-
-=======
       </section>
     </div>
   </section>
->>>>>>> 49b55cd (fixed tab)
 
 
 {% endblock %}

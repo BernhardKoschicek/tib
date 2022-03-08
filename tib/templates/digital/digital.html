@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 {% block title %}Digitales{% endblock %}
 {% block content %}
-  <section class="text-center py-5">
+  <section class="py-5">
     <div class="container top5">
-      <div class="col-md-12 ">
-        <h1 class="display-1 text-center">Die digitale Ära</h1>
+      <div class="col-md-12 text-center">
+        <h1 class="display-1">Die digitale Ära</h1>
         <p>Unsere oben genannten Teilprojekte haben die TIB Balkan mit ihren
           neuen
           Methoden und Kapazitäten in die digitale Ära gebracht. Wir schreiben
@@ -36,9 +36,64 @@
           in
           Byzantium (TIB Balkans)“. </p>
       </div>
+      <section id="section_3dobjects">
+        <div class="col-md-12 top5">
+          <h1 class="display-4">3D Objekte</h1>
+          <hr>
+          <div class="row">
+            {% for object, values in objects3d.items() %}
+              <div class="col-xxl-4 px-5 py-5" data-aos="zoom-in-up">
+                <div class="hover_effect">
+                  <img src="{{ url_for('static', filename=values['icon']) }}"
+                       class="img-fluid" alt="{{ object }}Icon">
+                  <div class="overlay">
+                    <a href="{{ url_for('static', filename=values['path']) }}">
+                      <h1 class="display-1 text-white">{{ (object.replace('_', ' ')) }}</h1>
+                      <p>{{ values['title'] }}</p>
+                      <div class="pt-5">
+                        {{ icon_description(values['icon_description']) }}
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
 
+      <section id="section_discover">
+        <div class="col-md-12 top5">
+          <h1 class="display-4">Projektdaten entdecken</h1>
+          <hr>
+          <div class="row">
+            <nav>
+              <div class="nav nav-tabs" id="tab-project-discovery"
+                   role="tablist">
+                {% for object, values in subprojects_dict.items() %}
+                  <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
+                          id="tab-{{ object }}"
+                          data-bs-toggle="tab" data-bs-target="#nav-home"
+                          type="button" role="tab" aria-controls="nav-home"
+                          aria-selected="true">
+                    {{ object.upper() }}
+                  </button>
+                  <div class="tab-content" id="tabContent-project-discovery">
+                    <div class="tab-pane fade show active" id="{{ object }}"
+                         role="tabpanel" aria-labelledby="tab-{{ object }}">TEST
+                    </div>
+                  </div>
+                  </div>
 
+                {% endfor %}
 
+        </div>
+        </nav>
     </div>
+    </div>
+  </section>
+
+
+
   </section>
 {% endblock %}

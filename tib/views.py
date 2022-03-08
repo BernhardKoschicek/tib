@@ -1,6 +1,7 @@
 from flask import render_template
 
 from tib import app
+from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
 from tib.data.oa_access import get_data_from_oa, get_entity_from_oa
@@ -74,7 +75,9 @@ def entity_view(id_: int = None) -> str:
 @app.route('/digital/')
 def digital() -> str:
     return render_template(
-        'digital/digital.html')
+        'digital/digital.html',
+        objects3d=objects3d,
+        subprojects_dict=subprojects_dict)
 
 
 # @app.route('/subprojects')

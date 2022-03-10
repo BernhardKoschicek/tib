@@ -1,10 +1,15 @@
 {% extends "layout.html" %}
 {% block title %}TIB OpenAtlas Access{% endblock %}
 {% block content %}
+  <div class="container top5 text-center">
+    <h1 class="display-6">{{ project['title'] }}</h1>
+    <h3> {{ view_classes['display_name'] }}</h3>
+  </div>
   <section>
-    <div class="container top7">
+    <div class="container">
       <div class="col-md-12 ">
-        <table id="actor_table" class="table table-striped hover order-column" style="width:100%">
+        <table id="actor_table" class="table table-striped hover order-column"
+               style="width:100%">
           <thead>
           <tr>
             <th>ID</th>
@@ -16,8 +21,12 @@
           <tbody>
           {% for entity in data %}
             <tr>
-              <td> {{ entity.id_ }}</td>
-              <td> {{ entity.name }}</td>
+              <td>
+                <a href="{{ url_for('entity_view', id_=entity.id_) }}">{{ entity.id_ }}</a>
+              </td>
+              <td>
+                <a href="{{ url_for('entity_view', id_=entity.id_) }}">{{ entity.name }}</a>
+              </td>
               <td> {{ entity.system_class }}</td>
               <td> {{ entity.description }}</td>
             </tr>

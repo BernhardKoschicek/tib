@@ -4,7 +4,8 @@ from tib import app
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
-from tib.data.oa_access import get_data_from_oa, get_entity_from_oa
+from tib.data.oa_access import get_entity_from_oa, \
+    get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects_dict
 from tib.data.team import team_members
 from tib.data.tib_volumes import tib_volumes_dict
@@ -57,14 +58,6 @@ def outreach() -> str:
     return render_template('outreach/outreach.html')
 
 
-@app.route('/tib-interface')
-@app.route('/tib-interface/<call>')
-def access_tib_oa(call: str = None) -> str:
-    return render_template(
-        'digital/entity_table.html',
-        data=get_data_from_oa(call))
-
-
 @app.route('/entity/<id_>')
 def entity_view(id_: int = None) -> str:
     return render_template(
@@ -77,7 +70,20 @@ def digital() -> str:
     return render_template(
         'digital/digital.html',
         objects3d=objects3d,
-        subprojects_dict=subprojects_dict)
+        subprojects_dict=subprojects_dict,
+        view_classes=view_classes)
+
+
+@app.route('/digital/<project>/<view>')
+def digital_oa_access(project: str, view: str) -> str:
+    return render_template(
+        'digital/entity_table.html',
+        data=get_oa_by_view_class(view, subprojects_dict[project]['oaID']),
+        project=subprojects_dict[project],
+        view_classes=view_classes[view])
+
+
+
 
 
 # @app.route('/subprojects')

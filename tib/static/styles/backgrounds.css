@@ -1,0 +1,84 @@
+
+.actor-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/actor.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.actor-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/actor.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.place-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/place.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.place-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/place.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.event-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/event.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.event-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/event.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.source-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/source.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.source-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/source.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.reference-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/reference.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.reference-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/reference.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.artifact-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) center center / cover no-repeat, url(../images/oa_access/artifact.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.artifact-background:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) center center / cover no-repeat, url(../images/oa_access/artifact.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}

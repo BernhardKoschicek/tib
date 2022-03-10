@@ -40,62 +40,17 @@
 
       <section id="section_3dobjects">
         <div class="col-md-12 top5">
-          <h1 class="display-4">3D Objekte</h1>
-          <hr>
-          <div class="row">
-            {% for object, values in objects3d.items() %}
-              <div class="col-xxl-4 px-5 py-5" data-aos="zoom-in-up">
-                <div class="hover_effect">
-                  <img src="{{ url_for('static', filename=values['icon']) }}"
-                       class="img-fluid" alt="{{ object }}Icon">
-                  <div class="overlay">
-                    <a href="{{ url_for('static', filename=values['path']) }}">
-                      <h1 class="display-1 text-white">{{ (object.replace('_', ' ')) }}</h1>
-                      <p>{{ values['title'] }}</p>
-                      <div class="pt-5">
-                        {{ icon_description(values['icon_description']) }}
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            {% endfor %}
-          </div>
+          {% with objects3d=objects3d %}
+            {% include "digital/3dobjects.html" %}
+          {% endwith %}
         </div>
       </section>
 
       <section id="section_discover">
         <div class="col-md-12 top5">
-          <h1 class="display-4">Projektdaten entdecken</h1>
-          <hr>
-          <div class="row">
-            <nav>
-              <div class="nav nav-tabs" id="tab-project-discovery"
-                   role="tablist">
-                {% for object, values in subprojects_dict.items() %}
-                  <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
-                          id="tab-{{ object }}"
-                          data-bs-toggle="tab" data-bs-target="#{{ object }}"
-                          type="button" role="tab" aria-controls="{{ object }}"
-                          aria-selected="true">
-                    {{ object.upper() }}
-                  </button>
-
-
-                {% endfor %}
-              </div>
-            </nav>
-            <div class="tab-content" id="tabContent-project-discovery">
-              {% for object, values in subprojects_dict.items() %}
-                <div class="tab-pane fade {% if loop.first %}active show {% endif %}"
-                     id="{{ object }}"
-                     role="tabpanel" aria-labelledby="tab-{{ object }}">
-                  {{ values['title'] }}
-                </div>
-              {% endfor %}
-            </div>
-
-          </div>
+          {% with subprojects_dict=subprojects_dict, view_classes=view_classes%}
+            {% include "digital/discover.html" %}
+          {% endwith %}
         </div>
       </section>
     </div>

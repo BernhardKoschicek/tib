@@ -1,5 +1,6 @@
 subprojects_dict = {
     'holdura': {
+        'oaID': 117730,
         'title':
             """Jenseits von Ost und West: die Geokommunikation der 
             „Heiligen Landschaften“ (Sacred Landscapes) von „Duklja“ und „Raška“ 
@@ -15,6 +16,7 @@ subprojects_dict = {
             '(M. St. Popović, TIB 17)'
     },
     'borderzones': {
+        'oaID': 9962,
         'title':
             'Byzantinisch-Serbische Grenzräume in Transition: Migration und '
             'Elitenwechsel im vor-osmanischen Mazedonien (1282-1355)',
@@ -29,10 +31,11 @@ subprojects_dict = {
             ', 2008 (M. St. Popović, TIB 16)'
     },
     'montenegro': {
+        'oaID': 0,
         'title':
             'Cultural Heritage in Times of World War I: The Case of the '
             'Austro-Hungarian Relief Map of Montenegro (1916-1918)',
-        'project_number': 'FWF-DFG Projekt, I 4330-G',
+        'project_number': 'OeAD Projekt, ME 07/2019',
         'question':
             'Was blieb von der österreichisch-ungarischen Besetzung '
             'Montenegros im Ersten Weltkrieg?',
@@ -42,6 +45,7 @@ subprojects_dict = {
             'Jahren 1916/17, Montenegro, 2020 (Bernhard Koschiček-Krombholz)'
     },
     'digtib': {
+        'oaID': 124483,
         'title':
             'Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum '
             'Weltkulturerbe',

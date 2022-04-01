@@ -105,7 +105,7 @@ INSTITUTES = {
         'address': ''}}
 
 
-@jinja2.contextfilter
+@jinja2.pass_context
 @blueprint.app_template_filter()
 def display_menu(self: Any, route: str, category: str) -> str:
     menu = {
@@ -123,7 +123,7 @@ def display_menu(self: Any, route: str, category: str) -> str:
     return html
 
 
-@jinja2.contextfilter
+@jinja2.pass_context
 @blueprint.app_template_filter()
 def include_css(self: Any, route: str) -> str:
     css = ''
@@ -133,7 +133,7 @@ def include_css(self: Any, route: str) -> str:
                f' href="/static/styles/{style}.css">'
     return css
 
-@jinja2.contextfilter
+@jinja2.pass_context
 @blueprint.app_template_filter()
 def display_institutes(self: Any, institutes: Iterator) -> str:
     html = ''
@@ -146,7 +146,7 @@ def display_institutes(self: Any, institutes: Iterator) -> str:
     return html
 
 
-@jinja2.contextfilter
+@jinja2.pass_context
 @blueprint.app_template_filter()
 def display_sponsors(self: Any, institutes: Iterator) -> str:
     html = '<div>'

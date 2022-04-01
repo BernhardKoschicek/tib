@@ -12,6 +12,7 @@ from tib.data.tib_volumes import tib_volumes_dict
 
 
 @app.route('/')
+@app.route('/balkan')
 def home() -> str:
     return render_template(
         'home/home.html',
@@ -22,15 +23,15 @@ def home() -> str:
         team=team_members)
 
 
-@app.route('/team')
+@app.route('/balkan/team')
 def team() -> str:
     return render_template(
         'team/team.html',
         team=team_members)
 
 
-@app.route('/tib-volumes')
-@app.route('/tib-volumes/<volume>')
+@app.route('/balkan/tib-volumes')
+@app.route('/balkan/tib-volumes/<volume>')
 def tib_volumes(volume: str = None) -> str:
     if volume:
         return render_template(
@@ -41,8 +42,8 @@ def tib_volumes(volume: str = None) -> str:
             'tib_volumes/tib_volumes.html')
 
 
-@app.route('/subprojects')
-@app.route('/subprojects/<project>')
+@app.route('/balkan/subprojects')
+@app.route('/balkan/subprojects/<project>')
 def subprojects(project: str = None) -> str:
     if project:
         return render_template(
@@ -53,19 +54,19 @@ def subprojects(project: str = None) -> str:
             'subprojects/subproject_overview.html')
 
 
-@app.route('/öffentlichskeitsarbeit')
+@app.route('/balkan/öffentlichskeitsarbeit')
 def outreach() -> str:
     return render_template('outreach/outreach.html')
 
 
-@app.route('/entity/<id_>')
+@app.route('/balkan/entity/<id_>')
 def entity_view(id_: int = None) -> str:
     return render_template(
         'digital/entity_view.html',
         entity=get_entity_from_oa(id_))
 
 
-@app.route('/digital/')
+@app.route('/balkan/digital/')
 def digital() -> str:
     return render_template(
         'digital/digital.html',
@@ -74,7 +75,7 @@ def digital() -> str:
         view_classes=view_classes)
 
 
-@app.route('/digital/<project>/<view>')
+@app.route('/balkan/digital/<project>/<view>')
 def digital_oa_access(project: str, view: str) -> str:
     return render_template(
         'digital/entity_table.html',

@@ -8,7 +8,7 @@ if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
     app.config.from_pyfile('production.py')
 
 from tib.util import filters, util
-from tib import views
+from tib import views_balkan
 from tib.models_org import team
 
 

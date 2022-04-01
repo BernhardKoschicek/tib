@@ -23,14 +23,15 @@
 </div>
 
 
-<div class="container-fluid">
+<div class="container">
   {% for project, detail in subprojects.items() %}
     <div class="row my-5 py-2 project-background {{ loop.cycle('flex-row', 'flex-row-reverse') }}"
          data-aos="{{ loop.cycle('fade-right', 'fade-left') }}">
       <div class="col-2">
         <a href="{{ url_for('subprojects', filename=project) }}">
           <img src="{{ url_for('static', filename=detail['icon']) }}"
-               class="mx-auto d-block rounded-3">
+               class="mx-auto d-block rounded-3"
+                alt="{{ project }}">
         </a>
       </div>
       <div class="col-8 {{ loop.cycle('text-end', 'text-start') }}">

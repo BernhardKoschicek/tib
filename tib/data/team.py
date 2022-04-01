@@ -28,7 +28,8 @@ team_members = {
         'image': '/images/team/bernhard.jpg',
         'image_small': '/images/team/200/bernhard.jpg',
         'cv-text': '',
-        'cv-link': 'https://www.oeaw.ac.at/fileadmin/Institute/imafo/pdf/forschung/byzanzforschung/KoschCV2021.pdf',
+        'cv-link': 'https://www.oeaw.ac.at/fileadmin/Institute/'
+                   'imafo/pdf/forschung/byzanzforschung/KoschCV2021.pdf',
         'academia': 'https://oeaw.academia.edu/BernhardKoschicek',
         'email': 'bernhard.koschicek-krombholz@oeaw.ac.at',
     },

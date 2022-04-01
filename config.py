@@ -1,5 +1,4 @@
 # Don't edit this file. To override settings please use instance/production.py
-from tib import app
 
 VERSION = '0.1.0'
 LANGUAGES = {'de': 'Deutsch'}
@@ -12,4 +11,3 @@ REMEMBER_COOKIE_SECURE = True
 SESSION_COOKIE_SAMESITE = 'Lax'
 
 API_PATH = ''
-

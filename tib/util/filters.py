@@ -1,7 +1,6 @@
-from typing import Any, Iterator
+from typing import Iterator
 
 import flask
-import jinja2
 from flask import url_for
 
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
@@ -35,7 +34,8 @@ INSTITUTES = {
         'name': 'Abteilung Byzanzforschung (ABF)',
         'url': 'https://www.oeaw.ac.at/en/byzantine-research/',
         'logo': 'byzantine_research.jpg',
-        'member': 'Österreichische Akademie der Wissenschaften (ÖAW) <br> Institut für Mittelalterforschung (IMAFO)',
+        'member': 'Österreichische Akademie der Wissenschaften (ÖAW) '
+                  '<br> Institut für Mittelalterforschung (IMAFO)',
         'address': 'Hollandstraße 11-13<br> 1020 Wien<br> Österreich'},
     'ACDH': {
         'name': 'Austrian Centre for Digital Humanities and Cultural Heritage',
@@ -105,9 +105,8 @@ INSTITUTES = {
         'address': ''}}
 
 
-@jinja2.pass_context
 @blueprint.app_template_filter()
-def display_menu(self: Any, route: str, category: str) -> str:
+def display_menu(route: str, category: str) -> str:
     menu = {
         'tib': ['longterm', 'team', 'tib', 'publications', 'youth', 'outreach'],
         'sub': ['longterm'],
@@ -123,9 +122,9 @@ def display_menu(self: Any, route: str, category: str) -> str:
     return html
 
 
-@jinja2.pass_context
+
 @blueprint.app_template_filter()
-def include_css(self: Any, route: str) -> str:
+def include_css(route: str) -> str:
     css = ''
     for style in ['style', 'burger', 'navbar', 'parallax', 'footer',
                   'image_hover_effect', 'backgrounds']:
@@ -133,39 +132,41 @@ def include_css(self: Any, route: str) -> str:
                f' href="/static/styles/{style}.css">'
     return css
 
-@jinja2.pass_context
+
 @blueprint.app_template_filter()
-def display_institutes(self: Any, institutes: Iterator) -> str:
+def display_institutes(institutes: Iterator) -> str:
     html = ''
     for short_name in institutes:
         institute = INSTITUTES[short_name]
-        html += '''
-            <a href="{url}" target="_blank">
-                <img src="/static/images/institutes/{logo}" alt="{name}" title="{name}"  style="display: unset;">
-            </a>'''.format(url=institute['url'], logo=institute['logo'], name=institute['name'])
+        html += f'''<a href="{institute['url']}" target="_blank">
+                <img src="/static/images/institutes/{institute['logo']}" 
+                alt="{institute['name']}" title="{institute['name']}"  
+                style="display: unset;">
+            </a>'''
     return html
 
 
-@jinja2.pass_context
 @blueprint.app_template_filter()
-def display_sponsors(self: Any, institutes: Iterator) -> str:
+def display_sponsors(institutes: Iterator) -> str:
     html = '<div>'
     for short_name in institutes:
         institute = INSTITUTES[short_name]
-        html += '''
+        html += f'''
                 <div class="row">
                     <div class="col-sm-4">
-                        <h6>{name}</h6>
-                        <p>{member}</p>
-                        <p>{address}</p>
-                        <p><a href="{url}" target="_blank">{url}</a></p>
+                        <h6>{institute['name']}</h6>
+                        <p>{institute['member']}</p>
+                        <p>{institute['address']}</p>
+                        <p><a href="{institute['url']}" 
+                        target="_blank">{institute['url']}</a></p>
                     </div>
                     <div class="col-sm-4">
-                        <a href="{url}" target="_blank">
-                            <img src="/static/images/institutes/{logo}" alt="{name}" title="{name}" style="max-height: 200px">
+                        <a href="{institute['url']}" target="_blank">
+                        <img src="/static/images/institutes/{institute['logo']}" 
+                        alt="{institute['name']}" 
+                        title="{institute['name']}" style="max-height: 200px">
                         </a>
                     </div>
                 </div>
-                '''.format(url=institute['url'], logo=institute['logo'], name=institute['name'],
-                           member=institute['member'], address=institute['address'])
+                '''
     return html + '</div>'

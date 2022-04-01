@@ -103,8 +103,6 @@ tib17 = {
     """,
 }
 
-
-
 tib_volumes_dict = {
     'TIB_11': {
         'title': 'Makedonien, südlicher Teil',

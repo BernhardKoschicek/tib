@@ -1,6 +1,4 @@
-from typing import Optional
-
-from tib.models_org.entity import Entity
+from tib.model.entity import Entity
 from tib.util.api_calls import get_entity, get_view_class
 
 view_classes = {
@@ -24,8 +22,7 @@ view_classes = {
         'description': 'Physische Objekte'}}
 
 
-
-def get_oa_by_view_class(view: str, project_id: int) -> list[Entity]:
+def get_oa_by_view_class(view: str, project_id: object) -> list[Entity]:
     if view not in view_classes:
         return []
     data = [Entity(entry['features'][0])

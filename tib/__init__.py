@@ -1,15 +1,28 @@
 from pathlib import Path
 
-from flask import Flask, Response, request
+from flask_babel import Babel
+from flask import Flask, Response, g, request, session
+from flask_wtf.csrf import CSRFProtect
 
 app = Flask(__name__, instance_relative_config=True)
+csrf = CSRFProtect(app)
+babel = Babel(app)
 app.config.from_object('config')  # type: ignore
 if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
     app.config.from_pyfile('production.py')
 
+# pylint: disable=wrong-import-position, import-outside-toplevel
 from tib.util import filters, util
 from tib import views_balkan
-from tib.models_org import team
+from tib.model import team
+
+
+@babel.localeselector
+def get_locale() -> str:
+    if 'language' in session:
+        return session['language']
+    best_match = request.accept_languages.best_match(app.config['LANGUAGES'])
+    return best_match if best_match else g.settings['default_language']
 
 
 @app.before_request

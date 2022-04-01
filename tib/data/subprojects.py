@@ -2,14 +2,13 @@ subprojects_dict = {
     'holdura': {
         'oaID': 117730,
         'title':
-            """Jenseits von Ost und West: die Geokommunikation der 
-            „Heiligen Landschaften“ (Sacred Landscapes) von „Duklja“ und „Raška“ 
-             durch Raum und Zeit (11.-14. Jahrhundert)""",
+            'Jenseits von Ost und West: die Geokommunikation der „Heiligen '
+            'Landschaften“ (Sacred Landscapes) von „Duklja“ und „Raška“ durch '
+            'Raum und Zeit (11.-14. Jahrhundert)',
         'project_number': 'FWF-DFG Projekt, I 4330-G',
         'question':
-            """Läßt sich im jetzigen Montenegro eine „heilige 
-            Landschaft“ aus mittelalterlichen Kirchen und Klöstern 
-            rekonstruieren?""",
+            'Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ '
+            'aus mittelalterlichen Kirchen und Klöstern rekonstruieren?',
         'icon': 'images/projects/holdura_icon.jpg',
         'icon_description':
             'Die Bucht von Kotor, Montenegro, 2021 '

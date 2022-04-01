@@ -1,3 +1,5 @@
+from typing import Any
+
 from flask import render_template
 
 from tib import app
@@ -35,11 +37,9 @@ def team() -> str:
 def tib_volumes(volume: str = None) -> str:
     if volume:
         return render_template(
-            f'tib_volumes/volume.html',
+            'tib_volumes/volume.html',
             tib_volume=tib_volumes_dict[volume])
-    else:
-        return render_template(
-            'tib_volumes/tib_volumes.html')
+    return render_template('tib_volumes/tib_volumes.html')
 
 
 @app.route('/balkan/subprojects')
@@ -47,11 +47,9 @@ def tib_volumes(volume: str = None) -> str:
 def subprojects(project: str = None) -> str:
     if project:
         return render_template(
-            f'subprojects/subproject.html',
+            'subprojects/subproject.html',
             subproject=subprojects_dict[project])
-    else:
-        return render_template(
-            'subprojects/subproject_overview.html')
+    return render_template('subprojects/subproject_overview.html')
 
 
 @app.route('/balkan/öffentlichskeitsarbeit')
@@ -60,7 +58,7 @@ def outreach() -> str:
 
 
 @app.route('/balkan/entity/<id_>')
-def entity_view(id_: int = None) -> str:
+def entity_view(id_: int) -> str:
     return render_template(
         'digital/entity_view.html',
         entity=get_entity_from_oa(id_))
@@ -75,16 +73,13 @@ def digital() -> str:
         view_classes=view_classes)
 
 
-@app.route('/balkan/digital/<project>/<view>')
+@app.route('/digital/<project>/<view>')
 def digital_oa_access(project: str, view: str) -> str:
     return render_template(
         'digital/entity_table.html',
         data=get_oa_by_view_class(view, subprojects_dict[project]['oaID']),
         project=subprojects_dict[project],
         view_classes=view_classes[view])
-
-
-
 
 
 # @app.route('/subprojects')
@@ -156,5 +151,5 @@ def model():
 
 
 @app.errorhandler(404)
-def page_not_found(e: Exception) -> tuple:
+def page_not_found(e: Exception) -> Any:
     return render_template('404.html', e=e), 404

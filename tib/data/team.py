@@ -1,3 +1,5 @@
+from flask_babel import _
+
 team_members = {
     'mihailo': {
         'name': 'Mihailo St. Popović',
@@ -24,7 +26,7 @@ team_members = {
     'bernhard': {
         'name': 'Bernhard Koschiček-Krombholz',
         'title': 'BA BSc',
-        'function': 'Programmierer',
+        'function': _('programmer'),
         'image': '/images/team/bernhard.jpg',
         'image_small': '/images/team/200/bernhard.jpg',
         'cv-text': '',

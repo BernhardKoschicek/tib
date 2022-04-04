@@ -1,0 +1,30 @@
+{% extends "balkan/layout.html" %}
+{% block title %}{{ projects['name'] }}{% endblock %}
+{% block content %}
+
+    <div class="container top7">
+        <h1 class="display-4 text-center">{{ projects['name'] }}</h1>
+
+        <div class="row pt-5">
+
+            <div class="col-8">
+                <p>{{ projects['description'] }}</p>
+            </div>
+
+            <div class="col-4 bg-light">
+{#                {% with sponsors=sponsors, projects=projects, team=team %}
+                    {% include 'projects/sidebar.html' %}
+                {% endwith %}#}
+                {{ sidebar | safe }}
+            </div>
+
+        </div>
+
+
+    </div>
+
+{% endblock %}
+
+
+
+

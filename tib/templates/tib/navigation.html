@@ -1,0 +1,24 @@
+<header>
+  <a href="{{ url_for('tib_home') }}">
+  <img id="tib-brand-image"
+       src="{{ url_for('static', filename='images/logo/brand.png') }}"
+       alt="TIB Logo" width="200">
+  </a>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-violet">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarNav" aria-controls="navbarNav"
+              aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-center"
+           id="navbarNav">
+        <ul class="navbar-nav">
+          {{ request.path |tib_menu()|safe }}
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+

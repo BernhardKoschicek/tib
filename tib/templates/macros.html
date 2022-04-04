@@ -1,0 +1,23 @@
+{% macro image_description(title) %}
+  <div class="row justify-content-end">
+    <div class="col-12 align-self-end">
+      <p>
+        <small class="image-description float-end bg-dark px-1">
+          {{ title }}
+        </small>
+      </p>
+    </div>
+  </div>
+{% endmacro %}
+
+{% macro box_description(title) %}
+  <div class="row justify-content-center">
+    <div class="col-12 align-self-center">
+      <p>
+        <small class="image-description">
+          {{ title }}
+        </small>
+      </p>
+    </div>
+  </div>
+{% endmacro %}

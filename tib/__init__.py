@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from flask_babel import Babel
-from flask import Flask, Response, g, request, session
+from flask import Flask, Response, request, session
 from flask_wtf.csrf import CSRFProtect
 
 app = Flask(__name__, instance_relative_config=True)
@@ -13,7 +13,7 @@ if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
 
 # pylint: disable=wrong-import-position, import-outside-toplevel
 from tib.util import filters, util
-from tib import views_balkan
+from tib.views import tib, balkan
 from tib.model import team
 
 

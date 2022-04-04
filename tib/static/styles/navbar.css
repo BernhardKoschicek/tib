@@ -4,6 +4,11 @@
     transition: height 200ms linear;
 }
 
+#tib-brand-image {
+    display: block;
+    margin: 20px auto;
+}
+
 @media (min-width: 992px) {
     .brand {
         margin-left: auto;
@@ -21,6 +26,7 @@
     }
 }
 
+
 .navigation {
     background-color: unset;
     transition: background-color 200ms linear;
@@ -32,5 +38,19 @@
     transition: background-color 200ms linear;
 }
 
+.nav-item {
+    font-size: 1.4em;
+}
+
+@media only screen and (min-width: 992px) {
+    .navbar .navbar-nav .nav-item .nav-link {
+        padding: 0 0.5em;
+    }
+
+    .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+        border-right: 2px solid #000000;
+        border-right-color: rgba(255,255,255,.55) ;
+    }
+}
 
 

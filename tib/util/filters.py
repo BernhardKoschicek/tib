@@ -2,6 +2,7 @@ from typing import Iterator
 
 import flask
 from flask import url_for
+from markupsafe import Markup
 
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
@@ -113,21 +114,33 @@ def display_menu(route: str, category: str) -> str:
         'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''
     for item in menu[category]:
-        active = ''
-        if route.startswith('/' + item):
-            active = 'active'
+        active = 'active' if route.startswith('/' + item) else ''
         html += f'<li class="nav-item {active}">' \
                 f'<a class="nav-link" href="{url_for(item)}">' \
                 f'{item.title().replace("_", " ")}</a> </li>'
-    return html
+    return Markup(html)
 
+
+@blueprint.app_template_filter()
+def tib_menu(route: str) -> str:
+    menu_items = ['history', 'current_status', 'sub_projects',
+                  'publications', 'digtib', 'aieb', 'team']
+    html = ''
+    for item in menu_items:
+        active = 'active' if route.startswith('/' + item) else ''
+        html += f"""
+            <li class="nav-item">
+                <a class="nav-link {active}" href="{url_for(f'tib_{item}')}"
+                    >{item.title().replace("_", " ")}</a>
+            </li>"""
+    return Markup(html)
 
 
 @blueprint.app_template_filter()
 def include_css(route: str) -> str:
     css = ''
     for style in ['style', 'burger', 'navbar', 'parallax', 'footer',
-                  'image_hover_effect', 'backgrounds']:
+                  'image_hover_effect', 'boxes_background']:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css
@@ -143,7 +156,7 @@ def display_institutes(institutes: Iterator) -> str:
                 alt="{institute['name']}" title="{institute['name']}"  
                 style="display: unset;">
             </a>'''
-    return html
+    return Markup(html)
 
 
 @blueprint.app_template_filter()
@@ -169,4 +182,4 @@ def display_sponsors(institutes: Iterator) -> str:
                     </div>
                 </div>
                 '''
-    return html + '</div>'
+    return Markup(html + '</div>')

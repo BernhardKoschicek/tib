@@ -1,0 +1,96 @@
+{% extends "balkan/layout.html" %}
+{% block title %}Tabula Imperii Byzantini Balkan{% endblock %}
+{% block content %}
+  <div class="jumbotron">
+    <div class="container-fluid">
+      <div class="row vh-100 justify-content-center">
+        {% for name, item in front_menu.items() %}
+          <div class="col-lg-3 align-self-center text-center m-3 fade-in-images">
+            <div class="text-center">
+              <h2 class="">{{ item.title }}</h2>
+            </div>
+          </div>
+
+        {% endfor %}
+        {{ image_description(img_description['ohrid_see']) }}
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container-fluid top10">
+    {% include 'balkan/home/tib_intro.html' %}
+  </div>
+
+  <div id="plx-prilep-plain">
+    <div class="container-fluid">
+      {{ image_description(img_description['prilep_plain']) }}
+    </div>
+  </div>
+
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/upcoming_volumes.html' %}
+  </div>
+
+  <div id="plx-church">
+    <div class="container-fluid">
+      {{ image_description(img_description['church']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/projects.html' %}
+  </div>
+
+  <div id="plx-river">
+    <div class="container-fluid">
+      {{ image_description(img_description['river']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/team.html' %}
+  </div>
+
+  <div id="plx-travel">
+    <div class="container-fluid">
+      {{ image_description(img_description['travel']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/travel.html' %}
+  </div>
+
+  <div id="plx-map" class="top5">
+    <div class="container-fluid">
+      {{ image_description(img_description['map']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/cartography.html' %}
+  </div>
+
+  <div id="plx-digital" >
+    <div class="container-fluid">
+      {{ image_description(img_description['digital']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/digital.html' %}
+  </div>
+
+  <div id="plx-outreach" >
+    <div class="container-fluid">
+      {{ image_description(img_description['outreach']) }}
+    </div>
+  </div>
+
+  <div class="container-fluid top5 min-vh-100">
+    {% include 'balkan/home/outreach.html' %}
+  </div>
+
+{% endblock content %}

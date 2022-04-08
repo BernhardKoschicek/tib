@@ -2480,7 +2480,7 @@ textarea.form-control-lg {
   clip: rect(0, 0, 0, 0);
   pointer-events: none;
 }
-.btn-check[disabled] + .btn, .btn-check:disabled + .btn {
+.btn-check[disabled] + .counter-btn, .btn-check:disabled + .counter-btn {
   pointer-events: none;
   filter: none;
   opacity: 0.65;
@@ -2658,11 +2658,11 @@ textarea.form-control-lg {
 .input-group > .form-select:focus {
   z-index: 3;
 }
-.input-group .btn {
+.input-group .counter-btn {
   position: relative;
   z-index: 2;
 }
-.input-group .btn:focus {
+.input-group .counter-btn:focus {
   z-index: 3;
 }
 
@@ -2684,7 +2684,7 @@ textarea.form-control-lg {
 .input-group-lg > .form-control,
 .input-group-lg > .form-select,
 .input-group-lg > .input-group-text,
-.input-group-lg > .btn {
+.input-group-lg > .counter-btn {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
   border-radius: 0.3rem;
@@ -2693,7 +2693,7 @@ textarea.form-control-lg {
 .input-group-sm > .form-control,
 .input-group-sm > .form-select,
 .input-group-sm > .input-group-text,
-.input-group-sm > .btn {
+.input-group-sm > .counter-btn {
   padding: 0.25rem 0.5rem;
   font-size: 0.875rem;
   border-radius: 0.2rem;
@@ -2872,7 +2872,7 @@ textarea.form-control-lg {
   margin-left: 0.5em;
 }
 
-.btn {
+.counter-btn {
   display: inline-block;
   font-weight: 400;
   line-height: 1.5;
@@ -2892,18 +2892,18 @@ textarea.form-control-lg {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
-  .btn {
+  .counter-btn {
     transition: none;
   }
 }
-.btn:hover {
+.counter-btn:hover {
   color: #212529;
 }
-.btn-check:focus + .btn, .btn:focus {
+.btn-check:focus + .counter-btn, .counter-btn:focus {
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
-.btn:disabled, .btn.disabled, fieldset:disabled .btn {
+.counter-btn:disabled, .counter-btn.disabled, fieldset:disabled .counter-btn {
   pointer-events: none;
   opacity: 0.65;
 }
@@ -3360,13 +3360,13 @@ textarea.form-control-lg {
   color: #6c757d;
 }
 
-.btn-lg, .btn-group-lg > .btn {
+.btn-lg, .btn-group-lg > .counter-btn {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
   border-radius: 0.3rem;
 }
 
-.btn-sm, .btn-group-sm > .btn {
+.btn-sm, .btn-group-sm > .counter-btn {
   padding: 0.25rem 0.5rem;
   font-size: 0.875rem;
   border-radius: 0.2rem;
@@ -3717,23 +3717,23 @@ textarea.form-control-lg {
   display: inline-flex;
   vertical-align: middle;
 }
-.btn-group > .btn,
-.btn-group-vertical > .btn {
+.btn-group > .counter-btn,
+.btn-group-vertical > .counter-btn {
   position: relative;
   flex: 1 1 auto;
 }
-.btn-group > .btn-check:checked + .btn,
-.btn-group > .btn-check:focus + .btn,
-.btn-group > .btn:hover,
-.btn-group > .btn:focus,
-.btn-group > .btn:active,
-.btn-group > .btn.active,
-.btn-group-vertical > .btn-check:checked + .btn,
-.btn-group-vertical > .btn-check:focus + .btn,
-.btn-group-vertical > .btn:hover,
-.btn-group-vertical > .btn:focus,
-.btn-group-vertical > .btn:active,
-.btn-group-vertical > .btn.active {
+.btn-group > .btn-check:checked + .counter-btn,
+.btn-group > .btn-check:focus + .counter-btn,
+.btn-group > .counter-btn:hover,
+.btn-group > .counter-btn:focus,
+.btn-group > .counter-btn:active,
+.btn-group > .counter-btn.active,
+.btn-group-vertical > .btn-check:checked + .counter-btn,
+.btn-group-vertical > .btn-check:focus + .counter-btn,
+.btn-group-vertical > .counter-btn:hover,
+.btn-group-vertical > .counter-btn:focus,
+.btn-group-vertical > .counter-btn:active,
+.btn-group-vertical > .counter-btn.active {
   z-index: 1;
 }
 
@@ -3746,18 +3746,18 @@ textarea.form-control-lg {
   width: auto;
 }
 
-.btn-group > .btn:not(:first-child),
+.btn-group > .counter-btn:not(:first-child),
 .btn-group > .btn-group:not(:first-child) {
   margin-left: -1px;
 }
-.btn-group > .btn:not(:last-child):not(.dropdown-toggle),
-.btn-group > .btn-group:not(:last-child) > .btn {
+.btn-group > .counter-btn:not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:last-child) > .counter-btn {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
 }
-.btn-group > .btn:nth-child(n+3),
-.btn-group > :not(.btn-check) + .btn,
-.btn-group > .btn-group:not(:first-child) > .btn {
+.btn-group > .counter-btn:nth-child(n+3),
+.btn-group > :not(.btn-check) + .counter-btn,
+.btn-group > .btn-group:not(:first-child) > .counter-btn {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
@@ -3773,12 +3773,12 @@ textarea.form-control-lg {
   margin-right: 0;
 }
 
-.btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
+.btn-sm + .dropdown-toggle-split, .btn-group-sm > .counter-btn + .dropdown-toggle-split {
   padding-right: 0.375rem;
   padding-left: 0.375rem;
 }
 
-.btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {
+.btn-lg + .dropdown-toggle-split, .btn-group-lg > .counter-btn + .dropdown-toggle-split {
   padding-right: 0.75rem;
   padding-left: 0.75rem;
 }
@@ -3788,21 +3788,21 @@ textarea.form-control-lg {
   align-items: flex-start;
   justify-content: center;
 }
-.btn-group-vertical > .btn,
+.btn-group-vertical > .counter-btn,
 .btn-group-vertical > .btn-group {
   width: 100%;
 }
-.btn-group-vertical > .btn:not(:first-child),
+.btn-group-vertical > .counter-btn:not(:first-child),
 .btn-group-vertical > .btn-group:not(:first-child) {
   margin-top: -1px;
 }
-.btn-group-vertical > .btn:not(:last-child):not(.dropdown-toggle),
-.btn-group-vertical > .btn-group:not(:last-child) > .btn {
+.btn-group-vertical > .counter-btn:not(:last-child):not(.dropdown-toggle),
+.btn-group-vertical > .btn-group:not(:last-child) > .counter-btn {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
-.btn-group-vertical > .btn ~ .btn,
-.btn-group-vertical > .btn-group:not(:first-child) > .btn {
+.btn-group-vertical > .counter-btn ~ .counter-btn,
+.btn-group-vertical > .btn-group:not(:first-child) > .counter-btn {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
@@ -4602,7 +4602,7 @@ textarea.form-control-lg {
   display: none;
 }
 
-.btn .badge {
+.counter-btn .badge {
   position: relative;
   top: -1px;
 }

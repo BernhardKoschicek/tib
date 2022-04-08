@@ -3,8 +3,6 @@ body {
 }
 
 
-
-
 .jumbotron {
     color: white;
     background-image: url(../images/start.jpg);
@@ -144,12 +142,14 @@ video {
     box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
 
 }
-a.oa-access-tab-boxes{
+
+a.oa-access-tab-boxes {
     color: white;
 }
+
 a.oa-access-tab-boxes:hover {
     color: white;
-    background-color: rgba(67,57,28,0.43);
+    background-color: rgba(67, 57, 28, 0.43);
 }
 
 
@@ -158,31 +158,69 @@ a.oa-access-tab-boxes:hover {
 }
 
 .btn-violet {
-  color: #fff;
-  background-color: #4f1b3c;
-  border-color: #4f1b3c;
+    color: #fff;
+    background-color: #4f1b3c;
+    border-color: #4f1b3c;
 }
+
 .btn-violet:hover {
-  color: #fff;
-  background-color: #3b1a2f;
-  border-color: #34172a;
+    color: #fff;
+    background-color: #3b1a2f;
+    border-color: #34172a;
 }
+
 .btn-check:focus + .btn-violet, .btn-violet:focus {
-  color: #fff;
-  background-color: #3b1a2f;
-  border-color: #34172a;
-  box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+    color: #fff;
+    background-color: #3b1a2f;
+    border-color: #34172a;
+    box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
 }
+
 .btn-check:checked + .btn-violet, .btn-check:active + .btn-violet, .btn-violet:active, .btn-violet.active, .show > .btn-violet.dropdown-toggle {
-  color: #fff;
-  background-color: #3b1a2f;
-  border-color: #34172a;
+    color: #fff;
+    background-color: #3b1a2f;
+    border-color: #34172a;
 }
+
 .btn-check:checked + .btn-violet:focus, .btn-check:active + .btn-violet:focus, .btn-violet:active:focus, .btn-violet.active:focus, .show > .btn-violet.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+    box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
 }
+
 .btn-violet:disabled, .btn-violet.disabled {
-  color: #fff;
-  background-color: #4f1b3c;
-  border-color: #4f1b3c;
+    color: #fff;
+    background-color: #4f1b3c;
+    border-color: #4f1b3c;
+}
+
+
+.counter-style {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.counter-block {
+    height: 30vh;
+}
+
+.counter-wow {
+    visibility: hidden;
+}
+
+.counter-btn {
+    display: block;
+    margin: 30px auto;
+    font-size: 20px;
+}
+
+.counter-btn .counter-fas {
+
+    font-size: 18px;
+}
+
+
+.quotes {
+    border-left: .35rem solid #4f1b3c;
+    border-top: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
 }

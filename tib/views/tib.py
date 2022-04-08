@@ -1,6 +1,7 @@
 from flask import render_template
 
 from tib import app
+from tib.data.tib.counter import counter
 from tib.data.tib.jumbotron import front_jumbotron
 
 
@@ -8,7 +9,8 @@ from tib.data.tib.jumbotron import front_jumbotron
 def tib_home() -> str:
     return render_template(
         'tib/frontpage/frontpage.html',
-        jumbotron=front_jumbotron)
+        jumbotron=front_jumbotron,
+        counter=counter)
 
 
 @app.route('/history')

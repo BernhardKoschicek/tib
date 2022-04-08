@@ -36,13 +36,14 @@
       <a type="button" data-bs-toggle="collapse"
          href="#introCollapse" role="button"
          aria-expanded="false" aria-controls="collapseExample"
-      class="text-decoration-none">
+         class="text-decoration-none">
         Read more...
       </a>
     </p>
-    <div class="collapse" id="introCollapse">
+    <div class="collapse container-fluid" id="introCollapse">
       <p>
-        Individual regions are represented on maps on a scale of 1 : 800,000. A
+        Individual regions are represented on maps on a scale of 1 :
+        800,000. A
         separate
         accompanying volume provides
         the results of further research in each region. Each volume contains
@@ -52,31 +53,40 @@
         administrative
         history, church
         history and
-        monasticism, traffic routes, economy and demographic trends. The main
+        monasticism, traffic routes, economy and demographic trends. The
+        main
         part
         of each volume
         consists of an
-        alphabetical catalogue of all toponyms, hydronyms etc. that were known
+        alphabetical catalogue of all toponyms, hydronyms etc. that were
+        known
         in
         Byzantine times.
         Also included are the
         historical places, whose historical names are unknown, but for whose
         existence there is (or
         there was)
-        archaeological evidence. Written sources (from Late Antiquity to Early
+        archaeological evidence. Written sources (from Late Antiquity to
+        Early
         Modern Times) and
         archaeological
-        materials elucidate the history of individual places, along with brief
+        materials elucidate the history of individual places, along with
+        brief
         descriptions of
         monuments, both those
-        that are known to have existed and those that are still preserved. The
+        that are known to have existed and those that are still preserved.
+        The
         aforesaid results are
         enriched by
         systematic field research in order to verify, modify or complete the
         information of the
         sources.
       </p>
-      <p>
+
+      <img src="{{ url_for('static', filename='images/frontmap.png') }}"
+           class="col-5 mx-auto d-block img-fluid img-thumbnail">
+
+      <p class="pt-2">
         Since 1986 new methods have been included into the scholarly work of the
         TIB, namely:
         studies of Palaeo-climate
@@ -96,5 +106,24 @@
       </p>
     </div>
 
+  </div>
+
+  <div class="container top5">
+    <div class="row" id="counter_frontpage">
+      {% for key, value in counter.items() %}
+        <div class='col-3 pb-4 text-center align-content-center'>
+          <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
+          <br>
+          <span class="{{ key }} counter-style"
+                data-from="0" data-to="{{ value['count'] }}"
+                data-time="3000"></span>
+          <br>
+          <span style="     font-size: 12px;
+     letter-spacing: 2px;
+     text-transform: uppercase">{{ value['description'] }}</span>
+
+        </div>
+      {% endfor %}
+    </div>
   </div>
 {% endblock %}

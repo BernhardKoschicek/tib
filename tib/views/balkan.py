@@ -3,7 +3,7 @@ from typing import Any
 from flask import render_template
 
 from tib import app
-from tib.data.balkan.balkan_volumen import tib_volumes_dict
+from tib.data.balkan.balkan_volumen import tib_volumen_dict
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
@@ -20,7 +20,7 @@ def home() -> str:
         'balkan/home/home.html',
         front_menu=front_menu,
         img_description=home_images,
-        tib_volumes=tib_volumes_dict,
+        tib_volumen=tib_volumen_dict,
         subprojects=subprojects_dict,
         team=team_members)
 
@@ -38,7 +38,7 @@ def tib_volumen(volume: str = None) -> str:
     if volume:
         return render_template(
             'balkan/tib_volumen/volume.html',
-            tib_volume=tib_volumes_dict[volume])
+            tib_volume=tib_volumen_dict[volume])
     return render_template('balkan/tib_volumen/tib_volumes.html')
 
 

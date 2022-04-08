@@ -103,7 +103,7 @@ tib17 = {
     """,
 }
 
-tib_volumes_dict = {
+tib_volumen_dict = {
     'TIB_11': {
         'title': 'Makedonien, südlicher Teil',
         'author': 'Peter Soustal',

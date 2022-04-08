@@ -3,6 +3,7 @@ from flask import render_template
 from tib import app
 from tib.data.tib.counter import counter
 from tib.data.tib.jumbotron import front_jumbotron
+from tib.data.tib.tib_volumen import tib_volumes_dict
 
 
 @app.route('/')
@@ -19,8 +20,15 @@ def tib_history() -> str:
 
 
 @app.route('/current_status')
-def tib_current_status() -> str:
-    return render_template('tib/current_status/current_status.html')
+@app.route('/current_status/tib-volumen/<volume>')
+def tib_current_status(volume: str = None) -> str:
+    if volume:
+        return render_template(
+            'tib/current_status/volume.html',
+            tib_volume=tib_volumes_dict[volume])
+    return render_template(
+        'tib/current_status/current_status.html',
+        tib_volumen=tib_volumes_dict)
 
 
 @app.route('/sub_projects')

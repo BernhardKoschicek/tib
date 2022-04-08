@@ -20,7 +20,7 @@
   <title>{% block title %}Tabula Imperii Bynzantini {% endblock %}</title>
 </head>
 <body>
-
+{%  from 'macros.html' import image_description, box_description with context %}
 
 {% include 'tib/navigation.html' %}
 

@@ -1,44 +1,55 @@
 {% extends "tib/layout.html" %}
 {% block title %}Current Status{% endblock %}
 {% block content %}
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  Tasdadsdadasdargs
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
-  TETATAETEATAE <br />
+  <div class="container pt-5">
+    <div class="text-center">
+      <h1 class="display-3">Tabula Imperii Byzntini</h1>
+      <h2 class="display-4">Volumina in Progress</h2>
+    </div>
+    <p class="pt-5">
+      After the presentation of the project "Tabula Imperii Byzantini (TIB)" by
+      Prof. Dr. Herbert Hunger (1914-2000) in Oxford in 1966, the Austrian
+      Academy of Sciences established officially the "Kommission für die Tabula
+      Imperii Byzantini / Commission of the Tabula Imperii Byzantini" on 23
+      November 1966. Its first chairman was Prof. Hunger from 1966 until 1995.
+      In 1995 Prof. Dr. Johannes Koder became chairman of the Commission and,
+      thus, of the overall project of the TIB.
+      From 1 January 2006 until 30 June 2012 the "Kommission für die Tabula
+      Imperii Byzantini / Commission of the Tabula Imperii Byzantini" was
+      incorporated into the then newly established Institute of Byzantine
+      Studies of the Austrian Academy of Sciences. Since 1 July 2012 the TIB is
+      an integral part of the Institute for Medieval Research, Division of
+      Byzantine Research. It was accepted by the Union Académique Internationale
+      in Brussels in 2015. At the same time (2015) the TIB was included into the
+      scheme of Long-Term-Projects at the Austrian Academy of Sciences based on
+      excellent international evaluations, recognising as two Project Leaders of
+      the project Prof. Dr. Andreas Külzer (Asia Minor) and Doz. Mag. Dr.
+      Mihailo Popović (Balkans).
+    </p>
+    <h2 class="display-6">Scholarly work on current volumes is in different
+      stages of preparation:</h2>
+
+
+  <div class="row justify-content-md-center">
+    {% for tib, volume in tib_volumen.items() %}
+      <div class="col-md-12 col-xl-6 col-xxl-6 px-5 py-5" data-aos="zoom-in-up">
+        <div class="hover_effect">
+          <img src="{{ url_for('static', filename=volume['icon']) }}"
+               class="img-fluid" alt="{{ tib }}Icon">
+          <div class="overlay">
+            <a href="{{ url_for('tib_current_status', volume=tib) }}">
+              <h1 class="display-1 text-white">{{ (tib.replace('_', ' ')) }}</h1>
+              <p>{{ volume['title'] }}</p>
+              <div class="pt-5">
+                {{ box_description(volume['icon_description']) }}
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
+
+
 {% endblock %}

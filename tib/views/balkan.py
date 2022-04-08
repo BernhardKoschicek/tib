@@ -3,6 +3,7 @@ from typing import Any
 from flask import render_template
 
 from tib import app
+from tib.data.balkan.balkan_volumen import tib_volumes_dict
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.index import front_menu
@@ -10,7 +11,6 @@ from tib.data.oa_access import get_entity_from_oa, \
     get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects_dict
 from tib.data.team import team_members
-from tib.data.tib_volumes import tib_volumes_dict
 
 
 @app.route('/')
@@ -32,14 +32,14 @@ def team() -> str:
         team=team_members)
 
 
-@app.route('/balkan/tib-volumes')
-@app.route('/balkan/tib-volumes/<volume>')
-def tib_volumes(volume: str = None) -> str:
+@app.route('/balkan/tib-volumen')
+@app.route('/balkan/tib-volumen/<volume>')
+def tib_volumen(volume: str = None) -> str:
     if volume:
         return render_template(
-            'balkan/tib_volumes/volume.html',
+            'balkan/tib_volumen/volume.html',
             tib_volume=tib_volumes_dict[volume])
-    return render_template('balkan/tib_volumes/tib_volumes.html')
+    return render_template('balkan/tib_volumen/tib_volumes.html')
 
 
 @app.route('/balkan/subprojects')

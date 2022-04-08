@@ -18,11 +18,9 @@ home_images = {
 }
 
 project_icons = {
-    'tib11': 'Reste einer spätrömischen Brücke (3. Jh.) in Kleidion, '
-             'Griechenland, 2004 (P. Soustal, TIB 11)',
-    'tib16': 'Spuren einer frühchristlichen Basilika (5. Jh.) auf der Insel '
-             'Golem Grad, Republik Nordmazedonien, 2017 '
-             '(M. St. Popović, TIB 16)',
-    'tib17': 'Die österreichisch-ungarische Festung Kabala auf der Halbinsel '
-             'Luštica, Montenegro, 2021 (M. St. Popović, TIB 17)',
+    'tib11': 'Sithonia Peninsula, bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)',
+    'tib14': 'Sardis west of modern Salihli, Lydia (TIB 14, A. Külzer, 2013)',
+    'tib16': 'Traces of a early christian basilica (5. cent) at the island of Golem Grad, Repbulic of Northmacedonia, 2017 (M. St. Popović, TIB 16)',
+    'tib17': 'Austro-Hungarian fortress Kabala on the peninsula uštica, Montenegro, 2021 (M. St. Popović, TIB 17)',
+    'tib18': 'Kaunos and its Marshy Harbour (TIB 8 und TIB 18, F. Hild, 1994)'
 }

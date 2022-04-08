@@ -1,23 +1,22 @@
 objects3d = {
     "montenegro-relief": {
         "title": "Relief Montenegro",
-        "icon": "images/cetinje_relief_icon.jpg",
+        "icon": "images/boxes_background/cetinje_relief_icon.jpg",
         "icon_description": "",
         "path": "3dhop/relief.html",
     },
     "icon": {
         "title": "Maria Ikone",
-        "icon": "images/icon_icon.jpg",
+        "icon": "images/boxes_background/icon_icon.jpg",
         "icon_description": "",
         "path": "3dhop/icon.html",
     },
     "mitra": {
         "title": "Mitra des Decanski",
-        "icon": "images/mitra_icon.jpg",
+        "icon": "images/boxes_background/mitra_icon.jpg",
         "icon_description": "",
         "path": "3dhop/mitra.html",
     },
-
 }
 
 

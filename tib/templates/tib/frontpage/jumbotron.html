@@ -1,0 +1,43 @@
+<div id="carouselTIBFront" class="carousel slide carousel-fade"
+     data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    {% for entry in jumbotron %}
+      <button type="button" data-bs-target="#carouselTIBFront"
+              data-bs-slide-to="{{ loop.index0 }}"
+              {% if loop.first %}class="active"
+              aria-current="true"{% endif %} aria-label="{{ entry }}">
+      </button>
+    {% endfor %}
+  </div>
+  <div class="carousel-inner">
+    {% for key, value in jumbotron.items() %}
+      <div class="carousel-item {% if loop.first %}active{% endif %}">
+        <img src="{{ url_for('static', filename='images/jumbotron/' + key + '.jpg') }}"
+             class="d-block w-100" alt="{{ key }}">
+        <div class="carousel-caption d-none d-md-block position-absolute">
+          <div class="py-5 px-5 rounded-3 text-start text-dark"
+               style="background-color: rgba(255,255,255,0.9)">
+            <h1 class="display-4">{{ value['title'] }}</h1>
+             <hr class="my-4">
+            <p style="font-size: 1.5rem">{{ value['text'] }}</p>
+            <a class="btn btn-violet bg-violet btn-lg" href="{{ url_for(key) }}" role="button">Learn
+              more</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <button class="carousel-control-prev" type="button"
+          style="background-image: linear-gradient(to right, rgba(0,0,0,0.85), rgba(255,255,255,0));"
+          data-bs-target="#carouselTIBFront" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button"
+          style="background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(0,0,0,0.85));"
+
+          data-bs-target="#carouselTIBFront" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>

@@ -2,10 +2,8 @@ body {
     background-color: #fffff7;
 }
 
-/* Jumbotron */
-.bg-violet {
-    background-color: #78314c;
-}
+
+
 
 .jumbotron {
     color: white;
@@ -152,4 +150,39 @@ a.oa-access-tab-boxes{
 a.oa-access-tab-boxes:hover {
     color: white;
     background-color: rgba(67,57,28,0.43);
+}
+
+
+.bg-violet {
+    background-color: #4f1b3c;
+}
+
+.btn-violet {
+  color: #fff;
+  background-color: #4f1b3c;
+  border-color: #4f1b3c;
+}
+.btn-violet:hover {
+  color: #fff;
+  background-color: #3b1a2f;
+  border-color: #34172a;
+}
+.btn-check:focus + .btn-violet, .btn-violet:focus {
+  color: #fff;
+  background-color: #3b1a2f;
+  border-color: #34172a;
+  box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+}
+.btn-check:checked + .btn-violet, .btn-check:active + .btn-violet, .btn-violet:active, .btn-violet.active, .show > .btn-violet.dropdown-toggle {
+  color: #fff;
+  background-color: #3b1a2f;
+  border-color: #34172a;
+}
+.btn-check:checked + .btn-violet:focus, .btn-check:active + .btn-violet:focus, .btn-violet:active:focus, .btn-violet.active:focus, .show > .btn-violet.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+}
+.btn-violet:disabled, .btn-violet.disabled {
+  color: #fff;
+  background-color: #4f1b3c;
+  border-color: #4f1b3c;
 }

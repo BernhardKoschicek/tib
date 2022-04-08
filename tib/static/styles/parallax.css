@@ -1,5 +1,5 @@
 #plx-prilep-plain {
-    background: url(../images/parallax_home.jpg);
+    background: url(../images/plx/plx_home.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -7,7 +7,7 @@
     height: 70vh;
 }
 #plx-church {
-    background: url(../images/plx_church.jpg);
+    background: url(../images/plx/plx_church.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@
 }
 
 #plx-river {
-    background: url(../images/plx_river.jpg);
+    background: url(../images/plx/plx_river.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,7 +25,7 @@
 }
 
 #plx-travel {
-    background: url(../images/plx_travel.jpg);
+    background: url(../images/plx/plx_travel.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 }
 
 #plx-map {
-    background: url(../images/plx_map.jpg);
+    background: url(../images/plx/plx_map.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@
 }
 
 #plx-digital {
-    background: url(../images/plx_digital.jpg);
+    background: url(../images/plx/plx_digital.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@
     height: 70vh;
 }
 #plx-outreach {
-    background: url(../images/plx_outreach.jpg);
+    background: url(../images/plx/plx_outreach.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

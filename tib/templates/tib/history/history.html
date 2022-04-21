@@ -1,10 +1,10 @@
 {% extends "tib/layout.html" %}
 {% block title %}History{% endblock %}
 {% block content %}
-  <div class="container pt-5">
+  <div class="container top7">
     <div class="text-center">
       <h1 class="display-4">Brief History of the</h1>
-      <h1 class="display-3">Tabula Imperii Byzntini</h1>
+      <h1 class="display-3 fw-bold">Tabula Imperii Byzntini</h1>
     </div>
     <hr class="my-4">
     <a type="button" data-bs-toggle="collapse"
@@ -19,24 +19,19 @@
       of Sciences at the XIIIth International Congress of Byzantine Studies in
       Oxford in the year 1966, he indicated at the same time preliminary
       studies, which had served as a model for the new project:
-      <a type="button" data-bs-toggle="collapse"
-         href="#beginning" role="button"
-         aria-expanded="false" aria-controls="collapseExample"
-         class="text-decoration-none">
-        Read more...
-      </a>
     </p>
+    {{ read_more('beginning') }}
     <div class="collapse container-fluid" id="beginning">
       <div class="row top5 d-flex justify-content-center align-items-center">
         <div class="col-md-8 col-xl-8">
-          <figure class="bg-light p-3 quotes">
+          <figure class="bg-violet p-3 quotes">
             <i class="bi bi-quote" style="color: #4f1b3c; font-size: 2rem;"></i>
             <blockquote class="blockquote pb-2">
               <p>
                 In Analogie zu der von der Union Académique Internationale
                 herausgegebenen Tabula Imperii Romani bereitet das Institut die
                 Publikation eines Atlas des byzantinischen Reiches vor, der in
-                rund 35 Kartenblättern (1 : 1,000,000) und ebenso vielen
+                rund 35 Kartenblättern (1:1,000,000) und ebenso vielen
                 zugehörigen Faszikeln alle Städte und grösseren Orte des
                 Ostimperiums enthalten soll. Einige Spezialkarten in grösserem
                 Massstab werden für besondere Gebiete notwendig sein.</p>
@@ -69,7 +64,7 @@
         War
         it was placed under the supervision of the Union Académique
         Internationale. Its aim consists in publishing an atlas of the Roman
-        Empire on the scale of 1 : 1,000,000 with accompanying volumes
+        Empire on the scale of 1:1,000,000 with accompanying volumes
         containing
         historical and bibliographical data for each locality shown on the maps.
         Fifteen sheets were published between 1932 and the Second World War.
@@ -109,18 +104,13 @@
       After the publication of the first volume and on the basis of the
       experience gathered during its writing Johannes Koder described the aim of
       the project in the following manner:
-      <a type="button" data-bs-toggle="collapse"
-         href="#first_volume" role="button"
-         aria-expanded="false" aria-controls="collapseExample"
-         class="text-decoration-none">
-        Read more...
-      </a>
     </p>
+    {{ read_more('first_volume') }}
     <div class="collapse container-fluid" id="first_volume">
       <div class="container py-5 h-100">
         <div class="row d-flex justify-content-center align-items-center h-100">
           <div class="col-md-12 col-xl-10">
-            <figure class="bg-light p-3 quotes">
+            <figure class="bg-violet p-3 quotes">
               <i class="bi bi-quote"
                  style="color: #4f1b3c; font-size: 2rem;"></i>
               <blockquote class="blockquote pb-2">
@@ -157,21 +147,21 @@
         Ottoman conquest, in order to create an atlas of the aforesaid empire.
         The
         results of each TIB volume are presented to the reader on a map on the
-        scale of 1 : 800,000 with the headwords marked onto it. Special symbols
+        scale of 1:800,000 with the headwords marked onto it. Special symbols
         and combinations of colours indicate the nature of the monument and its
         dating. The maps also include historical places for whose existence
         there
         is only archaeological evidence without knowledge of their ancient
         (Byzantine) names.
       </p>
-      <p>The original plan to produce maps on the scale of 1 : 1,000,000 in the
+      <p>The original plan to produce maps on the scale of 1:1,000,000 in the
         style of the Tabula Imperii Romani (see above) had soon been abandoned
         and
         the former Institute of Cartography of the Austrian Academy of Sciences
         designed a map for the whole Mediterranean on the above-mentioned larger
         scale. This enabled a more thorough topographic approach and facilitated
         the entry of headwords. If necessary, even a larger scale is applied for
-        some regions (e.g. 1 : 400,000). The scholarly work of the TIB focuses
+        some regions (e.g. 1:400,000). The scholarly work of the TIB focuses
         on
         the regions / provinces of the Byzantine Empire. Therefore, borders had
         to
@@ -211,18 +201,13 @@
       subsequently presented to a wider audience at the XVIth International
       Congress of Byzantine Studies in Vienna in October 1981. The regions upon
       which research was to be conducted were initially chosen as follows:
-      <a type="button" data-bs-toggle="collapse"
-         href="#core" role="button"
-         aria-expanded="false" aria-controls="collapseExample"
-         class="text-decoration-none">
-        Read more...
-      </a>
     </p>
+    {{ read_more('core') }}
     <div class="collapse container-fluid" id="core">
       <div class="container py-5 h-100">
         <div class="row d-flex justify-content-center align-items-center h-100">
           <div class="col-md-12 col-xl-10">
-            <figure class="bg-light p-3 quotes">
+            <figure class="bg-violet p-3 quotes">
               <i class="bi bi-quote"
                  style="color: #4f1b3c; font-size: 2rem;"></i>
               <blockquote class="blockquote pb-2">
@@ -242,7 +227,6 @@
                       title="Source Title">Hellas und Thessalia, p. 8-10</cite>
               </figcaption>
             </figure>
-
           </div>
         </div>
       </div>

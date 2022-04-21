@@ -21,3 +21,16 @@
     </div>
   </div>
 {% endmacro %}
+
+
+{% macro read_more(target) %}
+    <p>
+      <a type="button" data-bs-toggle="collapse"
+         href="#{{ target }}" role="button"
+         aria-expanded="false" aria-controls="collapseExample"
+         class="text-decoration-none">
+        Read more...
+      </a>
+    </p>
+{% endmacro %}
+

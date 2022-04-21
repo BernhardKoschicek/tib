@@ -20,8 +20,18 @@
         transition: height 200ms linear;
     }
 
+    .brand-image-tib {
+        height: 100px;
+        transition: height 200ms linear;
+    }
+
     .brand-image.scrolled {
         height: 50px;
+        transition: height 200ms linear;
+    }
+
+    .brand-image-tib.scrolled {
+        height: 60px;
         transition: height 200ms linear;
     }
 }
@@ -38,19 +48,81 @@
     transition: background-color 200ms linear;
 }
 
+
+.navigation-tib {
+    background-color: rgba(255, 255, 255, 0.9);
+    transition: background-color 200ms linear;
+}
+
+.navigation-tib.scrolled {
+    background-color: rgba(255, 255, 255, 100) !important;
+    height: 80px;
+    transition: background-color 200ms linear;
+}
+
+.navbar a {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+}
+
+
 .nav-item {
     font-size: 1.4em;
 }
 
 @media only screen and (min-width: 992px) {
     .navbar .navbar-nav .nav-item .nav-link {
-        padding: 0 0.5em;
+        padding: 0 1em;
     }
 
     .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
-        border-right: 2px solid #000000;
-        border-right-color: rgba(255,255,255,.55) ;
+        border-right: 2px solid rgba(79, 27, 60, 0.9);
     }
 }
 
+
+.navbar-violet .navbar-brand {
+    color: rgba(79, 27, 60, 0.9);
+}
+
+.navbar-violet .navbar-brand:hover, .navbar-violet .navbar-brand:focus {
+    color: rgba(79, 27, 60, 0.9);
+}
+
+.navbar-violet .navbar-nav .nav-link {
+    color: rgba(79, 27, 60, 0.80);
+}
+
+.navbar-violet .navbar-nav .nav-link:hover, .navbar-violet .navbar-nav .nav-link:focus {
+    color: rgba(79, 27, 60, 0.6);
+}
+
+.navbar-violet .navbar-nav .nav-link.disabled {
+    color: rgba(79, 27, 60, 0.3);
+}
+
+.navbar-violet .navbar-nav .show > .nav-link,
+.navbar-violet .navbar-nav .nav-link.active {
+    color: rgba(79, 27, 60, 0.9);
+}
+
+.navbar-violet .navbar-toggler {
+    color: rgba(79, 27, 60, 0.55);
+    border-color: rgba(79, 27, 60, 0.1);
+}
+
+.navbar-violet .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-violet .navbar-text {
+    color: rgba(79, 27, 60, 0.55);
+}
+
+.navbar-violet .navbar-text a,
+.navbar-violet .navbar-text a:hover,
+.navbar-violet .navbar-text a:focus {
+    color: rgba(79, 27, 60, 0.9);
+}
 

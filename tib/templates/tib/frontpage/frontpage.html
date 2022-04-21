@@ -1,14 +1,38 @@
 {% extends "tib/layout.html" %}
 {% block title %}Tabula Imperii Byzantini{% endblock %}
 {% block content %}
+
+  <script>
+      var inited = false
+
+      function init() {
+          // init your chart
+          // code here run once on element with id="el" will in viewport
+      }
+
+      window.onscroll = function () {
+          if (inited) {
+              $('.tib_volumen').counter();
+              $('.tib_making').counter();
+              $('.article').counter();
+              $('.presentations').counter();
+              $('.books').counter();
+              $('.pictures').counter();
+              $('.travels').counter();
+          }
+          const counter = document.querySelector('[id="counter_frontpage"]')
+          if (counter.offsetTop >= window.innerHeight + document.body.scrollTop) {
+              inited = true
+              init()
+          }
+      };
+  </script>
   {% with jumbotron=jumbotron %}
     {% include 'tib/frontpage/jumbotron.html' %}
   {% endwith %}
-
-  <div class="container top5">
-    <h1 class="display-3 text-center">Long-Term Project</h1>
-    <h1 class="display-2 text-center">Tabula Imperii Byzantini (TIB)</h1>
-
+  <h1 class="display-3 text-center top3">Long-Term Project</h1>
+  <h1 class="display-2 text-center fw-bold">Tabula Imperii Byzantini</h1>
+  <div class="container top3 text-center">
     <p>
       Research on the Historical Geography of the Byzantine Empire at the
       Austrian Academy of Sciences in Vienna is conducted by the Tabula Imperii
@@ -33,13 +57,9 @@
       create a historical atlas of the Byzantine space from Late Antiquity to
       the Early Modern
       period.
-      <a type="button" data-bs-toggle="collapse"
-         href="#introCollapse" role="button"
-         aria-expanded="false" aria-controls="collapseExample"
-         class="text-decoration-none">
-        Read more...
-      </a>
+
     </p>
+    {{ read_more('introCollapse') }}
     <div class="collapse container-fluid" id="introCollapse">
       <p>
         Individual regions are represented on maps on a scale of 1 :
@@ -108,22 +128,53 @@
 
   </div>
 
-  <div class="container top5">
-    <div class="row" id="counter_frontpage">
+  <div class="container top3">
+    <div class="row justify-content-center" id="counter_frontpage">
       {% for key, value in counter.items() %}
-        <div class='col-3 pb-4 text-center align-content-center'>
+        <div class='col-3 top3 text-center align-content-center font-violet'>
           <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
           <br>
           <span class="{{ key }} counter-style"
                 data-from="0" data-to="{{ value['count'] }}"
-                data-time="3000"></span>
+                data-time="3000">
+
+          </span>
           <br>
-          <span style="     font-size: 12px;
-     letter-spacing: 2px;
-     text-transform: uppercase">{{ value['description'] }}</span>
+          <span class="counter-font">{{ value['description'] }}</span>
 
         </div>
       {% endfor %}
     </div>
   </div>
+
+  <div class="container top5">
+
+    <div class="row">
+      <div class="col-6 text-end">
+        <h1 class="display-4 ">TIB</h1>
+        <h1 class="display-4 ">Map Application</h1>
+        <p>
+          Our TIB map viewer is online!
+          Please feel free to
+          <a href="https://data1.geo.univie.ac.at/projects/tibapp/">browse
+          and test it</a>. It features selected data from the
+          TIB Balkans deriving from its
+          <a href="{{ url_for('tib_sub_projects') }}">sub-projects</a>
+          and is work in progress. If you have any questions or comments,
+          please feel free to contact:
+          <a href="mailto:Mihailo.Popovic@oeaw.ac.at">
+            Mihailo.Popovic@oeaw.ac.at
+          </a>
+        </p>
+      </div>
+      <div class="col-6">
+        <a href="https://data1.geo.univie.ac.at/projects/tibapp/">
+          <img src="{{ url_for('static', filename='images/mapviewer.gif') }}"
+               alt="TIB Map Viewer">
+        </a>
+      </div>
+    </div>
+
+  </div>
+
 {% endblock %}

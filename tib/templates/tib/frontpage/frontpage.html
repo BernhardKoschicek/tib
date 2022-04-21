@@ -3,7 +3,7 @@
 {% block content %}
 
   <script>
-      var inited = false
+      var notInited = true
 
       function init() {
           // init your chart
@@ -11,7 +11,7 @@
       }
 
       window.onscroll = function () {
-          if (inited) {
+          if (notInited) {
               $('.tib_volumen').counter();
               $('.tib_making').counter();
               $('.article').counter();
@@ -21,8 +21,8 @@
               $('.travels').counter();
           }
           const counter = document.querySelector('[id="counter_frontpage"]')
-          if (counter.offsetTop >= window.innerHeight + document.body.scrollTop) {
-              inited = true
+          if (counter.offsetTop >= window.innerHeight + document.body.scrollTop && notInited) {
+              notInited = false
               init()
           }
       };
@@ -165,6 +165,12 @@
           <a href="mailto:Mihailo.Popovic@oeaw.ac.at">
             Mihailo.Popovic@oeaw.ac.at
           </a>
+        </p>
+        <p class="text-center fw-bolder">
+           <a class="btn btn-violet bg-violet btn-lg"
+              href="https://data1.geo.univie.ac.at/projects/tibapp/">
+             Check it out now!
+           </a>
         </p>
       </div>
       <div class="col-6">

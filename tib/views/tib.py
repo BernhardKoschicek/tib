@@ -48,7 +48,7 @@ def tib_digtib() -> str:
 
 @app.route('/aieb')
 def tib_aieb() -> str:
-    return render_template('tib/current_status/current_status.html')
+    return render_template('tib/aieb/aieb.html')
 
 
 @app.route('/team')

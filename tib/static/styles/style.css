@@ -179,6 +179,10 @@ a.oa-access-tab-boxes:hover {
     background-color: #4f1b3c;
 }
 
+.bg-violet-light {
+    background-color: rgba(79, 27, 60, 0.38);
+}
+
 .btn-violet {
     color: #fff;
     background-color: #4f1b3c;

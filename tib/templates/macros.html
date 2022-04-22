@@ -26,11 +26,19 @@
 {% macro read_more(target) %}
     <p>
       <a type="button" data-bs-toggle="collapse"
-         href="#{{ target }}" role="button"
+         href="#{{ target }}" role="button" data-read-more="True"
          aria-expanded="false" aria-controls="collapseExample"
          class="text-decoration-none">
         Read more...
       </a>
     </p>
 {% endmacro %}
+
+
+
+
+{% macro header(title, bold) %}
+     <h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
+{% endmacro %}
+
 

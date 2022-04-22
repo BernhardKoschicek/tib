@@ -9,7 +9,7 @@
       </button>
     {% endfor %}
   </div>
-  <div class="carousel-inner">
+  <div class="carousel-inner top7">
     {% for key, value in jumbotron.items() %}
       <div class="carousel-item {% if loop.first %}active{% endif %}">
         <img src="{{ url_for('static', filename='images/jumbotron/' + key + '.jpg') }}"

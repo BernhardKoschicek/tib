@@ -81,6 +81,13 @@ p {
     color: #2c0f23;
 }
 
+table {
+        font-family: 'Merriweather', serif;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #2c0f23;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
     color: #4f1b3c;

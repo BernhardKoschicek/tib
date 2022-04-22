@@ -84,7 +84,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #4f1b3c;
 }
 
-
 .nopadding {
     padding: 0 !important;
     margin: 0 !important;
@@ -148,10 +147,10 @@ video {
 
 
 .tab-content {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    padding: 10px;
+    /*border-left: 1px solid #ddd;*/
+    /*border-right: 1px solid #ddd;*/
+    /*border-bottom: 1px solid #ddd;*/
+    /*padding: 10px;*/
 }
 
 .nav-tabs {

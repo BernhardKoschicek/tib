@@ -3,6 +3,7 @@ from flask import render_template
 from tib import app
 from tib.data.tib.counter import counter
 from tib.data.tib.jumbotron import front_jumbotron
+from tib.data.tib.publications import tib_publications_data
 from tib.data.tib.tib_volumen import tib_volumes_dict
 
 
@@ -38,7 +39,9 @@ def tib_sub_projects() -> str:
 
 @app.route('/publications')
 def tib_publications() -> str:
-    return render_template('tib/current_status/current_status.html')
+    return render_template(
+        'tib/publications/publications.html',
+        publications=tib_publications_data)
 
 
 @app.route('/digtib')

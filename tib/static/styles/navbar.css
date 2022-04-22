@@ -1,7 +1,7 @@
 /* Navbar */
 .brand-image {
     height: 50px;
-    transition: height 200ms linear;
+    transition: height 300ms linear;
 }
 
 #tib-brand-image {
@@ -17,47 +17,47 @@
 
     .brand-image {
         height: 100px;
-        transition: height 200ms linear;
+        transition: height 300ms linear;
     }
 
     .brand-image-tib {
         height: 100px;
-        transition: height 200ms linear;
+        transition: height 300ms linear;
     }
 
     .brand-image.scrolled {
         height: 50px;
-        transition: height 200ms linear;
+        transition: height 300ms linear;
     }
 
     .brand-image-tib.scrolled {
         height: 60px;
-        transition: height 200ms linear;
+        transition: height 300ms linear;
     }
 }
 
 
 .navigation {
     background-color: unset;
-    transition: background-color 200ms linear;
+    transition: background-color 300ms linear;
 }
 
 .navigation.scrolled {
     background-color: rgba(255, 255, 255, 0.8) !important;
     height: 80px;
-    transition: background-color 200ms linear;
+    transition: background-color 300ms linear;
 }
 
 
 .navigation-tib {
     background-color: rgba(255, 255, 255, 0.9);
-    transition: background-color 200ms linear;
+    transition: background-color 300ms linear;
 }
 
 .navigation-tib.scrolled {
     background-color: rgba(255, 255, 255, 100) !important;
     height: 80px;
-    transition: background-color 200ms linear;
+    transition: background-color 300ms linear;
 }
 
 .navbar a {
@@ -68,7 +68,7 @@
 
 
 .nav-item {
-    font-size: 1.4em;
+    font-size: 1em;
 }
 
 @media only screen and (min-width: 992px) {

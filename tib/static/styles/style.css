@@ -1,5 +1,7 @@
 body {
     background-color: #fffff7;
+    font-family: 'Merriweather', serif;
+     color: #2c0f23;
 }
 
 
@@ -74,29 +76,19 @@ a {
 }
 
 p {
-    font-family: 'Merriweather', serif;
-    font-size: 1.2em;
     letter-spacing: 0.1em;
-    font-weight: 500;
-    color: #2c0f23;
 }
 
-table {
-        font-family: 'Merriweather', serif;
-    font-size: 1.2em;
-    font-weight: 500;
-    color: #2c0f23;
-}
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather', serif;
     color: #4f1b3c;
 }
 
-.font-violet {
-    color: #2c0f23;
-}
 
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
 
 .top3 {
     margin-top: 3%;
@@ -181,13 +173,12 @@ a.oa-access-tab-boxes:hover {
 }
 
 
-
 .bg-violet {
     background-color: #4f1b3c;
 }
 
 .bg-violet-light {
-    background-color: rgba(79, 27, 60, 0.38);
+    background-color: rgba(79, 27, 60, 0.25);
 }
 
 .btn-violet {

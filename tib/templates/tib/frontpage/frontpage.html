@@ -32,7 +32,7 @@
   {% endwith %}
   <h1 class="display-4 text-center top3">Long-Term Project</h1>
   <h1 class="display-3 text-center fw-bold">Tabula Imperii Byzantini</h1>
-  <div class="container top3 text-center">
+  <div class="container top3 text-center fs-6">
     <p>
       Research on the Historical Geography of the Byzantine Empire at the
       Austrian Academy of Sciences in Vienna is conducted by the Tabula Imperii
@@ -131,7 +131,7 @@
   <div class="container top3">
     <div class="row justify-content-center" id="counter_frontpage">
       {% for key, value in counter.items() %}
-        <div class='col-3 top3 text-center align-content-center font-violet'>
+        <div class='col-3 top3 text-center align-content-center'>
           <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
           <br>
           <span class="{{ key }} counter-style"
@@ -151,9 +151,9 @@
 
     <div class="row">
       <div class="col-6 text-end">
-        <h1 class="display-4 ">TIB</h1>
-        <h1 class="display-4 ">Map Application</h1>
-        <p>
+        <h1 >TIB</h1>
+        <h1>Map Application</h1>
+        <p class="lead">
           Our TIB map viewer is online!
           Please feel free to
           <a href="https://data1.geo.univie.ac.at/projects/tibapp/">browse
@@ -161,12 +161,12 @@
           TIB Balkans deriving from its
           <a href="{{ url_for('tib_sub_projects') }}">sub-projects</a>
           and is work in progress. If you have any questions or comments,
-          please feel free to contact:
+          please feel free to contact
           <a href="mailto:Mihailo.Popovic@oeaw.ac.at">
-            Mihailo.Popovic@oeaw.ac.at
+            Mihailo Popović
           </a>
         </p>
-        <p class="text-center fw-bolder">
+        <p class="text-end fw-bolder">
           <a class="btn btn-violet bg-violet btn-lg"
              href="https://data1.geo.univie.ac.at/projects/tibapp/">
             Check it out now!

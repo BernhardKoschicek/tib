@@ -1,0 +1,68 @@
+{% extends "tib/layout.html" %}
+{% block title %}Current Status{% endblock %}
+{% block content %}
+
+
+  <div class="container-fluid top7">
+    <div class="row">
+      <div class="col-2 d-flex align-items-center text-center">
+        <div class="col">
+          <a href="{{ url_for('tib_current_status', volume=navigation[0] ) }}"
+             class="lead text-decoration-none fw-bold">
+            <p>
+              <i class="bi bi-arrow-left-square-fill display-6"></i>
+            </p>
+            <p>
+              {{ navigation[0] | replace('_', ' ') | upper }}
+            </p>
+          </a>
+        </div>
+      </div>
+      <div class="col-8">
+        <div class="text-center">
+          {{ header(code | replace('_', ' '), True) }}
+          {{ header(tib_volume['title'], False) }}
+        </div>
+        <div class="container">
+          <p class="p-2 text-center ">
+            {{ tib_volume['description'] }}
+          </p>
+          <div class="row">
+
+            {% for img in tib_volume['images'] %}
+              <div class="col-2">
+                <a href="{{ url_for('static', filename=img['path']) }}"
+                   class="text-decoration-none">
+                  <img src="{{ url_for('static', filename=img['path']) }}"
+                       alt="{{ img['description'] }}"
+                  class="img-fluid d-flex">
+
+                  <p class="small">{{ img['description'] }}</p>
+                </a>
+              </div>
+            {% endfor %}
+
+          </div>
+
+        </div>
+
+      </div>
+      <div class="col-2 d-flex align-items-center text-center">
+        <div class="col">
+          <a href="{{ url_for('tib_current_status', volume=navigation[1] ) }}"
+             class="lead text-decoration-none fw-bold">
+            <p>
+              <i class="bi bi-arrow-right-square-fill display-6"></i>
+            </p>
+            <p>
+              {{ navigation[1] | replace('_', ' ') | upper }}
+            </p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+{% endblock %}

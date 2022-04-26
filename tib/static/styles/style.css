@@ -75,6 +75,10 @@ a {
     color: #622449;
 }
 
+a:hover {
+  color: #98105d;
+}
+
 p {
     letter-spacing: 0.1em;
 }
@@ -84,6 +88,13 @@ h1, h2, h3, h4, h5, h6 {
     color: #4f1b3c;
 }
 
+.tooltip.show{
+    opacity: 1;
+}
+.tooltip-inner {
+    background-color: rgba(79, 27, 60, 1);
+
+}
 /* Popover Header */
 .popover-title {
     font-size: 1.25em;

@@ -1,0 +1,178 @@
+{% extends "tib/layout.html" %}
+{% block title %}Digitale TIB{% endblock %}
+{% block content %}
+  <div class="container-fluid top5">
+    <img src="{{ url_for('static', filename='images/logo/digtib.png') }}"
+         class="mx-auto d-block img-fluid">
+    <div class="text-center top3">
+      {{ header('Digital Tabula Imperii Byzntini', False) }}
+    </div>
+  </div>
+  <div class="container pt-3">
+    <p class="lead text-center py-2 px-2">
+      The initiatives in the field of Digital Humanities at the Austrian
+      Academy of Sciences and also the related developments in Byzantine
+      Studies in the last couple of years have encouraged the TIB to step up
+      its efforts to provide a platform for the adequate presentation and
+      sustainable usage of its data, which was and is published in respective
+      TIB volumes.
+    </p>
+    <div class="row top3">
+      {% for item in bar %}
+        <div class="col-3 text-center">
+          <a href="{% if item.link_type=='int' %}{{ url_for(item.link) }}{% else %}{{ item.link }}{% endif %}" class="text-decoration-none"
+             data-bs-toggle="tooltip" title="{{ item.tooltip }}">
+            <p class="lead">
+              <i class="bi {{ item.icon }} display-4"></i>
+            </p>
+            <h4>
+              {{ item.title }}
+            </h4>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="container pt-3">
+    <p class="small bg-violet-light px-3 py-3 text-center">
+      This page is the platform’s realisation and at the same time work in
+      progress, which has been initiated through the sub-project of the TIB
+      entitled <a href="#">"Die digitale Tabula Imperii Byzantini (Dig-TIB) als
+      Beitrag zum
+      Weltkulturerbe"</a>. This project was supported by funds of the
+      Oesterreichische Nationalbank (Austrian Central Bank, Anniversary Fund,
+      Project Number: 17771) from 1 March 2018 until 31 May 2020.
+    </p>
+    <p>
+      As a Long-Term Project of the Austrian Academy of Sciences the TIB is
+      pursuing three main lines of development:
+    </p>
+    <p>
+      1) The first line of development comprises the ongoing scholarly work and
+      resulting printed publications, i.e. the TIB volumes with their maps on a
+      scale of 1 : 800,000, following the Long-Term Project scheme of the
+      Austrian Academy of Sciences until 2027. On this basis the TIB volume
+      "Bithynia and Hellespont" (TIB 13, Klaus Belke) has been recently
+      published. Another volume – "Macedonia, Southern Part" (TIB 11, Peter
+      Soustal) is in press. Until 2027 the TIB volumes "Western Asia Minor:
+      Lydia and Asia" (TIB 14, Andreas Külzer), "Macedonia, Northern Part" (TIB
+      16, Mihailo St. Popović), "Nea Epeiros and Praevalis" (TIB 17, Mihailo
+      St. Popović) and "Caria" (TIB 18, Fritz Hild and Andreas Külzer) shall be
+      finished and published. Cf. on the current status of the TIB volumes in
+      detail: https://tib.oeaw.ac.at/index.php?seite=status
+    </p>
+    <p>
+      2) The second line of development is constituted by the scholarly,
+      archival and digital (re)processing of published and unpublished data of
+      the TIB, which has been collected from 1966 until 2016. The year 2016 is
+      to be discerned as a marker, because the TIB is since then following a
+      Long-Term Project scheme implemented at the Austrian Academy of Sciences.
+      Our published and unpublished data comprises three main collections: the
+      slides, which were made during TIB surveys from 1966 until 2007/08 (about
+      52,000); thousands of black-and-white photographs from the 1960s and
+      1970s from different areas of research; the published TIB volumes 1-10,
+      12, 13 and 15.
+
+    </p>
+    <p>
+      Since 2016 we are pursuing the aim to apply "regressive engineering" to
+      these data sets through third-party funded projects such as the aforesaid
+      project "Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum
+      Weltkulturerbe". In this way we are and we will be able to digitise and
+      process them, to save them sustainably within the technical framework of
+      the Austrian Academy of Sciences, to present them to the scholarly
+      community and interested public and to preserve them for future
+      generations.
+    </p>
+    <p>
+      First crucial results of our endeavour are to be found on this page.
+      Please feel free to use the following Online Resources of the TIB, which
+      are constantly expanded and enriched:
+    </p>
+    <p>
+      .) You may access a complete list of geographic registers of the
+      published TIB volumes 1-10, 12 and 13 via:
+      https://tib.oeaw.ac.at/index.php?seite=digtib&submenu=digtib-all It
+      allows you to search and compare the toponomastic evidence from all areas
+      of research of the TIB since 1966.
+    </p>
+    <p>
+      .) You may access and search each geographic register of a published TIB
+      volume separately (here also 15).
+      .) In all lists you may access the pdf files of the respective TIB volume
+      by clicking on the page number, which is tagged to respective page in the
+      pdf of the volume. Due to copyright regulations of the Austrian Academy
+      of Sciences these functions are available for the TIB volumes 1-7, 12 and
+      13. As a consequence, you may not only compare the toponomastic evidence,
+      but also read on the historical and archaeological context in the
+      respective headwords (lemmata).
+      .) Finally, a "best practice" has been created for the slides of the TIB
+      via the aforesaid project "Die digitale Tabula Imperii Byzantini
+      (Dig-TIB) als Beitrag zum Weltkulturerbe". For the time being, 7,172
+      slides of the TIB volumes 5 ("Cilicia and Isauria", Friedrich Hild; 4,981
+      slides), 12 ("Eastern Thrace (Eurōpē)", Andreas Külzer; 1,252 slides) and
+      16 ("Macedonia, Northern Part", Mihailo St. Popović; 939 slides) have
+      been scanned and embedded with the respective metadata in the open-source
+      software CollectiveAccess.
+    </p>
+    <p>
+      You may access this data via: https://catalogue.tib.oeaw.ac.at/
+    </p>
+    <p>
+      For the time being, you may search and compare these slides and view
+      their metadata, but not download them for scholarly or private use due to
+      copyright regulations of the Austrian Academy of Sciences.
+      As a next step we will try to include the slides from the TIB volumes 1
+      ("Hellas and Thessaly") and 3 ("Nicopolis and Cephalonia") subject to
+      successful applications of third-party funded projects.
+    </p>
+    <p>
+      3) The third line of development is state of the art Geocommunication of
+      current TIB content and results. Therefore, the TIB Balkans (Mihailo St.
+      Popović) is creating, developing and upkeeping the online atlas "Maps of
+      Power: Historical Atlas of Places, Borderzones and Migration Dynamics in
+      Byzantium" since 2019.
+    </p>
+    <p>
+      You may freely access this online atlas (web application) via:
+      https://data1.geo.univie.ac.at/projects/tibapp Scholarly results as well
+      as digital photographs of the TIB Balkans, i.e. from the TIB volumes 16
+      ("Macedonia, Northern Part", Mihailo St. Popović) and 17 ("Nea Epeiros
+      and Praevalis", Mihailo St. Popović), and of related sub-projects of the
+      TIB with a team of young scholarly co-workers (Bernhard Koschicek,
+      Vratislav Zervan, David Schmid) are regularly embedded in English into a
+      TIB OpenAtlas Database.
+    </p>
+    <p>
+      The web application, which is developed in cooperation with the
+      Department of Geography and Regional Research of the University of Vienna
+      (Prof. Dr. Karel Kriz), enables live queries of the embedded data and the
+      download of current map views as an image. Via additional map layers of
+      the printed maps TIB 1 to TIB 16 on a scale 1:800,000 and their
+      respective pictograms in the web application the queried data is
+      connected visually to the printed volumes of the TIB and their headwords,
+      which may be searched separately (see above).
+    </p>
+    <p>
+      All three main lines of development are intertwined and form a holistic
+      approach. It is with great zeal that we are constantly enriching the
+      respective online resources of the TIB in order to present our scholarly
+      research and to provide our expertise and data to the national and
+      international scholarly community as well as interested public. Please
+      feel free to browse our hub of resources and to comment on it.
+    </p>
+    <p>
+      Contact: Mihailo.Popovic@oeaw.ac.at
+    </p>
+
+  </div>
+
+
+
+  <script>
+      var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+      var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+          return new bootstrap.Tooltip(tooltipTriggerEl)
+      })
+  </script>
+{% endblock %}

@@ -4,6 +4,8 @@ import flask
 from flask import url_for
 from markupsafe import Markup
 
+from tib.data.tib.digtib import digtib_bar
+
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
 INSTITUTES = {
@@ -125,15 +127,54 @@ def display_menu(route: str, category: str) -> str:
 def tib_menu(route: str) -> str:
     menu_items = ['history', 'current_status', 'sub_projects',
                   'publications', 'digtib', 'aieb', 'team']
+    digtib_items = []
+
     html = ''
     for item in menu_items:
         active = 'active' if route.startswith('/' + item) else ''
-        html += f"""
+        if item == 'digtib':
+            html += f"""
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" 
+              href="{url_for(f'tib_{item}')}" 
+              id="navbarDropdown" role="button" 
+              data-bs-toggle="dropdown" >
+            {item.title().replace("_", " ")}
+          </a>
+          {digtib_submenu(item)}
+          </li>
+            """
+        else:
+            html += f"""
             <li class="nav-item">
                 <a class="nav-link {active}" href="{url_for(f'tib_{item}')}"
                     >{item.title().replace("_", " ")}</a>
             </li>"""
     return Markup(html)
+
+
+def digtib_submenu(item: str) -> str:
+    html = f'''
+    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+         <li class="nav-item">
+                <a class="nav-link " href="{url_for(f'tib_{item}')}">
+                Digital Tabula Imperii Byzntini</a>
+            </li>
+    <li><hr class="dropdown-divider"></li>
+    '''
+    for item in digtib_bar:
+        link = item['link'] if item['link_type'] == 'ext' \
+            else url_for(item['link'])
+        title = f"{item['title']} <i class='bi bi-box-arrow-up-right'></i>" \
+            if item['link_type'] == 'ext' else item['title']
+        html += f"""
+                <li><a class="dropdown-item" 
+                    href="{link}">
+                    {title}
+                </a></li>
+            """
+
+    return f'{html}</ul>'
 
 
 @blueprint.app_template_filter()

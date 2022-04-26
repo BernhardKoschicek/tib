@@ -125,9 +125,9 @@ tib_team_data = {
 
 
 team_categories = {
-    'head_of_tib': [tib_team_data['akulzer'], tib_team_data['jkoder'], tib_team_data['mpopovic']],
+    'head_of_tabula_imperii_byzantini': [tib_team_data['akulzer'],  tib_team_data['mpopovic']],
     'scientific_employees': [tib_team_data['darianztzi'], tib_team_data['dvargova']],
     'associated_scholars': [tib_team_data['vzervan'], tib_team_data['vpolloczek']],
     'technical_specialists': [tib_team_data['mhernandez'], tib_team_data['bkoschicek']],
-    'former_employees': [tib_team_data['fhild'], tib_team_data['kbelke'], tib_team_data['psoustal'], tib_team_data['dschmid']],
+    'former_employees': [tib_team_data['jkoder'], tib_team_data['fhild'], tib_team_data['kbelke'], tib_team_data['psoustal'], tib_team_data['dschmid']],
 }

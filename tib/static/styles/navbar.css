@@ -9,7 +9,7 @@
     margin: 20px auto;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1px) {
     .brand {
         margin-left: auto;
         margin-right: auto;
@@ -21,7 +21,7 @@
     }
 
     .brand-image-tib {
-        height: 100px;
+        height: 40px;
         transition: height 300ms linear;
     }
 
@@ -31,7 +31,7 @@
     }
 
     .brand-image-tib.scrolled {
-        height: 60px;
+        height: 50px;
         transition: height 300ms linear;
     }
 }

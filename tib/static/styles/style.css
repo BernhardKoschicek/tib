@@ -244,7 +244,7 @@ a.oa-access-tab-boxes:hover {
 }
 
 .btn-violet-light {
-    color: #fff;
+    color: #4f1b3c;
     background-color: rgba(79, 27, 60, 0.25);
     border-color: rgba(79, 27, 60, 0.25);
 }
@@ -264,7 +264,7 @@ a.oa-access-tab-boxes:hover {
 
 .btn-check:checked + .btn-violet-light, .btn-check:active + .btn-violet-light, .btn-violet-light:active, .btn-violet-light.active, .show > .btn-violet-light.dropdown-toggle {
     color: #fff;
-    background-color: rgba(79, 27, 60, 0.25);
+    background-color: rgba(79, 27, 60, 0.63);
     border-color: rgba(79, 27, 60, 0.25);
 }
 

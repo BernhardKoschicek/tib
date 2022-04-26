@@ -1,48 +1,55 @@
 {% extends "tib/layout.html" %}
 {% block title %}Team{% endblock %}
 {% block content %}
-  <div class="text-center top7">
+  <div class="text-center top5">
     {{ header('Current Team', True) }}
   </div>
   <div class="container top3">
-    {% for cat, members in categories.items() %}
-      <h2 class="text-center pt-3 py-3 rounded-3 bg-violet text-white">{{ cat | title | replace('_', ' ') }}</h2>
-      <div class="row align-self-center justify-content-center pb-5 rounded-3">
-        {% for member in members %}
-          <div class="col-lg-3 mb-4 pt-3 mt-3 ">
-            {% with member=member %}
-              <div class="row container-fluid btn btn-violet-light border-violet-light border-1 py-3"
-                   data-bs-toggle="popover" data-bs-trigger="focus" tabindex="0"
-                   title="{{ member.name }}"
-                   data-bs-content="{{ member.description }}">
-                <div class="col-md-12">
-                  <img src="{{ url_for('static', filename=member.image) }}"
-                       alt="{{ member.name }}" width="200px"
-                       class="img-fluid mx-auto img-thumbnail d-block rounded-circle">
-                </div>
-                <div class="col-md-12 text-center">
-                  <div class="pt-2">
-                    <h4 class="mt-4 font-weight-medium mb-1">{{ member.name }}</h4>
-                    <h5 class="subtitle mb-3">{{ member.team | replace('_', ' ') | title }}</h5>
+    <div class="row row-cols-2 align-self-center justify-content-center">
+      {% for cat, members in categories.items() %}
+      <div class="col {% if cat=='former_employees' %}col-12{% endif %}">
+        <div class="container-fluid align-self-center justify-content-center row">
+          <div class="col-12">
+            <h4 class="text-center pt-3 py-3 rounded-3 bg-violet text-white">{{ cat | title | replace('_', ' ') }}</h4>
+          </div>
+        </div>
+        <div class="row align-self-center justify-content-center pb-5 rounded-3">
+          {% for member in members %}
+            <div class="{% if cat=='former_employees' %} col-3 {% else %} col-6 {% endif %} pt-3 mt-3 ">
+              {% with member=member %}
+                <div class="row container-fluid btn btn-violet-light border-violet-light border-1 py-3"
+                     data-bs-toggle="popover" data-bs-trigger="focus"
+                     tabindex="0"
+                     title="{{ member.name }}"
+                     data-bs-content="{{ member.description }}">
+                  <div class="col-md-12">
+                    <img src="{{ url_for('static', filename=member.image) }}"
+                         alt="{{ member.name }}" width="200px"
+                         class="img-fluid mx-auto img-thumbnail d-block rounded-circle">
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h4 class="mt-4 font-weight-medium mb-1">{{ member.name }}</h4>
+                      <h5 class="subtitle mb-3">{{ member.team | replace('_', ' ') | title }}</h5>
+                    </div>
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <h3 class="text-decoration-none">
+                      <a href="mailto:{{ member.email }}">
+                        <i class="bi bi-envelope-fill"></i></a>
+                      <a href="{{ member.academia }}" target="_blank">
+                        <i class="bi bi-mortarboard-fill"></i></a>
+                    </h3>
                   </div>
                 </div>
-                <div class="col-md-12 text-center">
-                  <h3 class="text-decoration-none">
-                    <a href="mailto:{{ member.email }}">
-                      <i class="bi bi-envelope-fill"></i></a>
-                    <a href="{{ member.academia }}" target="_blank">
-                      <i class="bi bi-mortarboard-fill"></i></a>
-                  </h3>
-                </div>
-              </div>
-            {% endwith %}
-          </div>
-        {% endfor %}
-      </div>
+              {% endwith %}
+            </div>
+          {% endfor %}
+        </div>
+</div>
+      {% endfor %}
 
-    {% endfor %}
-
-
+    </div>
   </div>
 
   <script>

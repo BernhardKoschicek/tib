@@ -1,0 +1,39 @@
+{% extends "tib/layout.html" %}
+{% block title %}Team{% endblock %}
+{% block content %}
+  <div class="text-center top7">
+    {{ header('Current Team', True) }}
+  </div>
+
+  <div class="container top5">
+
+    <div class="row">
+      {% for member in team.values() %}
+        <div class="col-lg-3 mb-4">
+          {% with member=member %}
+            <div class="row align-self-center justify-content-center">
+              <div class="col-md-12 ">
+                <img src="{{ url_for('static', filename=member.image) }}"
+                     alt="{{ member.name | safe }}" width="200px"
+                     class="img-fluid mx-auto d-block rounded-circle">
+              </div>
+              <div class="col-md-12 text-center">
+                <div class="pt-2">
+                  <h5 class="mt-4 font-weight-medium mb-0">{{ member.name }}</h5>
+                  <h6 class="subtitle mb-3">{{ member.team | replace('_', ' ') | title }}</h6>
+                  <h6 class="subtitle mb-3">{{ member.category | replace('_', ' ') | title }}</h6>
+                </div>
+              </div>
+            </div>
+
+
+
+          {% endwith %}
+        </div>
+      {% endfor %}
+    </div>
+
+  </div>
+{% endblock %}
+
+

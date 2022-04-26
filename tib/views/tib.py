@@ -4,6 +4,7 @@ from tib import app
 from tib.data.tib.counter import counter
 from tib.data.tib.jumbotron import front_jumbotron
 from tib.data.tib.publications import tib_publications_data
+from tib.data.tib.team import tib_team_data
 from tib.data.tib.tib_volumen import tib_volumes_dict
 from tib.util.util import get_prev_and_next_item_of_dict
 
@@ -54,7 +55,9 @@ def tib_aieb() -> str:
 
 @app.route('/team')
 def tib_team() -> str:
-    return render_template('tib/current_status/current_status.html')
+    return render_template(
+        'tib/team/team.html',
+        team=tib_team_data)
 
 @app.route('/contact')
 def tib_contact() -> str:

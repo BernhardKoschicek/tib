@@ -28,7 +28,6 @@
             {{ tib_volume['description'] }}
           </p>
           <div class="row">
-
             {% for img in tib_volume['images'] %}
               <div class="col-2">
                 <a href="{{ url_for('static', filename=img['path']) }}"
@@ -36,7 +35,6 @@
                   <img src="{{ url_for('static', filename=img['path']) }}"
                        alt="{{ img['description'] }}"
                   class="img-fluid d-flex">
-
                   <p class="small">{{ img['description'] }}</p>
                 </a>
               </div>

@@ -1,7 +1,7 @@
 body {
     background-color: #fffff7;
     font-family: 'Merriweather', serif;
-     color: #2c0f23;
+    color: #2c0f23;
 }
 
 
@@ -84,6 +84,22 @@ h1, h2, h3, h4, h5, h6 {
     color: #4f1b3c;
 }
 
+/* Popover Header */
+.popover-title {
+    font-size: 1.25em;
+    text-align: center;
+}
+
+/* Popover Body */
+.popover-content {
+    font-size: 1.25em;
+    text-align: center;
+}
+
+.popover {
+    max-width: 400px;
+}
+
 .nopadding {
     padding: 0 !important;
     margin: 0 !important;
@@ -154,10 +170,11 @@ video {
 }
 
 .tab-content-borderless > .tab-pane {
-  display: none;
+    display: none;
 }
+
 .tab-content-borderless > .active {
-  display: block;
+    display: block;
 }
 
 .nav-tabs {
@@ -185,6 +202,10 @@ a.oa-access-tab-boxes:hover {
 
 .bg-violet-light {
     background-color: rgba(79, 27, 60, 0.25);
+}
+
+.border-violet-light {
+    border-color: rgba(79, 27, 60, 0.25) !important;
 }
 
 .btn-violet {
@@ -217,6 +238,41 @@ a.oa-access-tab-boxes:hover {
 }
 
 .btn-violet:disabled, .btn-violet.disabled {
+    color: #fff;
+    background-color: #4f1b3c;
+    border-color: #4f1b3c;
+}
+
+.btn-violet-light {
+    color: #fff;
+    background-color: rgba(79, 27, 60, 0.25);
+    border-color: rgba(79, 27, 60, 0.25);
+}
+
+.btn-violet-light:hover {
+    color: #fff;
+    background-color: rgba(86, 37, 66, 0.40);
+    border-color: rgba(44, 15, 33, 0.25);
+}
+
+.btn-check:focus + .btn-violet-light, .btn-violet-light:focus {
+    color: #fff;
+    background-color: rgba(86, 37, 66, 0.40);
+    border-color: rgba(44, 15, 33, 0.25);
+    box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+}
+
+.btn-check:checked + .btn-violet-light, .btn-check:active + .btn-violet-light, .btn-violet-light:active, .btn-violet-light.active, .show > .btn-violet-light.dropdown-toggle {
+    color: #fff;
+    background-color: rgba(79, 27, 60, 0.25);
+    border-color: rgba(79, 27, 60, 0.25);
+}
+
+.btn-check:checked + .btn-violet-light:focus, .btn-check:active + .btn-violet-light:focus, .btn-violet-light:active:focus, .btn-violet-light.active:focus, .show > .btn-violet-light.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.25rem rgba(59, 26, 47, 0.5);
+}
+
+.btn-violet-light:disabled, .btn-violet-light.disabled {
     color: #fff;
     background-color: #4f1b3c;
     border-color: #4f1b3c;

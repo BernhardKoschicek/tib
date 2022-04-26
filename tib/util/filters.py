@@ -127,8 +127,6 @@ def display_menu(route: str, category: str) -> str:
 def tib_menu(route: str) -> str:
     menu_items = ['history', 'current_status', 'sub_projects',
                   'publications', 'digtib', 'aieb', 'team']
-    digtib_items = []
-
     html = ''
     for item in menu_items:
         active = 'active' if route.startswith('/' + item) else ''

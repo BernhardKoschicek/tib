@@ -17,7 +17,7 @@
       sustainable usage of its data, which was and is published in respective
       TIB volumes.
     </p>
-    <div class="row top3">
+    <div class="row top7">
       {% for item in bar %}
         <div class="col-3 text-center">
           <a href="{% if item.link_type=='int' %}{{ url_for(item.link) }}{% else %}{{ item.link }}{% endif %}" class="text-decoration-none"
@@ -33,7 +33,7 @@
       {% endfor %}
     </div>
   </div>
-  <div class="container pt-3">
+  <div class="container top7">
     <p class="small bg-violet-light px-3 py-3 text-center">
       This page is the platform’s realisation and at the same time work in
       progress, which has been initiated through the sub-project of the TIB

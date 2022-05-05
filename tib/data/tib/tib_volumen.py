@@ -1,4 +1,5 @@
 from tib.data.image_descriptions import project_icons
+
 path = 'images/tib_volumen'
 descriptions = {
     'tib11': 'The volume "Macedonia, Southern Part" covers approximately the province of Macedonia prima as this administrative unit was established in the 5th century and corresponds to the area Makedonia of modern Greece. This area comprises the region from Epirus in the west to Thrace in the east and is bordered to the north by the Republic of North Macedonia, to a lesser extent by Bulgaria and Albania and to the south by Thessaly and the Aegean. Within the TIB series, the territory of volume 11 abuts by the regions of the published volumes TIB 1 (Hellas und Thessalia), TIB 3 (Nikopolis und Kephallēnia) and TIB 6 (Thrakien) as well as the region TIB 16 (Macedonia, Northern Part), which is in preparation. The immigration of Slavs in the 6th and 7th centuries has been a decisive influence on the medieval toponymy and the settlement history of Macedonia. In the Middle Ages, Macedonia was a region of contacts between Byzantine Greeks and Slavs (e. g. Bulgarians, Serbs). The metropolis of Thessalonica was of great importance in political, cultural and economic terms. In the 10th and 11th centuries, the peninsula of Mount Athos developed into a center of monasticism and extended its spiritual and economic influence far beyond its borders. As for the Late Byzantine period, extensive written sources (Greek documents for monasteries, Ottoman tax registers) provide important insights into toponymy, population, and economy.',
@@ -11,51 +12,90 @@ descriptions = {
 images = {
     'tib11': [{
         'path': f'{path}/tib11/1.jpg',
-        'description': 'Late Roman bridge near the Gulf of Thessalonike, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)' },{
+        'description': 'Late Roman bridge near the Gulf of Thessalonike, Northern Greece',
+        'citation': '(TIB 11, P. Soustal, M. Popović, 2004)'
+    }, {
         'path': f'{path}/tib11/2.jpg',
-        'description': 'Sithonia Peninsula, bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)'},{
+        'description': 'Sithonia Peninsula, bay at the Singitic Gulf, Northern Greece',
+        'citation': '(TIB 11, P. Soustal, M. Popović, 2004)'
+    }, {
         'path': f'{path}/tib11/3.jpg',
-        'description': 'Valley of the river Chabrias near Ormylia, Chalkidike, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004))' },{
+        'description': 'Valley of the river Chabrias near Ormylia, Chalkidike, Northern Greece',
+        'citation': '(TIB 11, P. Soustal, M. Popović, 2004)'
+    }, {
         'path': f'{path}/tib11/4.jpg',
-        'description': 'Melenikitsi, the small Melnik near Serres, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004))'}],
-     'tib14': [{
+        'description': 'Melenikitsi, the small Melnik near Serres, Northern Greece',
+        'citation': '(TIB 11, P. Soustal, M. Popović, 2004)'
+    }],
+    'tib14': [{
         'path': f'{path}/tib14/1.jpg',
-        'description': 'Şahan Kaya 24 km east of Akhisar, Lydia (TIB 14, A. Külzer, 2014)' },{
+        'description': 'Şahan Kaya 24 km east of Akhisar, Lydia ',
+        'citation': '(TIB 14, A. Külzer, 2014)'
+    }, {
         'path': f'{path}/tib14/2.jpg',
-        'description': 'Koloē limnē, modern Marmara gölü, Lydia (TIB 14, A. Külzer, 2013)'},{
+        'description': 'Koloē limnē, modern Marmara gölü, Lydia ',
+        'citation': '(TIB 14, A. Külzer, 2013)'
+    }, {
         'path': f'{path}/tib14/3.jpg',
-        'description': 'Sardis west of modern Salihli, Lydia (TIB 14, A. Külzer, 2013)' },{
+        'description': 'Sardis west of modern Salihli, Lydia ',
+        'citation': '(TIB 14, A. Külzer, 2013)'
+    }, {
         'path': f'{path}/tib14/4.jpg',
-        'description': 'Ephesos, modern Selçuk, Asia (TIB 14, A. Külzer, 2016)'},{
+        'description': 'Ephesos, modern Selçuk, Asia ',
+        'citation': '(TIB 14, A. Külzer, 2016)'
+    }, {
         'path': f'{path}/tib14/5.jpg',
-        'description': 'Hisar near Kiraz, Asia (TIB 14, A. Külzer, 2016)'},{
+        'description': 'Hisar near Kiraz, Asia ',
+        'citation': '(TIB 14, A. Külzer, 2016)'
+    }, {
         'path': f'{path}/tib14/6.jpg',
-        'description': 'Yoğurtçu Kale, 15 km west of Manisa Asia (TIB 14, A. Külzer, 2014)'}],
+        'description': 'Yoğurtçu Kale, 15 km west of Manisa Asia ',
+        'citation': '(TIB 14, A. Külzer, 2014)'
+    }],
     'tib16': [{
         'path': f'{path}/tib16/1.jpg',
-        'description': 'The Ancient Theater in Heraclea Lyncestis from the South, (FY)R Macedonia (TIB 16, M. Popović, 2008)' },{
+        'description': 'The Ancient Theater in Heraclea Lyncestis from the South, (FY)R Macedonia ',
+        'citation': '(TIB 16, M. Popović, 2008)'
+    }, {
         'path': f'{path}/tib16/2.jpg',
-        'description': 'Ottoman Bridge called Kadin Most in Nevestino, Bulgaria (TIB 16, M. Popović, 2007)'},{
+        'description': 'Ottoman Bridge called Kadin Most in Nevestino, Bulgaria ',
+        'citation': '(TIB 16, M. Popović, 2007)'
+    }, {
         'path': f'{path}/tib16/3.jpg',
-        'description': 'Lake Dojran, (FY)R Macedonia (TIB 16, M. Popović, 2007)' },{
+        'description': 'Lake Dojran, (FY)R Macedonia ',
+        'citation': '(TIB 16, M. Popović, 2007)'
+    }, {
         'path': f'{path}/tib16/4.jpg',
-        'description': 'The Monastery of St. George Pološki, Reservoir of Tikveš, (FY)R Macedonia (TIB 16, M. Popović, 2016)'}],
+        'description': 'The Monastery of St. George Pološki, Reservoir of Tikveš, (FY)R Macedonia ',
+        'citation': '(TIB 16, M. Popović, 2016)'}],
     'tib17': [{
         'path': f'{path}/tib17/1.jpg',
-        'description': 'The Old Town of Bar (Stari Bar), Montenegro (TIB 17, M. Popović, 2016)' },{
+        'description': 'The Old Town of Bar (Stari Bar), Montenegro ',
+        'citation': '(TIB 17, M. Popović, 2016)'
+    }, {
         'path': f'{path}/tib17/2.jpg',
-        'description': 'The Church of Prečista Krajinska, Montenegro (TIB 17, M. Popović, 2016)'},{
+        'description': 'The Church of Prečista Krajinska, Montenegro ',
+        'citation': '(TIB 17, M. Popović, 2016)'
+    }, {
         'path': f'{path}/tib17/3.jpg',
-        'description': 'The Old Town of Budva, Montenegro (TIB 17, M. Popović, 2016)' },{
+        'description': 'The Old Town of Budva, Montenegro ',
+        'citation': '(TIB 17, M. Popović, 2016)'
+    }, {
         'path': f'{path}/tib17/4.jpg',
-        'description': 'On the Shores of Lake Skadar, Montenegro (TIB 17, M. Popović, 2016)'}],
+        'description': 'On the Shores of Lake Skadar, Montenegro ',
+        'citation': '(TIB 17, M. Popović, 2016)'}],
     'tib18': [{
         'path': f'{path}/tib18/1.jpg',
-        'description': 'Kaunos and its Marshy Harbour (TIB 8 und TIB 18, F. Hild, 1994)' },{
+        'description': 'Kaunos and its Marshy Harbour ',
+        'citation': '(TIB 8 und TIB 18, F. Hild, 1994)'
+    }, {
         'path': f'{path}/tib18/2.jpg',
-        'description': 'A Chapel made of Spolia in the Hekate-Sanctary of Lagina (TIB 18, F. Hild, 2008)'},{
+        'description': 'A Chapel made of Spolia in the Hekate-Sanctary of Lagina ',
+        'citation': '(TIB 18, F. Hild, 2008)'
+    }, {
         'path': f'{path}/tib18/3.jpg',
-        'description': 'Byzantine Fortress in the Theater of Milet (TIB 18, F. Hild, 2010)' },]
+        'description': 'Byzantine Fortress in the Theater of Milet ',
+        'citation': '(TIB 18, F. Hild, 2010)'}]
 }
 
 tib_volumes_dict = {

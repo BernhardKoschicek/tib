@@ -10,6 +10,7 @@
   </div>
 {% endmacro %}
 
+
 {% macro box_description(title) %}
   <div class="row justify-content-center">
     <div class="col-12 align-self-center">
@@ -24,21 +25,60 @@
 
 
 {% macro read_more(target) %}
-    <p>
-      <a type="button" data-bs-toggle="collapse"
-         href="#{{ target }}" role="button" data-read-more="True"
-         aria-expanded="false" aria-controls="collapseExample"
-         class="text-decoration-none">
-        Read more...
-      </a>
-    </p>
+  <p>
+    <a type="button" data-bs-toggle="collapse"
+       href="#{{ target }}" role="button" data-read-more="True"
+       aria-expanded="false" aria-controls="collapseExample"
+       class="text-decoration-none">
+      Read more...
+    </a>
+  </p>
 {% endmacro %}
-
-
 
 
 {% macro header(title, bold) %}
-     <h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
+  <h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
 {% endmacro %}
 
+
+{% macro img_modal(img_dict, index) %}
+  <!-- Modal Button -->
+  <a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ index }}"
+     class="text-decoration-none">
+    <img class="img-fluid d-flex z-depth-1"#}
+         src="{{ url_for('static', filename=img_dict['path']) }}"
+         alt="{{ img_dict['description'] }}">
+    <p class="small text-center">{{ img_dict['description'] }}</p>
+  </a>
+
+  <!-- Modal -->
+  <div class="modal fade" id="modal-{{ index }}" tabindex="-1"
+       aria-labelledby="modalLabelmodal-{{ index }}" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-body mb-0 p-0">
+          <img src="{{ url_for('static', filename=img_dict['path']) }}"
+               alt="{{ img_dict['description'] }}"
+               class="img-fluid d-flex shadow-lg bg-body  ">
+        </div>
+        <div class="modal-footer justify-content-center">
+          <div class="row">
+            <div class="col-12 text-center">
+              <p>{{ img_dict['description'] }}</p>
+              <p>{{ img_dict['citation'] }}</p>
+            </div>
+            <div class="col-12 text-center">
+              <p>
+                <button type="button"
+                        class="btn btn-violet btn-rounded btn-md ml-4"
+                        data-bs-dismiss="modal">Close
+                </button>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endmacro %}
 

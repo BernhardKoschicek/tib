@@ -88,6 +88,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #4f1b3c;
 }
 
+.text-violet {
+     color: #4f1b3c;
+}
+
 .tooltip.show{
     opacity: 1;
 }

@@ -27,23 +27,23 @@
           <p class="p-2 text-center ">
             {{ tib_volume['description'] }}
           </p>
-          <div class="row">
+          <div class="row justify-content-center">
             {% for img in tib_volume['images'] %}
-              <div class="col-2">
-                <a href="{{ url_for('static', filename=img['path']) }}"
-                   class="text-decoration-none">
-                  <img src="{{ url_for('static', filename=img['path']) }}"
-                       alt="{{ img['description'] }}"
-                  class="img-fluid d-flex">
-                  <p class="small">{{ img['description'] }}</p>
-                </a>
+              <div class="col-3">
+              {{ img_modal(img, loop.index) }}
               </div>
+{#              <div class="col-2">#}
+{#                <a href="{{ url_for('static', filename=img['path']) }}"#}
+{#                   class="text-decoration-none" data-toggle="lightbox">#}
+{#                  <img src="{{ url_for('static', filename=img['path']) }}"#}
+{#                       alt="{{ img['description'] }}"#}
+{#                  class="img-fluid d-flex">#}
+{#                  <p class="small">{{ img['description'] }}</p>#}
+{#                </a>#}
+{#              </div>#}
             {% endfor %}
-
           </div>
-
         </div>
-
       </div>
       <div class="col-2 d-flex align-items-center text-center">
         <div class="col">

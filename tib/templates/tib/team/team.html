@@ -2,7 +2,7 @@
 {% block title %}Team{% endblock %}
 {% block content %}
   <div class="text-center top5">
-    {{ header('Current Team', True) }}
+    {{ header('Team', True) }}
   </div>
   <div class="container top3">
     <div class="row row-cols-2 align-self-center justify-content-center">
@@ -10,7 +10,7 @@
       <div class="col {% if cat=='former_employees' %}col-12{% endif %}">
         <div class="container-fluid align-self-center justify-content-center row">
           <div class="col-12">
-            <h4 class="text-center pt-3 py-3 rounded-3 bg-violet text-white">{{ cat | title | replace('_', ' ') }}</h4>
+            <h4 class="text-center pt-3 py-3 rounded-3 bg-violet-light">{{ cat | title | replace('_', ' ') }}</h4>
           </div>
         </div>
         <div class="row align-self-center justify-content-center pb-5 rounded-3">

@@ -1,0 +1,32 @@
+
+    <div class="row">
+      <div class="col-6 text-end">
+        <h1>TIB</h1>
+        <h1>Map Application</h1>
+        <p class="lead">
+          Our TIB map viewer is online!
+          Please feel free to
+          <a href="https://data1.geo.univie.ac.at/projects/tibapp/">browse
+            and test it</a>. It features selected data from the
+          TIB Balkans deriving from its
+          <a href="{{ url_for('tib_sub_projects') }}">sub-projects</a>
+          and is work in progress. If you have any questions or comments,
+          please feel free to contact
+          <a href="mailto:Mihailo.Popovic@oeaw.ac.at">
+            Mihailo Popović
+          </a>
+        </p>
+        <p class="text-end fw-bolder">
+          <a class="btn btn-violet bg-violet btn-lg"
+             href="https://data1.geo.univie.ac.at/projects/tibapp/">
+            Check it out now!
+          </a>
+        </p>
+      </div>
+      <div class="col-6">
+        <a href="https://data1.geo.univie.ac.at/projects/tibapp/">
+          <img src="{{ url_for('static', filename='images/mapviewer.gif') }}"
+               alt="TIB Map Viewer">
+        </a>
+      </div>
+    </div>

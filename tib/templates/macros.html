@@ -11,6 +11,22 @@
 {% endmacro %}
 
 
+{% macro counting_icons(key, value) %}
+  <div class='col-3 top3 text-center align-content-center'>
+    <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
+    <br>
+    <span class="{{ key }} counter-style"
+          data-from="0" data-to="{{ value['count'] }}"
+          data-time="3000">
+
+          </span>
+    <br>
+    <span class="counter-font">{{ value['description'] }}</span>
+
+  </div>
+{% endmacro %}
+
+
 {% macro box_description(title) %}
   <div class="row justify-content-center">
     <div class="col-12 align-self-center">
@@ -26,12 +42,12 @@
 
 {% macro read_more(target) %}
   <p>
-    <a type="button" data-bs-toggle="collapse"
-       href="#{{ target }}" role="button" data-read-more="True"
-       aria-expanded="false" aria-controls="collapseExample"
-       class="text-decoration-none">
+    <button type="button" data-bs-toggle="collapse"
+            href="#{{ target }}" role="button" data-read-more="True"
+            aria-expanded="false" aria-controls="collapseExample"
+            class="text-decoration-none btn-violet-light rounded-pill px-5 py-1">
       Read more...
-    </a>
+    </button>
   </p>
 {% endmacro %}
 

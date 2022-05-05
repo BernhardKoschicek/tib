@@ -32,15 +32,6 @@
               <div class="col-3">
               {{ img_modal(img, loop.index) }}
               </div>
-{#              <div class="col-2">#}
-{#                <a href="{{ url_for('static', filename=img['path']) }}"#}
-{#                   class="text-decoration-none" data-toggle="lightbox">#}
-{#                  <img src="{{ url_for('static', filename=img['path']) }}"#}
-{#                       alt="{{ img['description'] }}"#}
-{#                  class="img-fluid d-flex">#}
-{#                  <p class="small">{{ img['description'] }}</p>#}
-{#                </a>#}
-{#              </div>#}
             {% endfor %}
           </div>
         </div>

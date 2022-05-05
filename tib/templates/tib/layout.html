@@ -41,7 +41,8 @@
         src="{{ url_for('static', filename='js/navbar.js') }}"></script>
 </head>
 <body>
-{% from 'macros.html' import image_description, box_description, read_more, header, img_modal with context %}
+{% from 'macros.html' import image_description, box_description, read_more,
+ counting_icons, header, img_modal with context %}
 
 {% include 'tib/navigation.html' %}
 
@@ -52,8 +53,6 @@
 {% include 'tib/footer.html' %}
 <script>
     AOS.init();
-
-
 
     [...document.querySelectorAll('[data-read-more="True"]')].forEach(function (item) {
         item.addEventListener('click', function handleClick() {

@@ -75,13 +75,15 @@
         <div class="modal-body mb-0 p-0">
           <img src="{{ url_for('static', filename=img_dict['path']) }}"
                alt="{{ img_dict['description'] }}"
-               class="img-fluid d-flex shadow-lg bg-body  ">
+               class="img-fluid d-flex shadow-lg bg-body">
         </div>
         <div class="modal-footer justify-content-center">
           <div class="row">
             <div class="col-12 text-center">
               <p>{{ img_dict['description'] }}</p>
-              <p>{{ img_dict['citation'] }}</p>
+              {% if img_dict['citation'] %}
+                <p>({{ img_dict['citation'] }})</p>
+              {% endif %}
             </div>
             <div class="col-12 text-center">
               <p>

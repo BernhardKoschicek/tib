@@ -16,5 +16,4 @@ def get_prev_and_next_item_of_dict(key: str, dict_: dict[Any, Any]) -> tuple[
     prev = list_of_dict[-1] if index == 1 else list_of_dict[(index - 1)]
     next = list_of_dict[0] if index == len(list_of_dict) - 1 else list_of_dict[
         (index + 1)]
-    print(prev, next)
     return prev, next

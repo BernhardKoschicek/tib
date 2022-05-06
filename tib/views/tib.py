@@ -1,6 +1,7 @@
 from flask import render_template
 
 from tib import app
+from tib.data.images import get_images
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
@@ -29,11 +30,14 @@ def tib_history() -> str:
 @app.route('/current_status/<volume>')
 def tib_current_status(volume: str = None) -> str:
     if volume:
+
+        print(get_images(tib_volumes_dict[volume]['images']))
         return render_template(
             'tib/current_status/volume.html',
             navigation=get_prev_and_next_item_of_dict(volume, tib_volumes_dict),
             tib_volume=tib_volumes_dict[volume],
-            code=volume)
+            code=volume,
+            images=get_images(tib_volumes_dict[volume]['images']))
     return render_template(
         'tib/current_status/current_status.html',
         tib_volumen=tib_volumes_dict)

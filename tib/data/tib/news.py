@@ -25,7 +25,7 @@ news = [{
 }, {
     'date': datetime(2022, 5, 20).strftime('%d %B %Y'),
     'who': [team['bkoschicek'], team['mpopovic']],
-    'title': 'will present a pape at the University of Cologne, Germany',
+    'title': 'will present a paper at the University of Cologne, Germany',
     'text': """
     will present a paper on “OpenAtlas und historische Geographie: Die Tabula 
     Imperii Byzantini (Balkan) im digitalen Zeitalter” at the University of 

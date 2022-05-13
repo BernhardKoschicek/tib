@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Dict, Tuple
 
 
 def get_subtypes(data: dict):
@@ -11,7 +11,7 @@ def uc_first(string):
 
 def get_prev_and_next_item_of_dict(
         key: str,
-        dict_: dict[Any, Any]) -> tuple[Any, Any]:
+        dict_: Dict[Any, Any]) -> Tuple[Any, Any]:
     list_of_dict = list(dict_)
     index = list_of_dict.index(key)
     prev = list_of_dict[-1] if index == 1 else list_of_dict[(index - 1)]

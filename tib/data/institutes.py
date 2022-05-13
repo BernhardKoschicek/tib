@@ -5,6 +5,12 @@ institutes = {
         'logo': 'zf_logo.jpg',
         'member': '',
         'address': ''},
+    'dfg': {
+        'name': 'todo',
+        'url': 'todo',
+        'logo': 'zf_logo.jpg',
+        'member': '',
+        'address': ''},
     'mt': {
         'name': 'Metropolis von Austria',
         'url': 'http://www.metropolisvonaustria.at/',

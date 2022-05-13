@@ -7,9 +7,10 @@ from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
 from tib.data.tib.news import news
 from tib.data.tib.publications import tib_publications_data
+from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories
 from tib.data.tib.tib_volumen import tib_volumes_dict
-from tib.util.util import  get_prev_and_next_item_of_dict
+from tib.util.util import get_prev_and_next_item_of_dict
 
 
 @app.route('/')
@@ -30,11 +31,11 @@ def tib_history() -> str:
 @app.route('/current_status/<volume>')
 def tib_current_status(volume: str = None) -> str:
     if volume:
-
-        print(get_images(tib_volumes_dict[volume]['images']))
         return render_template(
             'tib/current_status/volume.html',
-            navigation=get_prev_and_next_item_of_dict(volume, tib_volumes_dict),
+            navigation=get_prev_and_next_item_of_dict(
+                volume,
+                tib_volumes_dict),
             tib_volume=tib_volumes_dict[volume],
             code=volume,
             images=get_images(tib_volumes_dict[volume]['images']))
@@ -44,8 +45,15 @@ def tib_current_status(volume: str = None) -> str:
 
 
 @app.route('/sub_projects')
-def tib_sub_projects() -> str:
-    return render_template('tib/current_status/current_status.html')
+@app.route('/sub_projects/<project>')
+def tib_sub_projects(project: str = None) -> str:
+    if project:
+        return render_template(
+            'tib/subprojects/subprojects.html',
+            projects=subprojects)
+    return render_template(
+        'tib/subprojects/subprojects.html',
+        projects=subprojects)
 
 
 @app.route('/publications')

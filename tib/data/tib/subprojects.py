@@ -3,7 +3,7 @@ from datetime import datetime
 from tib.data.institutes import institutes
 from tib.data.tib.team import tib_team_data
 
-path = 'images/team'
+path = 'images/icons/'
 
 
 descriptions = {
@@ -31,8 +31,7 @@ subprojects = {
         'begin': datetime(2021, 1, 15).strftime('%d %B %Y'),
         'end': datetime(2025, 1, 14).strftime('%d %B %Y'),
         'description': descriptions['mesmy'],
-        'icon': f'{path}/mesmy/mesmy_icon.jpg',
-        'images': [],
+        'icon': f'{path}mesmy_icon.jpg',
         'presentations': [],
         'publications': [],
         'outreach': [],
@@ -50,8 +49,7 @@ subprojects = {
                       tib_team_data['dschmid']],
         'duration': datetime(2020, 3, 1).strftime('%d %B %Y'),
         'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
-        'icon': f'{path}/holdura/holdura_icon.jpg',
-        'images': [],
+        'icon': f'{path}holdura_icon.jpg',
         'presentations': [],
         'publications': [],
         'outreach': [],

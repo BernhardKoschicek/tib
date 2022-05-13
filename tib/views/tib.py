@@ -49,8 +49,8 @@ def tib_current_status(volume: str = None) -> str:
 def tib_sub_projects(project: str = None) -> str:
     if project:
         return render_template(
-            'tib/subprojects/subprojects.html',
-            projects=subprojects)
+            'tib/subprojects/project.html',
+            project=subprojects[project])
     return render_template(
         'tib/subprojects/subprojects.html',
         projects=subprojects)

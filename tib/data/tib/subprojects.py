@@ -20,7 +20,7 @@ descriptions = {
 
 subprojects = {
     'mesmy': {
-        'title': 'Medieval Smyrna / İzmir: The Transformation of a City and its Hinterland from Byzantine to Ottoman Times (MESMY)',
+        'title': 'Medieval Smyrna / İzmir: The Transformation of a City and its Hinterland from Byzantine to Ottoman Times',
         'funded_by': [institutes['fwf']],
         'project_number': 'P 33829-G',
         'pi': [tib_team_data['akulzer']],
@@ -37,7 +37,7 @@ subprojects = {
         'outreach': [],
     },
     'holdura': {
-        'title': 'Medieval Smyrna / İzmir: The Transformation of a City and its Hinterland from Byzantine to Ottoman Times (MESMY)',
+        'title': 'Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and “Raška” through Space and Time (11th-14th Cent.) ',
         'funded_by': [institutes['fwf'], institutes['dfg']],
         'project_number': 'I 4330-G',
         'pi': [tib_team_data['mpopovic']],
@@ -47,7 +47,7 @@ subprojects = {
             'Ass. Prof. Dr. Branka Vranešević'],
         'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek'],
                       tib_team_data['dschmid']],
-        'duration': datetime(2020, 3, 1).strftime('%d %B %Y'),
+        'begin': datetime(2020, 3, 1).strftime('%d %B %Y'),
         'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
         'icon': f'{path}holdura_icon.jpg',
         'presentations': [],

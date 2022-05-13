@@ -1,0 +1,58 @@
+{% extends "tib/layout.html" %}
+{% block title %}Subprojects{% endblock %}
+{% block content %}
+  <div class="container">
+    <div class="text-center top7">
+      {{ header(project.title, False) }}
+    </div>
+    <div class="row">
+      <div class="col-8">
+        <div>
+          {% for emp in project.employees %}
+            <p>{{ emp.name }}</p>
+          {% endfor %}
+        </div>
+        <div>
+          {{ project.description | safe }}
+        </div>
+
+      </div>
+      <div class="col-4 bg-violet-light">
+        <div>
+          <p>
+            <span class="fw-bolder">Funded by</span>:
+          </p>
+          <div class="container-fluid justify-content-center">
+            {% for fund in project.funded_by %}
+              <img src="{{ url_for('static', filename='images/institutes/'+fund.logo) }}"
+                   alt="{{ fund.name }}" class="img-fluid d-flex bg-white p-2">
+            {% endfor %}
+          </div>
+        </div>
+        <div class="pt-3">
+          <p>
+            <span class="fw-bolder">Number:</span> {{ project.project_number }}
+          </p>
+        </div>
+        <div class="pt-3">
+          <p>
+            <span class="fw-bolder">PI:</span>
+            {% for pi in project.pi %}{% if not loop.first %},{% endif %} {{ pi['name'] }}{% endfor %}
+          </p>
+        </div>
+        <div class="pt-3">
+          <p><span class="fw-bolder">Duration:</span> {{ project.begin }}
+            - {{ project.end }}</p>
+        </div>
+
+
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+
+{% endblock %}

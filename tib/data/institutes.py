@@ -51,7 +51,7 @@ institutes = {
     'fwf': {
         'name': 'Austrian Science Fund',
         'url': 'https://www.fwf.ac.at/',
-        'logo': 'fwf.png',
+        'logo': 'fwf.jpg',
         'member': '',
         'address': ''},
     'oeai': {

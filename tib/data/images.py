@@ -1,4 +1,7 @@
-def get_images(categories: list[str]) -> list[dict[str, str]]:
+from typing import Dict, List
+
+
+def get_images(categories: List[str]) -> List[Dict[str, str]]:
     return [img for img in IMAGES
             if any(item in categories for item in img['category'])]
 

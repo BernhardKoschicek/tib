@@ -1,11 +1,11 @@
-from typing import Any, Dict, Tuple
+from typing import Any, Dict, List, Tuple
 
 
-def get_subtypes(data: dict):
+def get_subtypes(data: Dict) -> List[Any]:
     return [i['label'] for i in data['features'][0]['relations']]
 
 
-def uc_first(string):
+def uc_first(string: str) -> str:
     return str(string)[0].upper() + str(string)[1:] if string else ''
 
 

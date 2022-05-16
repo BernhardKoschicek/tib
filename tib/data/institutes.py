@@ -60,6 +60,18 @@ institutes = {
         'logo': 'oeai.png',
         'member': '',
         'address': ''},
+    'oenb': {
+        'name': 'Jubiläumsfonds der Oesterreichischen Nationalbank',
+        'url': 'https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds.html',
+        'logo': 'oenb.png',
+        'member': '',
+        'address': ''},
+    'oead': {
+        'name': 'Austrian Agency for International Cooperation in Education and Research',
+        'url': 'https://oead.at/de/',
+        'logo': 'oead.svg',
+        'member': '',
+        'address': ''},
     'ma7': {
         'name': 'Wien Kultur (MA 7)',
         'url': 'https://www.wien.gv.at/kultur/abteilung/',

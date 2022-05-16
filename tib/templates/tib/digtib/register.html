@@ -1,0 +1,58 @@
+{% extends "tib/layout.html" %}
+{% block title %}TIB Toponym Register{% endblock %}
+{% block content %}
+  <div class="container top5">
+    <div class="text-center">
+      {{ header('Toponym Register', True) }}
+    </div>
+
+
+    <div class="tab-content-borderless top3">
+      <table id="table-register"
+             class="row-border order-column stripe hover">
+        <thead>
+        <tr>
+          {% for key in register[0] %}
+            <th>{{ key|title }}</th>
+          {% endfor %}
+        </tr>
+        </thead>
+        <tbody>
+        {% for item in register %}
+          <tr>
+            {% for key, value in item.items() %}
+              <td>{{ value | safe }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+
+  </div>
+  <script>
+      $(document).ready(function () {
+          $('#table-register').dataTable({
+              "paging": true,
+              "autoWidth": false,
+              "columnDefs": [
+                  {"width": "20%", "targets": 0},
+                  {"width": "55%", "targets": 1},
+              ],
+              "ordering": true,
+              "order": [[3]],
+              "info": true,
+              "searching": true,
+              "pageLength": 25
+          });
+      });
+
+
+  </script>
+{% endblock %}
+
+
+
+
+

@@ -5,52 +5,61 @@
     <div class="text-center top7">
       {{ header(project.title, False) }}
     </div>
-    <div class="row">
-      <div class="col-8">
-        <div>
-          {% for emp in project.employees %}
-            <p>{{ emp.name }}</p>
-          {% endfor %}
-        </div>
+    <div class="row pt-5">
+      <div class="col-8 row">
         <div>
           {{ project.description | safe }}
         </div>
 
       </div>
       <div class="col-4 bg-violet-light">
-        <div>
+        <div class="pt-1">
           <p>
             <span class="fw-bolder">Funded by</span>:
           </p>
-          <div class="container-fluid justify-content-center">
+          <div class="container-fluid justify-content-center bg-white">
             {% for fund in project.funded_by %}
               <img src="{{ url_for('static', filename='images/institutes/'+fund.logo) }}"
-                   alt="{{ fund.name }}" class="img-fluid d-flex bg-white p-2">
+                   alt="{{ fund.name }}"
+                   class="img-fluid d-flex bg-white p-1 pt-3">
             {% endfor %}
           </div>
         </div>
         <div class="pt-3">
           <p>
-            <span class="fw-bolder">Number:</span> {{ project.project_number }}
-          </p>
-        </div>
-        <div class="pt-3">
-          <p>
-            <span class="fw-bolder">PI:</span>
-            {% for pi in project.pi %}{% if not loop.first %},{% endif %} {{ pi['name'] }}{% endfor %}
+            <span class="fw-bolder">Project Number:</span> {{ project.project_number }}
           </p>
         </div>
         <div class="pt-3">
           <p><span class="fw-bolder">Duration:</span> {{ project.begin }}
             - {{ project.end }}</p>
         </div>
-
-
+        <div class="pt-3">
+          <p>
+            <span class="fw-bolder">PI:</span>
+            {% for pi in project.pi %}{% if not loop.first %},{% endif %}
+              {{ pi['name'] }}{% endfor %}
+          </p>
+        </div>
+        <div class="pt-3">
+          <span class="fw-bolder">Employees:</span>
+          <ul class="text-decoration-none list-unstyled">
+            {% for emp in project.employees %}
+              <li>{{ emp.name }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="pt-3">
+            <span class="fw-bolder">Cooperation and External
+            Employees:</span>
+          <ul class="text-decoration-none list-unstyled">
+            {% for emp in project.cooperation %}
+              <li>{{ emp }}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
-
     </div>
-
-
   </div>
 
 

@@ -10,7 +10,9 @@ from tib.data.tib.publications import tib_publications_data
 from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories
 from tib.data.tib.tib_volumen import tib_volumes_dict
+from tib.data.volumes.toponym_register import toponym_register
 from tib.util.util import get_prev_and_next_item_of_dict
+
 
 
 @app.route('/')
@@ -70,7 +72,9 @@ def tib_digtib() -> str:
 
 @app.route('/tib-register')
 def tib_register() -> str:
-    return render_template('tib/aieb/aieb.html')
+    return render_template(
+        'tib/digtib/toponym_register.html',
+        register=toponym_register)
 
 
 @app.route('/aieb')
@@ -85,6 +89,9 @@ def tib_team() -> str:
         categories=team_categories)
 
 
+
 @app.route('/contact')
 def tib_contact() -> str:
     return render_template('tib/current_status/current_status.html')
+
+

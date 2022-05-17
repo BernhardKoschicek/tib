@@ -13,7 +13,6 @@ from tib.data.subprojects import subprojects_dict
 from tib.data.team import team_members
 
 
-@app.route('/')
 @app.route('/balkan')
 def home() -> str:
     return render_template(
@@ -44,7 +43,7 @@ def tib_volumen(volume: str = None) -> str:
 
 @app.route('/balkan/subprojects')
 @app.route('/balkan/subprojects/<project>')
-def subprojects(project: str = None) -> str:
+def balkan_subprojects(project: str = None) -> str:
     if project:
         return render_template(
             'balkan/subprojects/subproject.html',
@@ -65,7 +64,7 @@ def entity_view(id_: int) -> str:
 
 
 @app.route('/balkan/digital/')
-def digital() -> str:
+def balkan_digital() -> str:
     return render_template(
         'balkan/digital/digital.html',
         objects3d=objects3d,
@@ -80,6 +79,11 @@ def digital_oa_access(project: str, view: str) -> str:
         data=get_oa_by_view_class(view, subprojects_dict[project]['oaID']),
         project=subprojects_dict[project],
         view_classes=view_classes[view])
+
+@app.route('/balkan/langzeitprojekt')
+def balkan_long_term():
+    return render_template('balkan/longterm/longterm.html')
+
 
 
 # @app.route('/subprojects')
@@ -104,10 +108,6 @@ def digital_oa_access(project: str, view: str) -> str:
 #             'projects/subprojects.html',
 #             projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
 
-
-@app.route('/longterm')
-def longterm():
-    return render_template('balkan/longterm/longterm.html')
 
 
 @app.route('/tib')

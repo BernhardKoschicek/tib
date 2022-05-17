@@ -7,9 +7,16 @@ def get_images(categories: List[str]) -> List[Dict[str, str]]:
 
 
 all_categories = ['tib11', 'tib14', 'tib14', 'tib16', 'tib17', 'tib18',
-                  'borderzones', 'montenegro', 'digtib', 'history']
+                  'borderzones', 'montenegro', 'digtib', 'tib_history']
 path = 'images/gallery/'
 
+tib_history = [
+    {
+        'path': f'{path}tib_regions_hunger.jpg',
+        'description': 'Die Einteilung der Arbeitsgebiete der TIB Balkan in der Nordhälfte der Balkanhalbinsel nach Herbert Hunger',
+        'citation': '',
+        'category': ['tib_history']
+    }]
 tib11 = [
     {
         'path': f'{path}roman_bridge.jpg',

@@ -24,7 +24,7 @@ digtib_bar = [
     {
         'title': 'Browse TIB Balkans Data',
         'icon': 'bi-stack',
-        'link': 'digital',
+        'link': 'balkan_digital',
         'link_type': 'int',
         'tooltip': 'Browse data from TIB Balkans directly from the OpenAtlas database '
     }, ]

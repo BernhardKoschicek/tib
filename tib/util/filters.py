@@ -13,8 +13,8 @@ blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 @blueprint.app_template_filter()
 def display_menu(route: str, category: str) -> str:
     menu = {
-        'tib': ['longterm', 'team', 'tib', 'publications', 'youth', 'outreach'],
-        'sub': ['longterm'],
+        'tib': ['balkan_long_term', 'team', 'tib', 'publications', 'youth', 'outreach'],
+        'sub': ['balkan_long_term'],
         'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''
     for item in menu[category]:
@@ -87,40 +87,40 @@ def include_css(route: str) -> str:
     return css
 
 
-@blueprint.app_template_filter()
-def display_institutes(institutes: Iterator) -> str:
-    html = ''
-    for short_name in institutes:
-        institute = INSTITUTES[short_name]
-        html += f'''<a href="{institute['url']}" target="_blank">
-                <img src="/static/images/institutes/{institute['logo']}" 
-                alt="{institute['name']}" title="{institute['name']}"  
-                style="display: unset;">
-            </a>'''
-    return Markup(html)
+# @blueprint.app_template_filter()
+# def display_institutes(institutes: Iterator) -> str:
+#     html = ''
+#     for short_name in institutes:
+#         institute = INSTITUTES[short_name]
+#         html += f'''<a href="{institute['url']}" target="_blank">
+#                 <img src="/static/images/institutes/{institute['logo']}"
+#                 alt="{institute['name']}" title="{institute['name']}"
+#                 style="display: unset;">
+#             </a>'''
+#     return Markup(html)
 
 
-@blueprint.app_template_filter()
-def display_sponsors(institutes: Iterator) -> str:
-    html = '<div>'
-    for short_name in institutes:
-        institute = INSTITUTES[short_name]
-        html += f'''
-                <div class="row">
-                    <div class="col-sm-4">
-                        <h6>{institute['name']}</h6>
-                        <p>{institute['member']}</p>
-                        <p>{institute['address']}</p>
-                        <p><a href="{institute['url']}" 
-                        target="_blank">{institute['url']}</a></p>
-                    </div>
-                    <div class="col-sm-4">
-                        <a href="{institute['url']}" target="_blank">
-                        <img src="/static/images/institutes/{institute['logo']}" 
-                        alt="{institute['name']}" 
-                        title="{institute['name']}" style="max-height: 200px">
-                        </a>
-                    </div>
-                </div>
-                '''
-    return Markup(html + '</div>')
+# @blueprint.app_template_filter()
+# def display_sponsors(institutes: Iterator) -> str:
+#     html = '<div>'
+#     for short_name in institutes:
+#         institute = INSTITUTES[short_name]
+#         html += f'''
+#                 <div class="row">
+#                     <div class="col-sm-4">
+#                         <h6>{institute['name']}</h6>
+#                         <p>{institute['member']}</p>
+#                         <p>{institute['address']}</p>
+#                         <p><a href="{institute['url']}"
+#                         target="_blank">{institute['url']}</a></p>
+#                     </div>
+#                     <div class="col-sm-4">
+#                         <a href="{institute['url']}" target="_blank">
+#                         <img src="/static/images/institutes/{institute['logo']}"
+#                         alt="{institute['name']}"
+#                         title="{institute['name']}" style="max-height: 200px">
+#                         </a>
+#                     </div>
+#                 </div>
+#                 '''
+#     return Markup(html + '</div>')

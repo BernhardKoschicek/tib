@@ -1,110 +1,87 @@
 {% extends "balkan/layout.html" %}
 {% block title %}{% endblock %}
 {% block content %}
-
-
-    <div class="container-fluid top10">
-        <div class="row ">
-            <h1 class="display-1">Vergangene Landschaften begreifbar machen …</h1>
-        </div>
-        <div class="row top7">
-            <div class="col-4 offset-1">
-
-            </div>
-            <div class="col-6 ">
-                <p>
-                    Im 21. Jahrhundert sind wir Zeugen eines rasanten technischen Fortschritts und
-                    einer dynamischen
-                    Veränderung unserer Lebenswelten. Die Rückbesinnung der Menschheit auf die
-                    Umwelt und das
-                    Bewußtsein der Menschen über globale klimatische Veränderungen regen die Frage
-                    an, wie unsere
-                    Vorfahren im Mittelalter gelebt haben und wie sie ihre Umwelt gestaltet und
-                    wahrgenommen haben.
-                </p>
-            </div>
-        </div>
-
-        <div class="row top17">
-            <div class="row justify-content-center">
-                <div class="col-4">
-                    <p>Wie waren damalige Landschaften beschaffen?</p>
-                </div>
-                <div class="col-4 offset-1">
-                    <p>Welche Siedlungen gab es? Wie sahen diese aus?</p>
-                </div>
-            </div>
-            <div class="row justify-content-around top5">
-                <div class="col-4">
-                    <p>Wurden sie in schriftlichen Quellen (z. B. Urkunden) dokumentiert?</p>
-                </div>
-                <div class="col-2 justify-content-center">
-                    <div class="circle">Fragen der historischen Geographie</div>
-                </div>
-                <div class="col-4">
-                    <p>Welche Rolle spielten Flüsse, Seen und Gebirge in der Raumwahrnehmung des
-                        Mittelalters?</p>
-                </div>
-            </div>
-            <div class="row justify-content-center top5">
-                <div class="col-4">
-                    <p> Warum wurden Kirchen, Klöster und Burgen an bestimmten Orten errichtet?</p>
-                </div>
-                <div class="col-4 offset-1">
-                    <p>Wohin führten Straßen und wie waren sie beschaffen?</p>
-                </div>
-            </div>
-        </div>
-        <div class="row top10 justify-content-center">
-            <div class="col-10">
-                <p>
-                    Unser Langzeitprojekt Tabula Imperii Bzyantini (TIB) an der Österreichischen
-                    Akademie der
-                    Wissenschaften in Wien erforscht die vergangenen Landschaften des Byzantinischen
-                    („Oströmischen“) Reiches. Wir befassen uns mit den zwei großen Kerngebieten
-                    Kleinasien und
-                    Balkan.
-                </p>
-            </div>
-        </div>
-        <div class="row align-content-center">
-            <div class="col-8  offset-2 text-center">
-                <img src="{{ url_for('static', filename='/images/core-studies.jpg') }}" style="height: 300px">
-            </div>
-        </div>
-        <div class="row top10 align-content-center">
-            <h2 class="display-2 text-center">Forschungsarbeit</h2>
-            <div class="col-3">
-                <h3>Quellen</h3>
-            </div>
-            <div class="col-3">
-<h3>Flurnamen</h3>
-            </div>
-            <div class="col-3">
-<h3></h3>
-            </div>
-        </div>
+  <div class="container top7 text-center">
+    <div class="text-center">
+      {{ header('Langzeitprojekt', False) }}
+      {{ header('Tabula Imperii Byzantini - Balkan', True) }}
     </div>
+    <p class="top5">
+      Das historisch-geographische Projekt Tabula Imperii Byzantini (TIB) wurde
+      auf Initiative des Begründers der österreichischen Byzantinistik und
+      Akademiemitglieds <a
+            href="https://www.geschichtewiki.wien.gv.at/Herbert_Hunger">
+      Prof. Dr. Herbert Hunger (1914-2000)</a>
+      im Jahre 1966 als Kommission der Österreichischen Akademie der
+      Wissenschaften (ÖAW) ins Leben gerufen. Seine Vision der
+      historisch-geographischen Forschung im Rahmen der Byzantinistik an der
+      ÖAW und der Erstellung eines Atlas des Byzantinischen Reiches begleiten
+      uns bis jetzt.
+    </p>
+    <p>
+      Als Ziel des Projektes TIB hat Herbert Hunger auf dem 13. Internationalen
+      Kongreß für Byzantinistik in Oxford im Jahre 1966 folgendes vorgegeben:
+    </p>
+    <div class="row d-flex justify-content-center align-items-center">
+      <figure class="bg-violet p-3 quotes row">
+        <div class="col-8 text-start">
+          <i class="bi bi-quote"
+             style="color: #4f1b3c; font-size: 2rem;"></i>
+          <blockquote class="blockquote pb-2">
+            <p class="text-end">
+              In Analogie zu der von der Union Académique Internationale
+              herausgegebenen Tabula Imperii Romani bereitet das Institut die
+              Publikation eines Atlas des byzantinischen Reiches vor, der in
+              rund 35 Kartenblättern (1:1,000,000) und ebenso vielen
+              zugehörigen Faszikeln alle Städte und grösseren Orte des
+              Ostimperiums enthalten soll. Einige Spezialkarten in grösserem
+              Massstab werden für besondere Gebiete notwendig sein.</p>
+          </blockquote>
+          <figcaption class="blockquote-footer mb-0 text-end">
+            Professor Dr Herbert Hunger in <cite title="Source Title">Das
+            Institut für Byzantinistik der Universität Wien, p. 481</cite>
+          </figcaption>
+        </div>
+        <div class="col-4 align-items-center ml-auto d-flex">
+          <img src="{{ url_for('static', filename='images/history/hunger.jpg') }}"
+               class="img-fluid img-thumbnail d-flex" alt="Herbert Hunger">
+        </div>
+      </figure>
 
+    </div>
+    <p>
+      Im Rahmen der TIB wird die historische Geographie des Byzantinischen
+      Reiches systematisch erforscht, das vom Beginn des 4. Jahrhunderts n.
+      Chr. bis zur Mitte des 15. Jahrhunderts Bestand hatte – d. h. von der
+      Spätantike bis zur osmanischen Eroberung, um einen Atlas dieses Reiches
+      zu erstellen. Der Hauptteil jeden Bandes der TIB umfasst einen Katalog
+      der
+      byzantinischen Toponyme (d. h. der Namen von Städten, Siedlungen,
+      Festungen, Kirchen, Klöstern, Feldern, Gebirgen, Flüssen und Seen) in
+      alphabetischer Reihenfolge, die für jede Region / Provinz des
+      Byzantinischen Reiches aus vier Kategorien von Quellen gewonnen werden.
+      Diese Kategorien sind die schriftlichen Quellen aus dem obenerwähnten
+      Zeitraum (z. B. die Geschichtsschreibung, Urkunden, usw.), archäologische
+      Erkenntnisse (Denkmäler und deren Überreste), die historischen und
+      jetzigen Toponyme und die naturräumlichen Gegebenheiten von Landschaften.
+    </p>
 
-     Wir lesen die schriftlichen Quellen der Zeit
-    des 4. bis 15. Jahrhunderts, die in verschiedenen Sprachen verfaßt sind (z. B. griechisch,
-    lateinisch, altslawisch, etc.), und filtern alle Informationen zu den oben genannten Fragen
-    heraus.
-    Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten und Lexika.
-    Wir
-    verschaffen uns einen Überblick über archäologische Grabungen und bestehende Denkmäler (Kirchen,
-    Klöster, Burgen, etc.) vor Ort.
-    Und wir reisen in die jeweiligen Gebiete, um vor Ort im Gelände
-    Daten zu sammeln und zu dokumentieren, die wir vorher gelesen und zusammengefaßt haben.Dazu
-    sind wir auf die Hilfe der einheimischen Bevölkerung angewiesen. Wir sprechen mit den Menschen
-    in ihrer Sprache – sei es auf Griechisch, Serbisch, Bulgarisch, Mazedonisch, Türkisch, etc. –
-    und blicken mit ihnen auf ihre lokale Vergangenheit zurück. Es kommt zu wunderschönen
-    Begegnungen über alle Grenzen hinweg.
-    Aus all den gewonnenen Daten schreiben wir zu jeder historischen Region des Byzantinischen
-    Reiches einen Band der Tabula Imperii Byzantini und tragen unsere Erkenntnisse auch in einer
-    beigelegten, gedruckten Karte ein. Auf diese Weise werden längst vergangene Landschaften für
-    jeden/jede begreifbar …
-
+    <p>
+      Trotz einiger organisatorischer Veränderungen in den letzten Jahrzehnten
+      bleiben wir dem wissenschaftlichen Erbe Herbert Hungers verpflichtet und
+      seiner Vision treu. Seit 2016 ist die TIB ein Langzeitprojekt der ÖAW und
+      wurde zudem 2015 als Projekt mit der Nummer 87 bei der
+      <a href="http://www.unionacademique.org/en/projects/104/tabula-imperii-byzantini">Union
+        Académique
+        Internationale</a> in Brüssel aufgenommen.
+    </p>
+    <p>
+      Laut Langzeitprojektplan besteht die TIB aus zwei Projektbereichen: TIB
+      Kleinasien und TIB Balkan. Seit 1. Jänner 2016 ist Mihailo St. Popović
+      Projektleiter der TIB Balkan und möchte Ihnen gemeinsam mit seinem Team
+      auf dieser Homepage die Aufgaben, Ziele, Abläufe, Resultate und Visionen
+      dieses Bereiches näherbringen.
+    </p>
+  </div>
 {% endblock %}
 

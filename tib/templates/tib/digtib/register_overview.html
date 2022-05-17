@@ -1,0 +1,31 @@
+{% extends "tib/layout.html" %}
+{% block title %}TIB Toponym Register{% endblock %}
+{% block content %}
+  <div class="container top5">
+    <div class="text-center">
+      {{ header('Toponym Register', True) }}
+    </div>
+    <div class="container-fluid row justify-content-center">
+      {% for key, value in register.items() %}
+        <div class="col-3 p-3">
+          {% if value['published'] %}
+            <a href="{{ url_for('tib_register', volume=key) }}" class="text-decoration-none">
+          {% endif %}
+          <img src="{{ url_for(
+          'static',
+           filename='images/icons/digtib/' + key + '_register_icon.jpg') }}"
+               alt="{{ key }}" class="d-flex img-fluid mx-auto">
+          <h6 class="text-center pt-2">{{ value['title'] }}</h6>
+          {% if value['published'] %}</a>{% endif %}
+        </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+{% endblock %}
+
+
+
+
+

@@ -94,9 +94,16 @@ def tib_team() -> str:
         categories=team_categories)
 
 
+@app.route('/imprint')
+def tib_imprint() -> str:
+    return render_template('tib/imprint.html')
+
+
 
 @app.route('/contact')
 def tib_contact() -> str:
     return render_template('tib/current_status/current_status.html')
+
+
 
 

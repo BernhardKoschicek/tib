@@ -170,7 +170,7 @@ subprojects = {
         'funded_by': [institutes['fwf']],
         'project_number': 'P 30384-G28',
         'pi': [tib_team_data['mpopovic']],
-        'cooperation': ['Alexander Watzinger, IT Experte'],
+        'cooperation': '',
         'employees': [tib_team_data['vzervan'], tib_team_data['bkoschicek']],
         'begin': datetime(2017, 10, 1).strftime('%d %B %Y'),
         'end': datetime(2022, 3, 31).strftime('%d %B %Y'),

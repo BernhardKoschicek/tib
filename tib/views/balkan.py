@@ -5,7 +5,7 @@ from flask import render_template
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
 from tib.data.balkan.outreach import outreach
-from tib.data.balkan.subprojects import subprojects_ger
+from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.images.images import get_images, tib_history
@@ -28,7 +28,7 @@ def home() -> str:
         front_menu=front_menu,
         img_description=home_images,
         tib_volumen=tib_volumen_dict,
-        subprojects=subprojects_dict,
+        subprojects=subprojects_ger,
         team=team_members,
         outreach=outreach,
         images=img_outreach)

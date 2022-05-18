@@ -46,16 +46,7 @@ Die Gesamtzahl der zu scannenden Dias beträgt 6.300 (TIB 5: 5.000, TIB 12: 800,
 </p>
 """
 borderzones_description = """<p>
-The European continent as a whole and the European Union in particular are facing a period of increasing dynamics of internal migration as well as external immigration at the moment. Migration in all of its various aspects has always been a part of the history of the European continent. In medieval societies the question of migration is closely connected with the definition as well as the representation of medieval borders. Maps in historical atlases are designed to provide clear-cut lines of political formations and empires, which does not reflect the reality of civilizations neither in Antiquity, nor in the Middle Ages, nor in Early Modern Times. The dynamics of borders simultaneously shapes the dynamics of settlement patterns as well as of transportation networks.
-   </p>
-    <p>
-The respective stand-alone project focuses on the borders of the Byzantine (Eastern Roman) Empire in medieval South-East Europe, namely in pre-Ottoman (i.e. Byzantine) Macedonia. Far-reaching political changes occurred in the Southern Balkan Peninsula from the end of the 13th until the middle of the 14th century, when the Serbian medieval kingdom expanded to the South under the king Stefan Uroš II Milutin at the expense of the Byzantine Empire, which lasted until the death of tsar Stefan Uroš IV Dušan (1355). This again had a severe impact on the border zones and cross-border societies between both realms in pre-Ottoman (i.e. Byzantine) Macedonia in the same period, especially in five selected target areas (the Strumica Valley, Lesnovo, Skopje, Ohrid, Prilep).
-   </p>
-    <p>
-Although substantial publications exist on the population of as well as on the migration in Byzantine Macedonia, there is still an urgent need for this kind of research based on written sources and toponyms. Two interrelated research questions will be addressed in two distinct work packages: "Rivalling Political Concepts – Byzantium and the Medieval Serbian Oecumene” and "Cross-Border Societies and Elite Change in Byzantine Macedonia”.
-   </p>
-    <p>
-The initial point form the medieval written sources, i.e. Serbian and Byzantine charters as main corpus, as well as other selected written sources from the medieval Serbian kingdom. The sources will be analysed from the viewpoint of the aforesaid research questions and strongly based on the methods deriving from Historical Geography. Special attention will be given to the analysis of formulations with regard to the Serbian expansion in the area of research, the acquisition of new territories and their administrative incorporation on the macro-level and to the localisation of conquered settlements with related settlement typologies as well as on the change of local elites on a micro-level. Moreover, tools from Digital Humanities in mapping and visualisation will be applied in order to communicate the achieved results to the interested public.
+Der europäische Kontinent in seiner Gesamtheit und die Europäische Union im Besonderen befinden sich derzeit in einer Phase der zunehmenden Dynamik sowohl die interne Migration als auch die Immigration betreffend. Migration mit all ihren verschiedenen Aspekten war stets ein Teil der Geschichte des europäischen Kontinents. In mittelalterlichen Gesellschaften ist die Frage der Migration eng mit der Definition und der Darstellung mittelalterlicher Grenzen verbunden. Karten in historischen Atlanten sind derart gestaltet, dass sie klare Linien zwischen politischen Formationen und Reichen ziehen, was jedoch weder in der Antike, noch im Mittelalter, noch in der Frühen Neuzeit die Realität von Zivilisationen widerspiegelt. Die Dynamik der Grenzen prägt gleichzeitig die Dynamik von Siedlungsmustern sowie Verkehrsnetzen. Das betreffende Einzelprojekt beschäftigt sich mit den Grenzen des Byzantinischen (Oströmischen) Reiches im mittelalterlichen Südosteuropa, genauer im vor-osmanischen (d. h. Byzantinischen) Mazedonien. Weitreichende politische Veränderungen traten auf der südlichen Balkanhalbinsel vom Ende des 13. bis zur Mitte des 14. Jahrhunderts ein, als sich das serbische mittelalterliche Königreich unter dem König Stefan Uroš II. Milutin (reg. 1282-1321) auf Kosten des Byzantinischen Reiches nach Süden ausbreitete, was bis zum Tode des Zaren Stefan Uroš IV. Dušan (1355) anhielt. Dies wiederum wirkte sich auf die Grenzräume und grenzübergreifenden Gesellschaften zwischen beiden Reichen im vor-osmanischen (d. h. Byzantinischen) Mazedonien aus, vor allem in fünf ausgewählten Zielgebieten (im Flußtal der Strumica, Lesnovo, Skopje, Ohrid und Prilep). Obwohl grundlegende Veröffentlichungen sowohl über die Bevölkerung als auch über die Migration im Byzantinischen Mazedonien vorliegen, besteht ein dringender Bedarf für diese Art von Forschung, die auf schriftlichen Quellen und Ortsnamen bzw. Flurnamen basiert. Zwei miteinander verknüpfte Forschungsfragen werden in zwei unterschiedlichen Arbeitspaketen behandelt, die wie folgt lauten: „Konkurrierende politische Konzepte – Byzanz und die mittelalterliche serbische Ökumene“ und „Grenzübergreifende Gesellschaften und Elitenwechsel im Byzantinischen Mazedonien“. Den Ausgangspunkt bilden die mittelalterlichen schriftlichen Quellen, d. h. serbische und byzantinische Urkunden als Hauptquellengruppe, sowie weitere ausgewählte schriftliche Quellen aus dem mittelalterlichen serbischen Königreich. Die Quellen werden unter dem Gesichtspunkt der vorgenannten Forschungsfragen analysiert, insbesondere auf den Methoden der Historischen Geographie basierend. Spezielles Augenmerk wird auf die Analyse der Formulierungen in Hinblick auf die serbische Expansion im Arbeitsgebiet, den Erwerb neuer Territorien und deren administrative Eingliederung auf der Makroebene sowie die Verortung der eroberten Siedlungen mit sich verändernden Siedlungsformen (Dorf, Weiler, Wüstung etc.) und den Elitenwechsel auf der Mikroebene gelegt. Darüber hinaus werden Methoden aus den Digitalen Geisteswissenschaften (Digital Humanities) in der kartographischen Darstellung und Visualisierung eingesetzt, um die erzielten Forschungsergebnisse der interessierten Öffentlichkeit zu vermitteln.
 </p>"""
 
 subprojects_ger = {
@@ -72,6 +63,9 @@ subprojects_ger = {
         'begin': datetime(2020, 3, 1).strftime('%d %B %Y'),
         'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
         'description': holdura_description,
+        'question':
+            'Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ '
+            'aus mittelalterlichen Kirchen und Klöstern rekonstruieren?',
         'icon': f'{path}holdura_icon.jpg',
         'presentations': [],
         'publications': [],
@@ -93,6 +87,9 @@ subprojects_ger = {
         'begin': datetime(2019, 1, 1).strftime('%d %B %Y'),
         'end': datetime(2021, 12, 31).strftime('%d %B %Y'),
         'description': montenegro_description,
+        'question':
+            'Was blieb von der österreichisch-ungarischen Besetzung '
+            'Montenegros im Ersten Weltkrieg?',
         'icon': f'{path}montenegro_icon.jpg',
         'presentations': [],
         'publications': [],
@@ -109,21 +106,28 @@ subprojects_ger = {
         'begin': datetime(2018, 3, 1).strftime('%d %B %Y'),
         'end': datetime(2020, 5, 31).strftime('%d %B %Y'),
         'description': digtib_description,
+        'question':
+            'Welchen Beitrag leistet die TIB Balkan zur Dokumentation und '
+            'Erhaltung von Kulturdenkmälern auf der Balkanhalbinsel?',
         'icon': f'{path}digtib_icon.jpg',
         'presentations': [],
         'publications': [],
         'outreach': [],
     },
     'borderzones': {
-        'title': 'Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-Ottoman Macedonia (1282–1355)',
+        'title': 'Byzantinisch-Serbische Grenzräume in Transition: Migration und Elitenwechsel im vor-osmanischen Mazedonien (1282-1355)',
         'funded_by': [institutes['fwf']],
         'project_number': 'P 30384-G28',
         'pi': [tib_team_data['mpopovic']],
-        'cooperation': ['Alexander Watzinger, IT Experte'],
+        'cooperation': '',
         'employees': [tib_team_data['vzervan'], tib_team_data['bkoschicek']],
         'begin': datetime(2017, 10, 1).strftime('%d %B %Y'),
         'end': datetime(2022, 3, 31).strftime('%d %B %Y'),
         'description': borderzones_description,
+        'question':
+            'Wo und wie lebten die Menschen in der historischen Landschaft '
+            'Makedonien während des byzantinisch-serbischen Konflikts im 14. '
+            'Jahrhundert?',
         'icon': f'{path}borderzones_icon.jpg',
         'presentations': [],
         'publications': [],

@@ -82,6 +82,16 @@
       auf dieser Homepage die Aufgaben, Ziele, Abläufe, Resultate und Visionen
       dieses Bereiches näherbringen.
     </p>
+    <div class="row justify-content-center">
+      {% for img in images %}
+        <div class="col-4">
+          {{ img_modal(img, loop.index) }}
+        </div>
+      {% endfor %}
+    </div>
   </div>
+
+
+
 {% endblock %}
 

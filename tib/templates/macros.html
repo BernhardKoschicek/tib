@@ -100,3 +100,103 @@
   </div>
 {% endmacro %}
 
+
+{% macro outreach_modal(outreach, index) %}
+  <!-- Modal Button -->
+  <div role="button" class="card mb-3"
+       data-bs-toggle="modal" data-bs-target="#modal-{{ outreach.id }}">
+    <img class="img-fluid d-flex z-depth-1"#}
+         src="{{ url_for('static', filename=outreach.icon) }}"
+         alt="{{ outreach.description }}">
+    <div class="card-body">
+      <p class="card-title">{{ outreach.title | safe }}</p>
+      <p class="text-start">
+        <small class="text-muted">
+          {{ outreach.description | safe | truncate(100, False, '...') }}
+        </small>
+      </p>
+      <div class="card-footer text-muted">
+        <small class="text-muted">
+          <i class="bi bi-calendar-week"></i>&nbsp;{{ outreach.type['name'] }}
+          von {{ outreach.date }}
+        </small>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="modal-{{ outreach.id }}" tabindex="-1"
+       aria-labelledby="modal-{{ outreach.id }}" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-xl">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">{{ outreach.title | safe }}</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"
+                  aria-label="Close">
+          </button>
+        </div>
+        <div class="modal-body justify-content-center align-content-center align-items-center">
+          {{ outreach.description | safe }}
+          <div id="carouselExampleControls" class="carousel slide col-8"
+               data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              {% for img in images if outreach.id in img.category %}
+                <button type="button"
+                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide-to="{{ loop.index }}"
+                        {% if loop.first %}class="active"
+                        aria-current="true"{% endif %}
+                        aria-label="{{ loop.index }}"></button>
+              {% endfor %}
+            </div>
+            <div class="carousel-inner">
+              {% for img in images if outreach.id in img.category %}
+
+                <div class="carousel-item {% if loop.first %}active{% endif %}">
+                  <img src="{{ url_for('static', filename=img.path) }}"
+                       class="d-block w-100" alt="{{ img.category }}">
+                </div>
+              {% endfor %}
+            </div>
+            <button class="carousel-control-prev" type="button"
+                    data-bs-target="#carouselExampleControls"
+                    data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"
+                      aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button"
+                    data-bs-target="#carouselExampleControls"
+                    data-bs-slide="next">
+                <span class="carousel-control-next-icon"
+                      aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          <div class="pt-5">
+            {% for attach in outreach.attachment %}
+              {% if attach.type == 'pdf' %}
+                <embed src="{{ url_for('static', filename=attach.path) }}#toolbar=1&navpanes=0"
+                       width="100%" height="1100px"/>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="modal-footer justify-content-center">
+          <div class="row">
+            <div class="col-12 text-center">
+              <p>
+                <button type="button"
+                        class="btn btn-violet btn-rounded btn-md ml-4"
+                        data-bs-dismiss="modal">Close
+                </button>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endmacro %}
+

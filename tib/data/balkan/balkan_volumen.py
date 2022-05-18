@@ -1,7 +1,7 @@
 from tib.data.image_descriptions import project_icons
 
-tib11 = {
-    'description': """
+descriptions = {
+    'tib11': """
     <p>Der Band TIB 11 „Makedonien, südlicher Teil“ umfaßt den südlichen Teil 
     der historischen Landschaft Makedonien. Das Bearbeitungsgebiet entspricht 
     etwa der römischen Provinz <i>Macedonia Prima</i> und ist zugleich die 
@@ -31,10 +31,8 @@ tib11 = {
     <p>Autor des Bandes: Mag. Dr. Peter Soustal 
     (pensionierter Mitarbeiter der TIB)</p>
     """,
-}
 
-tib16 = {
-    'description': """
+    'tib16': """
     <p>Der Band TIB 16 mit dem Titel „Makedonien, nördlicher Teil“ umfaßt die 
     spätrömischen bzw. frühbyzantinischen Provinzen <i>Macedonia Secunda</i> 
     und Teile der Provinzen <i>Macedonia Prima, Dardania, Epirus Nova, 
@@ -68,9 +66,8 @@ tib16 = {
     <p>Autor des Bandes: Doz. Mag. Dr. Mihailo St. Popović 
     (Projektleiter TIB Balkan)</p>
     """,
-}
-tib17 = {
-    'description': """
+
+    'tib17': """
     <p>Der TIB Band 17 trägt den Titel „Nea Epeiros und Praevalis“ und umfaßt 
     die spätrömischen bzw. frühbyzantinischen Provinzen desselben Namens bzw. 
     das gesamte jetzige Staatsgebiet Montenegros, den Nordteil Albaniens und 
@@ -109,20 +106,26 @@ tib_volumen_dict = {
         'author': 'Peter Soustal',
         'icon_description': project_icons['tib11'],
         'icon': 'images/boxes_background/tib11_icon.jpg',
-        'description': tib11['description']
+        'description': descriptions['tib11'],
+        'subprojects': [],
+        'images': 'tib11'
     },
     'TIB_16': {
         'title': 'Makedonien, nördlicher Teil',
         'author': 'Mihailo Popović',
         'icon_description': project_icons['tib16'],
         'icon': 'images/boxes_background/tib16_icon.jpg',
-        'description': tib16['description']
+        'description': descriptions['tib16'],
+        'subprojects': [],
+        'images': 'tib11'
     },
     'TIB_17': {
         'title': 'Nea Epeiros und Praevalis',
         'author': 'Mihailo Popović',
         'icon_description': project_icons['tib17'],
         'icon': 'images/boxes_background/tib17_icon.jpg',
-        'description': tib17['description']
+        'description': descriptions['tib17'],
+        'subprojects': [],
+        'images': 'tib11'
     }
 }

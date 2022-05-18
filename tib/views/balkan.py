@@ -4,13 +4,16 @@ from flask import render_template
 
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
+from tib.data.balkan.outreach import outreach
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
+from tib.data.images.images import tib_history
+from tib.data.images.outreach import img_outreach
 from tib.data.index import front_menu
 from tib.data.oa_access import get_entity_from_oa, \
     get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects_dict
-from tib.data.team import team_members
+from tib.data.balkan.team import team_members
 
 
 @app.route('/balkan')
@@ -21,7 +24,9 @@ def home() -> str:
         img_description=home_images,
         tib_volumen=tib_volumen_dict,
         subprojects=subprojects_dict,
-        team=team_members)
+        team=team_members,
+        outreach=outreach,
+        images=img_outreach)
 
 
 @app.route('/balkan/team')
@@ -41,8 +46,8 @@ def tib_volumen(volume: str = None) -> str:
     return render_template('balkan/tib_volumen/tib_volumes.html')
 
 
-@app.route('/balkan/subprojects')
-@app.route('/balkan/subprojects/<project>')
+@app.route('/balkan/subprojekte')
+@app.route('/balkan/subprojekte/<project>')
 def balkan_subprojects(project: str = None) -> str:
     if project:
         return render_template(
@@ -52,8 +57,11 @@ def balkan_subprojects(project: str = None) -> str:
 
 
 @app.route('/balkan/öffentlichskeitsarbeit')
-def outreach() -> str:
-    return render_template('balkan/outreach/outreach.html')
+def balkan_outreach() -> str:
+    return render_template(
+        'balkan/outreach/outreach.html',
+        outreach=outreach,
+        images=img_outreach)
 
 
 @app.route('/balkan/entity/<id_>')
@@ -80,10 +88,10 @@ def digital_oa_access(project: str, view: str) -> str:
         project=subprojects_dict[project],
         view_classes=view_classes[view])
 
+
 @app.route('/balkan/langzeitprojekt')
 def balkan_long_term():
-    return render_template('balkan/longterm/longterm.html')
-
+    return render_template('balkan/longterm/longterm.html', images=tib_history)
 
 
 # @app.route('/subprojects')
@@ -107,7 +115,6 @@ def balkan_long_term():
 #         return render_template(
 #             'projects/subprojects.html',
 #             projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
-
 
 
 @app.route('/tib')

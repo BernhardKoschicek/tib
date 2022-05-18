@@ -1,7 +1,7 @@
 from flask import render_template
 
 from tib import app
-from tib.data.images import get_images
+from tib.data.images.images import get_images
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron

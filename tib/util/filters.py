@@ -9,11 +9,11 @@ from tib.data.tib.digtib import digtib_bar
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
 
-
 @blueprint.app_template_filter()
 def display_menu(route: str, category: str) -> str:
     menu = {
-        'tib': ['balkan_long_term', 'team', 'tib', 'publications', 'youth', 'outreach'],
+        'tib': ['balkan_long_term', 'team', 'tib', 'publications', 'youth',
+                'balkan_outreach'],
         'sub': ['balkan_long_term'],
         'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
     html = ''
@@ -85,7 +85,6 @@ def include_css(route: str) -> str:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css
-
 
 # @blueprint.app_template_filter()
 # def display_institutes(institutes: Iterator) -> str:

@@ -1,25 +1,55 @@
 {% extends "balkan/layout.html" %}
-{% block title %}{% endblock %}
+{% block title %}{{ tib_volume['title'] }}{% endblock %}
 {% block content %}
-
-<div class="row pt-5">
-
-    <div class="col-xxl-4 px-5 py-5">
-      <div class="hover_effect">
-        <img src="{{ url_for('static', filename=tib_volume['icon']) }}"
-             class="img-fluid" alt="Icon">
-        <div class="overlay">
-            <h1 class="display-1 text-white"></h1>
-            <p>{{ tib_volume['title'] }}</p>
-            <div class="pt-5">
-            </div>
-
+  <div class="container-fluid top7">
+    <div class="row">
+      <div class="col-2 d-flex align-items-center text-center">
+        <div class="col">
+          <a href="{{ url_for('balkan_volumes', band=navigation[0] ) }}"
+             class="lead text-decoration-none fw-bold">
+            <p>
+              <i class="bi bi-arrow-left-square-fill display-6"></i>
+            </p>
+            <p>
+              {{ navigation[0] | replace('_', ' ') | upper }}
+            </p>
+          </a>
+        </div>
+      </div>
+      <div class="col-8">
+        <div class="text-center">
+          {{ header(code | replace('_', ' '), True) }}
+          {{ header(tib_volume['title'], False) }}
+        </div>
+        <div class="container">
+          <p class="p-2 text-center ">
+            {{ tib_volume['description'] | safe}}
+          </p>
+          <div class="row justify-content-center">
+            {% for img in images %}
+              <div class="col-3">
+              {{ img_modal(img, loop.index) }}
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="col-2 d-flex align-items-center text-center">
+        <div class="col">
+          <a href="{{ url_for('balkan_volumes', band=navigation[1] ) }}"
+             class="lead text-decoration-none fw-bold">
+            <p>
+              <i class="bi bi-arrow-right-square-fill display-6"></i>
+            </p>
+            <p>
+              {{ navigation[1] | replace('_', ' ') | upper }}
+            </p>
+          </a>
         </div>
       </div>
     </div>
+  </div>
 
 
-
-</div>
 
 {% endblock %}

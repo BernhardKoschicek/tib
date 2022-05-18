@@ -7,13 +7,15 @@ from tib.data.balkan.balkan_volumen import tib_volumen_dict
 from tib.data.balkan.outreach import outreach
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
-from tib.data.images.images import tib_history
+from tib.data.images.images import get_images, tib_history
 from tib.data.images.outreach import img_outreach
 from tib.data.index import front_menu
 from tib.data.oa_access import get_entity_from_oa, \
     get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects_dict
 from tib.data.balkan.team import team_members
+from tib.data.tib.tib_volumen import tib_volumes_dict
+from tib.util.util import get_prev_and_next_item_of_dict
 
 
 @app.route('/balkan')
@@ -36,14 +38,21 @@ def team() -> str:
         team=team_members)
 
 
-@app.route('/balkan/tib-volumen')
-@app.route('/balkan/tib-volumen/<volume>')
-def tib_volumen(volume: str = None) -> str:
-    if volume:
+@app.route('/balkan/bände')
+@app.route('/balkan/bände/<band>')
+def balkan_volumes(band: str = None) -> str:
+    if band:
         return render_template(
             'balkan/tib_volumen/volume.html',
-            tib_volume=tib_volumen_dict[volume])
-    return render_template('balkan/tib_volumen/tib_volumes.html')
+            tib_volume=tib_volumen_dict[band],
+            navigation=get_prev_and_next_item_of_dict(
+                band,
+                tib_volumen_dict),
+            code=band,
+            images=get_images(tib_volumes_dict[band]['images']))
+    return render_template(
+        'balkan/tib_volumen/tib_volumes.html',
+        tib_volumen=tib_volumen_dict)
 
 
 @app.route('/balkan/subprojekte')

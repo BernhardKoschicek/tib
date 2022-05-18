@@ -1,6 +1,7 @@
-{% extends "tib/layout.html" %}
+{% extends "balkan/layout.html" %}
 {% block title %}{{ project.title }}{% endblock %}
 {% block content %}
+
   <div class="container">
     <div class="text-center top7">
       {{ header(project.title, False) }}
@@ -15,7 +16,7 @@
       <div class="col-4 bg-violet-light">
         <div class="pt-1">
           <p>
-            <span class="fw-bolder">Funded by</span>:
+            <span class="fw-bolder">Gefördert von</span>:
           </p>
           <div class="container-fluid justify-content-center bg-white">
             {% for fund in project.funded_by %}
@@ -27,22 +28,22 @@
         </div>
         <div class="pt-3">
           <p>
-            <span class="fw-bolder">Project Number:</span> {{ project.project_number }}
+            <span class="fw-bolder">Projektnummer:</span> {{ project.project_number }}
           </p>
         </div>
         <div class="pt-3">
-          <p><span class="fw-bolder">Duration:</span> {{ project.begin }}
+          <p><span class="fw-bolder">Dauer:</span> {{ project.begin }}
             - {{ project.end }}</p>
         </div>
         <div class="pt-3">
           <p>
-            <span class="fw-bolder">PI:</span>
+            <span class="fw-bolder">Projektleitung:</span>
             {% for pi in project.pi %}{% if not loop.first %},{% endif %}
               {{ pi['name'] }}{% endfor %}
           </p>
         </div>
         <div class="pt-3">
-          <span class="fw-bolder">Employees:</span>
+          <span class="fw-bolder">ÖAW Projektteam:</span>
           <ul class="text-decoration-none list-unstyled">
             {% for emp in project.employees %}
               <li>{{ emp.name }}</li>
@@ -50,8 +51,8 @@
           </ul>
         </div>
         <div class="pt-3">
-            <span class="fw-bolder">Cooperation and External
-            Employees:</span>
+            <span class="fw-bolder">Kooperationspartner und Externes Team:
+            </span>
           <ul class="text-decoration-none list-unstyled">
             {% for emp in project.cooperation %}
               <li>{{ emp }}</li>
@@ -60,6 +61,17 @@
         </div>
       </div>
     </div>
+  <div class="row pt-5">
+    {% for img in images %}
+      <div class="col-3">
+          {{ img_modal(img, loop.index) }}
+      </div>
+    {% endfor %}
+  </div>
+  <h4 class="pt-5 text-center">Publikationen:</h4>
+  {{ create_table(publications, 'publications', 3) }}
+  <h4 class="pt-5 text-center">Vorträge:</h4>
+  {{ create_table(presentations, 'presentations', 3) }}
   </div>
 
 

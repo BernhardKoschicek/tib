@@ -200,3 +200,48 @@
   </div>
 {% endmacro %}
 
+
+{% macro create_table(list_, id, order_column) %}
+
+<table id="table-{{ id }}"
+       class="row-border order-column stripe hover">
+  <thead>
+  <tr>
+    {% for header in list_[0] if not header == 'category' %}
+      <th>{{ header | title }}</th>
+    {% endfor %}
+  </tr>
+  </thead>
+  <tbody>
+  {% for item in list_ %}
+    <tr>
+      {% for key, value in item.items() if not key == 'category' %}
+        <td>{{ value }}</td>
+        {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('#table-{{ id }}').dataTable({
+            "paging": true,
+            "autoWidth": false,
+            "columnDefs": [
+                {"width": "20%", "targets": 0},
+                {"width": "55%", "targets": 1},
+            ],
+            "ordering": true,
+            "order": [[{{ order_column }},
+                {% if id == 'volumes'%}'asc'{% else %}'desc'{% endif %}]],
+            "info": true,
+            "searching": true,
+            "pageLength": 25
+        });
+    });
+
+</script>
+
+{% endmacro %}
+

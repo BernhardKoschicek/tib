@@ -7,25 +7,25 @@ path = 'images/icons/'
 
 holdura_description = """
     <p>
-    Im aktuellen Diskurs über die Integration des Westbalkans in die EU scheinen die laufenden und geplanten Verhandlungen mit den Republiken Montenegro, Serbien und Albanien für die zeitgenössische Medienberichterstattung von bemerkenswertem Interesse zu sein. Sie umfassen eine Region, die in der Vergangenheit unter dem Namen Illyricum (Illyrikon) eine entscheidende Rolle in den strategischen und administrativen Überlegungen des Byzantinischen Reiches gespielt hat.
+    Im aktuellen Diskurs über die Integration des Westbalkans in die EU scheinen die laufenden und geplanten Verhandlungen mit den Republiken Montenegro, Serbien und Albanien für die zeitgenössische Medienberichterstattung von bemerkenswertem Interesse zu sein. Sie umfassen eine Region, die in der Vergangenheit unter dem Namen <i>Illyricum</i> (<i>Illyrikon</i>) eine entscheidende Rolle in den strategischen und administrativen Überlegungen des Byzantinischen Reiches gespielt hat.
     </p>
     <p>
-   Dieses Projekt baut auf einer Zusammenarbeit zwischen den wissenschaftlichen Fächern der Byzantinistik, Mittelalterlichen Geschichte, Historischen Geographie, Kunstgeschichte, Geographie und Geokommunikation (GIScience und Kartografie) sowie digitalen Geisteswissenschaften auf und konzentriert sich auf die zwei historischen Regionen „Duklja“ und „Raška“, die Teil des Illyricum waren. Die Forschungshypothese geht davon aus, dass beide historischen Regionen eine „Heilige Landschaft“ (Sacred Landscape) bildeten, die wir mit den vereinten Mitteln der Historischen Geographie, Kunstgeschichte, Geokommunikation und digitalen Geisteswissenschaften sowohl Wissenschaftler*innen als auch der interessierten Öffentlichkeit entschlüsseln und näherbringen wollen.
+   Dieses Projekt baut auf einer Zusammenarbeit zwischen den wissenschaftlichen Fächern der Byzantinistik, Mittelalterlichen Geschichte, Historischen Geographie, Kunstgeschichte, Geographie und Geokommunikation (GIScience und Kartografie) sowie digitalen Geisteswissenschaften auf und konzentriert sich auf die zwei historischen Regionen „Duklja“ und „Raška“, die Teil des <i>Illyricum</i> waren. Die Forschungshypothese geht davon aus, dass beide historischen Regionen eine „Heilige Landschaft“ (<i>Sacred Landscape</i>) bildeten, die wir mit den vereinten Mitteln der Historischen Geographie, Kunstgeschichte, Geokommunikation und digitalen Geisteswissenschaften sowohl Wissenschaftler*innen als auch der interessierten Öffentlichkeit entschlüsseln und näherbringen wollen.
    </p>
     <p>
-    Therefore, the project aims at approaching and researching systematically the following three major questions:
+    Daher befaßt sich das Projekt systematisch mit den folgenden drei Hauptfragen:
     </p>
     <p>
-    (1) In which way did the local rulers and the Churches of Rome and Constantinople interact in the regions of “Duklja” and “Raška” from the 11th to the 14th centuries and how is this very interaction mirrored in the distribution pattern of monuments (i.e. the churches and monasteries) in this “Sacred Landscape”?
+   (1) Auf welche Art und Weise haben die lokalen Herrscher und die Kirchen von Rom und Konstantinopel vom 4. bis zum 14. Jahrhundert in den historischen Regionen von „Duklja“ und „Raška“ interagiert, und wie spiegelt sich diese Interaktion im Verteilungsmuster von Denkmälern (das heißt von Kirchen und Klöstern) in dieser „Heiligen Landschaft“ wider?
+   </p>
+    <p>
+    (2) Hatte die wechselnde Religionszugehörigkeit der örtlichen Herrscher Auswirkungen auf die „Heilige Landschaft“ und wo wurden lateinische bzw. byzantinische Kultstätten im Laufe der Zeit verändert oder überlagert?
+     </p>
+    <p>
+    (2) Hatte die wechselnde Religionszugehörigkeit der örtlichen Herrscher Auswirkungen auf die „Heilige Landschaft“ und wo wurden lateinische bzw. byzantinische Kultstätten im Laufe der Zeit verändert oder überlagert?
     </p>
     <p>
-    (2) Did the volatile religious affiliation of the local rulers have an impact on the “Sacred Landscape” and where were Latin or Byzantine places of worship transformed or superimposed in the course of time?
-    </p>
-    <p>
-    (3) Can the religious and cultural influence of the Latin and Byzantine (Orthodox) faith be traced through small Latin (i.e. “Western”) as well as Byzantine and Slavic (i.e. “Eastern”) objects of art, not only in the coastal area, but also in its hinterland and in Italy? Both historic regions could prove to be constituting a zone “Beyond East and West”, subject to remarkable processes of transformation from the 11th to the 14th centuries, and have the huge potential to offer data suitable for visualisations as well as formalisation by GIScience. The integration and presentation of the research data (i.e. on the written sources, monuments and objects of art) of the project will be achieved through an already existing database and an online <a hrf="https://data1.geo.univie.ac.at/projects/tibapp">map application</a>.
-    </p>
-    <p>
-    The project is exclusively feasible through a multidisciplinary approach and cooperation between three project partners from Austria (Austrian Academy of Sciences, here Priv.-Doz. Mag. Dr. Mihailo Popović; University of Vienna, here Professor Dr. Karel Kriz) and Germany (Hochschule für Technik, Wirtschaft und Kultur Leipzig, here Professor Dr. Johannes Tripps).Moreover, it is closely connected to the ongoing scholarly work of Mihailo Popović on <a href="/current_status/TIB_17">TIB volume 17 “Nea Epeiros and Praevalis”</a> and on the TIB Sub Project <a href="sub_projects/montenegro">“Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian Relief Map of Montenegro (1916-1918)”</a>.
+    Beide historischen Regionen könnten sich als Zone „Jenseits von Ost und West“ erweisen, die bemerkenswerten Transformationsprozessen vom 4. bis zum 14. Jahrhundert ausgesetzt waren, und könnten das große Potential sowohl für Visualisierungen als auch für die Formalisierung durch GIScience Daten anbieten. Die Integration und Darstellung der Forschungsdaten (aus den schriftlichen Quellen, zu Denkmälern und zu Kunstgegenständen) des Projekts wird durch eine bereits vorhandene Datenbank (TIB Balkan OpenAtlas Datenbank) und durch eine Online-Kartenapplikation (Frontend <a href="https://data1.geo.univie.ac.at/projects/tibapp/">„Maps of Power“</a>) ermöglicht. Das Projekt ist ausschließlich durch einen multidisziplinären Ansatz und die Zusammenarbeit zwischen drei Projektpartnern, zwei aus Österreich (Österreichische Akademie der Wissenschaften; Universität Wien) und einem aus Deutschland (Hochschule für Technik, Wirtschaft und Kultur Leipzig), zu verwirklichen.
     </p>    """
 
 montenegro_description = """<p>
@@ -58,7 +58,7 @@ Although substantial publications exist on the population of as well as on the m
 The initial point form the medieval written sources, i.e. Serbian and Byzantine charters as main corpus, as well as other selected written sources from the medieval Serbian kingdom. The sources will be analysed from the viewpoint of the aforesaid research questions and strongly based on the methods deriving from Historical Geography. Special attention will be given to the analysis of formulations with regard to the Serbian expansion in the area of research, the acquisition of new territories and their administrative incorporation on the macro-level and to the localisation of conquered settlements with related settlement typologies as well as on the change of local elites on a micro-level. Moreover, tools from Digital Humanities in mapping and visualisation will be applied in order to communicate the achieved results to the interested public.
 </p>"""
 
-subprojects = {
+subprojects_ger = {
     'holdura': {
         'title': 'Jenseits von Ost und West: die Geokommunikation der „Heiligen Landschaften“ (Sacred Landscapes) von „Duklja“ und „Raška“ durch Raum und Zeit (11.-14. Jahrhundert)',
         'funded_by': [institutes['fwf'], institutes['dfg']],
@@ -68,8 +68,7 @@ subprojects = {
             'Mag. Markus Breier', 'Lukas Neugebauer, BSc MSc',
             'Florian Korn, BSc MSc', 'Dipl.-Ing. Leonhard Kreil-Brunauer',
             'Ass. Prof. Dr. Branka Vranešević'],
-        'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek'],
-                      tib_team_data['dschmid']],
+        'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek']],
         'begin': datetime(2020, 3, 1).strftime('%d %B %Y'),
         'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
         'description': holdura_description,

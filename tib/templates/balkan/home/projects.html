@@ -28,14 +28,14 @@
     <div class="row my-5 py-2 project-background {{ loop.cycle('flex-row', 'flex-row-reverse') }}"
          data-aos="{{ loop.cycle('zoom-in-up', 'zoom-in-down') }}">
       <div class="col-2">
-        <a href="{{ url_for('balkan_subprojects', filename=project) }}">
+        <a href="{{ url_for('balkan_subprojects', project=project) }}">
           <img src="{{ url_for('static', filename=detail['icon']) }}"
                class="mx-auto d-block rounded-3"
                 alt="{{ project }}">
         </a>
       </div>
       <div class="col-8 {{ loop.cycle('text-end', 'text-start') }}">
-        <a href="{{ url_for('balkan_subprojects', filename=project) }}"
+        <a href="{{ url_for('balkan_subprojects', project=project) }}"
            class="text-decoration-none link-secondary">
           <h4 class="fst-italic display-6">{{ detail['question'] }}</h4>
           <h4>{{ detail['title'] }}</h4>

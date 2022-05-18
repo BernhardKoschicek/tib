@@ -1,7 +1,10 @@
 from typing import Dict, List
 
+from tib.data.images.holdura import holdura_images_ger
+
 
 def get_images(categories: List[str]) -> List[Dict[str, str]]:
+    categories = [categories] if type(categories) == str else categories
     return [img for img in IMAGES
             if any(item in categories for item in img['category'])]
 
@@ -214,4 +217,9 @@ digtib = [
         'category': ['digtib']
     }]
 
-IMAGES = tib11 + tib14 + tib16 + tib17 + tib18 + montenegro + borderzones + digtib
+
+TIB_IMAGES = tib11 + tib14 + tib16 + tib17 + tib18
+SUBPROJECT_IMAGES = montenegro + borderzones + digtib
+SUBPROJECT_GER_IMAGES = holdura_images_ger
+
+IMAGES = TIB_IMAGES + SUBPROJECT_IMAGES + SUBPROJECT_GER_IMAGES

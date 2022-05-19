@@ -1,22 +1,16 @@
-from collections import OrderedDict
+from tib.util.filters import MENU_NAMES
 
-front_menu = OrderedDict([
-    ('balkan_long_term', {
-        'id': '1',
-        'image': 'oeffentlich.jpg',
-        'title': 'Langzeitprojekt',
-        'subtitle': 'Langzeitprojekt Stand und Geschichte'
-    }),
-    ('balkan_subprojects', {
-        'id': '2',
-        'image': 'projekte.jpg',
-        'title': 'TIB Balkan',
-        'subtitle': 'Tabula Imperii Byzantini auf der Balkanhalbinsel'
-    }),
-    ('balkan_digital', {
-        'id': '3',
-        'image': 'Österreich-Europa-Karte.png',
-        'title': 'Digitales',
-        'subtitle': 'Digitales Tools der TIB'
-    })
-])
+front_menu = {
+    'balkan_tib': {
+        'title': MENU_NAMES['balkan_tib'],
+        'icon': 'bi-image-alt',
+    },
+    'balkan_subprojects': {
+        'title': MENU_NAMES['balkan_subprojects'],
+        'icon': 'bi-images',
+    },
+    'balkan_digital': {
+        'title': MENU_NAMES['balkan_digital'],
+        'icon': 'bi-qr-code',
+    },
+}

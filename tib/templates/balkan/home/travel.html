@@ -1,9 +1,9 @@
 <div class="container">
-  <div class="row text-center">
-    <h1 class="display-4">Bereisungen</h1>
-  </div>
-  <div class="row text-xxl-end text-center pt-3">
-    <div class="col-xxl-6">
+    <div class="text-center">
+      {{ header_balkan('Bereisungen') }}
+    </div>
+  <div class="row  text-center pt-3">
+    <div class="col">
       <p>Ein nicht wegzudenkender Bestandteil unserer Arbeit in der TIB Balkan
         sind Bereisungen in jene Gebiete der Balkanhalbinsel, über die wir
         forschen und schreiben. Unsere Vorbereitungen auf solche Bereisungen
@@ -21,16 +21,14 @@
         zuständigen Behörden, Forschungseinrichtungen und FachkollegInnen vor
         Ort.</p>
     </div>
-
-    <div class="col-xxl-6 align-self-center text-center pt-3 ">
-      <div class="img-fluid">
-        <video loop autoplay muted class="img-fluid">
+  </div>
+    <div class="col align-self-center text-center">
+        <video loop autoplay muted>
           <source src="{{ url_for('static', filename='/video/travel_to_bonce.mp4') }}"
                   type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
-    </div>
   </div>
 
 </div>

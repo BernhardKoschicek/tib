@@ -3,50 +3,51 @@
 {% block title %}Projektdaten{% endblock %}
 {% block content %}
   <div class="container">
-  <div class="text-center top7">
-    {{ header('Projektdaten durchsuchen', True) }}
-  </div>
-  <div class="row top5">
-    <nav>
-      <div class="nav nav-tabs nav-fill" id="tab-project-discovery"
-           role="tablist">
+    <div class="text-center top7">
+      {{ header_balkan('Projektdaten durchsuchen') }}
+    </div>
+    <div class="row top5">
+      <nav>
+        <div class="nav nav-tabs nav-fill" id="tab-project-discovery"
+             role="tablist">
+          {% for object, values in subprojects_dict.items() if object in show %}
+            <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
+                    id="tab-{{ object }}"
+                    data-bs-toggle="tab" data-bs-target="#{{ object }}"
+                    type="button" role="tab" aria-controls="{{ object }}"
+                    aria-selected="true">
+              {{ object.upper() }}
+            </button>
+          {% endfor %}
+        </div>
+      </nav>
+      <div class="tab-content" id="tabContent-project-discovery">
         {% for object, values in subprojects_dict.items() if object in show %}
-          <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
-                  id="tab-{{ object }}"
-                  data-bs-toggle="tab" data-bs-target="#{{ object }}"
-                  type="button" role="tab" aria-controls="{{ object }}"
-                  aria-selected="true">
-            {{ object.upper() }}
-          </button>
-        {% endfor %}
-      </div>
-    </nav>
-    <div class="tab-content" id="tabContent-project-discovery">
-      {% for object, values in subprojects_dict.items() if object in show %}
-        <div class="tab-pane fade {% if loop.first %}active show{% endif %}"
-             id="{{ object }}"
-             role="tabpanel" aria-labelledby="tab-{{ object }}">
-          <div class="row text-center pt-4">
-            <h4>{{ values['title'] }}</h4>
-          </div>
-          <div class="container">
-            <div class="row  justify-content-md-center">
-              {% for view, values in view_classes.items() %}
-                <a href="{{ url_for('digital_oa_access', view=view, project=object) }}"
-                   class="{{ view }}-background rounded-3 col-md-8 col-xl-6 col-xxl-3 p-5 m-3 oa-access-tab-boxes">
-                  <div data-aos="zoom-in-up" class="">
+          <div class="tab-pane fade {% if loop.first %}active show{% endif %}"
+               id="{{ object }}"
+               role="tabpanel" aria-labelledby="tab-{{ object }}">
+            <div class="row text-center pt-4">
+              <h4>{{ values['title'] }}</h4>
+            </div>
+            <div class="container">
+              <div class="row  justify-content-md-center">
+                {% for view, values in view_classes.items() %}
+                  <a href="{{ url_for('digital_oa_access', view=view, project=object) }}"
+                     class="{{ view }}-background rounded-3 col-md-8 col-xl-6 col-xxl-3 p-5 m-3 oa-access-tab-boxes">
+                    <div data-aos="zoom-in-up" class="">
 
-                    <p class="fw-bold">{{ values['display_name'] }}</p>
-                    <p class="fst-italic">{{ values['description'] }}</p>
+                      <p class="fw-bold">{{ values['display_name'] }}</p>
+                      <p class="fst-italic">{{ values['description'] }}</p>
 
-                  </div>
-                </a>
-              {% endfor %}
+                    </div>
+                  </a>
+                {% endfor %}
+              </div>
             </div>
           </div>
-        </div>
-      {% endfor %}
-    </div>
+        {% endfor %}
+      </div>
 
+    </div>
   </div>
 {% endblock %}

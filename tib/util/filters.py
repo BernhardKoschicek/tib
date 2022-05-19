@@ -6,26 +6,26 @@ from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.tib.digtib import digtib_bar
 
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
+MENU_NAMES = {
+    'balkan_tib': 'TIB Balkan',
+    'balkan_long_term': 'Langzeitprojekt',
+    'balkan_historical_geographie': 'Historische Geographie',
+    'balkan_outreach': 'Öffentlichkeitsarbeit',
+    'balkan_team': 'Team',
+    'balkan_volumes': 'Bänder der TIB Balkan',
+    'balkan_subprojects': 'Projekte',
+    'balkan_digital': 'Digitale Ära',
+    '3dobjects': '3D Objekte',
+    'discover': 'Datenbank durchstöbern',
+    'holdura': 'HOLDURA',
+    'digtib': 'DigTIB',
+    'borderzones': 'Borderzones',
+    'montenegro': 'Montenegro',
+}
 
 
 @blueprint.app_template_filter()
 def display_menu(route: str) -> str:
-    menu_names = {
-        'balkan_tib': 'TIB Balkan',
-        'balkan_long_term': 'Langzeitprojekt',
-        'balkan_historical_geographie': 'Historische Geographie',
-        'balkan_outreach': 'Öffentlichkeitsarbeit',
-        'balkan_team': 'Team',
-        'balkan_volumes': 'Bänder der TIB Balkan',
-        'balkan_subprojects': 'Projekte',
-        'balkan_digital': 'Digitale Ära',
-        '3dobjects': '3D Objekte',
-        'discover': 'Datenbank durchstöbern',
-        'holdura': 'HOLDURA',
-        'digtib': 'DigTIB',
-        'borderzones': 'Borderzones',
-        'montenegro': 'Montenegro',
-    }
     menu = {
         'balkan_tib': [
             'balkan_long_term',
@@ -40,18 +40,18 @@ def display_menu(route: str) -> str:
         html += '<div class="col-lg-3 col-md-6 mb-4 mb-md-0">'
         html += f'<a href="{url_for(key)}" ' \
                 f'class="nav-link text-center display-6">' \
-                f'{menu_names[key]}</a><hr>' \
+                f'{MENU_NAMES[key]}</a><hr>' \
                 f'<ul class="">'
         for item in sub:
             if key == 'balkan_subprojects':
                 url = url_for(key, project=item)
             elif key == 'balkan_digital':
-                url = url_for(key, _anchor=item)
+                url = url_for(key, category=item)
             else:
                 url = url_for(item)
             html += f'<li class="nav-item">' \
                     f'<a class="nav-link" href="{url}">' \
-                    f'{menu_names[item]}</a></li>'
+                    f'{MENU_NAMES[item]}</a></li>'
         html += '</ul></div>'
     return Markup(html)
 

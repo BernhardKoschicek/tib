@@ -207,7 +207,7 @@
        class="row-border order-column stripe hover">
   <thead>
   <tr>
-    {% for header in list_[0] if not header == 'category' %}
+    {% for header in list_[0] if not header in ['category', 'download'] %}
       <th>{{ header | title }}</th>
     {% endfor %}
   </tr>
@@ -215,8 +215,10 @@
   <tbody>
   {% for item in list_ %}
     <tr>
-      {% for key, value in item.items() if not key == 'category' %}
-        <td>{{ value }}</td>
+      {% for key, value in item.items() if not key in ['category', 'download'] %}
+        <td>
+          {{ value }}
+        </td>
         {% endfor %}
     </tr>
   {% endfor %}
@@ -230,7 +232,6 @@
             "autoWidth": false,
             "columnDefs": [
                 {"width": "20%", "targets": 0},
-                {"width": "55%", "targets": 1},
             ],
             "ordering": true,
             "order": [[{{ order_column }},

@@ -1,5 +1,4 @@
-from tib.data.images.holdura import holdura_images_ger
-from tib.data.images.montenegro import montenegro_img_ger
+from tib.data.images.subprojects_ger_images import subprojects_ger_images
 
 path = 'images/gallery/'
 
@@ -207,9 +206,8 @@ digtib = [
         'category': ['digtib']
     }]
 
-
 IMAGES_TIB = tib11 + tib14 + tib16 + tib17 + tib18
 IMAGES_SUB = montenegro + borderzones + digtib
-IMAGES_SUB_GER = holdura_images_ger + montenegro_img_ger
+IMAGES_SUB_GER = subprojects_ger_images
 
 IMAGES = IMAGES_TIB + IMAGES_SUB + IMAGES_SUB_GER

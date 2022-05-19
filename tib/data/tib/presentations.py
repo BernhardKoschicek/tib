@@ -196,19 +196,54 @@ presentations = [{
     "location": "London",
     "date": "21. Juni 2021",
     "category": ["borderzones"]
-},{
+}, {
     "presenter": "Mihailo Popović",
     "title": "„Zwei Reliefkarten des Balkans – ein ‘ungewöhnlicher’ Blick auf Skopje und auf Montenegro im ersten Viertel des 20. Jahrhunderts“",
     "conference": "DPP Lecture",
     "location": "Wien",
     "date": datetime(2018, 12, 18).strftime('%d/%m/%Y'),
     "category": ["montenegro"]
-},{
+}, {
     "presenter": "Mihailo Popović",
     "title": "Vortrag über historische Geographie des Balkanraums und des Projektes vor Studierenden der Universität Donja Gorica in Podgorica",
     "conference": "",
     "location": "Montenegro",
     "date": datetime(2020, 3, 5).strftime('%d/%m/%Y'),
     "category": ["montenegro"]
+}, {
+    "presenter": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović",
+    "title": "Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum Weltkulturerbe",
+    "conference": "DPP Lecture",
+    "location": "Wien",
+    "date": datetime(2018, 3, 22).strftime('%d/%m/%Y'),
+    "category": ["digtib"]
+}, {
+    "presenter": "Veronika Polloczek",
+    "title": "How to Expand the Tabula Imperii Byzantini in a Digital Age?",
+    "conference": "International Medieval Congress",
+    "location": "Leeds, Großbritannien",
+    "date": datetime(2018, 7, 3).strftime('%d/%m/%Y'),
+    "category": ["digtib"]
+}, {
+    "presenter": "Veronika Polloczek, Mihailo St. Popović",
+    "title": "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s Culture Heritage",
+    "conference": "Congress Visual Heritage",
+    "location": "Wien",
+    "date": datetime(2018, 11, 12).strftime('%d/%m/%Y'),
+    "category": ["digtib"]
+}, {
+    "presenter": "Veronika Polloczek",
+    "title": "Digitising and Archiving Cultural Heritage in DPP / OpenAtlas on the Example of the Tabula Imperii Byzantini",
+    "conference": "International Medieval Congress",
+    "location": "Leeds, Großbritannien",
+    "date": datetime(2019, 7, 3).strftime('%d/%m/%Y'),
+    "category": ["digtib"]
+}, {
+    "presenter": "Mihailo St. Popović",
+    "title": "Antique and Medieval Cultural Heritage in Macedonia during WW1: Based on German and Austrian Archival Evidence ",
+    "conference": "On the Cross-Path of Cultural Ideas: Macedonia, The Balkans, Southeast Europe – Heritage, Management, Resources",
+    "location": "Ohrid, Nordmazedonien",
+    "date": datetime(2019, 9, 24).strftime('%d/%m/%Y'),
+    "category": ["digtib"]
 },
 ]

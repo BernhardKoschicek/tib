@@ -13,5 +13,19 @@ project_results = {
     """,
     'holdura': '',
     'borderzones': '',
-    'digtib': ''
-    }
+    'digtib': """
+        <p>Die im Projekt durch die wissenschaftliche Mitarbeiterin Veronika Polloczek zu scannende und zu bearbeitende Gesamtzahl der Dias betrug 7.172 (TIB 5: 4.981 Dias, TIB 12: 1.252 Dias, TIB 16: 939 Dias). Deren Aufarbeitung und Beschreibung wurde generationenübergreifend durch Veronika Polloczek, die (teilweise bereits pensionierten) Wissenschaftler der TIB und studentische Mitarbeiter*innen durchgeführt.
+        Das Projekt „Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum Weltkulturerbe“ hat die drei obengenannten Fallstudien mit ihren Denkmälern behandelt und die jeweiligen Diabestände erfaßt bzw. digitalisiert, um sie sorgfältig durch das Prisma des Kulturerbes (vorher – nachher Zustand) betrachten zu können. Dadurch wurde ein strukturierter und effizienter Workflow sowie eine Best Practice auf diesem Gebiet der Historischen Geographie und der Digitalen Geisteswissenschaften geschaffen.</p>
+        <p>In der Laufzeit des Forschungsprojektes wurden folgende Ergebnisse erzielt:</p>
+        <ul>
+            <li>Transparente Präsentation und Veröffentlichung der Projektresultate im Rahmen der Online-Ressourcen der TIB unter <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a></li>
+            <li>Die geographischen Register der TIB Bände 1 bis 15 wurden als <a href="/tib-register">Listen aller Toponyme mit Band- und Seitenangaben</a> online gestellt.<br>
+            Sowohl Wissenschaftler*innen als auch der interessierten Öffentlichkeit ist ein frei zugängliches Hilfsmittel an die Hand gegeben, das es ermöglicht, die von der TIB in den vergangenen fünfzig Jahren erarbeiteten Daten in Form von Toponymen abzurufen, mit einer Suchfunktion in jeder Liste gezielt zu sichten und regional pro Band bzw. in allen Bänden gemeinsam zu vergleichen, wodurch bisher übersehene Zusammenhänge erkannt und neue Forschungsfragen angeregt werden.<br>
+            Die Nutzer*innen können nicht nur die Listen selbst aufrufen und die Seitenangaben auf einen Blick sehen. Sie können auch durch das Klicken auf die jeweilige Seitenzahl der TIB Bände 1 bis 7, 12 und 13 frei zur betreffenden Seite des Bandes im PDF springen, die sich in einem Viewer öffnet und ihm dadurch den Kontext erschließt. Zudem sind jene Seiten in der Liste fett hervorgehoben, die zu einem Lemma im jeweiligen Band führen.</li>
+            <li>Das Portal (Frontend) von CollectiveAccess ist online unter: <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a> Die Nutzer*innen können die aufgearbeiteten 7.172 Dias (TIB 5: 4.981 Dias, TIB 12: 1.252 Dias, TIB 16: 939 Dias) frei betrachten, durchsuchen, vergleichen, Metadaten sichten und mit Permalinks zitieren.</li>
+        </ul> 
+        <p class="fw-bold">Laufendes PhD Vorhaben: </p><p>
+        Des weiteren hat Veronika Polloczek ein Dissertationsthema an der Universität Wien mit dem Arbeitstitel „From the Past into the Future – Digitale Archivierung am Beispiel des historischen Atlas Tabula Imperii Byzantini und seiner Diathek“ erfolgreich beantragt und verteidigt, das von der Universität Wien offiziell am 17. Mai 2019 genehmigt wurde und von Mihailo Popović als Privatdozent der Universität Wien betreut wird.
+        </p>
+    """
+}

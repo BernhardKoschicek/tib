@@ -74,10 +74,26 @@ project_publications = [{
 }, {
     "author": "Mihailo St. Popović",
     "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Comptes rendus des séances de l’Académie (CRAI)",
-    "location": " ",
+    "location": "",
     "date": "",
     "pages": "",
     "category": ['borderzones'],
+    "download": ''
+}, {
+    "author": "Mihailo St. Popović, Veronika Polloczek",
+    "title": "Die Regionen von Bitola und Prilep und deren kulturelles Erbe während und nach dem Ersten Weltkrieg, in: Die Ursprünge der österreichischen Diplomatie in Mazedonien – mit Schwerpunkt auf das österreichisch–ungarische Konsulat in Bitola/Monastir 1851–1919 ",
+    "location": "",
+    "date": "in Druck",
+    "pages": "",
+    "category": ['digtib'],
+    "download": ''
+}, {
+    "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (Hgg.) unter Mitwirkung von Johannes Koder",
+    "title": "Raum und Geschichte: Der historische Atlas „Tabula Imperii Byzantini“ an der Österreichischen Akademie der Wissenschaften",
+    "location": "Wien-Novi Sad ",
+    "date": "2020",
+    "pages": "239",
+    "category": ['digtib'],
     "download": ''
 },
 ]

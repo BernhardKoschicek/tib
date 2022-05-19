@@ -24,6 +24,7 @@ from tib.util.util import get_dict_entries_by_category, \
 
 
 @app.route('/balkan')
+@app.route('/balkan/')
 def home() -> str:
     return render_template(
         'balkan/home/home.html',
@@ -37,7 +38,7 @@ def home() -> str:
 
 
 @app.route('/balkan/team')
-def team() -> str:
+def balkan_team() -> str:
     return render_template(
         'balkan/team/team.html',
         team=team_members)
@@ -77,7 +78,9 @@ def balkan_subprojects(project: str = None) -> str:
                 project_publications),
             images=get_dict_entries_by_category(project, IMAGES_SUB_GER),
             results=project_results[project])
-    return render_template('balkan/subprojects/subproject_overview.html')
+    return render_template(
+        'balkan/subprojects/subproject_overview.html',
+        subprojects=subprojects_ger)
 
 
 @app.route('/balkan/öffentlichskeitsarbeit')
@@ -117,68 +120,16 @@ def digital_oa_access(project: str, view: str) -> str:
 def balkan_long_term():
     return render_template('balkan/longterm/longterm.html', images=tib_history)
 
-
-# @app.route('/subprojects')
-# @app.route('/subprojects/<project>')
-# def subprojects(project=None):
-#     if project:
-#         project = next((item for item in
-#                         Subprojects.get_subprojects(app.config['PROJECTS_ID'])
-#                         if
-#                         item.project[0] == project), None)
-#         sidebar = render_template(
-#             'projects/sidebar.html',
-#             projects=project,
-#             team=project.project_team,
-#             sponsors=Sponsors.get_sponsors(app.config['FINANCIER_ID']))
-#         return render_template(
-#             'projects/project_details.html',
-#             projects=project,
-#             sidebar=sidebar)
-#     else:
-#         return render_template(
-#             'projects/subprojects.html',
-#             projects=Subprojects.get_subprojects(app.config['PROJECTS_ID']))
+@app.route('/balkan/langzeitprojekt')
+def balkan_tib():
+    return render_template('balkan/longterm/longterm.html', images=tib_history)
 
 
-@app.route('/tib')
-def tib():
-    return render_template('balkan/longterm/longterm.html')
+@app.route('/balkan/historische-geographie')
+def balkan_historical_geographie():
+    return render_template(
+        'balkan/geography/historically_geography.html')
 
-
-@app.route('/publications')
-def publications():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/youth')
-def youth():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/digtib')
-def catalouge():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/dig-tib')
-def dig_tib():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/maps')
-def maps():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/relief')
-def relief():
-    return render_template('balkan/longterm/longterm.html')
-
-
-@app.route('/model')
-def model():
-    return render_template('balkan/longterm/longterm.html')
 
 
 @app.errorhandler(404)

@@ -1,10 +1,12 @@
 {% extends "balkan/layout.html" %}
-{% block title %}Unser Team{% endblock %}
+{% block title %}TIB Balkan Team{% endblock %}
 {% block content %}
-  <section class="team text-center py-5">
-    <div class="container top5">
-      <div class="col-md-12 ">
-        <h1 class="display-1 text-center">Unser Team</h1>
+  <div class="container top7 text-center">
+    <div class="text-center">
+      {{ header('Das Team der', True) }}
+      {{ header('Tabula Imperii Byzantini - Balkan', False) }}
+    </div>
+
         <p>Die wissenschaftliche Arbeit in der TIB Balkan basiert auf
           Teamarbeit.
           Bei uns sind verschiedene Fachrichtungen vereint, ohne die eine
@@ -24,17 +26,17 @@
           Förderung von wissenschaftlichem Nachwuchs, was sich in den
           Biographien
           der handelnden Personen widerspiegelt.</p>
-      </div>
-      <div class="row">
+
+      <div class="row justify-content-center pt-5">
         {% for member in team.values() %}
           <div class="col-lg-3 mb-4">
             {% with member=member %}
-              {% include 'team/member.html' %}
+              {% include 'balkan/team/member.html' %}
             {% endwith %}
           </div>
         {% endfor %}
       </div>
 
     </div>
-  </section>
+
 {% endblock %}

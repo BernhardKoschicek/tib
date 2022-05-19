@@ -9,11 +9,7 @@
   <div class="text-center bg-violet-light p-2">
       {% include 'balkan/digital/digital_entry_text.html' %}
   </div>
-
-
-
-
-      <section id="section_3dobjects">
+      <section id="3dobjects">
         <div class="col-md-12 top5">
           {% with objects3d=objects3d %}
             {% include "balkan/digital/3dobjects.html" %}
@@ -21,7 +17,7 @@
         </div>
       </section>
 
-      <section id="section_discover">
+      <section id="discover">
         <div class="col-md-12 top5">
           {% with subprojects_dict=subprojects_dict, view_classes=view_classes%}
             {% include "balkan/digital/discover.html" %}

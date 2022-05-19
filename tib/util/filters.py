@@ -1,27 +1,58 @@
-from typing import Iterator
-
 import flask
 from flask import url_for
 from markupsafe import Markup
 
+from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.tib.digtib import digtib_bar
 
 blueprint: flask.Blueprint = flask.Blueprint('filters', __name__)
 
 
 @blueprint.app_template_filter()
-def display_menu(route: str, category: str) -> str:
+def display_menu(route: str) -> str:
+    menu_names = {
+        'balkan_tib': 'TIB Balkan',
+        'balkan_long_term': 'Langzeitprojekt',
+        'balkan_historical_geographie': 'Historische Geographie',
+        'balkan_outreach': 'Öffentlichkeitsarbeit',
+        'balkan_team': 'Team',
+        'balkan_volumes': 'Bänder der TIB Balkan',
+        'balkan_subprojects': 'Projekte',
+        'balkan_digital': 'Digitales',
+        '3dobjects': '3D Objekte',
+        'discover': 'Datenbank durchstöbern',
+        'holdura': 'HOLDURA',
+        'digtib': 'DigTIB',
+        'borderzones': 'Borderzones',
+        'montenegro': 'Montenegro',
+    }
     menu = {
-        'tib': ['balkan_long_term', 'team', 'tib', 'publications', 'youth',
-                'balkan_outreach'],
-        'sub': ['balkan_long_term'],
-        'digtib': ['dig_tib', 'catalouge', 'maps', 'relief', 'model']}
+        'balkan_tib': [
+            'balkan_long_term',
+            'balkan_historical_geographie',
+            'balkan_outreach',
+            'balkan_team',
+            'balkan_volumes'],
+        'balkan_subprojects': [i for i in subprojects_ger],
+        'balkan_digital': ['3dobjects', 'discover']}
     html = ''
-    for item in menu[category]:
-        active = 'active' if route.startswith('/' + item) else ''
-        html += f'<li class="nav-item {active}">' \
-                f'<a class="nav-link" href="{url_for(item)}">' \
-                f'{item.title().replace("_", " ")}</a> </li>'
+    for key, sub in menu.items():
+        html += '<div class="col-lg-3 col-md-6 mb-4 mb-md-0">'
+        html += f'<a href="{url_for(key)}" ' \
+                f'class="nav-link text-center display-6">' \
+                f'{menu_names[key]}</a><hr>' \
+                f'<ul class="">'
+        for item in sub:
+            if key == 'balkan_subprojects':
+                url = url_for(key, project=item)
+            elif key == 'balkan_digital':
+                url = url_for(key, _anchor=item)
+            else:
+                url = url_for(item)
+            html += f'<li class="nav-item">' \
+                    f'<a class="nav-link" href="{url}">' \
+                    f'{menu_names[item]}</a></li>'
+        html += '</ul></div>'
     return Markup(html)
 
 
@@ -85,41 +116,3 @@ def include_css(route: str) -> str:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css
-
-# @blueprint.app_template_filter()
-# def display_institutes(institutes: Iterator) -> str:
-#     html = ''
-#     for short_name in institutes:
-#         institute = INSTITUTES[short_name]
-#         html += f'''<a href="{institute['url']}" target="_blank">
-#                 <img src="/static/images/institutes/{institute['logo']}"
-#                 alt="{institute['name']}" title="{institute['name']}"
-#                 style="display: unset;">
-#             </a>'''
-#     return Markup(html)
-
-
-# @blueprint.app_template_filter()
-# def display_sponsors(institutes: Iterator) -> str:
-#     html = '<div>'
-#     for short_name in institutes:
-#         institute = INSTITUTES[short_name]
-#         html += f'''
-#                 <div class="row">
-#                     <div class="col-sm-4">
-#                         <h6>{institute['name']}</h6>
-#                         <p>{institute['member']}</p>
-#                         <p>{institute['address']}</p>
-#                         <p><a href="{institute['url']}"
-#                         target="_blank">{institute['url']}</a></p>
-#                     </div>
-#                     <div class="col-sm-4">
-#                         <a href="{institute['url']}" target="_blank">
-#                         <img src="/static/images/institutes/{institute['logo']}"
-#                         alt="{institute['name']}"
-#                         title="{institute['name']}" style="max-height: 200px">
-#                         </a>
-#                     </div>
-#                 </div>
-#                 '''
-#     return Markup(html + '</div>')

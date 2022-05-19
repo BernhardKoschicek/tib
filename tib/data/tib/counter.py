@@ -10,7 +10,7 @@ counter = {
         'icon': 'bi-pencil-fill'
     },
     'article': {
-        'count': 132,
+        'count': 136,
         'description': 'Article published since 2004',
         'icon': 'bi-body-text'
     },
@@ -25,13 +25,13 @@ counter = {
         'icon': 'bi-book-half'
     },
     'pictures': {
-        'count': 103546,
+        'count': 100000,
         'description': 'and more pictures shot since 1966',
         'icon': 'bi-camera-fill'
     },
-    'travels': {
-        'count': 68,
-        'description': 'and more travels accomplished',
-        'icon': 'bi-send-fill'
-    }
+    # 'travels': {
+    #     'count': 68,
+    #     'description': 'and more travels accomplished',
+    #     'icon': 'bi-send-fill'
+    # }
 }

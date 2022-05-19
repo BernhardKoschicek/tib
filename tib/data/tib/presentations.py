@@ -1,13 +1,4 @@
 from datetime import datetime
-from typing import Dict, List, Union
-
-
-def get_presentations(
-        categories: Union[str, List[str]]) -> List[Dict[str, str]]:
-    categories = [categories] if type(categories) == str else categories
-    return [presentation for presentation in presentations
-            if any(item in categories for item in presentation['category'])]
-
 
 presentations = [{
     "presenter": "Mihailo St. Popović",

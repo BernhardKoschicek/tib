@@ -9,17 +9,18 @@ from tib.data.balkan.project_results import project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
-from tib.data.images.images import get_images, tib_history
+from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, tib_history
 from tib.data.images.outreach import img_outreach
 from tib.data.index import front_menu
 from tib.data.oa_access import get_entity_from_oa, \
     get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects_dict
 from tib.data.balkan.team import team_members
-from tib.data.tib.presentations import get_presentations
-from tib.data.tib.project_publications import get_project_publication
+from tib.data.tib.presentations import presentations
+from tib.data.tib.project_publications import project_publications
 from tib.data.tib.tib_volumen import tib_volumes_dict
-from tib.util.util import get_prev_and_next_item_of_dict
+from tib.util.util import get_dict_entries_by_category, \
+    get_prev_and_next_item_of_dict
 
 
 @app.route('/balkan')
@@ -53,7 +54,9 @@ def balkan_volumes(band: str = None) -> str:
                 band,
                 tib_volumen_dict),
             code=band,
-            images=get_images(tib_volumes_dict[band]['images']))
+            images=get_dict_entries_by_category(
+                tib_volumes_dict[band]['images'],
+                IMAGES_TIB))
     return render_template(
         'balkan/tib_volumen/tib_volumes.html',
         tib_volumen=tib_volumen_dict)
@@ -66,9 +69,13 @@ def balkan_subprojects(project: str = None) -> str:
         return render_template(
             'balkan/subprojects/project.html',
             project=subprojects_ger[project],
-            presentations=get_presentations(project),
-            publications=get_project_publication(project),
-            images=get_images(project),
+            presentations=get_dict_entries_by_category(
+                project,
+                presentations),
+            publications=get_dict_entries_by_category(
+                project,
+                project_publications),
+            images=get_dict_entries_by_category(project, IMAGES_SUB_GER),
             results=project_results[project])
     return render_template('balkan/subprojects/subproject_overview.html')
 

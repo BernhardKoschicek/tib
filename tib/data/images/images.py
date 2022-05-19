@@ -1,16 +1,6 @@
-from typing import Dict, List, Union
-
 from tib.data.images.holdura import holdura_images_ger
+from tib.data.images.montenegro import montenegro_img_ger
 
-
-def get_images(categories: Union[List[str], str]) -> List[Dict[str, str]]:
-    categories = [categories] if type(categories) == str else categories
-    return [img for img in IMAGES
-            if any(item in categories for item in img['category'])]
-
-
-all_categories = ['tib11', 'tib14', 'tib14', 'tib16', 'tib17', 'tib18',
-                  'borderzones', 'montenegro', 'digtib', 'tib_history']
 path = 'images/gallery/'
 
 tib_history = [
@@ -218,8 +208,8 @@ digtib = [
     }]
 
 
-TIB_IMAGES = tib11 + tib14 + tib16 + tib17 + tib18
-SUBPROJECT_IMAGES = montenegro + borderzones + digtib
-SUBPROJECT_GER_IMAGES = holdura_images_ger
+IMAGES_TIB = tib11 + tib14 + tib16 + tib17 + tib18
+IMAGES_SUB = montenegro + borderzones + digtib
+IMAGES_SUB_GER = holdura_images_ger + montenegro_img_ger
 
-IMAGES = TIB_IMAGES + SUBPROJECT_IMAGES + SUBPROJECT_GER_IMAGES
+IMAGES = IMAGES_TIB + IMAGES_SUB + IMAGES_SUB_GER

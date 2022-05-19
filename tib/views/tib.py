@@ -1,7 +1,7 @@
 from flask import render_template
 
 from tib import app
-from tib.data.images.images import get_images
+from tib.data.images.images import IMAGES_TIB
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
@@ -11,8 +11,8 @@ from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories
 from tib.data.tib.tib_volumen import tib_volumes_dict
 from tib.data.volumes.toponym_register import register_volume
-from tib.util.util import get_prev_and_next_item_of_dict
-
+from tib.util.util import get_dict_entries_by_category, \
+    get_prev_and_next_item_of_dict
 
 
 @app.route('/')
@@ -40,7 +40,9 @@ def tib_current_status(volume: str = None) -> str:
                 tib_volumes_dict),
             tib_volume=tib_volumes_dict[volume],
             code=volume,
-            images=get_images(tib_volumes_dict[volume]['images']))
+            images=get_dict_entries_by_category(
+                tib_volumes_dict[volume]['images'],
+                IMAGES_TIB))
     return render_template(
         'tib/current_status/current_status.html',
         tib_volumen=tib_volumes_dict)
@@ -99,11 +101,6 @@ def tib_imprint() -> str:
     return render_template('tib/imprint.html')
 
 
-
 @app.route('/contact')
 def tib_contact() -> str:
     return render_template('tib/current_status/current_status.html')
-
-
-
-

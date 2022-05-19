@@ -1,9 +1,9 @@
-from typing import Dict, List
+from typing import Dict, List, Union
 
 from tib.data.images.holdura import holdura_images_ger
 
 
-def get_images(categories: List[str]) -> List[Dict[str, str]]:
+def get_images(categories: Union[List[str], str]) -> List[Dict[str, str]]:
     categories = [categories] if type(categories) == str else categories
     return [img for img in IMAGES
             if any(item in categories for item in img['category'])]

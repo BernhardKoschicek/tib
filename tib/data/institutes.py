@@ -6,9 +6,9 @@ institutes = {
         'member': '',
         'address': ''},
     'dfg': {
-        'name': 'todo',
-        'url': 'todo',
-        'logo': 'zf_logo.jpg',
+        'name': 'Deutsche Forschungsgemeinschaft',
+        'url': 'https://www.dfg.de/',
+        'logo': 'dfg.png',
         'member': '',
         'address': ''},
     'mt': {

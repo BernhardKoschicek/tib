@@ -204,5 +204,20 @@ presentations = [{
     "conference": "Searching Digital: Methods, Tools, and Standards of Research in Digital Humanities, Online workshops organised by the Centre for the Study of the Balkans, Department of History, Goldsmiths University of London, CHASE Doctoral Training Partnership, Session",
     "location": "London",
     "date": "21. Juni 2021",
-    "category": ["borderzones"]}
+    "category": ["borderzones"]
+},{
+    "presenter": "Mihailo Popović",
+    "title": "„Zwei Reliefkarten des Balkans – ein ‘ungewöhnlicher’ Blick auf Skopje und auf Montenegro im ersten Viertel des 20. Jahrhunderts“",
+    "conference": "DPP Lecture",
+    "location": "Wien",
+    "date": datetime(2018, 12, 18).strftime('%d/%m/%Y'),
+    "category": ["montenegro"]
+},{
+    "presenter": "Mihailo Popović",
+    "title": "Vortrag über historische Geographie des Balkanraums und des Projektes vor Studierenden der Universität Donja Gorica in Podgorica",
+    "conference": "",
+    "location": "Montenegro",
+    "date": datetime(2020, 3, 5).strftime('%d/%m/%Y'),
+    "category": ["montenegro"]
+},
 ]

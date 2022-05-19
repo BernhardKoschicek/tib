@@ -11,67 +11,30 @@
         <div>
           {{ project.description | safe }}
         </div>
-
       </div>
-      <div class="col-4 bg-violet-light">
-        <div class="pt-1">
-          <p>
-            <span class="fw-bolder">Gefördert von</span>:
-          </p>
-          <div class="container-fluid justify-content-center bg-white">
-            {% for fund in project.funded_by %}
-              <img src="{{ url_for('static', filename='images/institutes/'+fund.logo) }}"
-                   alt="{{ fund.name }}"
-                   class="img-fluid d-flex bg-white p-1 pt-3">
-            {% endfor %}
-          </div>
-        </div>
-        <div class="pt-3">
-          <p>
-            <span class="fw-bolder">Projektnummer:</span> {{ project.project_number }}
-          </p>
-        </div>
-        <div class="pt-3">
-          <p><span class="fw-bolder">Dauer:</span> {{ project.begin }}
-            - {{ project.end }}</p>
-        </div>
-        <div class="pt-3">
-          <p>
-            <span class="fw-bolder">Projektleitung:</span>
-            {% for pi in project.pi %}{% if not loop.first %},{% endif %}
-              {{ pi['name'] }}{% endfor %}
-          </p>
-        </div>
-        <div class="pt-3">
-          <span class="fw-bolder">ÖAW Projektteam:</span>
-          <ul class="text-decoration-none list-unstyled">
-            {% for emp in project.employees %}
-              <li>{{ emp.name }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="pt-3">
-            <span class="fw-bolder">Kooperationspartner und Externes Team:
-            </span>
-          <ul class="text-decoration-none list-unstyled">
-            {% for emp in project.cooperation %}
-              <li>{{ emp }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
+      {% with project=project %}
+        {% include 'balkan/subprojects/sidebar.html' %}
+      {% endwith %}
     </div>
-  <div class="row pt-5">
-    {% for img in images %}
-      <div class="col-3">
+    <div class="row pt-5">
+      {% for img in images %}
+        <div class="col-3">
           {{ img_modal(img, loop.index) }}
-      </div>
-    {% endfor %}
-  </div>
-  <h4 class="pt-5 text-center">Publikationen:</h4>
-  {{ create_table(publications, 'publications', 3) }}
-  <h4 class="pt-5 text-center">Vorträge:</h4>
-  {{ create_table(presentations, 'presentations', 3) }}
+        </div>
+      {% endfor %}
+    </div>
+    {% if results %}
+      <h4 class="pt-5 text-center">Resultate:</h4>
+      {{ results | safe }}
+    {% endif %}
+    {% if publications %}
+      <h4 class="pt-5 text-center">Publikationen:</h4>
+      {{ create_table(publications, 'publications', 3) }}
+    {% endif %}
+    {% if presentations %}
+      <h4 class="pt-5 text-center">Vorträge:</h4>
+      {{ create_table(presentations, 'presentations', 3) }}
+    {% endif %}
   </div>
 
 

@@ -14,7 +14,7 @@ project_publications = [{
     "location": "Krems",
     "date": "TBA",
     "pages": "",
-    "category": ['holdura'],
+    "category": ['holdura', 'montenegro'],
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan",

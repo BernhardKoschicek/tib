@@ -2,13 +2,18 @@ from tib.data.images.subprojects_ger_images import subprojects_ger_images
 
 path = 'images/gallery/'
 
-tib_history = [
-    {
+tib_history = [    {
         'path': f'{path}tib_regions_hunger.jpg',
         'description': 'Die Einteilung der Arbeitsgebiete der TIB Balkan in der Nordhälfte der Balkanhalbinsel nach Herbert Hunger',
         'citation': '',
         'category': ['tib_history']
-    }]
+    },  {
+        'path': f'{path}tib_balkan_overview.jpg',
+        'description': 'Übersichtskarte der TIB Balkan',
+        'citation': 'Bernhard Koschiček-Krombholz, 2022',
+        'category': ['tib_balkan']
+    },
+]
 tib11 = [
     {
         'path': f'{path}roman_bridge.jpg',

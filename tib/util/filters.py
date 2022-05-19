@@ -18,7 +18,7 @@ def display_menu(route: str) -> str:
         'balkan_team': 'Team',
         'balkan_volumes': 'Bänder der TIB Balkan',
         'balkan_subprojects': 'Projekte',
-        'balkan_digital': 'Digitales',
+        'balkan_digital': 'Digitale Ära',
         '3dobjects': '3D Objekte',
         'discover': 'Datenbank durchstöbern',
         'holdura': 'HOLDURA',

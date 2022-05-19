@@ -98,8 +98,15 @@ def entity_view(id_: int) -> str:
         entity=get_entity_from_oa(id_))
 
 
-@app.route('/balkan/digital/')
-def balkan_digital() -> str:
+@app.route('/balkan/digital')
+@app.route('/balkan/digital/<category>')
+def balkan_digital(category: str) -> str:
+    if category:
+        return render_template(
+            f'balkan/digital/{category}.html',
+            objects3d=objects3d,
+            subprojects_dict=subprojects_dict,
+            view_classes=view_classes)
     return render_template(
         'balkan/digital/digital.html',
         objects3d=objects3d,
@@ -120,16 +127,18 @@ def digital_oa_access(project: str, view: str) -> str:
 def balkan_long_term():
     return render_template('balkan/longterm/longterm.html', images=tib_history)
 
-@app.route('/balkan/langzeitprojekt')
+
+@app.route('/balkan/tib')
 def balkan_tib():
-    return render_template('balkan/longterm/longterm.html', images=tib_history)
+    return render_template(
+        'balkan/tib_balkan/tib_balkan.html',
+        tib_volumen=tib_volumen_dict)
 
 
 @app.route('/balkan/historische-geographie')
 def balkan_historical_geographie():
     return render_template(
         'balkan/geography/historically_geography.html')
-
 
 
 @app.errorhandler(404)

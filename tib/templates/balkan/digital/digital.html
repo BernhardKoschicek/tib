@@ -1,31 +1,32 @@
 {% extends "balkan/layout.html" %}
-{% block title %}Digitales{% endblock %}
+{% block title %}Digitale Ära{% endblock %}
 {% block content %}
   <div class="container">
     <div class="text-center top7">
       {{ header('Tabula Imperii Byzantini Balkan', False) }}
       {{ header('in der Digitalen Ära', True) }}
     </div>
-  <div class="text-center bg-violet-light p-2">
+    <div class="row justify-content-center text-center pt-3">
       {% include 'balkan/digital/digital_entry_text.html' %}
-  </div>
-      <section id="3dobjects">
-        <div class="col-md-12 top5">
-          {% with objects3d=objects3d %}
-            {% include "balkan/digital/3dobjects.html" %}
-          {% endwith %}
-        </div>
-      </section>
-
-      <section id="discover">
-        <div class="col-md-12 top5">
-          {% with subprojects_dict=subprojects_dict, view_classes=view_classes%}
-            {% include "balkan/digital/discover.html" %}
-          {% endwith %}
-        </div>
-      </section>
     </div>
-  </section>
+    <div class="row justify-content-center text-center top5">
+      <div class="col-3">
+        <a href="{{ url_for("balkan_digital", category='3dobjects') }}"
+           class="text-decoration-none">
+          <i class="bi bi-badge-3d-fill" style="font-size: 5rem"></i><br>
+          <h3>3D Objekte betrachten</h3>
+        </a>
+      </div>
+      <div class="col-3">
+        <a href="{{ url_for("balkan_digital", category='discover') }}"
+           class="text-decoration-none">
+          <i class="bi bi-search" style="font-size: 5rem"></i><br>
+          <h3>Projektdatenbanken durchsuchen</h3>
+        </a>
+      </div>
+    </div>
+  </div>
+
 
 
 {% endblock %}

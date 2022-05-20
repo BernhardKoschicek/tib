@@ -94,13 +94,11 @@ def digtib_submenu(item: str) -> str:
     <li><hr class="dropdown-divider"></li>
     '''
     for item in digtib_bar:
-        link = item['link'] if item['link_type'] == 'ext' \
-            else url_for(item['link'])
         title = f"{item['title']} <i class='bi bi-box-arrow-up-right'></i>" \
             if item['link_type'] == 'ext' else item['title']
         html += f"""
                 <li><a class="dropdown-item" 
-                    href="{link}">
+                    href="{item['link']}">
                     {title}
                 </a></li>
             """

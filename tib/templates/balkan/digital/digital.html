@@ -1,31 +1,7 @@
 {% extends "balkan/layout.html" %}
 {% block title %}Digitale Ära{% endblock %}
 {% block content %}
-  <div class="container">
-    <div class="text-center top7">
-      {{ header_balkan('Tabula Imperii Byzantini Balkan') }}
-      {{ header_balkan('in der Digitalen Ära') }}
-    </div>
-    <div class="row justify-content-center text-center pt-3">
-      {% include 'balkan/digital/digital_entry_text.html' %}
-    </div>
-    <div class="row justify-content-center text-center top5">
-      <div class="col-3">
-        <a href="{{ url_for("balkan_digital", category='3dobjects') }}"
-           class="text-decoration-none">
-          <i class="bi bi-badge-3d-fill" style="font-size: 5rem"></i><br>
-          <h3>3D Objekte betrachten</h3>
-        </a>
-      </div>
-      <div class="col-3">
-        <a href="{{ url_for("balkan_digital", category='discover') }}"
-           class="text-decoration-none">
-          <i class="bi bi-search" style="font-size: 5rem"></i><br>
-          <h3>Projektdatenbanken durchsuchen</h3>
-        </a>
-      </div>
-    </div>
-  </div>
+ {% include 'balkan/digital/digital_intro.html' %}
 
 
 

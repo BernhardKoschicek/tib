@@ -100,7 +100,7 @@ def entity_view(id_: int) -> str:
 
 @app.route('/balkan/digital')
 @app.route('/balkan/digital/<category>')
-def balkan_digital(category: str) -> str:
+def balkan_digital(category: str = None) -> str:
     if category:
         return render_template(
             f'balkan/digital/{category}.html',

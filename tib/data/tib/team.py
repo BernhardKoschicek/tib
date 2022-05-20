@@ -53,7 +53,7 @@ tib_team_data = {
     },
     'vzervan': {
         'name': 'Vratislav Zervan',
-        'team': 'balkans',
+        'team': 'associeted_scholars',
         'category': 'scientific_employee',
         'titles': ['PhD', 'MA'],
         'description': 'MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: PhD in General History (Faculty of Arts, Comenius University, Bratislava); Research Interests: Byzantine History; Byzantine and Slavonic Literature; Archaeology; Historical Geography; Lexicography',

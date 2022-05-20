@@ -2,7 +2,7 @@ digtib_bar = [
     {
         'title': 'Toponym Register',
         'icon': 'bi-list-columns-reverse',
-        'link': 'tib_register',
+        'link': 'tib-register',
         'link_type': 'int',
         'tooltip': 'A complete list of geographic registers of the published TIB volumes 1-10, 12, 13 and 15'
     },
@@ -24,7 +24,7 @@ digtib_bar = [
     {
         'title': 'Browse TIB Balkans Data',
         'icon': 'bi-stack',
-        'link': 'balkan_digital',
+        'link': 'balkan/digital/discover',
         'link_type': 'int',
         'tooltip': 'Browse data from TIB Balkans directly from the OpenAtlas database '
     }, ]

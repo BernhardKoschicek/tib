@@ -1,30 +1,7 @@
 {% extends "balkan/layout.html" %}
 {% block title %}TIB Bände{% endblock %}
 {% block content %}
-  <div class="container-fluid top7 text-center">
-    <div class="text-center">
-      {{ header_balkan('Bände der TIB Balkan in Arbeit') }}
-    </div>
-
-
-    <div class="row justify-content-center text-center pt-3">
-      <div class="col-8">
-        <p>
-          Im Rahmen der TIB Balkan arbeiten wir derzeit an drei Bänden. Diese
-          sind
-          TIB 11 („Makedonien, südlicher Teil“), TIB 16 („Makedonien,
-          nördlicher
-          Teil“) und TIB 17 („Nea Epeiros und Praevalis“). Geographisch
-          umfassen
-          diese Bände Teile der südlichen Balkanhalbinsel und die Ostküste der
-          Adria. Pro Band rechnen wir mit einem Umfang von rund 1.200 Seiten.
-          Dadurch dokumentieren wir die jeweiligen historischen Landschaften
-          umfassend und machen sie begreifbar.
-        </p>
-      </div>
-    </div>
-   {% with tib_volumen=tib_volumen %}
-    {% include 'balkan/tib_volumen/list_volumes.html' %}
+{% with tib_volumen=tib_volumen %}
+  {% include 'balkan/tib_volumen/tib_volumen_intro.html' %}
   {% endwith %}
-  </div>
 {% endblock %}

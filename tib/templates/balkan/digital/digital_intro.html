@@ -1,0 +1,58 @@
+<div class="container">
+  <div class="text-center top7">
+    {{ header_balkan('Tabula Imperii Byzantini Balkan') }}
+    {{ header_balkan('in der Digitalen Ära') }}
+  </div>
+  <div class="row justify-content-center text-center pt-3">
+    <p>
+      Unsere oben genannten Teilprojekte haben die TIB Balkan mit ihren
+      neuen
+      Methoden und Kapazitäten in die digitale Ära gebracht. Wir schreiben
+      also nicht ausschließlich an TIB Bänden über die Balkanhalbinsel,
+      sondern wir leisten
+      auch einen wertvollen und nachhaltigen Beitrag zu den Digitalen
+      Geisteswissenschaften in der Byzantinistik und Historischen
+      Geographie.
+      Aus diesem Grund haben wir ein
+      <a href="{{ url_for('tib_register') }}">Gesamtverzeichnis der Ortsnamen
+        (Toponyme) aus allen TIB Bänden</a> mit Verlinkungen auf die
+      Seite der jeweiligen TIB Bände und ihre pdf Dateien (soweit aufgrund
+      des
+      Copyrights erlaubt) online gestellt. Einen Teil unserer reichen
+      <a href="https://catalogue.tib.oeaw.ac.at/"
+         target="_blank">Diabestände</a>
+      haben wir beschrieben und als Scans ebenfalls
+      online zugänglich gemacht. Schließlich haben wir ein Datenbanksystem
+      für
+      die TIB Balkan aufgebaut (eine
+      <a href="https://openatlas.eu/" target="_blank">
+        OpenAtlas</a> Datenbank, in die alle Resultate der
+      Teilprojekte TIB Balkan sowie ausgewählte Aspekte aus den TIB Bänden
+      16
+      und 17 laufend einfließen und jederzeit aktuell über ein Web
+      Applikation
+      abgerufen werden können. Diese Web Applikation nennen wir
+      <a href="https://data1.geo.univie.ac.at/projects/tibapp/">„Maps of
+        Power: Historical Atlas of Places, Borderzones and Migration Dynamics
+        in
+        Byzantium (TIB Balkans)“</a>.
+    </p>
+
+  </div>
+  <div class="row justify-content-center text-center top5">
+    <div class="col-3">
+      <a href="{{ url_for("balkan_digital", category='3dobjects') }}"
+         class="text-decoration-none">
+        <i class="bi bi-badge-3d-fill" style="font-size: 5rem"></i><br>
+        <h3>3D Objekte betrachten</h3>
+      </a>
+    </div>
+    <div class="col-3">
+      <a href="{{ url_for("balkan_digital", category='discover') }}"
+         class="text-decoration-none">
+        <i class="bi bi-search" style="font-size: 5rem"></i><br>
+        <h3>Projektdatenbanken durchsuchen</h3>
+      </a>
+    </div>
+  </div>
+</div>

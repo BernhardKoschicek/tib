@@ -1,4 +1,9 @@
 front_jumbotron = {
+    'tib_digtib': {
+        'title': 'Tabula Imperii Byzantini in the Digital Era',
+        'text': 'A repository of TIB resources digital available',
+        'image_description': ''
+    },
     'tib_current_status': {
         'title': 'TIB Publications in the Making ',
         'text': 'The TIB Team is currently working on five new TIB volumes in '
@@ -11,9 +16,4 @@ front_jumbotron = {
                 'research data ',
         'image_description': ''
     },
-    'tib_digtib': {
-        'title': 'Tabula Imperii Byzantini in the Digital Era',
-        'text': 'A repository of TIB resources digital available',
-        'image_description': ''
-    }
 }

@@ -113,29 +113,27 @@
 {% macro outreach_modal(outreach, index) %}
   <!-- Modal Button -->
   <div role="button" class="card mb-3"
-       data-bs-toggle="modal" data-bs-target="#modal-{{ outreach.id }}">
+       data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
+  {% if outreach.icon %}
     <img class="img-fluid d-flex z-depth-1"#}
          src="{{ url_for('static', filename=outreach.icon) }}"
-         alt="{{ outreach.description }}">
+         alt="{{ outreach.title }}">
+    {% else %}
+      <i class="bi {{ outreach.type.bs_icon }} text-center" style="font-size: 5rem;"></i>
+    {% endif %}
     <div class="card-body">
       <p class="card-title">{{ outreach.title | safe }}</p>
-      <p class="text-start">
-        <small class="text-muted">
-          {{ outreach.description | safe | truncate(100, False, '...') }}
-        </small>
-      </p>
-      <div class="card-footer text-muted">
-        <small class="text-muted">
-          <i class="bi bi-calendar-week"></i>&nbsp;{{ outreach.type['name'] }}
-          von {{ outreach.date }}
+      <div class="card-footer text-muted text-start">
+        <small class="text-muted ">
+          <i class="bi bi-calendar-week"></i>&nbsp;{{ outreach.date }}
         </small>
       </div>
     </div>
   </div>
 
   <!-- Modal -->
-  <div class="modal fade" id="modal-{{ outreach.id }}" tabindex="-1"
-       aria-labelledby="modal-{{ outreach.id }}" aria-hidden="true">
+  <div class="modal fade" id="modal-{{ index }}" tabindex="-1"
+       aria-labelledby="modal-{{ index }}" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable modal-xl">
       <div class="modal-content">
         <div class="modal-header">

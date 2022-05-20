@@ -23,7 +23,7 @@ news = [{
     welcome the interested public and present insights in our current research.
     """
 }, {
-    'date': datetime(2022, 5, 20).strftime('%d %B %Y'),
+    'date': datetime(2022, 6, 20).strftime('%d %B %Y'),
     'who': [team['bkoschicek'], team['mpopovic']],
     'title': 'will present a paper at the University of Cologne, Germany',
     'text': """

@@ -4,7 +4,7 @@ from flask import render_template
 
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
-from tib.data.balkan.outreach import outreach
+from tib.data.outreach import outreach
 from tib.data.balkan.project_results import project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d

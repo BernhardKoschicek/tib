@@ -2,6 +2,7 @@ from flask import render_template
 
 from tib import app
 from tib.data.images.images import IMAGES_TIB
+from tib.data.outreach import outreach
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
@@ -21,7 +22,7 @@ def tib_home() -> str:
         'tib/frontpage/frontpage.html',
         jumbotron=front_jumbotron,
         counter=counter,
-        news=news)
+        outreach=get_dict_entries_by_category('tib', outreach))
 
 
 @app.route('/history')

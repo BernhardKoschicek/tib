@@ -1,7 +1,5 @@
 from typing import Any, Dict
 
-from tib.model.depiction import Depiction
-from tib.model.relation import Relation
 from tib.util.util import uc_first
 
 
@@ -13,17 +11,16 @@ class Entity:
         self.name = data['properties']['title']
         self.description = self.get_description(data['descriptions'])
         self.system_class = uc_first(data['systemClass'])
-        self.profile_image = self.get_profile_depiction(data['depictions']) \
-            if 'depictions' in data else None
+        self.types = self.get_types(data['types']) if 'types' in data else None
         self.alias = data['names'] if 'names' in data else None
         # self.begin = self.get_date(data['when']['timespans'], 'start')
         # if 'depictions' in data else None
         # self.end = self.get_date(data['when']['timespans'], 'end')
         # if 'depictions' in data else None
-        self.relations = self.get_relations(data['relations'])\
+        self.relations = self.get_relations(data['relations']) \
             if 'relations' in data else None
-        self.depictions = self.get_depiction(data['depictions']
-                                             if 'depictions' in data else None)
+        self.depictions = self.get_depiction(data['depictions']) \
+            if 'depictions' in data else None
 
     # def get_basic_data(data):
     #     entity = {
@@ -35,6 +32,11 @@ class Entity:
     #         'end': get_date(data['when']['timespans'], 'end')
     #     }
     #     return entity
+    @staticmethod
+    def get_types(data):
+        if not data:
+            return None
+        return [Types(types) for types in data]
 
     @staticmethod
     def get_depiction(data):
@@ -54,13 +56,6 @@ class Entity:
             return None
         desc = [i['value'] for i in data]
         return desc[0]
-
-    @staticmethod
-    def get_profile_depiction(data):
-        if not data:
-            return None
-        return [img['url']
-                for img in data if img['title'].startswith('profile_')][0]
 
     @staticmethod
     def get_date(data, time):
@@ -104,3 +99,29 @@ class Entity:
         return [titles['label'] for titles in data if
                 titles['hierarchy'] == hierarchy]
         # Problem: what is, if Title is changed? I have no ID to get by
+
+
+class Depiction:
+    def __init__(self, data: Dict[str, Any]):
+        self.link = data['@id']
+        self.title = data['title']
+        self.license = data['license']
+        self.url = data['url']
+
+
+class Relation:
+    def __init__(self, data: Dict[str, Any]):
+        self.label = data['label']
+        self.relation_to = data['relationTo']
+        self.relation_type = data['relationType']
+        self.relation_system_class = data['relationSystemClass']
+        self.type = data['type']
+
+
+class Types:
+    def __init__(self, data: Dict[str, Any]):
+        self.label = data['label']
+        self.hierarchy = data['hierarchy']
+        self.value = data['value']
+        self.unit = data['unit']
+        self.identifier = data['identifier'].rsplit('/', 1)[-1]

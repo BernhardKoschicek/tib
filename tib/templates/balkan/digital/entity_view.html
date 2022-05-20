@@ -1,35 +1,58 @@
 {% extends "balkan/layout.html" %}
 {% block title %}TIB OpenAtlas Access{% endblock %}
 {% block content %}
-  <section>
-    <div class="container top7">
-      <div class="col-md-12 ">
-        <table class="table table-striped hover order-column"
-               style="width:100%">
+  <div class="container top7">
+    <div class="col-md-12">
+      <table class="table table-striped hover order-column w-100">
+        <tr>
+          <th class="table-active">ID</th>
+          <td> {{ entity.id_ }}</td>
+        </tr>
+        <tr>
+          <th class="table-active">Name</th>
+          <td> {{ entity.name }}</td>
+        </tr>
+        <tr>
+          <th class="table-active">Aliases</th>
+          <td> {{ entity.name }}</td>
+        </tr>
+        <tr>
+          <th class="table-active">System class</th>
+          <td> {{ entity.system_class }}</td>
+        </tr>
+        {% if entity.types %}
+          <tr>
+            <th class="table-active">Types</th>
+            <td>
+              <ul class="list-unstyled">
+                {% for type in entity.types %}
+                  <li>
+                    <a href="{{ url_for('entity_view', id_=type.identifier) }}">
+                      {{ type.hierarchy }} > {{ type.label }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </td>
+          </tr>
+        {% endif %}
+        <tr>
+          <th class="table-active">Description</th>
+          <td> {{ entity.description }}</td>
+        </tr>
 
-
-          <tr>
-            <th class="table-active"> ID</th>
-            <td> {{ entity.id_ }}</td>
-          </tr>
-          <tr>
-            <th class="table-active"> Name</th>
-            <td> {{ entity.name }}</td>
-          </tr>
-          <tr>
-            <th class="table-active"> System class</th>
-            <td> {{ entity.system_class }}</td>
-          </tr>
-          <tr>
-            <th class="table-active"> Description</th>
-            <td> {{ entity.description }}</td>
-          </tr>
-
-        </table>
-      </div>
+      </table>
     </div>
-  </section>
-
+  {% if entity.depictions %}
+    <div class="row">
+      {% for img in entity.depictions %}
+        <div class="col-3 p-3">
+          <img src="{{ img.url + '?image_size=thumbnail' }}" class="img-fluid">
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
 {% endblock %}
 
 

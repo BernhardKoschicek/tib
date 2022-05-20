@@ -6,7 +6,6 @@ from tib.data.outreach import outreach
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
-from tib.data.tib.news import news
 from tib.data.tib.publications import tib_publications_data
 from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories

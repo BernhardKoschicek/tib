@@ -7,38 +7,42 @@
       {{ header_balkan('Projektdaten durchsuchen') }}
     </div>
     <div class="row top5">
-      <nav>
-        <div class="nav nav-tabs nav-fill" id="tab-project-discovery"
-             role="tablist">
-          {% for object, values in subprojects_dict.items() if object in show %}
-            <button class="nav-link img-fluid {% if loop.first %}active{% endif %}"
-                    id="tab-{{ object }}"
-                    data-bs-toggle="tab" data-bs-target="#{{ object }}"
-                    type="button" role="tab" aria-controls="{{ object }}"
+      <ul class="nav justify-content-center mb-3 top3"
+          id="tab-project-discovery"
+          role="tablist">
+        {% for object, values in subprojects_dict.items() if object in show %}
+          <li class="nav-item px-3" role="presentation">
+            <button class="nav-link btn btn-violet-light {% if loop.first %}active{% endif %} px-5 py-1 rounded-pill"
+                    id="{{ object }}-tab"
+                    data-bs-toggle="pill" data-bs-target="#{{ object }}"
+                    type="button"
+                    role="tab" aria-controls="{{ object }}"
                     aria-selected="true">
-              {{ object.upper() }}
+              <span class="lead">{{ object.title() }}</span>
             </button>
-          {% endfor %}
-        </div>
-      </nav>
+          </li>
+        {% endfor %}
+      </ul>
+
       <div class="tab-content" id="tabContent-project-discovery">
         {% for object, values in subprojects_dict.items() if object in show %}
           <div class="tab-pane fade {% if loop.first %}active show{% endif %}"
                id="{{ object }}"
                role="tabpanel" aria-labelledby="tab-{{ object }}">
             <div class="row text-center pt-4">
-              <h4>{{ values['title'] }}</h4>
+              <a href="{{ url_for('balkan_subprojects', project=object) }}"
+              class="text-decoration-none">
+                <h4>{{ values['title'] }}</h4>
+              </a>
             </div>
-            <div class="container">
+            <div class="container pt-5">
               <div class="row  justify-content-md-center">
                 {% for view, values in view_classes.items() %}
                   <a href="{{ url_for('digital_oa_access', view=view, project=object) }}"
                      class="{{ view }}-background rounded-3 col-md-8 col-xl-6 col-xxl-3 p-5 m-3 oa-access-tab-boxes">
                     <div data-aos="zoom-in-up" class="">
-
                       <p class="fw-bold">{{ values['display_name'] }}</p>
                       <p class="fst-italic">{{ values['description'] }}</p>
-
                     </div>
                   </a>
                 {% endfor %}

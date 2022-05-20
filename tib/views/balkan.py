@@ -91,7 +91,7 @@ def balkan_outreach() -> str:
         images=img_outreach)
 
 
-@app.route('/balkan/entity/<id_>')
+@app.route('/entity/<id_>')
 def entity_view(id_: int) -> str:
     return render_template(
         'balkan/digital/entity_view.html',

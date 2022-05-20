@@ -59,18 +59,7 @@
 <script>
     AOS.init();
 
-    $(document).ready(function () {
-        $('#entity_table').DataTable({
-            columnDefs: [{
-                targets: 3,
-                render: $.fn.dataTable.render.ellipsis(200, true)
-            },
-                {
-                    targets: 1,
-                    render: $.fn.dataTable.render.ellipsis(80, true)
-                }]
-        });
-    });
+
 
 </script>
 

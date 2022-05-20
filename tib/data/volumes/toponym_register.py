@@ -19,6 +19,11 @@ toponym_register = tib1_table_data + tib2_table_data + tib3_table_data + \
                    tib15_table_data
 
 register_volume = {
+    'all': {
+        'title': 'Complete Register of TIB 1-10, 12, 13, 15',
+        'register': toponym_register,
+        'published': True,
+    },
     'tib1': {
         'title': 'TIB 1 Hellas and Thessaly',
         'register': tib1_table_data,

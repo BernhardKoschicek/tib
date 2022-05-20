@@ -9,7 +9,8 @@ from tib.data.balkan.project_results import project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
-from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, tib_history
+from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, \
+    tib_history
 from tib.data.images.outreach import img_outreach
 from tib.data.index import front_menu
 from tib.data.oa_access import get_entity_from_oa, \
@@ -138,7 +139,8 @@ def balkan_tib():
 @app.route('/balkan/historische-geographie')
 def balkan_historical_geographie():
     return render_template(
-        'balkan/geography/historically_geography.html')
+        'balkan/geography/historically_geography.html',
+        images=balkan_hist_geo)
 
 
 @app.errorhandler(404)

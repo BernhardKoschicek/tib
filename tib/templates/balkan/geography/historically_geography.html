@@ -1,108 +1,127 @@
 {% extends "balkan/layout.html" %}
 {% block title %}{% endblock %}
 {% block content %}
-    <div class="container-fluid top10">
-        <div class="row ">
-            <h1 class="display-1">Vergangene Landschaften begreifbar machen …</h1>
-        </div>
-        <div class="row top7">
-            <div class="col-4 offset-1">
+  <div class="container top10">
+  <div class="row ">
+    <h1 class="display-1">Vergangene Landschaften begreifbar machen …</h1>
+  </div>
 
-            </div>
-            <div class="col-6 ">
-                <p>
-                    Im 21. Jahrhundert sind wir Zeugen eines rasanten technischen Fortschritts und
-                    einer dynamischen
-                    Veränderung unserer Lebenswelten. Die Rückbesinnung der Menschheit auf die
-                    Umwelt und das
-                    Bewußtsein der Menschen über globale klimatische Veränderungen regen die Frage
-                    an, wie unsere
-                    Vorfahren im Mittelalter gelebt haben und wie sie ihre Umwelt gestaltet und
-                    wahrgenommen haben.
-                </p>
-            </div>
-        </div>
-
-        <div class="row top17">
-            <div class="row justify-content-center">
-                <div class="col-4">
-                    <p>Wie waren damalige Landschaften beschaffen?</p>
-                </div>
-                <div class="col-4 offset-1">
-                    <p>Welche Siedlungen gab es? Wie sahen diese aus?</p>
-                </div>
-            </div>
-            <div class="row justify-content-around top5">
-                <div class="col-4">
-                    <p>Wurden sie in schriftlichen Quellen (z. B. Urkunden) dokumentiert?</p>
-                </div>
-                <div class="col-2 justify-content-center">
-                    <div class="circle">Fragen der historischen Geographie</div>
-                </div>
-                <div class="col-4">
-                    <p>Welche Rolle spielten Flüsse, Seen und Gebirge in der Raumwahrnehmung des
-                        Mittelalters?</p>
-                </div>
-            </div>
-            <div class="row justify-content-center top5">
-                <div class="col-4">
-                    <p> Warum wurden Kirchen, Klöster und Burgen an bestimmten Orten errichtet?</p>
-                </div>
-                <div class="col-4 offset-1">
-                    <p>Wohin führten Straßen und wie waren sie beschaffen?</p>
-                </div>
-            </div>
-        </div>
-        <div class="row top10 justify-content-center">
-            <div class="col-10">
-                <p>
-                    Unser Langzeitprojekt Tabula Imperii Bzyantini (TIB) an der Österreichischen
-                    Akademie der
-                    Wissenschaften in Wien erforscht die vergangenen Landschaften des Byzantinischen
-                    („Oströmischen“) Reiches. Wir befassen uns mit den zwei großen Kerngebieten
-                    Kleinasien und
-                    Balkan.
-                </p>
-            </div>
-        </div>
-        <div class="row align-content-center">
-            <div class="col-8  offset-2 text-center">
-                <img src="{{ url_for('static', filename='/images/core-studies.jpg') }}" style="height: 300px">
-            </div>
-        </div>
-        <div class="row top10 align-content-center">
-            <h2 class="display-2 text-center">Forschungsarbeit</h2>
-            <div class="col-3">
-                <h3>Quellen</h3>
-            </div>
-            <div class="col-3">
-<h3>Flurnamen</h3>
-            </div>
-            <div class="col-3">
-<h3></h3>
-            </div>
-        </div>
+  <div class="row top7">
+    <div class="col-6 ">
+      <div class="col align-self-center text-center">
+        <video loop autoplay muted>
+          <source src="{{ url_for('static', filename='/video/travel_to_bonce.mp4') }}"
+                  type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
     </div>
+    <div class="col-6 ">
+      <p>
+        Im 21. Jahrhundert sind wir Zeugen eines rasanten technischen
+        Fortschritts und
+        einer dynamischen
+        Veränderung unserer Lebenswelten. Die Rückbesinnung der Menschheit
+        auf
+        die
+        Umwelt und das
+        Bewußtsein der Menschen über globale klimatische Veränderungen regen
+        die Frage
+        an, wie unsere
+        Vorfahren im Mittelalter gelebt haben und wie sie ihre Umwelt
+        gestaltet
+        und
+        wahrgenommen haben.
+      </p>
+    </div>
+  </div>
+  <div class="row top7">
+    <div data-aos="zoom-out-down"
+         data-aos-easing="linear"
+         data-aos-duration="300">
+      <h2 class=" text-center">
+          <span class="bg-violet-light p-3 rounded-pill">
+            Fragen der historischen Geographie
+          </span>
+      </h2>
+    </div>
+    {% set questions = [
+      'Wie waren damalige Landschaften beschaffen?',
+      'Welche Siedlungen gab es? Wie sahen diese aus?',
+      'Wurden sie in schriftlichen Quellen (z. B. Urkunden)
+            dokumentiert?',
+      'Welche Rolle spielten Flüsse, Seen und Gebirge in der
+            Raumwahrnehmung des
+            Mittelalters?',
+      'Warum wurden Kirchen, Klöster und Burgen an bestimmten Orten
+            errichtet?',
+                 'Wohin führten Straßen und wie waren sie beschaffen?',
+      ] %}
+    {% for question in questions %}
+      <div data-aos="{{ loop.cycle('fade-right', 'fade-left') }}"
+           data-aos-offset="300"
+           data-aos-easing="ease-in-sine"
+           class="{{ loop.cycle('text-end', 'text-start') }} top5">
+        <h4>{{ question }}</h4>
+      </div>
 
+    {% endfor %}
+    <div class="row text-center top5">
+      <h3>Unsere Arbeitsweise</h3>
+      <p class="pt-3">
+        Wir lesen die schriftlichen Quellen der Zeit
+        des 4. bis 15. Jahrhunderts, die in verschiedenen Sprachen verfasst
+        sind
+        (z. B. griechisch,
+        lateinisch, altslawisch, etc.), und filtern alle Informationen zu den
+        oben genannten Fragen
+        heraus.
+      </p>
+      <p>
+        Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten
+        und
+        Lexika.
+      </p>
+      <p>
+        Wir
+        verschaffen uns einen Überblick über archäologische Grabungen und
+        bestehende Denkmäler (Kirchen,
+        Klöster, Burgen, etc.) vor Ort.
+      </p>
+      <p>
+        Und wir reisen in die jeweiligen Gebiete, um vor Ort im Gelände Daten
+        zu
+        sammeln und zu dokumentieren, die wir vorher gelesen und zusammengefaßt
+        haben. Dazu sind wir auf die Hilfe der einheimischen Bevölkerung
+        angewiesen. Wir sprechen mit den Menschen in ihrer Sprache – sei es auf
+        Griechisch, Serbisch, Bulgarisch, Mazedonisch, Türkisch, etc. – und
+        blicken mit ihnen auf ihre lokale Vergangenheit zurück. Es kommt zu
+        wunderschönen Begegnungen über alle Grenzen hinweg. Aus all den
+        gewonnenen Daten schreiben wir zu jeder historischen Region des
+        Byzantinischen Reiches einen Band der Tabula Imperii Byzantini und
+        tragen
+        unsere Erkenntnisse auch in einer beigelegten, gedruckten Karte ein.
+        Auf
+        diese Weise werden längst vergangene Landschaften für jeden/jede
+        begreifbar …
+      </p>
 
-     Wir lesen die schriftlichen Quellen der Zeit
-    des 4. bis 15. Jahrhunderts, die in verschiedenen Sprachen verfaßt sind (z. B. griechisch,
-    lateinisch, altslawisch, etc.), und filtern alle Informationen zu den oben genannten Fragen
-    heraus.
-    Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten und Lexika.
-    Wir
-    verschaffen uns einen Überblick über archäologische Grabungen und bestehende Denkmäler (Kirchen,
-    Klöster, Burgen, etc.) vor Ort.
-    Und wir reisen in die jeweiligen Gebiete, um vor Ort im Gelände
-    Daten zu sammeln und zu dokumentieren, die wir vorher gelesen und zusammengefaßt haben.Dazu
-    sind wir auf die Hilfe der einheimischen Bevölkerung angewiesen. Wir sprechen mit den Menschen
-    in ihrer Sprache – sei es auf Griechisch, Serbisch, Bulgarisch, Mazedonisch, Türkisch, etc. –
-    und blicken mit ihnen auf ihre lokale Vergangenheit zurück. Es kommt zu wunderschönen
-    Begegnungen über alle Grenzen hinweg.
-    Aus all den gewonnenen Daten schreiben wir zu jeder historischen Region des Byzantinischen
-    Reiches einen Band der Tabula Imperii Byzantini und tragen unsere Erkenntnisse auch in einer
-    beigelegten, gedruckten Karte ein. Auf diese Weise werden längst vergangene Landschaften für
-    jeden/jede begreifbar …
+      <p>
+        Wenn Sie über das Projekt TIB, die TIB Balkan und zukünftige Planungen
+        im Spiegel der politischen, kulturpolitischen und demographischen
+        Entwicklungen in Europa lesen möchten, können Sie im folgenden Beitrag
+        mehr darüber erfahren …
+      </p>
+
+    </div>
+    <div class="row">
+      {% for img in images %}
+        <div class="col-6">
+          {{ img_modal(img, loop.index) }}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
 {% endblock %}
 

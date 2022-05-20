@@ -218,6 +218,16 @@ a.oa-access-tab-boxes:hover {
 .bg-violet-light {
     background-color: rgba(79, 27, 60, 0.25);
 }
+.bg-violet-light-gradient-right {
+background: rgb(79,27,60);
+background: linear-gradient(90deg, rgba(79,27,60,0) 2%, rgba(79,27,60,0.7875525210084033) 13%, rgba(79,27,60,0.8323704481792717) 32%, rgba(79,27,60,0) 94%);
+}
+
+.bg-violet-light-gradient-left {
+background: rgb(79,27,60);
+background: linear-gradient(90deg, rgba(79,27,60,0) 2%, rgba(79,27,60,0.7875525210084033) 13%, rgba(79,27,60,0.8323704481792717) 32%, rgba(79,27,60,0) 94%);
+}
+
 
 .border-violet-light {
     border-color: rgba(79, 27, 60, 0.25) !important;

@@ -96,9 +96,10 @@
             </div>
             <div class="col-12 text-center">
               <p>
-                <button type="button"
-                        class="btn btn-violet btn-rounded btn-md ml-4"
-                        data-bs-dismiss="modal">Close
+                <button
+                  type="button"
+                  class="btn btn-violet btn-rounded btn-md ml-4"
+                  data-bs-dismiss="modal">Close
                 </button>
               </p>
             </div>
@@ -114,12 +115,13 @@
   <!-- Modal Button -->
   <div role="button" class="card mb-3"
        data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
-  {% if outreach.icon %}
-    <img class="img-fluid d-flex z-depth-1"#}
-         src="{{ url_for('static', filename=outreach.icon) }}"
-         alt="{{ outreach.title }}">
+    {% if outreach.icon %}
+      <img class="img-fluid d-flex z-depth-1"#}
+           src="{{ url_for('static', filename=outreach.icon) }}"
+           alt="{{ outreach.title }}">
     {% else %}
-      <i class="bi {{ outreach.type.bs_icon }} text-center" style="font-size: 5rem;"></i>
+      <i class="bi {{ outreach.type.bs_icon }} text-center"
+         style="font-size: 5rem;"></i>
     {% endif %}
     <div class="card-body">
       <p class="card-title">{{ outreach.title | safe }}</p>
@@ -210,46 +212,46 @@
 
 {% macro create_table(list_, id, order_column) %}
 
-<table id="table-{{ id }}"
-       class="row-border order-column stripe hover">
-  <thead>
-  <tr>
-    {% for header in list_[0] if not header in ['category', 'download'] %}
-      <th>{{ header | title }}</th>
-    {% endfor %}
-  </tr>
-  </thead>
-  <tbody>
-  {% for item in list_ %}
+  <table id="table-{{ id }}"
+         class="row-border order-column stripe hover">
+    <thead>
     <tr>
-      {% for key, value in item.items() if not key in ['category', 'download'] %}
-        <td>
-          {{ value }}
-        </td>
-        {% endfor %}
+      {% for header in list_[0] if not header in ['category', 'download'] %}
+        <th>{{ header | title }}</th>
+      {% endfor %}
     </tr>
-  {% endfor %}
-  </tbody>
-</table>
+    </thead>
+    <tbody>
+    {% for item in list_ %}
+      <tr>
+        {% for key, value in item.items() if not key in ['category', 'download'] %}
+          <td>
+            {{ value }}
+          </td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
 
-<script>
-    $(document).ready(function () {
-        $('#table-{{ id }}').dataTable({
-            "paging": true,
-            "autoWidth": false,
-            "columnDefs": [
-                {"width": "20%", "targets": 0},
-            ],
-            "ordering": true,
-            "order": [[{{ order_column }},
-                {% if id == 'volumes'%}'asc'{% else %}'desc'{% endif %}]],
-            "info": true,
-            "searching": true,
-            "pageLength": 5
-        });
-    });
+  <script>
+      $(document).ready(function () {
+          $('#table-{{ id }}').dataTable({
+              "paging": true,
+              "autoWidth": false,
+              "columnDefs": [
+                  {"width": "20%", "targets": 0},
+              ],
+              "ordering": true,
+              "order": [[{{ order_column }},
+                  {% if id == 'volumes'%}'asc'{% else %}'desc'{% endif %}]],
+              "info": true,
+              "searching": true,
+              "pageLength": 5
+          });
+      });
 
-</script>
+  </script>
 
 {% endmacro %}
 

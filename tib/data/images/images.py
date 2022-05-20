@@ -2,17 +2,29 @@ from tib.data.images.subprojects_ger_images import subprojects_ger_images
 
 path = 'images/gallery/'
 
-tib_history = [    {
-        'path': f'{path}tib_regions_hunger.jpg',
-        'description': 'Die Einteilung der Arbeitsgebiete der TIB Balkan in der Nordhälfte der Balkanhalbinsel nach Herbert Hunger',
-        'citation': '',
-        'category': ['tib_history']
-    },  {
-        'path': f'{path}tib_balkan_overview.jpg',
-        'description': 'Übersichtskarte der TIB Balkan',
-        'citation': 'Bernhard Koschiček-Krombholz, 2022',
-        'category': ['tib_balkan']
-    },
+tib_history = [{
+    'path': f'{path}tib_regions_hunger.jpg',
+    'description': 'Die Einteilung der Arbeitsgebiete der TIB Balkan in der Nordhälfte der Balkanhalbinsel nach Herbert Hunger',
+    'citation': '',
+    'category': ['tib_history']
+}, {
+    'path': f'{path}tib_balkan_overview.jpg',
+    'description': 'Übersichtskarte der TIB Balkan',
+    'citation': 'Bernhard Koschiček-Krombholz, 2022',
+    'category': ['tib_balkan']
+},
+]
+balkan_hist_geo = [{
+    'path': f'{path}hmsds6.jpg',
+    'description': 'Serbische Urkunde des Königs Stefan Uroš II. Milutin über die Schenkung der Einsiedelei der Heiligen Petka im Dorf Tmorane, ca. 1300',
+    'citation': 'Ohio State University, Resource Center for Medieval Slavic Studies (RCMSS), Hilandar Research Library, HM SDS 6',
+    'category': ['hist-geo']
+}, {
+    'path': f'{path}vlaska_carkva.jpg',
+    'description': 'Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien, 2010 ',
+    'citation': 'M. St. Popović, TIB 16',
+    'category': ['geo']
+},
 ]
 tib11 = [
     {

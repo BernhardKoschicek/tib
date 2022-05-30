@@ -60,6 +60,21 @@
         </div>
       </div>
     </div>
+      <div class="row pt-5">
+      {% for img in images %}
+        <div class="col-3">
+          {{ img_modal(img, loop.index) }}
+        </div>
+      {% endfor %}
+    </div>
+    {% if publications %}
+      <h4 class="pt-5 text-center">Publications:</h4>
+      {{ create_table(publications, 'publications', 3) }}
+    {% endif %}
+    {% if presentations %}
+      <h4 class="pt-5 text-center">Presentations:</h4>
+      {{ create_table(presentations, 'presentations', 3) }}
+    {% endif %}
   </div>
 
 

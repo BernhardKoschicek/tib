@@ -32,12 +32,12 @@ tib_team_data = {
         'academia': 'https://oeaw.academia.edu/MihailoPopovic'
     },
     'bkoschicek': {
-        'name': 'Bernhard Koschićek-Krombholz',
+        'name': 'Bernhard Koschiček-Krombholz',
         'team': 'balkans',
         'category': 'software_developer',
         'titles': ['BA', 'Bsc'],
         'description': 'BSc in Computer Sciences, BA in History, student of Computer Sciences at the University of Applied Sciences Technikum Wien and currently student of history at the University of Vienna. Research interests include computer security, python, Linked Open Data, API, digital reservation, historical geographie, GIS, medieval and military history.',
-        'email': 'Bernhard.Koschicek@oeaw.ac.at',
+        'email': 'bernhard.koschicek-krombholz@oeaw.ac.at',
         'image': f'{path}/bernhard.jpg',
         'academia': 'https://oeaw.academia.edu/BernhardKoschicek'
     },
@@ -53,7 +53,7 @@ tib_team_data = {
     },
     'vzervan': {
         'name': 'Vratislav Zervan',
-        'team': 'associeted_scholars',
+        'team': 'associated_scholars',
         'category': 'scientific_employee',
         'titles': ['PhD', 'MA'],
         'description': 'MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: PhD in General History (Faculty of Arts, Comenius University, Bratislava); Research Interests: Byzantine History; Byzantine and Slavonic Literature; Archaeology; Historical Geography; Lexicography',
@@ -73,7 +73,7 @@ tib_team_data = {
     },
     'vpolloczek': {
         'name': 'Veronika Polloczek',
-        'team': 'associeted_scholars',
+        'team': 'associated_scholars',
         'category': 'scientific_employee',
         'titles': ['Mag.a phil.', 'MA'],
         'description': 'Mag.a in Classics, Student of MA Program in Historical Research, Auxiliary Sciences and Archival Studies at the University of Vienna. Research interests Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, Heraldry.',
@@ -103,7 +103,7 @@ tib_team_data = {
     },
     'kbelke': {
         'name': 'Klaus Belke',
-        'team': 'emeriti_scholars',
+        'team': 'emeritus_scholar',
         'category': 'scientific_employee',
         'titles': ['Dr. phil.'],
         'description': 'Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic collaborator at the Austrian Academy of Sciences; at the Commission for the Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 Division of Byzantine Studies of the Institute for Medieval Studies). 1999 Habilitation at the Institute for Byzantine and Neoellenic Studies of the University of Vienna. Teaching at the University of Vienna; 1999, 2001 teaching at the Central European University at Budapest. 2012 retirement after reaching the legal age of retirement. Continuing voluntarily work for the Tabula Imperii Byzantine project. Research Interests: Historical Geography of the Byzantine Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine periods',
@@ -113,7 +113,7 @@ tib_team_data = {
     },
     'fhild': {
         'name': 'Friedrich Hild',
-        'team': 'emeriti_scholars',
+        'team': 'emeritus_scholar',
         'category': 'scientific_employee',
         'titles': ['Dr. phil.'],
         'description': 'Dr. phil.; Studies of Classical Philology, Ancient History, Ancient Numismatics and Byzantine Studies (1960–1968) at the University of Vienna; Dr. phil. in Ancient History. From 1969 scholarly co-worker in the "Kommission für die Tabula Imperii Byzantini / Commission of the Tabula Imperii Byzantini"; 1977-1987: deputy chairman of the TIB. From 1976 until 1986 secretary and treasurer and from 1987 until 1996 treasurer of the "Austrian Byzantine Society / Österreichische Byzantinische Gesellschaft". After his retirement in 2007 he is working as honorary (emeritus) scholar for the TIB. Research Interests: Ancient and Byzantine History, Archaeology, Historical Geography and Cartography of the Mediterranean',
@@ -123,7 +123,7 @@ tib_team_data = {
     },
     'psoustal': {
         'name': 'Peter Soustal',
-        'team': 'emeriti_scholars',
+        'team': 'emeritus_scholar',
         'category': 'scientific_employee',
         'titles': ['Dr. phil.', 'Mag. phil.'],
         'description': 'Mag. Dr. phil.; Mag. phil. (University of Vienna, 1969); Dr. phil. (University of Vienna, 1975); employed at the Austrian Academy of Sciences since 1969, from 1973 at the department of Tabula Imperii Byzantini; from 2006 until 2012 director of the former Institute for Byzantine Research of the Austrian Academy of Sciences; since the retirement in 2012 voluntary collaborator at the Institute for Medieval Research, Division of Byzantine Research. Research Interests: Historical Geography of the Southern part of the Balkan peninsula (Albania, Northern Greece, Bulgaria), historical Studies in Place names.',
@@ -134,15 +134,15 @@ tib_team_data = {
 }
 
 team_categories = {
-    'head_of_tabula_imperii_byzantini': [tib_team_data['akulzer'],
+    'Heads_of_the_TIB': [tib_team_data['akulzer'],
                                          tib_team_data['mpopovic']],
-    'scientific_employees': [tib_team_data['dariantzi'],
+    'Scientific_Employees': [tib_team_data['dariantzi'],
                              tib_team_data['dvargova']],
-    'associated_scholars': [tib_team_data['vzervan'],
+    'Associated_Scholars': [tib_team_data['vzervan'],
                             tib_team_data['vpolloczek']],
-    'technical_specialists': [tib_team_data['mhernandez'],
+    'Technical_Specialists': [tib_team_data['mhernandez'],
                               tib_team_data['bkoschicek']],
-    'former_employees': [tib_team_data['jkoder'], tib_team_data['fhild'],
+    'Former_Employees': [tib_team_data['jkoder'], tib_team_data['fhild'],
                          tib_team_data['kbelke'], tib_team_data['psoustal'],
                          tib_team_data['dschmid']],
 }

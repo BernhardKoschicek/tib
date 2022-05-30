@@ -14,7 +14,7 @@
                   data-bs-toggle="pill" data-bs-target="#{{ key }}"
                   type="button"
                   role="tab" aria-controls="{{ key }}" aria-selected="true">
-            <span class="lead">{{ key | title }}</span>
+            <span class="lead">{{ key | replace('_', ' ')}}</span>
           </button>
         </li>
       {% endfor %}
@@ -30,7 +30,7 @@
             <thead>
             <tr>
               {% for key in value[0] %}
-                <th>{{ key|title }}</th>
+                <th>{{ key | title }}</th>
               {% endfor %}
             </tr>
             </thead>

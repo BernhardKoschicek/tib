@@ -186,7 +186,7 @@ tib_monographs = [
         "pages": 59
     },
     {
-        "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović",
+        "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (eds.)",
         "title": "Raum und Geschichte: der historische Atlas ‘Tabula Imperii Byzantini (TIB)’ an der Österreichischen Akademie der Wissenschaften (Studies in Historical Geography and Cultural Heritage 3)",
         "location": "Vienna–Novi Sad",
         "date": "2020",
@@ -1150,7 +1150,7 @@ tib_articles = [
 ]
 
 tib_publications_data = {
-    'volumes': tib_volumes,
+    'tib_volumes': tib_volumes,
     'monographs': tib_monographs,
     'articles': tib_articles
 }

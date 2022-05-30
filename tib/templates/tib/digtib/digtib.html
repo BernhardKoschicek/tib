@@ -5,7 +5,7 @@
     <img src="{{ url_for('static', filename='images/logo/digtib.png') }}"
          class="mx-auto d-block img-fluid">
     <div class="text-center top3">
-      {{ header('Digital Tabula Imperii Byzntini', False) }}
+      {{ header('Digital Tabula Imperii Byzantini', False) }}
     </div>
   </div>
   <div class="container pt-3">
@@ -37,7 +37,7 @@
     <p class="small bg-violet-light px-3 py-3 text-center">
       This page is the platform’s realisation and at the same time work in
       progress, which has been initiated through the sub-project of the TIB
-      entitled <a href="#">"Die digitale Tabula Imperii Byzantini (Dig-TIB) als
+      entitled <a href="{{ url_for('tib_sub_projects', project='digtib') }}">"Die digitale Tabula Imperii Byzantini (Dig-TIB) als
       Beitrag zum
       Weltkulturerbe"</a>. This project was supported by funds of the
       Oesterreichische Nationalbank (Austrian Central Bank, Anniversary Fund,

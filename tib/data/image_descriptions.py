@@ -18,9 +18,9 @@ home_images = {
 }
 
 project_icons = {
-    'tib11': 'Sithonia Peninsula, bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)',
-    'tib14': 'Sardis west of modern Salihli, Lydia (TIB 14, A. Külzer, 2013)',
-    'tib16': 'Traces of a early christian basilica (5. cent) at the island of Golem Grad, Repbulic of Northmacedonia, 2017 (M. St. Popović, TIB 16)',
-    'tib17': 'Austro-Hungarian fortress Kabala on the peninsula uštica, Montenegro, 2021 (M. St. Popović, TIB 17)',
-    'tib18': 'Kaunos and its Marshy Harbour (TIB 8 und TIB 18, F. Hild, 1994)'
+    'tib11': 'Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)',
+    'tib14': 'Sardis, West of Modern Salihli, Lydia (TIB 14, A. Külzer, 2013)',
+    'tib16': 'Traces of an Early Christian Basilica (5. Cent) on the Island of Golem Grad, Repbulic of North Macedonia (M. Popović, TIB 16, 2017)',
+    'tib17': 'Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. Popović, TIB 17, 2021)',
+    'tib18': 'Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)'
 }

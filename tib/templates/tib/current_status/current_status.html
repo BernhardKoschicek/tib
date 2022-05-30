@@ -3,8 +3,8 @@
 {% block content %}
 
   <div class="text-center top5">
-    {{ header('Tabula Imperii Byzntini', True) }}
-    {{ header('Volumina in Progress', False) }}
+    {{ header('Tabula Imperii Byzantini', True) }}
+    {{ header('Volumes in Progress', False) }}
   </div>
   <div class="container">
     <p class="p-2 text-center bg-violet-light small">
@@ -27,8 +27,10 @@
       the project Prof. Dr. Andreas Külzer (Asia Minor) and Doz. Mag. Dr.
       Mihailo Popović (Balkans).
     </p>
-    <h4 class="text-center">Scholarly work on current volumes is in different
-      stages of preparation!</h4>
+    <h4 class="text-center">
+      The scholarly work on current volumes is in different
+      stages.
+    </h4>
     <div class="row justify-content-md-center top3">
       {% for tib, volume in tib_volumen.items() %}
         <div class="col-md-12 col-xl-4 col-xxl-4 nopadding">

@@ -1,11 +1,13 @@
 from flask import render_template
 
 from tib import app
-from tib.data.images.images import IMAGES_TIB
+from tib.data.images.images import IMAGES_SUB, IMAGES_TIB
 from tib.data.outreach import outreach
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
+from tib.data.tib.presentations import presentations
+from tib.data.tib.project_publications import project_publications
 from tib.data.tib.publications import tib_publications_data
 from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories
@@ -54,7 +56,14 @@ def tib_sub_projects(project: str = None) -> str:
     if project:
         return render_template(
             'tib/subprojects/project.html',
-            project=subprojects[project])
+            project=subprojects[project],
+            presentations=get_dict_entries_by_category(
+                project,
+                presentations),
+            publications=get_dict_entries_by_category(
+                project,
+                project_publications),
+            images=get_dict_entries_by_category(project, IMAGES_SUB))
     return render_template(
         'tib/subprojects/subprojects.html',
         projects=subprojects)

@@ -69,12 +69,17 @@ def tib_menu(route: str) -> str:
               <a class="nav-link dropdown-toggle" 
               href="{url_for(f'tib_{item}')}" 
               id="navbarDropdown" role="button" 
-              data-bs-toggle="dropdown" >
-            {item.title().replace("_", " ")}
+              data-bs-toggle="dropdown" > DigTIB
           </a>
           {digtib_submenu(item)}
           </li>
             """
+        elif item == 'aieb':
+            html += f"""
+            <li class="nav-item">
+                <a class="nav-link {active}" href="{url_for(f'tib_{item}')}"
+                    >{item.upper().replace("_", " ")}</a>
+            </li>"""
         else:
             html += f"""
             <li class="nav-item">

@@ -29,115 +29,115 @@ balkan_hist_geo = [{
 tib11 = [
     {
         'path': f'{path}roman_bridge.jpg',
-        'description': 'Late Roman bridge near the Gulf of Thessalonike, Northern Greece',
+        'description': 'The Late Roman Bridge near the Gulf of Thessalonica, Northern Greece',
         'citation': 'TIB 11, P. Soustal, M. Popović, 2004',
         'category': ['tib11']
     }, {
         'path': f'{path}sithonia.jpg',
-        'description': 'Sithonia Peninsula, bay at the Singitic Gulf, Northern Greece',
+        'description': 'Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece',
         'citation': 'TIB 11, P. Soustal, M. Popović, 2004',
         'category': ['tib11']
     }, {
         'path': f'{path}valley_chabrias.jpg',
-        'description': 'Valley of the river Chabrias near Ormylia, Chalkidike, Northern Greece',
+        'description': 'The Valley of the River Chabrias near Ormylia, Chalkidike, Northern Greece',
         'citation': 'TIB 11, P. Soustal, M. Popović, 2004',
         'category': ['tib11']
     }, {
         'path': f'{path}melenikitsi.jpg',
-        'description': 'Melenikitsi, the small Melnik near Serres, Northern Greece',
+        'description': 'Melenikitsi, the "Small Melnik" near Serres, Northern Greece',
         'citation': 'TIB 11, P. Soustal, M. Popović, 2004',
         'category': ['tib11']
     }]
 tib14 = [
     {
         'path': f'{path}kaya.jpg',
-        'description': 'Şahan Kaya 24 km east of Akhisar, Lydia ',
+        'description': 'Şahan Kaya, 24 km East of Akhisar, Lydia',
         'citation': 'TIB 14, A. Külzer, 2014',
         'category': ['tib14']
     }, {
         'path': f'{path}koloe.jpg',
-        'description': 'Koloē limnē, modern Marmara gölü, Lydia ',
+        'description': 'Koloē limnē, Modern Marmara Gölü, Lydia',
         'citation': 'TIB 14, A. Külzer, 2013',
         'category': ['tib14']
     }, {
         'path': f'{path}sardis.jpg',
-        'description': 'Sardis west of modern Salihli, Lydia ',
+        'description': 'Sardis, West of Modern Salihli, Lydia',
         'citation': 'TIB 14, A. Külzer, 2013',
         'category': ['tib14']
     }, {
         'path': f'{path}ephesos.jpg',
-        'description': 'Ephesos, modern Selçuk, Asia ',
+        'description': 'Ephesos, Modern Selçuk, Asia',
         'citation': 'TIB 14, A. Külzer, 2016',
         'category': ['tib14']
     }, {
         'path': f'{path}/hisar.jpg',
-        'description': 'Hisar near Kiraz, Asia ',
+        'description': 'Hisar near Kiraz, Asia',
         'citation': 'TIB 14, A. Külzer, 2016',
         'category': ['tib14']
     }, {
         'path': f'{path}yogurtcu.jpg',
-        'description': 'Yoğurtçu Kale, 15 km west of Manisa Asia ',
+        'description': 'Yoğurtçu Kale, 15 km West of Manisa, Asia',
         'citation': 'TIB 14, A. Külzer, 2014',
         'category': ['tib14']
     }, ]
 tib16 = [
     {
         'path': f'{path}heraclea.jpg',
-        'description': 'The Ancient Theater in Heraclea Lyncestis from the South, (FY)R Macedonia ',
+        'description': 'The Ancient Theatre in Heraclea Lyncestis from the South, Republic of North Macedonia',
         'citation': 'TIB 16, M. Popović, 2008',
         'category': ['tib16']
     }, {
         'path': f'{path}kadin_most.jpg',
-        'description': 'Ottoman Bridge called Kadin Most in Nevestino, Bulgaria ',
+        'description': 'The Ottoman Bridge called Kadin Most in Nevestino, Bulgaria',
         'citation': 'TIB 16, M. Popović, 2007',
         'category': ['tib16']
     }, {
         'path': f'{path}dojran.jpg',
-        'description': 'Lake Dojran, (FY)R Macedonia ',
+        'description': 'Lake Dojran, Republic of North Macedonia',
         'citation': 'TIB 16, M. Popović, 2007',
         'category': ['tib16']
     }, {
         'path': f'{path}poloski.jpg',
-        'description': 'The Monastery of St. George Pološki, Reservoir of Tikveš, (FY)R Macedonia ',
+        'description': 'The Monastery of St. George Pološki, Reservoir of Tikveš, Republic of North Macedonia',
         'citation': 'TIB 16, M. Popović, 2016',
         'category': ['tib16']
     }]
 tib17 = [
     {
         'path': f'{path}stari_bar.jpg',
-        'description': 'The Old Town of Bar (Stari Bar), Montenegro ',
+        'description': 'The Old Town of Bar (Stari Bar), Montenegro',
         'citation': 'TIB 17, M. Popović, 2016',
         'category': ['tib17']
     }, {
         'path': f'{path}precista.jpg',
-        'description': 'The Church of Prečista Krajinska, Montenegro ',
+        'description': 'The Church of Prečista Krajinska, Montenegro',
         'citation': 'TIB 17, M. Popović, 2016',
         'category': ['tib17']
     }, {
         'path': f'{path}budva.jpg',
-        'description': 'The Old Town of Budva, Montenegro ',
+        'description': 'The Old Town of Budva, Montenegro',
         'citation': 'TIB 17, M. Popović, 2016',
         'category': ['tib17']
     }, {
         'path': f'{path}skadar.jpg',
-        'description': 'On the Shores of Lake Skadar, Montenegro ',
+        'description': 'On the Shores of Lake Skadar, Montenegro',
         'citation': 'TIB 17, M. Popović, 2016',
         'category': ['tib17']
     }]
 tib18 = [
     {
         'path': f'{path}kaunos.jpg',
-        'description': 'Kaunos and its Marshy Harbour ',
+        'description': 'Kaunos and its Marshy Harbour',
         'citation': 'TIB 8 und TIB 18, F. Hild, 1994',
         'category': ['tib18']
     }, {
         'path': f'{path}hekate.jpg',
-        'description': 'A Chapel made of Spolia in the Hekate-Sanctary of Lagina ',
+        'description': 'A Chapel made of Spolia in the Hekate-Sanctuary of Lagina',
         'citation': 'TIB 18, F. Hild, 2008',
         'category': ['tib18']
     }, {
         'path': f'{path}milet.jpg',
-        'description': 'Byzantine Fortress in the Theater of Milet ',
+        'description': 'Byzantine Fortress in the Theatre of Milet',
         'citation': 'TIB 18, F. Hild, 2010',
         'category': ['tib18']
     }]
@@ -166,7 +166,7 @@ montenegro = [
 borderzones = [
     {
         'path': f'{path}border_all.png',
-        'description': 'Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from different authors',
+        'description': 'Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from Different Authors',
         'citation': 'Bernhard Koschicek, 2018',
         'category': ['borderzones']
     }, {
@@ -176,7 +176,7 @@ borderzones = [
         'category': ['borderzones']
     }, {
         'path': f'{path}Marschroute_Abstract_cyrillic_km.png',
-        'description': 'Abtract road model from a k. u k. marching map with kilometers',
+        'description': 'Road Model based on a k. u k. Marching Map',
         'citation': 'Bernhard Koschicek, 2018',
         'category': ['borderzones']
     }]

@@ -1,17 +1,17 @@
 counter = {
     'tib_volumen': {
         'count': 13,
-        'description': 'TIB Volumina Published',
+        'description': 'TIB Volumes Published',
         'icon': 'bi-book-fill'
     },
     'tib_making': {
         'count': 5,
-        'description': 'TIB Volumina in Progress',
+        'description': 'TIB Volumes in Progress',
         'icon': 'bi-pencil-fill'
     },
     'article': {
         'count': 136,
-        'description': 'Article published since 2004',
+        'description': 'Articles published since 2004',
         'icon': 'bi-body-text'
     },
     'presentations': {
@@ -29,9 +29,9 @@ counter = {
         'description': 'and more pictures shot since 1966',
         'icon': 'bi-camera-fill'
     },
-    # 'travels': {
-    #     'count': 68,
-    #     'description': 'and more travels accomplished',
-    #     'icon': 'bi-send-fill'
-    # }
+    'travels': {
+        'count': 68,
+        'description': 'and more travels accomplished',
+        'icon': 'bi-send-fill'
+    }
 }

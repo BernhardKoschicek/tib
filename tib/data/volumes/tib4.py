@@ -19,13 +19,13 @@ tib4_table_data = [
  },
  {
    "Name": "Abdüsselâm Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "ʽAbqarsūn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -37,13 +37,13 @@ tib4_table_data = [
  },
  {
    "Name": "Abrostola",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Abrūmasnāna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -61,25 +61,25 @@ tib4_table_data = [
  },
  {
    "Name": "Acitoriciaco (-cum)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>,  A. 90, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>,  A. 90, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Adana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Adapera",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 102",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 102",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Adaras",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -97,7 +97,7 @@ tib4_table_data = [
  },
  {
    "Name": "Adrianupolis (Pisidien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -115,7 +115,7 @@ tib4_table_data = [
  },
  {
    "Name": "Afșar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -127,7 +127,7 @@ tib4_table_data = [
  },
  {
    "Name": "Agannia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -145,7 +145,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ägypten",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -175,13 +175,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ahmașık Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Nahr al-Aḥsāʼ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -199,7 +199,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aigilon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -223,7 +223,7 @@ tib4_table_data = [
  },
  {
    "Name": "Akarkus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -235,7 +235,7 @@ tib4_table_data = [
  },
  {
    "Name": "Akbaș Beli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -247,13 +247,13 @@ tib4_table_data = [
  },
  {
    "Name": "Akçaören",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Akçașar",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -265,7 +265,7 @@ tib4_table_data = [
  },
  {
    "Name": "Akçașehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -277,19 +277,19 @@ tib4_table_data = [
  },
  {
    "Name": "Akgöl, Ak Göl",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Akhan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Akkilise",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -307,7 +307,7 @@ tib4_table_data = [
  },
  {
    "Name": "Akköprüköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -325,7 +325,7 @@ tib4_table_data = [
  },
  {
    "Name": "Akörenkıșla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -337,13 +337,13 @@ tib4_table_data = [
  },
  {
    "Name": "Akrēna",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Akroinon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -355,13 +355,13 @@ tib4_table_data = [
  },
  {
    "Name": "Aksaray",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Akșehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -391,13 +391,13 @@ tib4_table_data = [
  },
  {
    "Name": "Akyurt",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Alaca",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -415,7 +415,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aladağ Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -439,7 +439,7 @@ tib4_table_data = [
  },
  {
    "Name": "al-ʽAlamain",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -475,7 +475,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aliassum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -487,7 +487,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aliçerçi",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -499,7 +499,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aligetēs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/167\" target=\"_blank\">167</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/167\" target=\"_blank\">167</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -517,13 +517,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ālis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ali Suması Dağ",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -541,25 +541,25 @@ tib4_table_data = [
  },
  {
    "Name": "Alpağut",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Alpu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Altınapa Han",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Altınekin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -589,7 +589,7 @@ tib4_table_data = [
  },
  {
    "Name": "Amaseia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -607,7 +607,7 @@ tib4_table_data = [
  },
  {
    "Name": "Amblada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -631,13 +631,13 @@ tib4_table_data = [
  },
  {
    "Name": "ʽAmmūrīya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Amorion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/70\" target=\"_blank\">70f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\"> 120</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122—125</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\"> 242f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\"> 120</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122—125</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\"> 242f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -679,25 +679,25 @@ tib4_table_data = [
  },
  {
    "Name": "Anamur (Isaurien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Anastasiupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Anatolikōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/72\" target=\"_blank\">72f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\"> 166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/72\" target=\"_blank\">72f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\"> 166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Anbar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -721,7 +721,7 @@ tib4_table_data = [
  },
  {
    "Name": "Andrapa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 3, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 3, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -751,7 +751,7 @@ tib4_table_data = [
  },
  {
    "Name": "Anemurion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -763,7 +763,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ankara",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171173\" target=\"_blank\">171.173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171173\" target=\"_blank\">171.173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -775,7 +775,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ankara Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -787,13 +787,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ankyra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126—130</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\"> 178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126—130</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\"> 178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "An(n)ia",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -823,13 +823,13 @@ tib4_table_data = [
  },
  {
    "Name": "Antiocheia (Pisidien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Antiocheia (Syrien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -841,37 +841,37 @@ tib4_table_data = [
  },
  {
    "Name": "Antitauros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Anzulada",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Apa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Apeu chōrion",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Aphrazeia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Aplatianais",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -895,7 +895,7 @@ tib4_table_data = [
  },
  {
    "Name": "(Wādī) ʽAqarqas",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -925,13 +925,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ara(u)nia",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Arayit Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -973,25 +973,25 @@ tib4_table_data = [
  },
  {
    "Name": "Arısama",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Arısama Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Arısama Yayla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Arkadiupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1003,13 +1003,13 @@ tib4_table_data = [
  },
  {
    "Name": "Armasun",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Armeniakōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1021,7 +1021,7 @@ tib4_table_data = [
  },
  {
    "Name": "Armenien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1033,7 +1033,7 @@ tib4_table_data = [
  },
  {
    "Name": "Arra",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a></b>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1057,7 +1057,7 @@ tib4_table_data = [
  },
  {
    "Name": "Arvana",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1075,7 +1075,7 @@ tib4_table_data = [
  },
  {
    "Name": "Așağı Piribeyli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1105,13 +1105,13 @@ tib4_table_data = [
  },
  {
    "Name": "Asia, Asien (Provinz)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ası Yozgat, Asıyozgat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1135,7 +1135,7 @@ tib4_table_data = [
  },
  {
    "Name": "Aspona, Aspōna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1159,13 +1159,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ateus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Atlantı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1183,7 +1183,7 @@ tib4_table_data = [
  },
  {
    "Name": "Attaleia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1213,13 +1213,13 @@ tib4_table_data = [
  },
  {
    "Name": "Avalama Yaylası",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Avdan Çiftliği (-ik)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1237,7 +1237,7 @@ tib4_table_data = [
  },
  {
    "Name": "Awlaws",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1249,7 +1249,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ayaș",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1279,7 +1279,7 @@ tib4_table_data = [
  },
  {
    "Name": "Azak",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1291,7 +1291,7 @@ tib4_table_data = [
  },
  {
    "Name": "Babadat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1303,7 +1303,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bacanak",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1333,19 +1333,19 @@ tib4_table_data = [
  },
  {
    "Name": "Bağırsakdere Boğazı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bağlıca (nw. von Amorion)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bağlıca (bei Nallıhan)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1363,7 +1363,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bagrum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1381,7 +1381,7 @@ tib4_table_data = [
  },
  {
    "Name": "Balâ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1393,13 +1393,13 @@ tib4_table_data = [
  },
  {
    "Name": "Balbadōna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Balçiçek Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1411,7 +1411,7 @@ tib4_table_data = [
  },
  {
    "Name": "Balgatia",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1423,7 +1423,7 @@ tib4_table_data = [
  },
  {
    "Name": "Balıkuyumcu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1435,7 +1435,7 @@ tib4_table_data = [
  },
  {
    "Name": "Balkan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1447,7 +1447,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ballıhisar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1471,13 +1471,13 @@ tib4_table_data = [
  },
  {
    "Name": "Barata",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>,  A. 68, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138—143</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\"> 157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>,  A. 68, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138—143</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\"> 157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Baratēnon Oros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1489,7 +1489,7 @@ tib4_table_data = [
  },
  {
    "Name": "Barathe",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1519,7 +1519,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bareta (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1543,7 +1543,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bașara Su(yu)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1555,7 +1555,7 @@ tib4_table_data = [
  },
  {
    "Name": "Baș Dağ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1567,7 +1567,7 @@ tib4_table_data = [
  },
  {
    "Name": "Basilaion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1585,13 +1585,13 @@ tib4_table_data = [
  },
  {
    "Name": "Bataklık Gölü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bathys Ryax",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1609,7 +1609,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bayındır",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1663,25 +1663,25 @@ tib4_table_data = [
  },
  {
    "Name": "Bērinupolis, Berinupolis (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Berinupolis, Bērinupolis (Lykaonien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beșağıl",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beșıșıklı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1735,25 +1735,25 @@ tib4_table_data = [
  },
  {
    "Name": "Beypazarı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beyșehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beyșehir Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beyșehir Gölü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "->Pusgusē Limnē",
    "Volume": "TIB 4"
  },
@@ -1765,13 +1765,13 @@ tib4_table_data = [
  },
  {
    "Name": "Beyșehir Suyu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Beyviran ( = Gölören)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1789,19 +1789,19 @@ tib4_table_data = [
  },
  {
    "Name": "Bidana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bilecik Kalesi",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Binbir Kilise",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1819,7 +1819,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bithynien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1849,13 +1849,13 @@ tib4_table_data = [
  },
  {
    "Name": "Boğazkale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Boğazköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1885,13 +1885,13 @@ tib4_table_data = [
  },
  {
    "Name": "Bolvadin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Boratinon Oros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145—148</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145—148</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1903,13 +1903,13 @@ tib4_table_data = [
  },
  {
    "Name": "Bosporos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bostandere",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1921,7 +1921,7 @@ tib4_table_data = [
  },
  {
    "Name": "Boz Dağ, Bozdağ (Lykaonien, n. bzw. ö)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1933,7 +1933,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bozkır",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1951,19 +1951,19 @@ tib4_table_data = [
  },
  {
    "Name": "Buğdaylı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Buğdaylı Kaleninbașı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Büğet",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1975,13 +1975,13 @@ tib4_table_data = [
  },
  {
    "Name": "Bukellariōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\"> 222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\"> 222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bulduk",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -1993,7 +1993,7 @@ tib4_table_data = [
  },
  {
    "Name": "Bulumya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2011,13 +2011,13 @@ tib4_table_data = [
  },
  {
    "Name": "al-Buqullār",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "(ʽAin, Ḥiṣn, ʽUyūn) Burġūṯ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2029,7 +2029,7 @@ tib4_table_data = [
  },
  {
    "Name": "Büyük Bıyık",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2071,7 +2071,7 @@ tib4_table_data = [
  },
  {
    "Name": "Büyüknefes",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2083,7 +2083,7 @@ tib4_table_data = [
  },
  {
    "Name": "Caballucome",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2095,19 +2095,19 @@ tib4_table_data = [
  },
  {
    "Name": "Çağa",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çakal",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çakırlar Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2131,7 +2131,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çandır Köprüsü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2143,7 +2143,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çankırı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2161,7 +2161,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çardakköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2173,7 +2173,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çarșamba Suyu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2191,13 +2191,13 @@ tib4_table_data = [
  },
  {
    "Name": "Çavuș",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çavuș Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2209,13 +2209,13 @@ tib4_table_data = [
  },
  {
    "Name": "Çayırhan",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çeltikçi (N-Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2239,7 +2239,7 @@ tib4_table_data = [
  },
  {
    "Name": "Cenaxem Palidem",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2257,13 +2257,13 @@ tib4_table_data = [
  },
  {
    "Name": "Çeșmelisebil",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çeșnigir Köprüsü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2281,25 +2281,25 @@ tib4_table_data = [
  },
  {
    "Name": "Chalkēdōn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Charsianon, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Charsianon, Turma",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Charsianu kastron",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2335,13 +2335,13 @@ tib4_table_data = [
  },
  {
    "Name": "Chrysopolis (Makedonien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Chrysopolis (Üsküdar)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2353,7 +2353,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çifteler",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2377,7 +2377,7 @@ tib4_table_data = [
  },
  {
    "Name": "Cinasınören",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2389,7 +2389,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çıralı Gölü",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2401,13 +2401,13 @@ tib4_table_data = [
  },
  {
    "Name": "Çoğlu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çoğu",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2419,19 +2419,19 @@ tib4_table_data = [
  },
  {
    "Name": "Çomar",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Comitanasso",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Congusso",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2485,19 +2485,19 @@ tib4_table_data = [
  },
  {
    "Name": "Çubuk Çayı bzw. Suyu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Çubuk Ovası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Cücük",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2509,7 +2509,7 @@ tib4_table_data = [
  },
  {
    "Name": "Çuluk",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2527,7 +2527,7 @@ tib4_table_data = [
  },
  {
    "Name": "Curveunta",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2539,7 +2539,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dabasa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2557,7 +2557,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dadastana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2569,13 +2569,13 @@ tib4_table_data = [
  },
  {
    "Name": "Dağ Gölü",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dağören",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2587,7 +2587,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dağpazarı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2611,13 +2611,13 @@ tib4_table_data = [
  },
  {
    "Name": "Daqalyās",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Darb ar-Rāhib",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2659,19 +2659,19 @@ tib4_table_data = [
  },
  {
    "Name": "Dedeikebir",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dedeler",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dedeli Yayla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2683,19 +2683,19 @@ tib4_table_data = [
  },
  {
    "Name": "Değirmenyolu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Değle",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/139\" target=\"_blank\">139</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/141\" target=\"_blank\">141f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/139\" target=\"_blank\">139</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/141\" target=\"_blank\">141f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Delemna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2707,7 +2707,7 @@ tib4_table_data = [
  },
  {
    "Name": "Deliler Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2737,13 +2737,13 @@ tib4_table_data = [
  },
  {
    "Name": "Demirözü ( = Ilıca Su)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Derbē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2773,7 +2773,7 @@ tib4_table_data = [
  },
  {
    "Name": "Devri Şehri",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2791,7 +2791,7 @@ tib4_table_data = [
  },
  {
    "Name": "Diakimelion",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2809,7 +2809,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dikilitaș",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2821,7 +2821,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dikmen (bei Anastasiupolis)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2833,13 +2833,13 @@ tib4_table_data = [
  },
  {
    "Name": "Dikmen Hüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dilimnia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2851,7 +2851,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dindymon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2875,7 +2875,7 @@ tib4_table_data = [
  },
  {
    "Name": "Dineksaray",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2893,7 +2893,7 @@ tib4_table_data = [
  },
  {
    "Name": "Diokaisareia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2935,13 +2935,13 @@ tib4_table_data = [
  },
  {
    "Name": "Divle",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Divle Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2965,19 +2965,19 @@ tib4_table_data = [
  },
  {
    "Name": "Dokimion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dokuzaltı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dokuzun Derbent Han",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -2995,13 +2995,13 @@ tib4_table_data = [
  },
  {
    "Name": "Dorylaion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>,  A. 113, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\"> 227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>,  A. 113, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\"> 227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Dryïnōn, Kl.",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3055,13 +3055,13 @@ tib4_table_data = [
  },
  {
    "Name": "Eccobriga",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ecobrogis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3079,7 +3079,7 @@ tib4_table_data = [
  },
  {
    "Name": "Egdava",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3103,49 +3103,49 @@ tib4_table_data = [
  },
  {
    "Name": "Elcik",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Elecik",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Elengirif Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Eli Kesik Han",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 51, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 51, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Elmadağ (Ort)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Elma Dağı (Berg)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Elmasun",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Emirdağ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3157,7 +3157,7 @@ tib4_table_data = [
  },
  {
    "Name": "Emirgazi (am Arısama Dağ)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3169,7 +3169,7 @@ tib4_table_data = [
  },
  {
    "Name": "Emir Gölü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3181,13 +3181,13 @@ tib4_table_data = [
  },
  {
    "Name": "Emirler",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Emremsultan",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3205,7 +3205,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ephesos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3217,37 +3217,37 @@ tib4_table_data = [
  },
  {
    "Name": "Ereğli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Erenkaya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Erenler Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>,  A. 141, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>,  A. 141, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ergobroteōs chōrion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ericek",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Erif",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3259,13 +3259,13 @@ tib4_table_data = [
  },
  {
    "Name": "Erkeksu Çiftliği",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ermenek",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3283,7 +3283,7 @@ tib4_table_data = [
  },
  {
    "Name": "Erzurum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3295,7 +3295,7 @@ tib4_table_data = [
  },
  {
    "Name": "Esereyrek Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3313,7 +3313,7 @@ tib4_table_data = [
  },
  {
    "Name": "Eskiil",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3331,19 +3331,19 @@ tib4_table_data = [
  },
  {
    "Name": "Eski Saray",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Eskișehir (Dorylaion)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Eskișehir (Iuliupolis)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3355,7 +3355,7 @@ tib4_table_data = [
  },
  {
    "Name": "Eskiyapar",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3379,13 +3379,13 @@ tib4_table_data = [
  },
  {
    "Name": "Eudokias",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Eudoxias",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3397,7 +3397,7 @@ tib4_table_data = [
  },
  {
    "Name": "Eukraōn chōrion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3409,7 +3409,7 @@ tib4_table_data = [
  },
  {
    "Name": "Euphrat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3427,13 +3427,13 @@ tib4_table_data = [
  },
  {
    "Name": "Evci (1)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Evci (2)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3445,7 +3445,7 @@ tib4_table_data = [
  },
  {
    "Name": "Eymir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3481,25 +3481,25 @@ tib4_table_data = [
  },
  {
    "Name": "Fakra Dağ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Falūmī",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "(Ḫirbat, Qaryat) Fāriṭa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Fasıllar",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3523,13 +3523,13 @@ tib4_table_data = [
  },
  {
    "Name": "Fines,",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Fines Ciliciae (für Galatiae)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3541,7 +3541,7 @@ tib4_table_data = [
  },
  {
    "Name": "Fisandon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3583,25 +3583,25 @@ tib4_table_data = [
  },
  {
    "Name": "Galatia I, II (politische Provinzen)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Galatia I, II (Kirchenprovinzen)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>,  A. 21, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/5\" target=\"_blank\">5</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>,  A. 21, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/5\" target=\"_blank\">5</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Galatia Salutaris, Salutaria ( = Galatia II)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Galatien (Landschaft)*",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3619,7 +3619,7 @@ tib4_table_data = [
  },
  {
    "Name": "Galea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3643,19 +3643,19 @@ tib4_table_data = [
  },
  {
    "Name": "Gallos, -us",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gangra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Garsaura",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3691,13 +3691,13 @@ tib4_table_data = [
  },
  {
    "Name": "Gdanmaa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/\" target=\"_blank\">,</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/\" target=\"_blank\">,</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gecek",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3715,7 +3715,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gene(köy)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3733,7 +3733,7 @@ tib4_table_data = [
  },
  {
    "Name": "Germa (kolōnia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/167\" target=\"_blank\">167f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/167\" target=\"_blank\">167f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3745,13 +3745,13 @@ tib4_table_data = [
  },
  {
    "Name": "Germanikeia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Germanikopolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3763,7 +3763,7 @@ tib4_table_data = [
  },
  {
    "Name": "Germia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166—168</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166—168</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3781,7 +3781,7 @@ tib4_table_data = [
  },
  {
    "Name": "Germokolōneia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3793,7 +3793,7 @@ tib4_table_data = [
  },
  {
    "Name": "Geyik Dağları",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3817,7 +3817,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gideriç",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3829,7 +3829,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gimir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3847,13 +3847,13 @@ tib4_table_data = [
  },
  {
    "Name": "Girmeç Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Girmir Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3889,7 +3889,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gödet",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3901,7 +3901,7 @@ tib4_table_data = [
  },
  {
    "Name": "Goēleōn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3931,7 +3931,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gökpznar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3943,13 +3943,13 @@ tib4_table_data = [
  },
  {
    "Name": "Göksu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gökyurt",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -3973,7 +3973,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gölören",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4003,13 +4003,13 @@ tib4_table_data = [
  },
  {
    "Name": "Gömü",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gorbeus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4021,7 +4021,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gordion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4045,13 +4045,13 @@ tib4_table_data = [
  },
  {
    "Name": "Göz Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gözlü",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4063,7 +4063,7 @@ tib4_table_data = [
  },
  {
    "Name": "Grentius",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4099,7 +4099,7 @@ tib4_table_data = [
  },
  {
    "Name": "Gümüșkonak",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4135,25 +4135,25 @@ tib4_table_data = [
  },
  {
    "Name": "Günyüzü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Gürağaç",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Güvenç",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Güzelcekale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>,  A. 134, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>,  A. 134, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4183,7 +4183,7 @@ tib4_table_data = [
  },
  {
    "Name": "H. Agapētos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4225,7 +4225,7 @@ tib4_table_data = [
  },
  {
    "Name": "Halys",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>,  A. 229, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\"> 191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>,  A. 229, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\"> 191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4237,7 +4237,7 @@ tib4_table_data = [
  },
  {
    "Name": "Hamamkarahisar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4285,25 +4285,25 @@ tib4_table_data = [
  },
  {
    "Name": "Harunlar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hasan Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hasanoğlan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ḥāsīn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4333,19 +4333,19 @@ tib4_table_data = [
  },
  {
    "Name": "Hatip Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ḫattuša",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hatunsaray",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4357,7 +4357,7 @@ tib4_table_data = [
  },
  {
    "Name": "al-Hawīya",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/247\" target=\"_blank\">247</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/247\" target=\"_blank\">247</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4369,7 +4369,7 @@ tib4_table_data = [
  },
  {
    "Name": "Haymana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4387,13 +4387,13 @@ tib4_table_data = [
  },
  {
    "Name": "Helenopolis, Helenupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hēliupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4411,13 +4411,13 @@ tib4_table_data = [
  },
  {
    "Name": "Hērakleia (Honōrias)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hērakleia (Kappadokien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\"> 243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\"> 243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4429,7 +4429,7 @@ tib4_table_data = [
  },
  {
    "Name": "Herkenli",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4441,25 +4441,25 @@ tib4_table_data = [
  },
  {
    "Name": "Hicronpotamum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Bilād al-Hidī (Hidā)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hieronpotamum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hieros flumen",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4471,13 +4471,13 @@ tib4_table_data = [
  },
  {
    "Name": "Hiraqla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hisar (Amorion)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4543,7 +4543,7 @@ tib4_table_data = [
  },
  {
    "Name": "Honōrias",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4561,13 +4561,13 @@ tib4_table_data = [
  },
  {
    "Name": "Hursunlu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Hüyük (Galatien)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4585,7 +4585,7 @@ tib4_table_data = [
  },
  {
    "Name": "Hydē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4597,7 +4597,7 @@ tib4_table_data = [
  },
  {
    "Name": "İbrala",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4639,7 +4639,7 @@ tib4_table_data = [
  },
  {
    "Name": "İkikilise",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4651,25 +4651,25 @@ tib4_table_data = [
  },
  {
    "Name": "İkizafer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ikonion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\"> 126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176—178</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\"> 126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176—178</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ikotarion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\">178f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ilgın",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4693,7 +4693,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ilıca Suyu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4711,7 +4711,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ilistra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4723,7 +4723,7 @@ tib4_table_data = [
  },
  {
    "Name": "İlyağut",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4741,7 +4741,7 @@ tib4_table_data = [
  },
  {
    "Name": "İnler",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4753,13 +4753,13 @@ tib4_table_data = [
  },
  {
    "Name": "İnsuyu",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Iōannes Baptistēs, Kl.",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4777,43 +4777,43 @@ tib4_table_data = [
  },
  {
    "Name": "Isamos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isaura Nea (nova)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isaura (Palaia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isaura ( = Isaura Palaia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isaura (Isauropolis)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isauria, Colonia Isauria (Isaura Palaia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Isaurien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4825,7 +4825,7 @@ tib4_table_data = [
  },
  {
    "Name": "Isauropolis (Isaura Nea)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4849,7 +4849,7 @@ tib4_table_data = [
  },
  {
    "Name": "İsmil",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4873,7 +4873,7 @@ tib4_table_data = [
  },
  {
    "Name": "İstanos",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4885,7 +4885,7 @@ tib4_table_data = [
  },
  {
    "Name": "Italien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4897,19 +4897,19 @@ tib4_table_data = [
  },
  {
    "Name": "Iuliupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\"> 228f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\"> 228f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Iustinianupolis (Pessinus)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Iustinianupolis (Spaleia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4933,7 +4933,7 @@ tib4_table_data = [
  },
  {
    "Name": "Jerusalem",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4945,13 +4945,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kabal(l)a",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kaborkion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -4975,7 +4975,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kaisareia (Kappadokien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5029,13 +5029,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kalebalta",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/183\" target=\"_blank\">183f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/183\" target=\"_blank\">183f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kalecik",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5059,7 +5059,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kaleköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5077,7 +5077,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kalippoi",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5089,25 +5089,25 @@ tib4_table_data = [
  },
  {
    "Name": "Kalmizēnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kalpinon, Kalpinu chōrion",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kalumnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kalykadnos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5143,7 +5143,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kan(n)a",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5155,13 +5155,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kappadokia, Kappadokōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kappadokien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/90\" target=\"_blank\">90f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\"> 111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\"> 111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5203,13 +5203,13 @@ tib4_table_data = [
  },
  {
    "Name": "Karaca Dağ (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karaca Dağ (Lykaonien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/234\" target=\"_blank\">234</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/234\" target=\"_blank\">234</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5233,13 +5233,13 @@ tib4_table_data = [
  },
  {
    "Name": "Karacaören (1)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karacaören (2)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5269,7 +5269,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kara Dağ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5287,7 +5287,7 @@ tib4_table_data = [
  },
  {
    "Name": "Karagedik",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5299,13 +5299,13 @@ tib4_table_data = [
  },
  {
    "Name": "Karahisar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karahüyük (nw. von Malos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5317,7 +5317,7 @@ tib4_table_data = [
  },
  {
    "Name": "Karahüyük (Midaion)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 105",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 105",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5353,25 +5353,25 @@ tib4_table_data = [
  },
  {
    "Name": "Karaman",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karanlı Kale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>,  A. 134, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>,  A. 134, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karaoğlan",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karapınar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5395,13 +5395,13 @@ tib4_table_data = [
  },
  {
    "Name": "Karavirankale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Karien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5467,7 +5467,7 @@ tib4_table_data = [
  },
  {
    "Name": "Katrancı (Galatien)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5479,7 +5479,7 @@ tib4_table_data = [
  },
  {
    "Name": "Katrancı Han",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5491,7 +5491,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kavak",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5533,19 +5533,19 @@ tib4_table_data = [
  },
  {
    "Name": "Kayı (w. von Mihalıççık)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kaymaz",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kayseri",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5575,7 +5575,7 @@ tib4_table_data = [
  },
  {
    "Name": "Keles Hüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 3, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 3, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5605,7 +5605,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kepeliboğaz",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5617,13 +5617,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kerasus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kerpiç",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5647,13 +5647,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kesikköprü (Dorf)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kesik Köprü (Brücke)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5665,13 +5665,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kestik Yayalası",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kesmez",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/234\" target=\"_blank\">234</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/234\" target=\"_blank\">234</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5689,7 +5689,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kibyrraiōtōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5701,19 +5701,19 @@ tib4_table_data = [
  },
  {
    "Name": "Kilikia Tracheia (Rauhes Kilikien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kilikien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\"> 242f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\"> 242f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kilikische Pforte",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5749,7 +5749,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kilistra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5767,7 +5767,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kin(n)a",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5797,7 +5797,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kırıkkale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5821,7 +5821,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kırșehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5839,7 +5839,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kıstıfan",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5857,13 +5857,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kızılca",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kızılcahamam",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5893,7 +5893,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kızıl Hisar (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5917,7 +5917,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kızıl Kale (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5941,7 +5941,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kızılören",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5959,19 +5959,19 @@ tib4_table_data = [
  },
  {
    "Name": "Klaneos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Klaudiupolis (Honōrias)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Klaudiupolis (Isaurien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5983,7 +5983,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kleinarmenien (Kilikien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -5995,19 +5995,19 @@ tib4_table_data = [
  },
  {
    "Name": "Klimaxinē",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Klōssamēnōn kōmē",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Koca Dere(si)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6025,7 +6025,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kodylēssos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6037,7 +6037,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kolōneia (Kappadokien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6049,31 +6049,31 @@ tib4_table_data = [
  },
  {
    "Name": "Kolonoson",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kolukısa",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Komana (Pontus)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kommata, Turma",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kōmodromos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6085,7 +6085,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kongustos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6109,7 +6109,7 @@ tib4_table_data = [
  },
  {
    "Name": "Konstantinopel (Kpl.)*",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\"> 118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\"> 118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6121,19 +6121,19 @@ tib4_table_data = [
  },
  {
    "Name": "Konya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Konya (Vilâyet)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Konya Ovası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6157,13 +6157,13 @@ tib4_table_data = [
  },
  {
    "Name": "Korna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Köroğlu Dağları",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6175,13 +6175,13 @@ tib4_table_data = [
  },
  {
    "Name": "Koropassos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Koropissos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6241,7 +6241,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kotyaeion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6259,7 +6259,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kozanlı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6277,7 +6277,7 @@ tib4_table_data = [
  },
  {
    "Name": "Krateia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6295,13 +6295,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kreta",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Krinteus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6313,7 +6313,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kriotauros",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6361,7 +6361,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kulak Murat Hanı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>,  A. 86, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>,  A. 86, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6379,13 +6379,13 @@ tib4_table_data = [
  },
  {
    "Name": "Kurșuncu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Kurșunlu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6397,7 +6397,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kurtlu Ören",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6415,7 +6415,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kuruçeșme Han",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6427,7 +6427,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kütahya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6439,7 +6439,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kutören, Kutviran",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/196\" target=\"_blank\">196</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6469,7 +6469,7 @@ tib4_table_data = [
  },
  {
    "Name": "Kybistra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6481,13 +6481,13 @@ tib4_table_data = [
  },
  {
    "Name": "Lâdik",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Lāḏīqiya, al-Lāḏiqīya al-Muḥtariqa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6499,13 +6499,13 @@ tib4_table_data = [
  },
  {
    "Name": "Lagan(e)ia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Lagantinē",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6529,13 +6529,13 @@ tib4_table_data = [
  },
  {
    "Name": "Laodikeio Katakekaumenē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Laodikeia (am Lykos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6553,7 +6553,7 @@ tib4_table_data = [
  },
  {
    "Name": "Laranda",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6583,7 +6583,7 @@ tib4_table_data = [
  },
  {
    "Name": "Lāṭa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6601,7 +6601,7 @@ tib4_table_data = [
  },
  {
    "Name": "Leontopolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198—200</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198—200</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6625,7 +6625,7 @@ tib4_table_data = [
  },
  {
    "Name": "Lōtinon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6637,7 +6637,7 @@ tib4_table_data = [
  },
  {
    "Name": "Luʼluʼa mit",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>,  A. 40",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>,  A. 40",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6655,13 +6655,13 @@ tib4_table_data = [
  },
  {
    "Name": "Lykaonia (politische Provinz)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Lykaonia (Kirchenprovinz)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6673,7 +6673,7 @@ tib4_table_data = [
  },
  {
    "Name": "Lykaonien (Landschaft)*",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6685,7 +6685,7 @@ tib4_table_data = [
  },
  {
    "Name": "Lykien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6697,19 +6697,19 @@ tib4_table_data = [
  },
  {
    "Name": "Lystra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mäander",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Macum Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6721,13 +6721,13 @@ tib4_table_data = [
  },
  {
    "Name": "Madenșehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/145\" target=\"_blank\">145f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/145\" target=\"_blank\">145f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Madenșehrikızıl Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6751,7 +6751,7 @@ tib4_table_data = [
  },
  {
    "Name": "Mahmutoğlan",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6763,37 +6763,37 @@ tib4_table_data = [
  },
  {
    "Name": "Malagurdalo, Malagurdis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Malaṭya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Malır Hüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Malogordis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Malos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Maltepe",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6823,7 +6823,7 @@ tib4_table_data = [
  },
  {
    "Name": "Manazan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6841,7 +6841,7 @@ tib4_table_data = [
  },
  {
    "Name": "Mantzikert",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6853,7 +6853,7 @@ tib4_table_data = [
  },
  {
    "Name": "Marğ aš-Šaḥm",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6865,7 +6865,7 @@ tib4_table_data = [
  },
  {
    "Name": "al-Maskanīn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6877,7 +6877,7 @@ tib4_table_data = [
  },
  {
    "Name": "al-Maṣṣīṣa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6931,13 +6931,13 @@ tib4_table_data = [
  },
  {
    "Name": "Mazamia",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mēdeia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6949,7 +6949,7 @@ tib4_table_data = [
  },
  {
    "Name": "Medosaga",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -6979,13 +6979,13 @@ tib4_table_data = [
  },
  {
    "Name": "Meki",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Melitēnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/70\" target=\"_blank\">70f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7009,7 +7009,7 @@ tib4_table_data = [
  },
  {
    "Name": "Mennek Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7033,7 +7033,7 @@ tib4_table_data = [
  },
  {
    "Name": "Mersin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7069,19 +7069,19 @@ tib4_table_data = [
  },
  {
    "Name": "Mesopotamien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mēstia, Mestia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mesudiye Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7093,7 +7093,7 @@ tib4_table_data = [
  },
  {
    "Name": "Mētropolis (Isaura Palaia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7117,13 +7117,13 @@ tib4_table_data = [
  },
  {
    "Name": "Midaion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mideo",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7141,13 +7141,13 @@ tib4_table_data = [
  },
  {
    "Name": "Mihalıççık",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mihalıç Dağı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7165,13 +7165,13 @@ tib4_table_data = [
  },
  {
    "Name": "Milia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mindana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7183,13 +7183,13 @@ tib4_table_data = [
  },
  {
    "Name": "Miskamos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mistheia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\"> 237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\"> 237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7207,19 +7207,19 @@ tib4_table_data = [
  },
  {
    "Name": "M-l-w-riya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mnēzinē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mnizos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7237,7 +7237,7 @@ tib4_table_data = [
  },
  {
    "Name": "Modicus mons",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7249,19 +7249,19 @@ tib4_table_data = [
  },
  {
    "Name": "Mōkissos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mopsuestia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mōrokampos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7291,13 +7291,13 @@ tib4_table_data = [
  },
  {
    "Name": "Murted Ovası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "->Murted Ovası",
    "Volume": "TIB 4"
  },
  {
    "Name": "Murted Ovası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7309,7 +7309,7 @@ tib4_table_data = [
  },
  {
    "Name": "Musabeyli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7321,13 +7321,13 @@ tib4_table_data = [
  },
  {
    "Name": "Musgē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/172\" target=\"_blank\">172</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Mut",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7345,7 +7345,7 @@ tib4_table_data = [
  },
  {
    "Name": "Myrikiōn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7357,7 +7357,7 @@ tib4_table_data = [
  },
  {
    "Name": "Myriokephalon (Galatien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7399,19 +7399,19 @@ tib4_table_data = [
  },
  {
    "Name": "Nakoleia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Nallıhan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Namusa",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7435,13 +7435,13 @@ tib4_table_data = [
  },
  {
    "Name": "an-Nāṭulūs, bilād Nāṭulūs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Nazianz(os)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7453,7 +7453,7 @@ tib4_table_data = [
  },
  {
    "Name": "Neokaisareia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7477,7 +7477,7 @@ tib4_table_data = [
  },
  {
    "Name": "Niğde",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/177\" target=\"_blank\">177</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7489,13 +7489,13 @@ tib4_table_data = [
  },
  {
    "Name": "Nikaia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/66\" target=\"_blank\">66f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Nikomēdeia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7513,31 +7513,31 @@ tib4_table_data = [
  },
  {
    "Name": "Nyssa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Obruk",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Obruk Han",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Odan Çiftliği",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Oğulbey",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7549,7 +7549,7 @@ tib4_table_data = [
  },
  {
    "Name": "Okla Han",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7567,7 +7567,7 @@ tib4_table_data = [
  },
  {
    "Name": "Olba",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7597,13 +7597,13 @@ tib4_table_data = [
  },
  {
    "Name": "Opsikion (Thema)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Opsō",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7615,7 +7615,7 @@ tib4_table_data = [
  },
  {
    "Name": "Orbana",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7627,7 +7627,7 @@ tib4_table_data = [
  },
  {
    "Name": "Örencik",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7639,7 +7639,7 @@ tib4_table_data = [
  },
  {
    "Name": "Orkistos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7669,19 +7669,19 @@ tib4_table_data = [
  },
  {
    "Name": "Ortaköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ortakuyu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Osiēna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7693,13 +7693,13 @@ tib4_table_data = [
  },
  {
    "Name": "Ova Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Oyaca",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7729,7 +7729,7 @@ tib4_table_data = [
  },
  {
    "Name": "Palästina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7741,13 +7741,13 @@ tib4_table_data = [
  },
  {
    "Name": "Pamphylien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pankaleia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>,  A. 182, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>,  A. 182, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7759,19 +7759,19 @@ tib4_table_data = [
  },
  {
    "Name": "Paphlagonia (Thema)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Paphlagonien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pappa (Tiberiupolis)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7789,13 +7789,13 @@ tib4_table_data = [
  },
  {
    "Name": "Parlasan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Parnassos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7819,13 +7819,13 @@ tib4_table_data = [
  },
  {
    "Name": "Pazukōmē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pegella",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7837,7 +7837,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pēion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7855,7 +7855,7 @@ tib4_table_data = [
  },
  {
    "Name": "Peōn chōrion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7879,7 +7879,7 @@ tib4_table_data = [
  },
  {
    "Name": "Perli Çiftlik",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7903,13 +7903,13 @@ tib4_table_data = [
  },
  {
    "Name": "Perta",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/210\" target=\"_blank\">210</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pes(s)inus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 104, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\"> 150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>,  A. 77, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>,  A. 104, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\"> 150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7927,7 +7927,7 @@ tib4_table_data = [
  },
  {
    "Name": "Petobrogen",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7945,7 +7945,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pexari",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7963,13 +7963,13 @@ tib4_table_data = [
  },
  {
    "Name": "Philippoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/128\" target=\"_blank\">128</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Philomēlion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 41, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 41, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -7987,13 +7987,13 @@ tib4_table_data = [
  },
  {
    "Name": "Phrygia Salutaris (Satutaria)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/61\" target=\"_blank\">61</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Phrygien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/41\" target=\"_blank\">41</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8005,7 +8005,7 @@ tib4_table_data = [
  },
  {
    "Name": "Phylē",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8023,7 +8023,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pidron (-os)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/215\" target=\"_blank\">215f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/215\" target=\"_blank\">215f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8041,13 +8041,13 @@ tib4_table_data = [
  },
  {
    "Name": "Pisidien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pissia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8059,7 +8059,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pitanissos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8077,7 +8077,7 @@ tib4_table_data = [
  },
  {
    "Name": "Podandos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8089,13 +8089,13 @@ tib4_table_data = [
  },
  {
    "Name": "Polybōtos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/152\" target=\"_blank\">152</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pompēiupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8107,7 +8107,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pontos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8125,13 +8125,13 @@ tib4_table_data = [
  },
  {
    "Name": "Porsuk Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Posala",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8143,7 +8143,7 @@ tib4_table_data = [
  },
  {
    "Name": "Prasmon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8155,13 +8155,13 @@ tib4_table_data = [
  },
  {
    "Name": "Prōtomeria",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Psibēla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8191,7 +8191,7 @@ tib4_table_data = [
  },
  {
    "Name": "Pusgusē Limnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8203,19 +8203,19 @@ tib4_table_data = [
  },
  {
    "Name": "Pyrgoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Pyrgos (zwischen Ikonion u. Sauatra)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "al-Qabāḏuk",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8227,7 +8227,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ḥiṣn Qanna",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8239,13 +8239,13 @@ tib4_table_data = [
  },
  {
    "Name": "Qūniya ( = Ikonion)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Qūniya (Kappadokien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8263,7 +8263,7 @@ tib4_table_data = [
  },
  {
    "Name": "Raʼs al-Ġāba",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/139\" target=\"_blank\">139</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/139\" target=\"_blank\">139</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8275,7 +8275,7 @@ tib4_table_data = [
  },
  {
    "Name": "Ravli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8317,7 +8317,7 @@ tib4_table_data = [
  },
  {
    "Name": "Rēginon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/218\" target=\"_blank\">218</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8353,7 +8353,7 @@ tib4_table_data = [
  },
  {
    "Name": "Rosolodiaco",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/120\" target=\"_blank\">120</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/219\" target=\"_blank\">219</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8401,13 +8401,13 @@ tib4_table_data = [
  },
  {
    "Name": "Sabatra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Saçak Dere",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8425,13 +8425,13 @@ tib4_table_data = [
  },
  {
    "Name": "Sadettin Hanı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ṣāġarī nahr ʽAmmūrīya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8461,13 +8461,13 @@ tib4_table_data = [
  },
  {
    "Name": "Sakarya Nehri",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Salaberina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 58, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 58, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8479,7 +8479,7 @@ tib4_table_data = [
  },
  {
    "Name": "Salarama",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8497,7 +8497,7 @@ tib4_table_data = [
  },
  {
    "Name": "Salimia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8515,7 +8515,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sāmarrā",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8545,7 +8545,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sangarios",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/56\" target=\"_blank\">56f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>,  A. 252, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\"> 150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/56\" target=\"_blank\">56f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>,  A. 252, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\"> 150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8557,13 +8557,13 @@ tib4_table_data = [
  },
  {
    "Name": "Saniana (Turma bzw. Festung)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Santabaris",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8599,7 +8599,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sarayönü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8647,7 +8647,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sarılar Köprüsü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/18\" target=\"_blank\">18lf.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/18\" target=\"_blank\">18lf.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8659,13 +8659,13 @@ tib4_table_data = [
  },
  {
    "Name": "Sarıyar-Stausee",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sarmalius",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8677,7 +8677,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sarvenis(ni)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/71\" target=\"_blank\">71</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8695,13 +8695,13 @@ tib4_table_data = [
  },
  {
    "Name": "Sauatra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Schwarzes Meer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8719,7 +8719,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sebasteia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8749,13 +8749,13 @@ tib4_table_data = [
  },
  {
    "Name": "Şedithüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sedkașı Kale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8767,19 +8767,19 @@ tib4_table_data = [
  },
  {
    "Name": "Sekalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Seleukeia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Seleukeia (Thema bzw. Kleisura)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8797,7 +8797,7 @@ tib4_table_data = [
  },
  {
    "Name": "Selmea",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8833,13 +8833,13 @@ tib4_table_data = [
  },
  {
    "Name": "Senzusa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Şereflikoçhisar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8851,7 +8851,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sertavul Geçidi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8875,7 +8875,7 @@ tib4_table_data = [
  },
  {
    "Name": "Seydișehir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8899,7 +8899,7 @@ tib4_table_data = [
  },
  {
    "Name": "Siberis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/202\" target=\"_blank\">202f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8923,7 +8923,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sidē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8935,7 +8935,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sidrīya",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/157\" target=\"_blank\">157</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8959,7 +8959,7 @@ tib4_table_data = [
  },
  {
    "Name": "Silifke",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -8989,7 +8989,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sillē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/183\" target=\"_blank\">183</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9001,7 +9001,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sinōpē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/199\" target=\"_blank\">199</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9013,37 +9013,37 @@ tib4_table_data = [
  },
  {
    "Name": "Siristat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/225\" target=\"_blank\">225</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sirkeli",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sivas",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sivrihisar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sivrihisar Dağları",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sizilien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9061,13 +9061,13 @@ tib4_table_data = [
  },
  {
    "Name": "Skopas",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/121\" target=\"_blank\">121</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Skudris chōrion",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9115,7 +9115,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sorobon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9133,19 +9133,19 @@ tib4_table_data = [
  },
  {
    "Name": "Sōzopetra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Sōzopolis (Pisidien)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Spaleia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/227\" target=\"_blank\">227</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9169,19 +9169,19 @@ tib4_table_data = [
  },
  {
    "Name": "Stancona",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Stauros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Staurupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9193,7 +9193,7 @@ tib4_table_data = [
  },
  {
    "Name": "Suğla Gölü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/44\" target=\"_blank\">44</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "->Trōgitis Limnē",
    "Volume": "TIB 4"
  },
@@ -9205,7 +9205,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sultan Dağları",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9247,7 +9247,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sungurlu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9259,7 +9259,7 @@ tib4_table_data = [
  },
  {
    "Name": "Sykeōn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>,  A. 92, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/228\" target=\"_blank\">228f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>,  A. 92, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/125\" target=\"_blank\">125</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/228\" target=\"_blank\">228f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9283,25 +9283,25 @@ tib4_table_data = [
  },
  {
    "Name": "Synodia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Syrien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/48\" target=\"_blank\">48</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tabanlıoğlu Kale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tabia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\"> 193</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9319,7 +9319,7 @@ tib4_table_data = [
  },
  {
    "Name": "Taburoğlu Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9331,7 +9331,7 @@ tib4_table_data = [
  },
  {
    "Name": "Taiba",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9343,7 +9343,7 @@ tib4_table_data = [
  },
  {
    "Name": "Taina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/62\" target=\"_blank\">62</a>,  A. 132, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9379,7 +9379,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tarsos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9397,13 +9397,13 @@ tib4_table_data = [
  },
  {
    "Name": "Taspa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tatta Limnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/216\" target=\"_blank\">216</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9415,13 +9415,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tauros, Taurus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/52\" target=\"_blank\">52f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\"> 180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\"> 180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/197\" target=\"_blank\">197f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tautaendia-Brücke",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9433,13 +9433,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tavium",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tavșancı Köprüsü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9457,7 +9457,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tekeli Dağ",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9475,7 +9475,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tembros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9505,7 +9505,7 @@ tib4_table_data = [
  },
  {
    "Name": "Terme Çayı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9517,7 +9517,7 @@ tib4_table_data = [
  },
  {
    "Name": "Thēbasa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232—234</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/46\" target=\"_blank\">46</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232—234</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9535,7 +9535,7 @@ tib4_table_data = [
  },
  {
    "Name": "Theotokos Spēlaiōtissa",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/234\" target=\"_blank\">234f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9565,7 +9565,7 @@ tib4_table_data = [
  },
  {
    "Name": "Thrakēsiōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/42\" target=\"_blank\">42</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9583,7 +9583,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tibassada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9595,7 +9595,7 @@ tib4_table_data = [
  },
  {
    "Name": "Timios Stauros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9613,13 +9613,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tiske",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/235\" target=\"_blank\">235f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/235\" target=\"_blank\">235f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Toğray",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9643,7 +9643,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tolastochora",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9661,13 +9661,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tont Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Topaklı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/236\" target=\"_blank\">236</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9679,7 +9679,7 @@ tib4_table_data = [
  },
  {
    "Name": "Toprakkale",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/223\" target=\"_blank\">223</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9691,7 +9691,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tosun Hüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9703,13 +9703,13 @@ tib4_table_data = [
  },
  {
    "Name": "Trans Monte",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tra(n)s Mon(tem)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9727,13 +9727,13 @@ tib4_table_data = [
  },
  {
    "Name": "T-rayūn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tricomia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9757,13 +9757,13 @@ tib4_table_data = [
  },
  {
    "Name": "Trōgitis Limnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Troknada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9793,7 +9793,7 @@ tib4_table_data = [
  },
  {
    "Name": "Turgut",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9811,7 +9811,7 @@ tib4_table_data = [
  },
  {
    "Name": "Türkmenköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9835,7 +9835,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tutup Beli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/149\" target=\"_blank\">149</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9847,13 +9847,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tuz Gölü (Großer Salzsee)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/47\" target=\"_blank\">47</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/47\" target=\"_blank\">47</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tyana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/138\" target=\"_blank\">138</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9865,7 +9865,7 @@ tib4_table_data = [
  },
  {
    "Name": "Tyraion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9877,13 +9877,13 @@ tib4_table_data = [
  },
  {
    "Name": "Tzibrēlitzēmani",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Tzumpu-Brücke",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9901,19 +9901,19 @@ tib4_table_data = [
  },
  {
    "Name": "Uasada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/237\" target=\"_blank\">237</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Uasoda",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Ubinnaca",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9931,7 +9931,7 @@ tib4_table_data = [
  },
  {
    "Name": "Üçharman",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -9949,7 +9949,7 @@ tib4_table_data = [
  },
  {
    "Name": "Uetapa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/159\" target=\"_blank\">159</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10009,7 +10009,7 @@ tib4_table_data = [
  },
  {
    "Name": "Umanada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/122\" target=\"_blank\">122</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10021,7 +10021,7 @@ tib4_table_data = [
  },
  {
    "Name": "Üskerles",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10051,7 +10051,7 @@ tib4_table_data = [
  },
  {
    "Name": "Uzara",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/241\" target=\"_blank\">241</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10081,31 +10081,31 @@ tib4_table_data = [
  },
  {
    "Name": "Veletler",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/97\" target=\"_blank\">97</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/213\" target=\"_blank\">213</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Vetisso",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Vindia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Virancık",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/187\" target=\"_blank\">187</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Wādī Ḏimārī",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10117,7 +10117,7 @@ tib4_table_data = [
  },
  {
    "Name": "Wādī l-Ğauz",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/212\" target=\"_blank\">212</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242f.</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10129,7 +10129,7 @@ tib4_table_data = [
  },
  {
    "Name": "Waliya-See",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/99\" target=\"_blank\">99</a>,  A. 52, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10147,13 +10147,13 @@ tib4_table_data = [
  },
  {
    "Name": "Yağlıbayat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/222\" target=\"_blank\">222f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/222\" target=\"_blank\">222f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Yahșıhan",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>,  A. 97, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>,  A. 97, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10165,7 +10165,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yalıncak",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/130\" target=\"_blank\">130</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10183,19 +10183,19 @@ tib4_table_data = [
  },
  {
    "Name": "Yarașlı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/243\" target=\"_blank\">243</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Yassıhüyük",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Yassıören",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10249,7 +10249,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yelkalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/156\" target=\"_blank\">156</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10285,7 +10285,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yerköy",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/39\" target=\"_blank\">39</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/43\" target=\"_blank\">43</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10297,7 +10297,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yeșildere Yayla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/134\" target=\"_blank\">134</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10339,7 +10339,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yozgat",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/229\" target=\"_blank\">229f.</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10357,7 +10357,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yukarı Çavundur",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10375,7 +10375,7 @@ tib4_table_data = [
  },
  {
    "Name": "Yunuslar",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10387,13 +10387,13 @@ tib4_table_data = [
  },
  {
    "Name": "Yürme",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/170\" target=\"_blank\">170</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Yüzükbașı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10429,13 +10429,13 @@ tib4_table_data = [
  },
  {
    "Name": "Zengen",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/244\" target=\"_blank\">244</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Zengibar Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/198\" target=\"_blank\">198</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10447,7 +10447,7 @@ tib4_table_data = [
  },
  {
    "Name": "Zengicek Kalesi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/245\" target=\"_blank\">245</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10459,7 +10459,7 @@ tib4_table_data = [
  },
  {
    "Name": "Zincirli Han",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10477,7 +10477,7 @@ tib4_table_data = [
  },
  {
    "Name": "Zıvarık",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/153\" target=\"_blank\">153</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10495,13 +10495,13 @@ tib4_table_data = [
  },
  {
    "Name": "Zompē-Brücke",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 4"
  },
  {
    "Name": "Zompu-Brücke",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>,  A. 252, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/74\" target=\"_blank\">74</a>,  A. 252, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },
@@ -10519,7 +10519,7 @@ tib4_table_data = [
  },
  {
    "Name": "Zulmandarhanı",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib4.html#page/246\" target=\"_blank\">246</a></b>",
    "Notes": "",
    "Volume": "TIB 4"
  },

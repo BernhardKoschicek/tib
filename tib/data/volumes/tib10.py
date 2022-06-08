@@ -13,7 +13,7 @@ tib10_table_data = [
  },
  {
    "Name": "Abidi ostium",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -25,13 +25,13 @@ tib10_table_data = [
  },
  {
    "Name": "Absonensis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Abydos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -49,7 +49,7 @@ tib10_table_data = [
  },
  {
    "Name": "Achaia, Provinz",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -85,7 +85,7 @@ tib10_table_data = [
  },
  {
    "Name": "Achilli-Bucht (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -103,7 +103,7 @@ tib10_table_data = [
  },
  {
    "Name": "Achladi (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -115,7 +115,7 @@ tib10_table_data = [
  },
  {
    "Name": "Achyrōnas (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -151,7 +151,7 @@ tib10_table_data = [
  },
  {
    "Name": "Aegaeum mare",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -175,7 +175,7 @@ tib10_table_data = [
  },
  {
    "Name": "Aex, kleine Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -199,7 +199,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ägäis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -259,7 +259,7 @@ tib10_table_data = [
  },
  {
    "Name": "Agra (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -301,7 +301,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ägypten",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -337,13 +337,13 @@ tib10_table_data = [
  },
  {
    "Name": "Aigaion",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 2",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 2",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aigaion pelagos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -355,13 +355,13 @@ tib10_table_data = [
  },
  {
    "Name": "Aigaion Pelagos, Stratege des",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aigaion Pelagos, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79u.</a>,  A. 79f., <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79u.</a>,  A. 79f., <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -379,19 +379,19 @@ tib10_table_data = [
  },
  {
    "Name": "Aigaiopelagus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aigaios, kolpos bzw. pontos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aigaiu pelagus eparchia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -403,13 +403,13 @@ tib10_table_data = [
  },
  {
    "Name": "Aigialōn, Lesbu, Tenedu, Poroselēnēs kai Aigialōn, Kirchensprengel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aigina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -439,7 +439,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ainos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -511,7 +511,7 @@ tib10_table_data = [
  },
  {
    "Name": "Akronēsia (Basilika, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -523,19 +523,19 @@ tib10_table_data = [
  },
  {
    "Name": "Akrōtēri (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Akrotēri, Kap (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aktē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -577,19 +577,19 @@ tib10_table_data = [
  },
  {
    "Name": "Alexandreia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Alexandros (1) (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Alexandros (2) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -619,7 +619,7 @@ tib10_table_data = [
  },
  {
    "Name": "Alexopyrgos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -679,7 +679,7 @@ tib10_table_data = [
  },
  {
    "Name": "Alt -Phōkaia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -703,7 +703,7 @@ tib10_table_data = [
  },
  {
    "Name": "Amades (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -745,7 +745,7 @@ tib10_table_data = [
  },
  {
    "Name": "Amistà, porto d’ (Mesta, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -763,7 +763,7 @@ tib10_table_data = [
  },
  {
    "Name": "Amolgos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -781,7 +781,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ampelikōn (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -817,13 +817,13 @@ tib10_table_data = [
  },
  {
    "Name": "Anabalsa (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Anabatos (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -859,13 +859,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Anargyroi (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Anargyroi (Chios [Stadt])",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -907,7 +907,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Anastasia (Pasa Limani, Mesta, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -937,7 +937,7 @@ tib10_table_data = [
  },
  {
    "Name": "Anastasium (Thasos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -961,13 +961,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Andreas (1) (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Andreas (2), Insel (bei Tenedos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1021,7 +1021,7 @@ tib10_table_data = [
  },
  {
    "Name": "Andros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1033,7 +1033,7 @@ tib10_table_data = [
  },
  {
    "Name": "Anemotia (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1045,7 +1045,7 @@ tib10_table_data = [
  },
  {
    "Name": "Angelos (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1111,13 +1111,13 @@ tib10_table_data = [
  },
  {
    "Name": "Anō Chōrion (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Anō Karyōtēs (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1129,7 +1129,7 @@ tib10_table_data = [
  },
  {
    "Name": "Anōthen Maurikas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1159,7 +1159,7 @@ tib10_table_data = [
  },
  {
    "Name": "Antissa (Telōnia, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1189,7 +1189,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Antōnios (Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1219,7 +1219,7 @@ tib10_table_data = [
  },
  {
    "Name": "Antriōtēs, Antriōtē tu (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1237,19 +1237,19 @@ tib10_table_data = [
  },
  {
    "Name": "Apanomeria",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Apanomorea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Apanōmorea (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1267,13 +1267,13 @@ tib10_table_data = [
  },
  {
    "Name": "Apatzēnē (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Apatzini (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1291,7 +1291,7 @@ tib10_table_data = [
  },
  {
    "Name": "Aphalōn",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1303,7 +1303,7 @@ tib10_table_data = [
  },
  {
    "Name": "Apia (Skyros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1327,7 +1327,7 @@ tib10_table_data = [
  },
  {
    "Name": "Apokephalistrea (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1339,7 +1339,7 @@ tib10_table_data = [
  },
  {
    "Name": "Apolichnoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1363,7 +1363,7 @@ tib10_table_data = [
  },
  {
    "Name": "Apolychno (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1405,7 +1405,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Apostoloi (Pyrgi, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1423,13 +1423,13 @@ tib10_table_data = [
  },
  {
    "Name": "Apothēkai (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Apothēkai (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1441,7 +1441,7 @@ tib10_table_data = [
  },
  {
    "Name": "Appolichnos (irrtümlich mit Bolissos in Verbindung gebracht)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1465,7 +1465,7 @@ tib10_table_data = [
  },
  {
    "Name": "Archangeloi, Kl. (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1609,7 +1609,7 @@ tib10_table_data = [
  },
  {
    "Name": "Archipel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1627,25 +1627,25 @@ tib10_table_data = [
  },
  {
    "Name": "Archipelagus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Archipel, Herzogtum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Archistratēgos (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/130\" target=\"_blank\">130</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/130\" target=\"_blank\">130</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Archistratēgos tōn anō dynameōn, Kl. (Pterin, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1705,7 +1705,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ardeiai (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/130\" target=\"_blank\">130f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/130\" target=\"_blank\">130f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1723,13 +1723,13 @@ tib10_table_data = [
  },
  {
    "Name": "Areiana (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Arenon (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1765,19 +1765,19 @@ tib10_table_data = [
  },
  {
    "Name": "Arisbē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Arisoensis episcopus (Eressos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aristai, Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1795,7 +1795,7 @@ tib10_table_data = [
  },
  {
    "Name": "Armeria civitas (Harmolia, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1813,7 +1813,7 @@ tib10_table_data = [
  },
  {
    "Name": "Armolia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1831,7 +1831,7 @@ tib10_table_data = [
  },
  {
    "Name": "Arsysia, Insel (bei Psara)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1873,7 +1873,7 @@ tib10_table_data = [
  },
  {
    "Name": "Asia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1903,7 +1903,7 @@ tib10_table_data = [
  },
  {
    "Name": "Asien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1915,7 +1915,7 @@ tib10_table_data = [
  },
  {
    "Name": "Asōmatos (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1939,13 +1939,13 @@ tib10_table_data = [
  },
  {
    "Name": "Aspus (Skyros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Assio",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1957,7 +1957,7 @@ tib10_table_data = [
  },
  {
    "Name": "Assos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -1993,13 +1993,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Athanasios (1) (Neoi)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Athanasios (2) (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 20, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 20, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2035,37 +2035,37 @@ tib10_table_data = [
  },
  {
    "Name": "H. Athanasios (Neokastron, Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Athen",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Athōs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Athōs-Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Athōs-Klöster",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Athōs-Metochia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2083,7 +2083,7 @@ tib10_table_data = [
  },
  {
    "Name": "Atsitsa (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2101,7 +2101,7 @@ tib10_table_data = [
  },
  {
    "Name": "Attika",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2119,19 +2119,19 @@ tib10_table_data = [
  },
  {
    "Name": "Atzipas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Atzykē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Audelai (Gyrismata, Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2143,7 +2143,7 @@ tib10_table_data = [
  },
  {
    "Name": "Augōnyma (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2233,13 +2233,13 @@ tib10_table_data = [
  },
  {
    "Name": "Ayazma (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Aydin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2281,7 +2281,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ayvalık",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2329,13 +2329,13 @@ tib10_table_data = [
  },
  {
    "Name": "Balaxa, Insel (bei Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Balē tu Mpustu (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2353,7 +2353,7 @@ tib10_table_data = [
  },
  {
    "Name": "Balkanhalbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2377,7 +2377,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bapheion (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2419,13 +2419,13 @@ tib10_table_data = [
  },
  {
    "Name": "Barbasi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Barbassio, Fluß (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2455,7 +2455,7 @@ tib10_table_data = [
  },
  {
    "Name": "Baria (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2467,13 +2467,13 @@ tib10_table_data = [
  },
  {
    "Name": "Barnaritēs (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Baros (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2503,7 +2503,7 @@ tib10_table_data = [
  },
  {
    "Name": "Basilika (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2521,7 +2521,7 @@ tib10_table_data = [
  },
  {
    "Name": "Basilikon Peribolin (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2533,7 +2533,7 @@ tib10_table_data = [
  },
  {
    "Name": "Basilōniko (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2545,7 +2545,7 @@ tib10_table_data = [
  },
  {
    "Name": "Batheia Potamia (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/130\" target=\"_blank\">130</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/130\" target=\"_blank\">130</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2575,13 +2575,13 @@ tib10_table_data = [
  },
  {
    "Name": "Batopedi, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Batusa (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2635,13 +2635,13 @@ tib10_table_data = [
  },
  {
    "Name": "Belosano, Fluß (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Benetias Kampos (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2659,13 +2659,13 @@ tib10_table_data = [
  },
  {
    "Name": "Berberaton (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Berbinos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2695,13 +2695,13 @@ tib10_table_data = [
  },
  {
    "Name": "Bessa (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Bestarchato (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2731,13 +2731,13 @@ tib10_table_data = [
  },
  {
    "Name": "Bikoi (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Biktōra (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2749,7 +2749,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bissinon (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2785,13 +2785,13 @@ tib10_table_data = [
  },
  {
    "Name": "Blēcha (ta) (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Blichada (Skyros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2821,7 +2821,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bokolina (Skyros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2839,7 +2839,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bolissos (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2857,7 +2857,7 @@ tib10_table_data = [
  },
  {
    "Name": "Boreios potamos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 23, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 23, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2869,7 +2869,7 @@ tib10_table_data = [
  },
  {
    "Name": "Borios potamos (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 23, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 23, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2887,7 +2887,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bosporos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2911,13 +2911,13 @@ tib10_table_data = [
  },
  {
    "Name": "Bozcaada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Boz Papas (Insel Neoi/H. Eustratios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2929,19 +2929,19 @@ tib10_table_data = [
  },
  {
    "Name": "Briokastron (Hebraiokastron, Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Briokastron (Konteas, SW-Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Brisa (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2959,7 +2959,7 @@ tib10_table_data = [
  },
  {
    "Name": "Brontados (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -2989,7 +2989,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bubarēs, Fluß (Pyrra, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3013,7 +3013,7 @@ tib10_table_data = [
  },
  {
    "Name": "Bulgarēs, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3025,19 +3025,19 @@ tib10_table_data = [
  },
  {
    "Name": "Buneada (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Buno (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Buno (Kochylas-Geb., Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3067,7 +3067,7 @@ tib10_table_data = [
  },
  {
    "Name": "Burkos, Kl. (H. Theodōroi, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3097,7 +3097,7 @@ tib10_table_data = [
  },
  {
    "Name": "Cachino",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3127,7 +3127,7 @@ tib10_table_data = [
  },
  {
    "Name": "Calamasia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3139,7 +3139,7 @@ tib10_table_data = [
  },
  {
    "Name": "Calarnoti",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3169,7 +3169,7 @@ tib10_table_data = [
  },
  {
    "Name": "Calicha (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3181,7 +3181,7 @@ tib10_table_data = [
  },
  {
    "Name": "Calirachium (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3199,7 +3199,7 @@ tib10_table_data = [
  },
  {
    "Name": "Caloni, colfo",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3235,7 +3235,7 @@ tib10_table_data = [
  },
  {
    "Name": "Camere (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3247,7 +3247,7 @@ tib10_table_data = [
  },
  {
    "Name": "Campo (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3349,7 +3349,7 @@ tib10_table_data = [
  },
  {
    "Name": "Cardiacon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3373,7 +3373,7 @@ tib10_table_data = [
  },
  {
    "Name": "Carii (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3391,7 +3391,7 @@ tib10_table_data = [
  },
  {
    "Name": "Carlim",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3475,25 +3475,25 @@ tib10_table_data = [
  },
  {
    "Name": "Catomerea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Catomeria",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/191\" target=\"_blank\">191f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/239\" target=\"_blank\">239</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/191\" target=\"_blank\">191f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/239\" target=\"_blank\">239</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Catomorea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Cattomeria",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3511,7 +3511,7 @@ tib10_table_data = [
  },
  {
    "Name": "Çayır su (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3523,7 +3523,7 @@ tib10_table_data = [
  },
  {
    "Name": "Çeșme (Kissos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3541,13 +3541,13 @@ tib10_table_data = [
  },
  {
    "Name": "Chalandra (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chalantras, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3559,7 +3559,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chalazusia (Plōmari [1], Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3577,7 +3577,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chalikas (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3589,7 +3589,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chalinadu (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>,  A. 70,  A. 54, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>,  A. 70,  A. 54, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3607,19 +3607,19 @@ tib10_table_data = [
  },
  {
    "Name": "Chalkeios (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chalkidikē, Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chalkis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3703,7 +3703,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chidera, Chidēra",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3757,7 +3757,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chinarum (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3769,25 +3769,25 @@ tib10_table_data = [
  },
  {
    "Name": "Chios",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chiopolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chios (Insel)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79u.</a>,  A. 80, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/64\" target=\"_blank\"> 64u.</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143—150</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79u.</a>,  A. 80, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\"> 64u.</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143—150</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Chios (Stadt)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/18\" target=\"_blank\">18</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\"> 143</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150—153</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/18\" target=\"_blank\">18</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\"> 143</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150—153</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3823,7 +3823,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chius",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3859,7 +3859,7 @@ tib10_table_data = [
  },
  {
    "Name": "Chōra (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/153\" target=\"_blank\">153f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3901,7 +3901,7 @@ tib10_table_data = [
  },
  {
    "Name": "Christos (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3925,7 +3925,7 @@ tib10_table_data = [
  },
  {
    "Name": "Christos Sōtēr en tō Palaiolakrō (Sōtēr [3], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -3943,7 +3943,7 @@ tib10_table_data = [
  },
  {
    "Name": "Christupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4015,13 +4015,13 @@ tib10_table_data = [
  },
  {
    "Name": "Cicladae insulae",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Ciclades",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4057,7 +4057,7 @@ tib10_table_data = [
  },
  {
    "Name": "Čıplak Ada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4081,7 +4081,7 @@ tib10_table_data = [
  },
  {
    "Name": "Cochino, castello (Kotzinos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4129,7 +4129,7 @@ tib10_table_data = [
  },
  {
    "Name": "Condeo",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4195,13 +4195,13 @@ tib10_table_data = [
  },
  {
    "Name": "Creti (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Cretis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4249,13 +4249,13 @@ tib10_table_data = [
  },
  {
    "Name": "Dalmatinische Küste",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Damandri (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/154\" target=\"_blank\">154f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4279,7 +4279,7 @@ tib10_table_data = [
  },
  {
    "Name": "Daphia (ta) (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4309,13 +4309,13 @@ tib10_table_data = [
  },
  {
    "Name": "Daphnōnas (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Dardanellen",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4327,7 +4327,7 @@ tib10_table_data = [
  },
  {
    "Name": "Daskalio, Insel der Hekatonnēsoi",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4375,19 +4375,19 @@ tib10_table_data = [
  },
  {
    "Name": "Dēlos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Delphini(on), Bucht von",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Delphinion (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4417,19 +4417,19 @@ tib10_table_data = [
  },
  {
    "Name": "H. Dēmētrios (1) (Skyros), Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/156\" target=\"_blank\">156f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Dēmētrios (2) (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Dēmētrios (3) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4453,7 +4453,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Dēmētrios (Chōra, Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4477,7 +4477,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Dēmētrios (Kontopuli, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4579,13 +4579,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Dēmētrios ston Arap (Samothrakē)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/157\" target=\"_blank\">157f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Dereköy (Schoinudi, Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/275\" target=\"_blank\">275</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/275\" target=\"_blank\">275</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4615,7 +4615,7 @@ tib10_table_data = [
  },
  {
    "Name": "Diadromoi, Inseln Halonnēsos und Peristera der nördl. Sporaden",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>",
    "Notes": "-> TIB 1",
    "Volume": "TIB 10"
  },
@@ -4633,13 +4633,13 @@ tib10_table_data = [
  },
  {
    "Name": "Dianemos",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Diapori (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4681,7 +4681,7 @@ tib10_table_data = [
  },
  {
    "Name": "Dieucha (N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4711,7 +4711,7 @@ tib10_table_data = [
  },
  {
    "Name": "Dionysiu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30 132f., <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30 132f., <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4741,7 +4741,7 @@ tib10_table_data = [
  },
  {
    "Name": "Docheiariu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4801,7 +4801,7 @@ tib10_table_data = [
  },
  {
    "Name": "Dotia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4837,7 +4837,7 @@ tib10_table_data = [
  },
  {
    "Name": "Edremit körfezi (Golf von Edremit)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4897,7 +4897,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Eirēnē (Elata, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -4987,7 +4987,7 @@ tib10_table_data = [
  },
  {
    "Name": "Elata (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5005,13 +5005,13 @@ tib10_table_data = [
  },
  {
    "Name": "Elēnta (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Elēnta, Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5047,13 +5047,13 @@ tib10_table_data = [
  },
  {
    "Name": "S. Elias (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Ēlias, Berg (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5065,25 +5065,25 @@ tib10_table_data = [
  },
  {
    "Name": "H. Ēlias (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Ēlias (Bolissos, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Ēlias (Korax, N-Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Ēlias (Trachiu, Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5113,7 +5113,7 @@ tib10_table_data = [
  },
  {
    "Name": "Elplatta (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5125,7 +5125,7 @@ tib10_table_data = [
  },
  {
    "Name": "Embolos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5149,7 +5149,7 @@ tib10_table_data = [
  },
  {
    "Name": "Emporio (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5173,7 +5173,7 @@ tib10_table_data = [
  },
  {
    "Name": "Emporios (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5221,7 +5221,7 @@ tib10_table_data = [
  },
  {
    "Name": "Epanō Merea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5233,13 +5233,13 @@ tib10_table_data = [
  },
  {
    "Name": "Ephesos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Episkopē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5287,7 +5287,7 @@ tib10_table_data = [
  },
  {
    "Name": "Eressos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5323,7 +5323,7 @@ tib10_table_data = [
  },
  {
    "Name": "Erythräische Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5353,7 +5353,7 @@ tib10_table_data = [
  },
  {
    "Name": "Esōmerea (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5413,7 +5413,7 @@ tib10_table_data = [
  },
  {
    "Name": "Euboia, auch Euböa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5425,7 +5425,7 @@ tib10_table_data = [
  },
  {
    "Name": "Euergetulas, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5455,19 +5455,19 @@ tib10_table_data = [
  },
  {
    "Name": "Euripos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Europa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Eurōpē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5479,7 +5479,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Eustratios, Insel Neoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\"> 299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\"> 299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5491,13 +5491,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Eustratios, Siedlung (auf der Insel Neoi/H. Eustratios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Eustratios Anachōrias, Metochion (Perama, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5557,7 +5557,7 @@ tib10_table_data = [
  },
  {
    "Name": "Flandern, Flandria",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5599,7 +5599,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gabathas (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5635,7 +5635,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gallipoli-Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5647,7 +5647,7 @@ tib10_table_data = [
  },
  {
    "Name": "Garmpias (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5665,7 +5665,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gattilusi-Türme (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/249\" target=\"_blank\">249</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/249\" target=\"_blank\">249</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5677,7 +5677,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gelia (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5689,7 +5689,7 @@ tib10_table_data = [
  },
  {
    "Name": "Geloia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5773,7 +5773,7 @@ tib10_table_data = [
  },
  {
    "Name": "Genua",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5809,19 +5809,19 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios (1) (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164—166</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164—166</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Geōrgios (2) (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Geōrgios (3), Insel (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -5851,7 +5851,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios (Angelos, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6007,7 +6007,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios (Mitylēnē, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6085,13 +6085,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios, Gipfel auf Samothrakē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Geōrgios Charilau (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6103,7 +6103,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios Kastelinon (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6121,7 +6121,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios Metochi (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6139,7 +6139,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios Parasigiu (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6151,7 +6151,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios sto Phlamuni (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6163,7 +6163,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios Serapiōnos, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6175,13 +6175,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Geōrgios Sykusēs (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Geōrgios tisalitinis, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6193,7 +6193,7 @@ tib10_table_data = [
  },
  {
    "Name": "Georgs-Kirche (Kotzinos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6211,19 +6211,19 @@ tib10_table_data = [
  },
  {
    "Name": "Geras, Burg",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Geras, Golf (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>,  A. 72, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>,  A. 72, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Geremia (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6241,7 +6241,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gerna (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6265,13 +6265,13 @@ tib10_table_data = [
  },
  {
    "Name": "Gerra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Giali, Bach (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6289,7 +6289,7 @@ tib10_table_data = [
  },
  {
    "Name": "Giera, castel(lo]",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6367,7 +6367,7 @@ tib10_table_data = [
  },
  {
    "Name": "Glycadea vallis (Thasos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6391,7 +6391,7 @@ tib10_table_data = [
  },
  {
    "Name": "Gökçeada",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6409,13 +6409,13 @@ tib10_table_data = [
  },
  {
    "Name": "Gomati-Bucht (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Gomatu (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6433,7 +6433,7 @@ tib10_table_data = [
  },
  {
    "Name": "Göz Tepe (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6475,13 +6475,13 @@ tib10_table_data = [
  },
  {
    "Name": "Gria (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Gudēla (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6517,19 +6517,19 @@ tib10_table_data = [
  },
  {
    "Name": "Gymnonēsi (westkleinasiat. Küste)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Gymnopelagēsion, Insel Kyra Panagia der nördl. Sporaden",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 45;",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 45;",
    "Notes": "-> TIB 1",
    "Volume": "TIB 10"
  },
  {
    "Name": "Gyrismata (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6547,7 +6547,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hagia (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6565,7 +6565,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hagiasma (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6577,25 +6577,25 @@ tib10_table_data = [
  },
  {
    "Name": "Hagiasma (nö. von Myrina, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hagiasmata (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hagiasos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/35\" target=\"_blank\">35</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/35\" target=\"_blank\">35</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hagiochōma (Kotzinos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6631,7 +6631,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hai Matis, Berg (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6667,25 +6667,25 @@ tib10_table_data = [
  },
  {
    "Name": "Halonnēsos antikes H.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>,  A. 1, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>,  A. 1, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "-> TIB 1",
    "Volume": "TIB 10"
  },
  {
    "Name": "Halōnia (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Halykē (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Halykē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6715,7 +6715,7 @@ tib10_table_data = [
  },
  {
    "Name": "Harmolia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/172\" target=\"_blank\">172f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/172\" target=\"_blank\">172f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6727,13 +6727,13 @@ tib10_table_data = [
  },
  {
    "Name": "Hebraiokastron, Kap (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hebraiokastron (Plakes, NO-Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6745,7 +6745,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hebros, Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6763,37 +6763,37 @@ tib10_table_data = [
  },
  {
    "Name": "Heiliges Land",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hekaton Kephales (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hekaton Kephales, Bucht",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hekatonnēsoi, Inselgruppe",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Helenē (1) (N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Helenē (2), Kap (Chios, O-Küste)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6811,7 +6811,7 @@ tib10_table_data = [
  },
  {
    "Name": "Helia(s) (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6829,13 +6829,13 @@ tib10_table_data = [
  },
  {
    "Name": "Hellados ēgun Achaias eparchia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hellas",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6847,7 +6847,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hellas, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6859,7 +6859,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hellespont",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6877,7 +6877,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hēphaisteia (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6895,7 +6895,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hērakleia (Marmara-Meer)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6931,7 +6931,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hiera",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -6985,7 +6985,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hippeios (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7003,7 +7003,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hodēgētria, Kl. (im Kastron H. Theodōroi, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7033,7 +7033,7 @@ tib10_table_data = [
  },
  {
    "Name": "Homēru (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7093,7 +7093,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Hypatios (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7117,7 +7117,7 @@ tib10_table_data = [
  },
  {
    "Name": "Hypsari(on)-Geb. (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7129,25 +7129,25 @@ tib10_table_data = [
  },
  {
    "Name": "Hypsēlometōpon (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Hypsēlu Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Ibērōn, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 20, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 20, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Icarium mare",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7201,7 +7201,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ikaria",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7237,13 +7237,13 @@ tib10_table_data = [
  },
  {
    "Name": "Illyricum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "İlyas dağ (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7255,7 +7255,7 @@ tib10_table_data = [
  },
  {
    "Name": "Imbros, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/63\" target=\"_blank\">63f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/85\" target=\"_blank\">85 </a>,  A. 131, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177—179</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\"> 274</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85 </a>,  A. 131, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177—179</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\"> 274</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7285,7 +7285,7 @@ tib10_table_data = [
  },
  {
    "Name": "Imroz adası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7303,7 +7303,7 @@ tib10_table_data = [
  },
  {
    "Name": "Inō (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7333,13 +7333,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Iōannēs (Keros, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Iōannēs (Mesta, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7459,7 +7459,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Iōannēs Prodromos, Kl. (Mundōn/Phyta, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7495,13 +7495,13 @@ tib10_table_data = [
  },
  {
    "Name": "Iōannēs Theologos (1) (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Iōannēs Theologos (2) (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7525,13 +7525,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Iōannēs Theologos, Kl. (Korax, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Iōannēs Theologos, Kl. (Patmos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7561,7 +7561,7 @@ tib10_table_data = [
  },
  {
    "Name": "los",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7597,13 +7597,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Isidōros (1) (Chios, W-Küste)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Isidōros (2), kleine Insel (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7675,7 +7675,7 @@ tib10_table_data = [
  },
  {
    "Name": "Issa (auf Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7717,19 +7717,19 @@ tib10_table_data = [
  },
  {
    "Name": "Izmir",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Izmir, Golf von / Izmir körfezi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Jerusalem",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7741,31 +7741,31 @@ tib10_table_data = [
  },
  {
    "Name": "S. Johannes, Kl. (bei Nea Monē, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Jonische Halbinsel Westkleinasiens",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Jonische Inseln",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Jonisches Meer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kabala",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7777,13 +7777,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kabeirio (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kabiren-Heiligtum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7807,7 +7807,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kaïkos, Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7837,7 +7837,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kakē Rachis (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7855,7 +7855,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kalamaya-Golf (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7867,7 +7867,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kalamide, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7879,19 +7879,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kalamitsa, Bucht bzw. Golf (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalamōtē (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalamōtē, Bucht bzw. Golf von",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7921,7 +7921,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kaleköy (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7951,13 +7951,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kalikrē (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalikri (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7969,7 +7969,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kalikriu (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -7999,13 +7999,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kallipolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "—> Gallipoli",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kallirachē (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8017,19 +8017,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kalliupolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kallonē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kallonē, Golf von (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\"> 226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\"> 226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8041,13 +8041,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kalogeros, kleine Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalogeros scopulus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8059,13 +8059,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kalogria-Bucht, Hormos Kalogrias (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalomastos (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8089,13 +8089,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kalybia tu Rōsopulu (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kalydnai, Inseln",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8119,13 +8119,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kamarai (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kamares (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8143,7 +8143,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kamariōtissa (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8161,7 +8161,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kamēnia (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8179,7 +8179,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kaminia (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8197,19 +8197,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kampia (N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kampos (1) (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kampos (2) (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/239\" target=\"_blank\">239f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/239\" target=\"_blank\">239f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8227,7 +8227,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kanabutsato (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8251,7 +8251,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kanastron",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8269,13 +8269,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kaphēreus, Kap (S-Euböa)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kappē (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8311,7 +8311,7 @@ tib10_table_data = [
  },
  {
    "Name": "Karakallu, Athōs-Kl,",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8341,7 +8341,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kardamyla (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8359,7 +8359,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kardia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 6",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 6",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8371,7 +8371,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kariōtes (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8389,7 +8389,7 @@ tib10_table_data = [
  },
  {
    "Name": "Karpathos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>,  A. 3",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>,  A. 3",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8419,7 +8419,7 @@ tib10_table_data = [
  },
  {
    "Name": "Karyes (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8461,19 +8461,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kaspakas (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kassadra, Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastamonitu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8485,7 +8485,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastelli (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8533,7 +8533,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastri (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8545,13 +8545,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kastria, Flur (Phakos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastria, Inselchen, bei Halbinsel Kastri (Phakos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8575,19 +8575,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kastro (Kampia, N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastro (MarmaroIimēn, Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastro (Palaiokastron [2], Myrina, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8611,13 +8611,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kastro tēs Obrias (Apolychnos, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastrobuni (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8629,7 +8629,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastron (Chios [Stadt])",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/152\" target=\"_blank\">152</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8647,7 +8647,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastron (Mitylēnē, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8665,13 +8665,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kastron (Palaiokastron [2], Myrina, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kastron (Palaiopolis [2], Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8683,7 +8683,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastron (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8695,7 +8695,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kastron-Hafen (Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8725,7 +8725,7 @@ tib10_table_data = [
  },
  {
    "Name": "Katarrakttēs (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/191\" target=\"_blank\">191f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/239\" target=\"_blank\">239</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/191\" target=\"_blank\">191f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/239\" target=\"_blank\">239</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8749,13 +8749,13 @@ tib10_table_data = [
  },
  {
    "Name": "Katō Kampos (Merakezina, Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Katō Kardamyla",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8773,13 +8773,13 @@ tib10_table_data = [
  },
  {
    "Name": "Katō Merea (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Katō Phana (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8797,13 +8797,13 @@ tib10_table_data = [
  },
  {
    "Name": "Katōmorea (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/128\" target=\"_blank\">128</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Katōthen Maurikas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8815,13 +8815,13 @@ tib10_table_data = [
  },
  {
    "Name": "Katō Tritos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Katosikanon (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8851,13 +8851,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kazabitēs (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kea",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8911,7 +8911,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kephalos, Kap (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8923,13 +8923,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kēphissos, Fluß (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kerameia, Golf (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8941,19 +8941,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kerameōnos tu, Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kerami (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Keramos (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -8995,13 +8995,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kerkyra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Keros (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9019,7 +9019,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kibyrraiōtōn, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78u.</a>,  A. 68, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78u.</a>,  A. 68, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9049,13 +9049,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kimōlos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kinara (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9073,7 +9073,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kissos (Çeșme)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9085,13 +9085,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kithra (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Klapadon (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9109,13 +9109,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kleinasiatische Küste",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kleinasien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9127,7 +9127,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kleiu (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9145,13 +9145,13 @@ tib10_table_data = [
  },
  {
    "Name": "Klōpedē, Berg und Metochion (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 36, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 36, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Klumudadon (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9169,7 +9169,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kochēloi, Geb. (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9181,7 +9181,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kochylas, Geb. (Buno, Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9211,7 +9211,7 @@ tib10_table_data = [
  },
  {
    "Name": "Koila (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9223,7 +9223,7 @@ tib10_table_data = [
  },
  {
    "Name": "Koimēsis Theotoku (Insel Neoi/H. Eustratios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9391,19 +9391,19 @@ tib10_table_data = [
  },
  {
    "Name": "Koinē (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Koinyra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kokkalas, Fluß (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/136\" target=\"_blank\">136</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9415,7 +9415,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kolokythias-Bucht (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9451,7 +9451,7 @@ tib10_table_data = [
  },
  {
    "Name": "Komanon (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9469,13 +9469,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kōmē (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kōmē (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9547,7 +9547,7 @@ tib10_table_data = [
  },
  {
    "Name": "Konstantinopel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\"> 200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\"> 200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9565,7 +9565,7 @@ tib10_table_data = [
  },
  {
    "Name": "Konstantinopel, Megalē ekklēsia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9583,7 +9583,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Kōnstantinos (Thanos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9595,13 +9595,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Kōnstantinos, Metochion (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Kōnstantinos kai Helenē (Marmarolimēn, Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9619,7 +9619,7 @@ tib10_table_data = [
  },
  {
    "Name": "Konteas (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9643,19 +9643,19 @@ tib10_table_data = [
  },
  {
    "Name": "Kontias-Bucht (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kontili (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kontobrakē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9673,7 +9673,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kontopuli (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9715,19 +9715,19 @@ tib10_table_data = [
  },
  {
    "Name": "Korax (im N von Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/35\" target=\"_blank\">35</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/35\" target=\"_blank\">35</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Korēs to giophyri (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Korinth",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9739,7 +9739,7 @@ tib10_table_data = [
  },
  {
    "Name": "Korinth, Mētropolis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9751,7 +9751,7 @@ tib10_table_data = [
  },
  {
    "Name": "Koronata H., Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9769,7 +9769,7 @@ tib10_table_data = [
  },
  {
    "Name": "Korōnos (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9787,7 +9787,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kōs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9817,7 +9817,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Kosmas und Damianos (Methynma, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9841,7 +9841,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kotzinos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\"> 248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\"> 248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9901,7 +9901,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kreta",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>,  A. 17, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\"> 164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>,  A. 17, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\"> 164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9949,7 +9949,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kryokopu Monē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -9979,7 +9979,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kukumidu",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10003,7 +10003,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kuphos (Sithōnia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10027,7 +10027,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kurunē (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10039,7 +10039,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kurupas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10057,7 +10057,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kutlumusiu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10069,13 +10069,13 @@ tib10_table_data = [
  },
  {
    "Name": "Kuzu limanı, Bucht (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kyanides nēsoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10093,31 +10093,31 @@ tib10_table_data = [
  },
  {
    "Name": "Kydōnia (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kykladen (-Inseln)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 5, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>,  A. 46, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>,  A. 2, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kykladen, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>,  A. 83, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>,  A. 83, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kyklades nēsoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Kykladōn nēsōn, eparchia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10135,7 +10135,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kypros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "—> Zypern",
    "Volume": "TIB 10"
  },
@@ -10207,7 +10207,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Kyrikos (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10219,7 +10219,7 @@ tib10_table_data = [
  },
  {
    "Name": "Kythnos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10243,7 +10243,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lagopation (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10255,7 +10255,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lagusai, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10279,7 +10279,7 @@ tib10_table_data = [
  },
  {
    "Name": "Laktoboïdin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10297,7 +10297,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lampsakos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10327,7 +10327,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lankada (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/156\" target=\"_blank\">156</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10387,7 +10387,7 @@ tib10_table_data = [
  },
  {
    "Name": "Late (Elata, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10399,7 +10399,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lathionas (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10411,7 +10411,7 @@ tib10_table_data = [
  },
  {
    "Name": "Laura, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/20\" target=\"_blank\">20</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/25\" target=\"_blank\">25</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\"> 185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\"> 269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/20\" target=\"_blank\">20</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/25\" target=\"_blank\">25</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\"> 185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\"> 269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10447,25 +10447,25 @@ tib10_table_data = [
  },
  {
    "Name": "Leibadia (bei Chios [Stadt])",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a></b>",
    "Notes": "—> Livadia",
    "Volume": "TIB 10"
  },
  {
    "Name": "Leibadia (bei Mesta, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Leibadochōri (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Leimōn, Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10489,7 +10489,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lēmnos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/85\" target=\"_blank\"> 85</a>,  A. 131, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/94\" target=\"_blank\">94u.</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>,  A. 9, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10 u. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205—209</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\"> 279f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\"> 85</a>,  A. 131, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94u.</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>,  A. 9, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10 u. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205—209</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\"> 279f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10531,13 +10531,13 @@ tib10_table_data = [
  },
  {
    "Name": "Lepetymnos, Geb. (N-Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/164\" target=\"_blank\">164</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lephconuora",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10549,7 +10549,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lera (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10573,7 +10573,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lesbos, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77u.</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/100\" target=\"_blank\"> 100</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\"> 177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209—213</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/45\" target=\"_blank\">45</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77u.</a>,  A. 51, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/100\" target=\"_blank\"> 100</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\"> 177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209—213</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10603,7 +10603,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lesbu, Tenedu, Poroselēnēs kai Aigialōn, Kirchensprengel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10627,13 +10627,13 @@ tib10_table_data = [
  },
  {
    "Name": "Leukobora (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/213\" target=\"_blank\">213f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/213\" target=\"_blank\">213f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Leukopedin (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10645,7 +10645,7 @@ tib10_table_data = [
  },
  {
    "Name": "Leukos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10669,7 +10669,7 @@ tib10_table_data = [
  },
  {
    "Name": "Libanu Oros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10711,25 +10711,25 @@ tib10_table_data = [
  },
  {
    "Name": "Limenaria (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Limenas (Marmarolimēn, Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Limeno (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Limini Paradisus, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10747,7 +10747,7 @@ tib10_table_data = [
  },
  {
    "Name": "Limnia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10771,25 +10771,25 @@ tib10_table_data = [
  },
  {
    "Name": "Linaria (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lipari (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lisbori (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lithi (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37 u. 40, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37 u. 40, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10807,7 +10807,7 @@ tib10_table_data = [
  },
  {
    "Name": "Lithin (Lithi, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10831,7 +10831,7 @@ tib10_table_data = [
  },
  {
    "Name": "Livadia (bei Chios [Stadt])",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
    "Notes": "—> Leibadia",
    "Volume": "TIB 10"
  },
@@ -10855,7 +10855,7 @@ tib10_table_data = [
  },
  {
    "Name": "Luria (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10867,37 +10867,37 @@ tib10_table_data = [
  },
  {
    "Name": "Lutra (1) (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lutra (2) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lutra Ephtalus (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lutra Eutalus (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lutra Korphu (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lychna (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10915,13 +10915,13 @@ tib10_table_data = [
  },
  {
    "Name": "Lykos, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Lykurē-Geb. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -10945,13 +10945,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Maburnas, Kl. (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Macedonia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11005,7 +11005,7 @@ tib10_table_data = [
  },
  {
    "Name": "Magazia (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11041,13 +11041,13 @@ tib10_table_data = [
  },
  {
    "Name": "Makedonia A, Provinz",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Makedonien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11101,13 +11101,13 @@ tib10_table_data = [
  },
  {
    "Name": "Matangiotēs, Fluß (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Malas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11119,13 +11119,13 @@ tib10_table_data = [
  },
  {
    "Name": "Malischer Golf",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Mamas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11143,7 +11143,7 @@ tib10_table_data = [
  },
  {
    "Name": "Managros (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11173,7 +11173,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mandrachi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11185,7 +11185,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mandraki-Hafen (Oinussai)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11203,7 +11203,7 @@ tib10_table_data = [
  },
  {
    "Name": "Manēpeiō (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11221,13 +11221,13 @@ tib10_table_data = [
  },
  {
    "Name": "Manolia (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mantamadon",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11299,7 +11299,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mariai (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11323,7 +11323,7 @@ tib10_table_data = [
  },
  {
    "Name": "Maries",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11347,7 +11347,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Marina (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246f.</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11371,7 +11371,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Marina (Mudros, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11389,19 +11389,19 @@ tib10_table_data = [
  },
  {
    "Name": "H. Marina (Schoinudi, Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Marina (bei H. Sophia [1], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Markella (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11413,7 +11413,7 @@ tib10_table_data = [
  },
  {
    "Name": "Markesi, Kap (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11437,13 +11437,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Markos, Kl. (ö. der Nea Monē, Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Ta Marku (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11455,7 +11455,7 @@ tib10_table_data = [
  },
  {
    "Name": "Marmara -Meer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11467,7 +11467,7 @@ tib10_table_data = [
  },
  {
    "Name": "Marmaras (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11491,13 +11491,13 @@ tib10_table_data = [
  },
  {
    "Name": "Marmarino (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Marmaro (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11509,13 +11509,13 @@ tib10_table_data = [
  },
  {
    "Name": "Marmarolimēn (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220—222</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220—222</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Marmaro(n), Bucht (bei Kardamyla, N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/188\" target=\"_blank\">188</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11533,7 +11533,7 @@ tib10_table_data = [
  },
  {
    "Name": "Marōneia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11569,19 +11569,19 @@ tib10_table_data = [
  },
  {
    "Name": "Masticha, Kap (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Masticho, Kap",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mastichochōra (Mastixdörfer)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/2\" target=\"_blank\">2</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/23\" target=\"_blank\">23</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 10, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/2\" target=\"_blank\">2</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/23\" target=\"_blank\">23</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11593,13 +11593,13 @@ tib10_table_data = [
  },
  {
    "Name": "Masticis caput (Masticho)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mastico, Kap",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11611,7 +11611,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mateli",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11623,7 +11623,7 @@ tib10_table_data = [
  },
  {
    "Name": "Matis, Hai, Berg (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11653,13 +11653,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mauree",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mauria, Insel(n) bei Tenedos",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/223\" target=\"_blank\">223f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11671,7 +11671,7 @@ tib10_table_data = [
  },
  {
    "Name": "Maurikas, Anōthen und Katōthen",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11689,13 +11689,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mauromandra (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mauronada (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11749,7 +11749,7 @@ tib10_table_data = [
  },
  {
    "Name": "Megadagio (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11797,7 +11797,7 @@ tib10_table_data = [
  },
  {
    "Name": "Megalos Potamos (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11815,19 +11815,19 @@ tib10_table_data = [
  },
  {
    "Name": "Megas Lakkos (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Megas Limiōnas (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Megas Potamos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11851,7 +11851,7 @@ tib10_table_data = [
  },
  {
    "Name": "Melaneios, Ort und Kap (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11929,7 +11929,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Melitēnē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11947,13 +11947,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mēlos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Menaleōs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11971,7 +11971,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Mēnas (Kalikri, Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -11983,7 +11983,7 @@ tib10_table_data = [
  },
  {
    "Name": "Merakezina, Kap (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12001,7 +12001,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mermingi (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/191\" target=\"_blank\">191</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/191\" target=\"_blank\">191</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12025,7 +12025,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mersinia, Hafenbucht (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12037,7 +12037,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mesa (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12049,7 +12049,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mesagros (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12061,7 +12061,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mesochōra (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12073,19 +12073,19 @@ tib10_table_data = [
  },
  {
    "Name": "Mesokampia (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mesorachēs (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/167\" target=\"_blank\">167</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mesotopos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12097,7 +12097,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mesta (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12127,13 +12127,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mēstigna (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Metamorphōsis, Metochion (Insel Neoi/H. Eustratios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12193,7 +12193,7 @@ tib10_table_data = [
  },
  {
    "Name": "Metaon, polis (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12205,19 +12205,19 @@ tib10_table_data = [
  },
  {
    "Name": "Metelin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Metelina, isola di",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Metelini",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12229,13 +12229,13 @@ tib10_table_data = [
  },
  {
    "Name": "Metellin(o)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Methelino",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12259,7 +12259,7 @@ tib10_table_data = [
  },
  {
    "Name": "Methymna, Mthymna (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\"> 205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228—230</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/183\" target=\"_blank\">183f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\"> 205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228—230</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12283,13 +12283,13 @@ tib10_table_data = [
  },
  {
    "Name": "Metochi, Bucht und Flur (Siderunta, W-Küste von Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Metolinum",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12307,7 +12307,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mettellin",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12319,7 +12319,7 @@ tib10_table_data = [
  },
  {
    "Name": "Michaēl Archangelos (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 24, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12361,7 +12361,7 @@ tib10_table_data = [
  },
  {
    "Name": "Midillü",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12427,7 +12427,7 @@ tib10_table_data = [
  },
  {
    "Name": "Misochōra (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12445,25 +12445,25 @@ tib10_table_data = [
  },
  {
    "Name": "Mitellina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mitilena",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/211\" target=\"_blank\">211</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mitilene",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mitilini",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12475,13 +12475,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mitylēnē Mitylene (Stadt auf Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116u.</a>,  A. 34, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\"> 135f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230—234</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\"> 294</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>,  A. 102, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116u.</a>,  A. 34, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\"> 135f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/142\" target=\"_blank\">142</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230—234</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\"> 294</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mitylēnē, Mitylene (Name der Insel Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/217\" target=\"_blank\">217</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12511,7 +12511,7 @@ tib10_table_data = [
  },
  {
    "Name": "Molivensis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12529,13 +12529,13 @@ tib10_table_data = [
  },
  {
    "Name": "Molybos (Methymna, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Molybos, Kap",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12553,19 +12553,19 @@ tib10_table_data = [
  },
  {
    "Name": "Monē Christu (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/234\" target=\"_blank\">234f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/234\" target=\"_blank\">234f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Monobyzu bunos, Berg (Imbros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Morea (Peloponnes)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12577,7 +12577,7 @@ tib10_table_data = [
  },
  {
    "Name": "Morra (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12589,13 +12589,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mozithrēs (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mpalaxa, Insel (bei Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12631,13 +12631,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mprobaka (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mpurnia-Bucht (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/201\" target=\"_blank\">201</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12649,7 +12649,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mudro, scala",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12661,13 +12661,13 @@ tib10_table_data = [
  },
  {
    "Name": "Mudros, Hafenstadt (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Mudros-Bucht, auch Mudros-Golf (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\"> 272f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/216\" target=\"_blank\">216</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\"> 272f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12691,7 +12691,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mundōn, Kloster (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12709,7 +12709,7 @@ tib10_table_data = [
  },
  {
    "Name": "Muselim-Enge, Poros Muselimē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12733,7 +12733,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mykonos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12751,7 +12751,7 @@ tib10_table_data = [
  },
  {
    "Name": "Myrina (Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12775,7 +12775,7 @@ tib10_table_data = [
  },
  {
    "Name": "Myrsinē, Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12805,7 +12805,7 @@ tib10_table_data = [
  },
  {
    "Name": "Mytilēnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12835,7 +12835,7 @@ tib10_table_data = [
  },
  {
    "Name": "Napē, polis (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12853,13 +12853,13 @@ tib10_table_data = [
  },
  {
    "Name": "Naxia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Naxos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12877,7 +12877,7 @@ tib10_table_data = [
  },
  {
    "Name": "Nea Monē, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/187\" target=\"_blank\">187f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\"> 195</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237—239</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\"> 195</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237—239</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12913,7 +12913,7 @@ tib10_table_data = [
  },
  {
    "Name": "Nechōri (Chios, Kampos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12925,7 +12925,7 @@ tib10_table_data = [
  },
  {
    "Name": "Nenēta (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44. , <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/239\" target=\"_blank\">239f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44. , <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/239\" target=\"_blank\">239f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12943,19 +12943,19 @@ tib10_table_data = [
  },
  {
    "Name": "Neocastrum (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Neochōri (1) (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Neochōri (2) (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12967,13 +12967,13 @@ tib10_table_data = [
  },
  {
    "Name": "Neoi, Insel H. Eustratios",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240—242</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/95\" target=\"_blank\">95</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240—242</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Neokastron (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -12985,13 +12985,13 @@ tib10_table_data = [
  },
  {
    "Name": "Neōn nēsos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Neōnēta",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/187\" target=\"_blank\">187</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13009,13 +13009,13 @@ tib10_table_data = [
  },
  {
    "Name": "Neromylon (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Nēsoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13039,7 +13039,7 @@ tib10_table_data = [
  },
  {
    "Name": "Nestos-Mündung",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13051,7 +13051,7 @@ tib10_table_data = [
  },
  {
    "Name": "Neu-Phōkaia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13087,7 +13087,7 @@ tib10_table_data = [
  },
  {
    "Name": "S. Nicolao, Kirche (Chios [Stadt])",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13135,25 +13135,25 @@ tib10_table_data = [
  },
  {
    "Name": "H. Nikolaos (1) (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Nikolaos (2) (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Nikolaos (3), Kl. (Chios, nahe Nea Monē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/181\" target=\"_blank\">181</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Nikolaos (4) (nahe Chios [Stadt])",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243f</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/\" target=\"_blank\">.</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243f</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/\" target=\"_blank\">.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13201,7 +13201,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Nikolaos (Kallonē, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13327,7 +13327,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ninos, hē (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13363,7 +13363,7 @@ tib10_table_data = [
  },
  {
    "Name": "Obrias tēs, Kastro",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13387,7 +13387,7 @@ tib10_table_data = [
  },
  {
    "Name": "Oinussai, Inselgruppe",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13405,7 +13405,7 @@ tib10_table_data = [
  },
  {
    "Name": "Olympoi (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13417,7 +13417,7 @@ tib10_table_data = [
  },
  {
    "Name": "Olympos, Geb. (SO-Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13429,7 +13429,7 @@ tib10_table_data = [
  },
  {
    "Name": "Omphalia (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/244\" target=\"_blank\">244f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/244\" target=\"_blank\">244f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13465,7 +13465,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ordymnos, Berg (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13489,7 +13489,7 @@ tib10_table_data = [
  },
  {
    "Name": "Oriens, Diözese",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13531,7 +13531,7 @@ tib10_table_data = [
  },
  {
    "Name": "Orthē Petra (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13585,13 +13585,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pacheia Ammos, Bucht (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pachys, Kap (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/169\" target=\"_blank\">169</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13615,7 +13615,7 @@ tib10_table_data = [
  },
  {
    "Name": "Palaiampela (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13639,7 +13639,7 @@ tib10_table_data = [
  },
  {
    "Name": "Palaiokastro (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/110\" target=\"_blank\">110</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/175\" target=\"_blank\">175</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13669,13 +13669,13 @@ tib10_table_data = [
  },
  {
    "Name": "Palaiokastron (1) (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Palaiokastron (2) (Myrina, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246—248</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\"> 291</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246—248</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\"> 291</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13723,7 +13723,7 @@ tib10_table_data = [
  },
  {
    "Name": "Palaion Praitōrion (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13741,19 +13741,19 @@ tib10_table_data = [
  },
  {
    "Name": "Palaiopolis (1) (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/153\" target=\"_blank\">153f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/232\" target=\"_blank\">232</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Palaiopolis (2) (lmbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/250\" target=\"_blank\">250</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Palaiopolis (Hēphaisteia, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/189\" target=\"_blank\">189</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13789,7 +13789,7 @@ tib10_table_data = [
  },
  {
    "Name": "Palamari (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13801,13 +13801,13 @@ tib10_table_data = [
  },
  {
    "Name": "Palästina",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Palaxia, Insel (bei Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13825,7 +13825,7 @@ tib10_table_data = [
  },
  {
    "Name": "Paleocastro (Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13891,7 +13891,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pallēnē (Halbinsel Kassandra)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13909,7 +13909,7 @@ tib10_table_data = [
  },
  {
    "Name": "M. Pālyānpelū (Palaiampela, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13921,31 +13921,31 @@ tib10_table_data = [
  },
  {
    "Name": "Pamphilla (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia (1), kleine Insel (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia (2) (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia (3) (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/251\" target=\"_blank\">251</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia (bei Anemotia)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 33, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 33, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -13999,7 +13999,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Agrielōpu, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14017,7 +14017,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Dichunia (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14071,19 +14071,19 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Kremniōtissa (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/252\" target=\"_blank\">252</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia Krēna (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Panagia Kryphtē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14101,7 +14101,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Latusaina, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14125,7 +14125,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Olympianē (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14149,7 +14149,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Sikelia, Kl. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14161,7 +14161,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Spēliōtissa (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14197,7 +14197,7 @@ tib10_table_data = [
  },
  {
    "Name": "Panagia Trullōtē (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14275,13 +14275,13 @@ tib10_table_data = [
  },
  {
    "Name": "Panteleēmōn, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Panteleēmōn (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/243\" target=\"_blank\">243</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14323,7 +14323,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Panteleēmōn (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14347,13 +14347,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pantokratōr, Athōs-Kl,",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pantokratōr, Kl. (Anō Chōrion, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14383,13 +14383,13 @@ tib10_table_data = [
  },
  {
    "Name": "Papiana (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pappados (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14407,13 +14407,13 @@ tib10_table_data = [
  },
  {
    "Name": "Paradeisi, Bach und Tal (Insel Neoi/H. Eustratios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/197\" target=\"_blank\">197</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Paradeisi-Geb. (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14431,7 +14431,7 @@ tib10_table_data = [
  },
  {
    "Name": "Parakoila (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14455,13 +14455,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Paraskeuē (1) (Samothrakē)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Parskeuē (2) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14527,7 +14527,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Paraskeuē (Telōnia, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14545,7 +14545,7 @@ tib10_table_data = [
  },
  {
    "Name": "Paros",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14563,13 +14563,13 @@ tib10_table_data = [
  },
  {
    "Name": "Parrnchila, castel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/123\" target=\"_blank\">123</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Parthenēs, Fluß (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/237\" target=\"_blank\">237</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14581,7 +14581,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pasa Limani (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14593,7 +14593,7 @@ tib10_table_data = [
  },
  {
    "Name": "Patara",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/289\" target=\"_blank\">289</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14611,7 +14611,7 @@ tib10_table_data = [
  },
  {
    "Name": "Patmos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>",
    "Notes": "—> Iōannēs Theologos-Kl. (Patmos)",
    "Volume": "TIB 10"
  },
@@ -14635,13 +14635,13 @@ tib10_table_data = [
  },
  {
    "Name": "Patrika (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/158\" target=\"_blank\">158</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Patrikia, Insel im Golf von Mudros (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14659,7 +14659,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Paulu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/140\" target=\"_blank\">140</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14713,13 +14713,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pelimeno, costa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pelinaion oros, Geb. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/159\" target=\"_blank\">159f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14749,7 +14749,7 @@ tib10_table_data = [
  },
  {
    "Name": "Peloponnes",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14785,13 +14785,13 @@ tib10_table_data = [
  },
  {
    "Name": "Peparēthos (Insel Skopelos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pera",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/92\" target=\"_blank\">92</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14803,13 +14803,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pera Kampos (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/186\" target=\"_blank\">186</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Perama (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/256\" target=\"_blank\">256f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/256\" target=\"_blank\">256f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14827,7 +14827,7 @@ tib10_table_data = [
  },
  {
    "Name": "Peramata (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14851,7 +14851,7 @@ tib10_table_data = [
  },
  {
    "Name": "Peribolē, Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/36\" target=\"_blank\">36</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14875,7 +14875,7 @@ tib10_table_data = [
  },
  {
    "Name": "Perparea (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14887,7 +14887,7 @@ tib10_table_data = [
  },
  {
    "Name": "Perperinē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14905,7 +14905,7 @@ tib10_table_data = [
  },
  {
    "Name": "Petasos, auch Petasi, Halbinsel und Kap (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/2\" target=\"_blank\">2</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/2\" target=\"_blank\">2</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14917,7 +14917,7 @@ tib10_table_data = [
  },
  {
    "Name": "Petra (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/258\" target=\"_blank\">258</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14929,7 +14929,7 @@ tib10_table_data = [
  },
  {
    "Name": "Petrion (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/258\" target=\"_blank\">258f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/258\" target=\"_blank\">258f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -14953,43 +14953,43 @@ tib10_table_data = [
  },
  {
    "Name": "Petzeas (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Peyra, insula (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phakos, Halbinsel (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/236\" target=\"_blank\">236</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phalia (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phanai (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/218\" target=\"_blank\">218</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phanu tu (Palaiokstron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pharanx (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15001,7 +15001,7 @@ tib10_table_data = [
  },
  {
    "Name": "Phengari, Gipfel bzw. Geb. (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15031,7 +15031,7 @@ tib10_table_data = [
  },
  {
    "Name": "Philia (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15049,13 +15049,13 @@ tib10_table_data = [
  },
  {
    "Name": "Philotheu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/129\" target=\"_blank\">129f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/245\" target=\"_blank\">245f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\"> 265</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/129\" target=\"_blank\">129f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/245\" target=\"_blank\">245f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/259\" target=\"_blank\">259</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\"> 265</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phita (Harmolia, S-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15079,7 +15079,7 @@ tib10_table_data = [
  },
  {
    "Name": "Phlatsia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15103,7 +15103,7 @@ tib10_table_data = [
  },
  {
    "Name": "Phōkaia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15115,25 +15115,25 @@ tib10_table_data = [
  },
  {
    "Name": "H. Phōkas (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/139\" target=\"_blank\">139</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Phōkas (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phonia Pyrgos (Phonias-Turm, Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phonias, Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15157,13 +15157,13 @@ tib10_table_data = [
  },
  {
    "Name": "Phrankobuni (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/176\" target=\"_blank\">176</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Phrankomonastēro (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15241,7 +15241,7 @@ tib10_table_data = [
  },
  {
    "Name": "Phyta (N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/173\" target=\"_blank\">173</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/262\" target=\"_blank\">262</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15343,7 +15343,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pisara (Psara)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15373,7 +15373,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pisperagos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/124\" target=\"_blank\">124</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/224\" target=\"_blank\">224</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15421,7 +15421,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pithari(on) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 36, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 36, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15451,13 +15451,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pityus (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118u.</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118u.</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pityussa",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15481,13 +15481,13 @@ tib10_table_data = [
  },
  {
    "Name": "Plakados (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/263\" target=\"_blank\">263f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/263\" target=\"_blank\">263f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Plakes (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15499,7 +15499,7 @@ tib10_table_data = [
  },
  {
    "Name": "Plataia Strata (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15529,7 +15529,7 @@ tib10_table_data = [
  },
  {
    "Name": "Plateia, kleine Insel (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/261\" target=\"_blank\">261</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15541,7 +15541,7 @@ tib10_table_data = [
  },
  {
    "Name": "Platia, kleine Insel (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15553,13 +15553,13 @@ tib10_table_data = [
  },
  {
    "Name": "Platy, Bucht (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Platys (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15583,13 +15583,13 @@ tib10_table_data = [
  },
  {
    "Name": "Plōmari (1) (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/195\" target=\"_blank\">195</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Plōmari (2) (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/100\" target=\"_blank\">100</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/265\" target=\"_blank\">265</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15619,19 +15619,19 @@ tib10_table_data = [
  },
  {
    "Name": "Polichnitos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/154\" target=\"_blank\">154</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Polichrē (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Polichri (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15691,7 +15691,7 @@ tib10_table_data = [
  },
  {
    "Name": "Polypudi-Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15727,13 +15727,13 @@ tib10_table_data = [
  },
  {
    "Name": "Poroselēnē, Insel (vor der kleinasiat. Küste) und deren Hauptort",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Poroselēnēs, Lesbu, Tenedu kai Aigialōn, Kirchensprengel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15781,19 +15781,19 @@ tib10_table_data = [
  },
  {
    "Name": "Potamia (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Potamia, Fluß (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/125\" target=\"_blank\">125</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Potamia-Bucht (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15805,7 +15805,7 @@ tib10_table_data = [
  },
  {
    "Name": "Potamium (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/126\" target=\"_blank\">126</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15823,7 +15823,7 @@ tib10_table_data = [
  },
  {
    "Name": "Potos (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15841,7 +15841,7 @@ tib10_table_data = [
  },
  {
    "Name": "Priantos oros, Berg (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15865,7 +15865,7 @@ tib10_table_data = [
  },
  {
    "Name": "Probaka(s) (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15901,13 +15901,13 @@ tib10_table_data = [
  },
  {
    "Name": "Prophētēs Ēlias, Berg (Ēlias, N-Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/159\" target=\"_blank\">159</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Prophētēs Ēlias, Berg (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15919,13 +15919,13 @@ tib10_table_data = [
  },
  {
    "Name": "Prophētēs Ēlias, Berg (W-Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Prophētēs Ēlias, Berg (SO-Lesbos, Olympos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/172\" target=\"_blank\">172</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -15991,13 +15991,13 @@ tib10_table_data = [
  },
  {
    "Name": "Propontis",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>,  A. 79, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>,  A. 79, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Psara, insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267f.</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267f.</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16027,7 +16027,7 @@ tib10_table_data = [
  },
  {
    "Name": "Psilon (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16045,7 +16045,7 @@ tib10_table_data = [
  },
  {
    "Name": "Psyra (Psara)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16057,7 +16057,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pterin, Metochion (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/204\" target=\"_blank\">204</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16069,7 +16069,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pterunta (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16093,7 +16093,7 @@ tib10_table_data = [
  },
  {
    "Name": "Puria, Kap (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16111,7 +16111,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pyrgi (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117u.</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/260\" target=\"_blank\">260</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16135,13 +16135,13 @@ tib10_table_data = [
  },
  {
    "Name": "Pyrgonēsi, Insel (vor der kleinasiat. Küste)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/270\" target=\"_blank\">270f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/270\" target=\"_blank\">270f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Pyrgos, Siedlung und Bucht (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/275\" target=\"_blank\">275f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/275\" target=\"_blank\">275f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16183,7 +16183,7 @@ tib10_table_data = [
  },
  {
    "Name": "Pyrra (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 32, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16213,7 +16213,7 @@ tib10_table_data = [
  },
  {
    "Name": "Quiri porto (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16273,7 +16273,7 @@ tib10_table_data = [
  },
  {
    "Name": "Rēnaia, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16285,13 +16285,13 @@ tib10_table_data = [
  },
  {
    "Name": "Repanidion (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>,  A. 13, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/198\" target=\"_blank\">198</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Reuma (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16315,7 +16315,7 @@ tib10_table_data = [
  },
  {
    "Name": "Rizari, Stadtviertel von Chios",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16333,7 +16333,7 @@ tib10_table_data = [
  },
  {
    "Name": "Rodania (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/272\" target=\"_blank\">272</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16345,25 +16345,25 @@ tib10_table_data = [
  },
  {
    "Name": "Rodopen, Geb.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Rodos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 26, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/81\" target=\"_blank\">81</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 26, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>,  A. 48, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/209\" target=\"_blank\">209</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Rodos, Mētropolis, Metropole",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73u.</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/91\" target=\"_blank\">91</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Rom",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16375,7 +16375,7 @@ tib10_table_data = [
  },
  {
    "Name": "Romania",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16393,13 +16393,13 @@ tib10_table_data = [
  },
  {
    "Name": "Rōmanu, Rōmanū (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Romeïkos Gialos (Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/247\" target=\"_blank\">247</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16411,7 +16411,7 @@ tib10_table_data = [
  },
  {
    "Name": "Rōsopulu (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16435,13 +16435,13 @@ tib10_table_data = [
  },
  {
    "Name": "Sakız",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Sakız Boğazı",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16495,7 +16495,7 @@ tib10_table_data = [
  },
  {
    "Name": "Salpin (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16513,7 +16513,7 @@ tib10_table_data = [
  },
  {
    "Name": "Samandrakio",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16525,7 +16525,7 @@ tib10_table_data = [
  },
  {
    "Name": "Samos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>,  A. 80, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/56\" target=\"_blank\">56</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>,  A. 80, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16537,13 +16537,13 @@ tib10_table_data = [
  },
  {
    "Name": "Samos, Thema",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78u.</a>,  A. 70, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/78\" target=\"_blank\">78u.</a>,  A. 70, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Samothrakē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/94\" target=\"_blank\">94f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\"> 104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273—275</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\"> 104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/133\" target=\"_blank\">133</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/153\" target=\"_blank\">153</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/248\" target=\"_blank\">248</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273—275</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16615,7 +16615,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sancte Marie de Torloti, Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16663,7 +16663,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sanctus Angelus (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/127\" target=\"_blank\">127</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16777,7 +16777,7 @@ tib10_table_data = [
  },
  {
    "Name": "Saos-Geb. (Samothrakē)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16879,7 +16879,7 @@ tib10_table_data = [
  },
  {
    "Name": "Schio",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16897,7 +16897,7 @@ tib10_table_data = [
  },
  {
    "Name": "Schirus, insula",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16909,13 +16909,13 @@ tib10_table_data = [
  },
  {
    "Name": "Schoinudi (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/275\" target=\"_blank\">275f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/108\" target=\"_blank\">108</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/166\" target=\"_blank\">166</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/178\" target=\"_blank\">178</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/230\" target=\"_blank\">230</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/235\" target=\"_blank\">235</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/271\" target=\"_blank\">271</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/275\" target=\"_blank\">275f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Schwarzes Meer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16933,7 +16933,7 @@ tib10_table_data = [
  },
  {
    "Name": "Scio",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/151\" target=\"_blank\">151f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/148\" target=\"_blank\">148</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/151\" target=\"_blank\">151f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -16957,7 +16957,7 @@ tib10_table_data = [
  },
  {
    "Name": "Scius, insula",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/53\" target=\"_blank\">53</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17011,7 +17011,7 @@ tib10_table_data = [
  },
  {
    "Name": "Selēniakoi aigialoi",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17023,7 +17023,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sēmadi, Berg (Insel Neoi/H. Eustratios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/228\" target=\"_blank\">228</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17047,7 +17047,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sergitzē, kleine Insel (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17071,7 +17071,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sestos, Sēstos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17107,7 +17107,7 @@ tib10_table_data = [
  },
  {
    "Name": "Siderunta (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/276\" target=\"_blank\">276f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 38, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/39\" target=\"_blank\">39</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/40\" target=\"_blank\">40</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>,  A. 44, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/276\" target=\"_blank\">276f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17155,7 +17155,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sigri (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/277\" target=\"_blank\">277</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17221,13 +17221,13 @@ tib10_table_data = [
  },
  {
    "Name": "Simōnos Petra, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Sio (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/268\" target=\"_blank\">268</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17239,7 +17239,7 @@ tib10_table_data = [
  },
  {
    "Name": "Siphnos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 73, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17263,7 +17263,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sithōnia, Halbinsel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17275,13 +17275,13 @@ tib10_table_data = [
  },
  {
    "Name": "Sizilien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Skala (Kotzinos, Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/202\" target=\"_blank\">202</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17299,7 +17299,7 @@ tib10_table_data = [
  },
  {
    "Name": "Skala Eressu (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17311,7 +17311,7 @@ tib10_table_data = [
  },
  {
    "Name": "Skala Kallonēs",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/255\" target=\"_blank\">255</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17329,7 +17329,7 @@ tib10_table_data = [
  },
  {
    "Name": "Skala Mariōn",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17347,7 +17347,7 @@ tib10_table_data = [
  },
  {
    "Name": "Skala Sykamineas (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17371,7 +17371,7 @@ tib10_table_data = [
  },
  {
    "Name": "Skandalē (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17401,13 +17401,13 @@ tib10_table_data = [
  },
  {
    "Name": "Skiathos, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>,  A. 54, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>,  A. 1, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>,  A. 4, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/70\" target=\"_blank\">70</a>,  A. 54, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>,  A. 1, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "-> TIB 1",
    "Volume": "TIB 10"
  },
  {
    "Name": "Skiro",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17419,7 +17419,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sklabia (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 39, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17431,13 +17431,13 @@ tib10_table_data = [
  },
  {
    "Name": "Skopelos, Insel (Nördl. Sporaden)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19. 88, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19. 88, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "-> TIB 1",
    "Volume": "TIB 10"
  },
  {
    "Name": "Skopelos (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17479,19 +17479,19 @@ tib10_table_data = [
  },
  {
    "Name": "Skutaron, Skutaros (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Skyropula, Insel",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Skyros, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/66\" target=\"_blank\">66f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>,  A. 30 u. 33, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/84\" target=\"_blank\"> 84</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/113\" target=\"_blank\">113f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/279\" target=\"_blank\">279—281</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 19, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>,  A. 30 u. 33, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\"> 84</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/86\" target=\"_blank\">86</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/144\" target=\"_blank\">144f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/161\" target=\"_blank\">161</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/193\" target=\"_blank\">193</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/279\" target=\"_blank\">279—281</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17503,7 +17503,7 @@ tib10_table_data = [
  },
  {
    "Name": "Smyrna, Smyrnē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17545,13 +17545,13 @@ tib10_table_data = [
  },
  {
    "Name": "H. Sophia (1) (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/137\" target=\"_blank\">137</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/170\" target=\"_blank\">170</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Sophia (2), Gipfel (Samothrakē)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/282\" target=\"_blank\">282</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17575,19 +17575,19 @@ tib10_table_data = [
  },
  {
    "Name": "Sōtēr (1), Kl. (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Sōtēr (2) (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Sōtēr (3), Kap und Flur (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/283\" target=\"_blank\">283f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/96\" target=\"_blank\">96</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/283\" target=\"_blank\">283f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17629,7 +17629,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sōtēr Christos (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17707,7 +17707,7 @@ tib10_table_data = [
  },
  {
    "Name": "Spann, cavo di (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/194\" target=\"_blank\">194</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17761,7 +17761,7 @@ tib10_table_data = [
  },
  {
    "Name": "Sporaden",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/146\" target=\"_blank\">146</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17851,7 +17851,7 @@ tib10_table_data = [
  },
  {
    "Name": "Stauras (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17875,7 +17875,7 @@ tib10_table_data = [
  },
  {
    "Name": "Stenon Chiu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/143\" target=\"_blank\">143</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17905,7 +17905,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Stephanos (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17923,7 +17923,7 @@ tib10_table_data = [
  },
  {
    "Name": "Strata (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/190\" target=\"_blank\">190</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17947,7 +17947,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Stratēs (Insel Neoi, H. Eustratios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/240\" target=\"_blank\">240</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -17971,7 +17971,7 @@ tib10_table_data = [
  },
  {
    "Name": "Strongylē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18013,7 +18013,7 @@ tib10_table_data = [
  },
  {
    "Name": "Stypsē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/185\" target=\"_blank\">185</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18031,7 +18031,7 @@ tib10_table_data = [
  },
  {
    "Name": "Suluhahçe (Tenedos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/171\" target=\"_blank\">171</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18061,7 +18061,7 @@ tib10_table_data = [
  },
  {
    "Name": "Syberdia (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18073,13 +18073,13 @@ tib10_table_data = [
  },
  {
    "Name": "Sykaminea (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/131\" target=\"_blank\">131</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Sykeu tu, Metochion (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18127,7 +18127,7 @@ tib10_table_data = [
  },
  {
    "Name": "Syrien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/104\" target=\"_blank\">104</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18151,7 +18151,7 @@ tib10_table_data = [
  },
  {
    "Name": "Taix, lo (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18163,13 +18163,13 @@ tib10_table_data = [
  },
  {
    "Name": "Talaro (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Talaros (Chios)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/285\" target=\"_blank\">285f.</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/285\" target=\"_blank\">285f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18211,7 +18211,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tarsos (Eressos, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/162\" target=\"_blank\">162</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18259,7 +18259,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tavșan Adası",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/223\" target=\"_blank\">223</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18283,7 +18283,7 @@ tib10_table_data = [
  },
  {
    "Name": "Taxiarchai (Imbros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113u.</a>,  A. 24, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/113\" target=\"_blank\">113u.</a>,  A. 24, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18319,7 +18319,7 @@ tib10_table_data = [
  },
  {
    "Name": "Taxiarchai Klōpedē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/116\" target=\"_blank\">116</a>,  A. 35, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/205\" target=\"_blank\">205</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/267\" target=\"_blank\">267</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18445,7 +18445,7 @@ tib10_table_data = [
  },
  {
    "Name": "Taxo",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/84\" target=\"_blank\">84</a>,  A. 120, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18469,7 +18469,7 @@ tib10_table_data = [
  },
  {
    "Name": "Telōnia (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/203\" target=\"_blank\">203</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/257\" target=\"_blank\">257</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18487,7 +18487,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tenediōtēs (Neoi)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/132\" target=\"_blank\">132</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18499,13 +18499,13 @@ tib10_table_data = [
  },
  {
    "Name": "Tenedos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/287\" target=\"_blank\">287—291</a></b>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76</a>,  A. 45, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/99\" target=\"_blank\">99</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/160\" target=\"_blank\">160</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/200\" target=\"_blank\">200</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/266\" target=\"_blank\">266</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/287\" target=\"_blank\">287—291</a></b>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Tenedu, Lesbu, Poroselēnēs kai Aigialōn, Kirchensprengel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/231\" target=\"_blank\">231</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18529,7 +18529,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tenidos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/288\" target=\"_blank\">288</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18541,13 +18541,13 @@ tib10_table_data = [
  },
  {
    "Name": "Tēnos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Tenus",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/51\" target=\"_blank\">51</a>,  A. 14, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18577,7 +18577,7 @@ tib10_table_data = [
  },
  {
    "Name": "Terezi, Hügel (Methymna, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/112\" target=\"_blank\">112</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18613,7 +18613,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thanos (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18637,25 +18637,25 @@ tib10_table_data = [
  },
  {
    "Name": "Thasopula, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thasos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/62\" target=\"_blank\">62f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/15\" target=\"_blank\">15</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>,  A.             12, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291—293</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/49\" target=\"_blank\">49</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/50\" target=\"_blank\">50</a>,  A. 7, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/68\" target=\"_blank\">68f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/76\" target=\"_blank\">76u.</a>,  A. 42, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/15\" target=\"_blank\">15</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/87\" target=\"_blank\">87f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/90\" target=\"_blank\">90</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/93\" target=\"_blank\">93</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/94\" target=\"_blank\">94</a>,  A.             12, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/102\" target=\"_blank\">102</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/119\" target=\"_blank\">119</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/177\" target=\"_blank\">177f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/242\" target=\"_blank\">242</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291—293</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thasos (Kastro, Marmarolimēn, Limenas)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/220\" target=\"_blank\">220</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thasos-Kanal, Stenon Thasu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18673,7 +18673,7 @@ tib10_table_data = [
  },
  {
    "Name": "H. Thekla (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/293\" target=\"_blank\">293f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/293\" target=\"_blank\">293f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18721,19 +18721,19 @@ tib10_table_data = [
  },
  {
    "Name": "H. Theodōroi, Siedlung und Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/107\" target=\"_blank\">107</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 31, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/163\" target=\"_blank\">163</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/294\" target=\"_blank\">294</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Theodōroi, Kirche (Mitylēnē, Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/233\" target=\"_blank\">233</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "H. Theodōroi (in Flur Phanu, Palaiokastron [2], Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/208\" target=\"_blank\">208</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/246\" target=\"_blank\">246</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18781,7 +18781,7 @@ tib10_table_data = [
  },
  {
    "Name": "Theologos [=Iōannēs Theologos (1)]",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/180\" target=\"_blank\">180</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18955,7 +18955,7 @@ tib10_table_data = [
  },
  {
    "Name": "Theotokos Eleusa (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115u.</a>,  A. 30, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18967,7 +18967,7 @@ tib10_table_data = [
  },
  {
    "Name": "Theotokos Kakabiōtissa (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/241\" target=\"_blank\">241</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -18997,13 +18997,13 @@ tib10_table_data = [
  },
  {
    "Name": "Theotokos Trigēs, Metochion (Lēmnos) A",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/11530\" target=\"_blank\">11530</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/11530\" target=\"_blank\">11530</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thēra",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/77\" target=\"_blank\">77</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/89\" target=\"_blank\">89</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19021,7 +19021,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thērasia",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/55\" target=\"_blank\">55</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/79\" target=\"_blank\">79</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19033,7 +19033,7 @@ tib10_table_data = [
  },
  {
    "Name": "Therma (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/64\" target=\"_blank\">64</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/98\" target=\"_blank\">98</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/295\" target=\"_blank\">295</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19045,7 +19045,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thermaïkos kolpos, Thermaïscher Golf",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19069,7 +19069,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thermē (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19081,19 +19081,19 @@ tib10_table_data = [
  },
  {
    "Name": "Thessalien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>,  A. 18, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/88\" target=\"_blank\">88</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/238\" target=\"_blank\">238</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thessalonikē",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>,  A. 70, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291f.</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/69\" target=\"_blank\">69</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/73\" target=\"_blank\">73</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/75\" target=\"_blank\">75f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/80\" target=\"_blank\">80</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/83\" target=\"_blank\">83</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>,  A. 70, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/214\" target=\"_blank\">214</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/221\" target=\"_blank\">221</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/274\" target=\"_blank\">274</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291f.</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thiasopula, Insel",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19111,7 +19111,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thimiana, Thimianà (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19129,7 +19129,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tholopotami (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 37, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/191\" target=\"_blank\">191</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/225\" target=\"_blank\">225</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/253\" target=\"_blank\">253</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/278\" target=\"_blank\">278</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/284\" target=\"_blank\">284</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19141,7 +19141,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thōmas H. (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118u.</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/296\" target=\"_blank\">296f.</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/118\" target=\"_blank\">118u.</a>,  A. 45, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/296\" target=\"_blank\">296f.</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19177,7 +19177,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thrakien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/273\" target=\"_blank\">273f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/63\" target=\"_blank\">63</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/105\" target=\"_blank\">105</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/111\" target=\"_blank\">111</a>,  A. 15, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/210\" target=\"_blank\">210</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/273\" target=\"_blank\">273f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/292\" target=\"_blank\">292</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19189,13 +19189,13 @@ tib10_table_data = [
  },
  {
    "Name": "Thrakische Cherson(n)es",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/54\" target=\"_blank\">54</a>,  A. 67, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/103\" target=\"_blank\">103</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Thrakisches Meer",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/52\" target=\"_blank\">52</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/57\" target=\"_blank\">57</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19207,7 +19207,7 @@ tib10_table_data = [
  },
  {
    "Name": "Thymiana (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/97\" target=\"_blank\">97</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/117\" target=\"_blank\">117</a>,  A. 40, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19231,7 +19231,7 @@ tib10_table_data = [
  },
  {
    "Name": "Timana",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/215\" target=\"_blank\">215</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19273,7 +19273,7 @@ tib10_table_data = [
  },
  {
    "Name": "Torloti, S. Marie de T., Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19297,7 +19297,7 @@ tib10_table_data = [
  },
  {
    "Name": "Trachiu (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/226\" target=\"_blank\">226</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19321,7 +19321,7 @@ tib10_table_data = [
  },
  {
    "Name": "Treis Mpukes, Bucht (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/106\" target=\"_blank\">106</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/196\" target=\"_blank\">196</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/264\" target=\"_blank\">264</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/281\" target=\"_blank\">281</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19375,7 +19375,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tribunon (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/165\" target=\"_blank\">165</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19387,7 +19387,7 @@ tib10_table_data = [
  },
  {
    "Name": "Trikorpho(n), Geb. (Thasos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/62\" target=\"_blank\">62</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/291\" target=\"_blank\">291</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19417,7 +19417,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tripotamati flumen (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/168\" target=\"_blank\">168</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/254\" target=\"_blank\">254</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19429,7 +19429,7 @@ tib10_table_data = [
  },
  {
    "Name": "Troas",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/58\" target=\"_blank\">58</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/60\" target=\"_blank\">60</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/65\" target=\"_blank\">65</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19447,7 +19447,7 @@ tib10_table_data = [
  },
  {
    "Name": "Trois bouches (Skyros)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/182\" target=\"_blank\">182</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19495,7 +19495,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tsera Panagia (Skyros)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/297\" target=\"_blank\">297</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19513,13 +19513,13 @@ tib10_table_data = [
  },
  {
    "Name": "Tsiknias, Fluß",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184f.</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/66\" target=\"_blank\">66</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/157\" target=\"_blank\">157</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184f.</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/286\" target=\"_blank\">286</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
  {
    "Name": "Tsimandria (Lēmnos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19597,7 +19597,7 @@ tib10_table_data = [
  },
  {
    "Name": "Tzukalochōri (Lesbos)",
-   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
+   "Pages": "<b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19639,7 +19639,7 @@ tib10_table_data = [
  },
  {
    "Name": "Ura, Kap bei Pasa Limani (Chios)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/222\" target=\"_blank\">222</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/227\" target=\"_blank\">227</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19693,7 +19693,7 @@ tib10_table_data = [
  },
  {
    "Name": "Varvas(s)i",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/134\" target=\"_blank\">134</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19711,7 +19711,7 @@ tib10_table_data = [
  },
  {
    "Name": "Vasilicha",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/184\" target=\"_blank\">184</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19723,7 +19723,7 @@ tib10_table_data = [
  },
  {
    "Name": "Vassiglionicos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/135\" target=\"_blank\">135</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/174\" target=\"_blank\">174</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19759,7 +19759,7 @@ tib10_table_data = [
  },
  {
    "Name": "Venedig",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/85\" target=\"_blank\">85</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/150\" target=\"_blank\">150</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/206\" target=\"_blank\">206</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/280\" target=\"_blank\">280</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19819,7 +19819,7 @@ tib10_table_data = [
  },
  {
    "Name": "Volithi, contrata de",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/138\" target=\"_blank\">138</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/141\" target=\"_blank\">141</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19837,7 +19837,7 @@ tib10_table_data = [
  },
  {
    "Name": "Westkleinasien",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/59\" target=\"_blank\">59</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/67\" target=\"_blank\">67</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/109\" target=\"_blank\">109</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/155\" target=\"_blank\">155</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19867,7 +19867,7 @@ tib10_table_data = [
  },
  {
    "Name": "Xērokastron, Ort und Kl. (Lesbos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/229\" target=\"_blank\">229</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/298\" target=\"_blank\">298</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19879,7 +19879,7 @@ tib10_table_data = [
  },
  {
    "Name": "Xēropotamu, Athōs-Kl.",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/114\" target=\"_blank\">114</a>,  A. 28, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/179\" target=\"_blank\">179</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/192\" target=\"_blank\">192</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/219\" target=\"_blank\">219</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19891,7 +19891,7 @@ tib10_table_data = [
  },
  {
    "Name": "Xiu",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/145\" target=\"_blank\">145</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -19999,7 +19999,7 @@ tib10_table_data = [
  },
  {
    "Name": "Zakynthos",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/72\" target=\"_blank\">72</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -20023,7 +20023,7 @@ tib10_table_data = [
  },
  {
    "Name": "Zerbada (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/199\" target=\"_blank\">199</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -20161,7 +20161,7 @@ tib10_table_data = [
  },
  {
    "Name": "Zymata (Lēmnos)",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <b><a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/115\" target=\"_blank\">115</a>,  A. 30, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/269\" target=\"_blank\">269</a>, <b><a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/299\" target=\"_blank\">299</a></b>",
    "Notes": "",
    "Volume": "TIB 10"
  },
@@ -20179,7 +20179,7 @@ tib10_table_data = [
  },
  {
    "Name": "Zypern",
-   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 26, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
+   "Pages": "<a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/61\" target=\"_blank\">61</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/74\" target=\"_blank\">74</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/82\" target=\"_blank\">82</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/101\" target=\"_blank\">101</a>,  A. 26, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/147\" target=\"_blank\">147</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/207\" target=\"_blank\">207</a>, <a href=\"https://tib.oeaw.ac.at/static/reader/TIB/tib10.html#page/212\" target=\"_blank\">212</a>",
    "Notes": "—> Kypros",
    "Volume": "TIB 10"
  }

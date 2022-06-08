@@ -32,7 +32,7 @@
     <div class="row">
       {% for item in outreach %}
         <div class="col-3">
-          {{ outreach_modal(item, loop.index) }}
+          {{ outreach_modal(item, loop.index, outreach_icons[item.id]) }}
         </div>
       {% endfor %}
     </div>

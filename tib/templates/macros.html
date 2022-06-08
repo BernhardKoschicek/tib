@@ -97,9 +97,9 @@
             <div class="col-12 text-center">
               <p>
                 <button
-                  type="button"
-                  class="btn btn-violet btn-rounded btn-md ml-4"
-                  data-bs-dismiss="modal">Close
+                        type="button"
+                        class="btn btn-violet btn-rounded btn-md ml-4"
+                        data-bs-dismiss="modal">Close
                 </button>
               </p>
             </div>
@@ -111,14 +111,22 @@
 {% endmacro %}
 
 
-{% macro outreach_modal(outreach, index) %}
+{% macro outreach_modal(outreach, index, icon) %}
   <!-- Modal Button -->
   <div role="button" class="card mb-3"
        data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
-    {% if outreach.icon %}
+    {% if icon %}
       <img class="img-fluid d-flex z-depth-1"#}
-           src="{{ url_for('static', filename=outreach.icon) }}"
+           src="{{ url_for('static', filename=icon.path) }}"
            alt="{{ outreach.title }}">
+      <small style="font-size: 0.6rem" class="pt-1 pe-1 text-end">
+        {% if icon.license %}
+          {{ icon.license |safe }}
+        {% endif %}
+        {% if icon.author %}
+          by <a class="text-decoration-none" href="{{ icon.url }}">{{ icon.author }}</a>
+        {% endif %}
+      </small>
     {% else %}
       <i class="bi {{ outreach.type.bs_icon }} text-center"
          style="font-size: 5rem;"></i>
@@ -149,7 +157,7 @@
           <div id="carouselExampleControls" class="carousel slide col-8"
                data-bs-ride="carousel">
             <div class="carousel-indicators">
-              {% for img in images if outreach.id in img.category %}
+              {% for img in outreach_gallery if outreach.id in img.category %}
                 <button type="button"
                         data-bs-target="#carouselExampleIndicators"
                         data-bs-slide-to="{{ loop.index }}"
@@ -159,7 +167,7 @@
               {% endfor %}
             </div>
             <div class="carousel-inner">
-              {% for img in images if outreach.id in img.category %}
+              {% for img in outreach_gallery if outreach.id in img.category %}
 
                 <div class="carousel-item {% if loop.first %}active{% endif %}">
                   <img src="{{ url_for('static', filename=img.path) }}"

@@ -4,14 +4,14 @@ from flask import render_template
 
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
-from tib.data.outreach import outreach
+from tib.data.outreach import outreach, outreach_ger
 from tib.data.balkan.project_results import project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, \
     tib_history
-from tib.data.images.outreach import img_outreach
+from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.index import front_menu
 from tib.data.oa_access import get_entity_from_oa, \
     get_oa_by_view_class, view_classes
@@ -35,7 +35,7 @@ def home() -> str:
         subprojects=subprojects_ger,
         team=team_members,
         outreach=outreach,
-        images=img_outreach)
+        images=gallery_outreach)
 
 
 @app.route('/balkan/team')
@@ -88,8 +88,9 @@ def balkan_subprojects(project: str = None) -> str:
 def balkan_outreach() -> str:
     return render_template(
         'balkan/outreach/outreach.html',
-        outreach=outreach,
-        images=img_outreach)
+        outreach=outreach_ger,
+        outreach_gallery=gallery_outreach,
+        outreach_icons=icons_outreach)
 
 
 @app.route('/entity/<id_>')

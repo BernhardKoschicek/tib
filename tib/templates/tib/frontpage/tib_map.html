@@ -6,7 +6,7 @@
         <p class="lead">
           Our TIB map viewer is online!
           Please feel free to
-          <a href="https://data1.geo.univie.ac.at/projects/tibapp/">browse
+          <a href="{{ url_for('tib_atlas') }}">browse
             and test it</a>. It features selected data from the
           <a href="{{ url_for('home') }}">TIB Balkans</a> deriving from its
           <a href="{{ url_for('tib_sub_projects') }}">sub-projects</a>
@@ -18,13 +18,13 @@
         </p>
         <p class="text-end fw-bolder">
           <a class="btn btn-violet bg-violet btn-lg"
-             href="https://data1.geo.univie.ac.at/projects/tibapp/">
+             href="{{ url_for('tib_atlas') }}">
             Try it out now!
           </a>
         </p>
       </div>
       <div class="col-6">
-        <a href="https://data1.geo.univie.ac.at/projects/tibapp/">
+        <a href="{{ url_for('tib_atlas') }}">
           <img src="{{ url_for('static', filename='images/mapviewer.gif') }}"
                alt="TIB Map Viewer">
         </a>

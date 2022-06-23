@@ -1,4 +1,4 @@
-from flask import render_template
+from flask import Response, redirect, render_template
 
 from tib import app
 from tib.data.images.images import IMAGES_SUB, IMAGES_TIB
@@ -116,3 +116,8 @@ def tib_imprint() -> str:
 @app.route('/contact')
 def tib_contact() -> str:
     return render_template('tib/current_status/current_status.html')
+
+
+@app.route('/atlas')
+def tib_atlas() -> Response:
+    return redirect('https://data1.geo.univie.ac.at/projects/tibapp/')

@@ -394,7 +394,7 @@ tib_articles = [
     {
         "author": "Mihailo Popović",
         "title": "Die Siedlungsstruktur der Region Melnik in spätbyzantinischer und osmanischer Zeit. Zbornik Radova Vizantološkog Instituta 47",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2010",
         "pages": "247–276"
     },
@@ -562,7 +562,7 @@ tib_articles = [
     {
         "author": "Mihailo Popović",
         "title": "Да ли су класична историјска географија византијског света и GIS технологија противречност? О употреби савремених технологија у хуманистичким наукама, in: Mélanges Ljubomir Maksimović [=Zbornik Radova Vizantološkog Instituta 50/2 (2013)]",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2013",
         "pages": "227–240"
     },
@@ -653,14 +653,14 @@ tib_articles = [
     {
         "author": "Mihailo Popović",
         "title": "Die Topographie der mittelalterlichen Stadt Skopje zwischen Byzantinischem und Serbischem Reich (13.–14. Jh.). Initial, A Review of Medieval Studies 3",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2015",
         "pages": "35–55"
     },
     {
         "author": "Mihailo Popović",
         "title": "Das Kloster Hilandar und seine Weidewirtschaft in der historischen Landschaft Mazedonien im 14. Jahrhundert, in: ΠΕΡΙΒΟΛΟΣ – Mélanges offerts à Mirjana Živojinović, Tome I",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2015",
         "pages": "215–225"
     },
@@ -758,21 +758,21 @@ tib_articles = [
     {
         "author": "Mihailo Popović",
         "title": "The \"Medieval Serbian Oecumene\" – Fiction or Reality?, in: Byzantine Heritage and Serbian Art I. Process of Byzantinisation and Serbian Archaeology, ed. V. BIKIĆ",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2016",
         "pages": "37–43"
     },
     {
         "author": "Mihailo Popović",
         "title": "„Средњовековна српска екумена\" – фикција или стварност?, in: Византијско наслеђе и српска уметност I. Процеси Византинизације и српска археологија, ed. В. Бикић",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2016",
         "pages": "37–43"
     },
     {
         "author": "Mihailo Popović",
         "title": "Saint Clement of Ohrid: His Life and Aftermath between Sofia and Skopje, in: Homage to Tibor Živković (Institute of History Belgrade, Collection of Works Volume 32)",
-        "location": "Belgrade",
+        "location": "Beograd",
         "date": "2016",
         "pages": "77–91"
     },
@@ -932,10 +932,10 @@ tib_articles = [
     },
     {
         "author": "Mihailo Popović, Vratislav Zervan",
-        "title": "Signs and Maps of Power in     Medieval Europe: A Case Study on Byzantine Macedonia (13th/14th Centuries), MEMO –     Medieval and Early Modern Material Culture Online:     MEMO # 2 – Digital Humanities & Materielle Kultur. doi: 10.25536/20180206",
+        "title": "Signs and Maps of Power in Medieval Europe: A Case Study on Byzantine Macedonia (13th/14th Centuries), MEMO – Medieval and Early Modern Material Culture Online:     MEMO # 2 – Digital Humanities & Materielle Kultur. doi: 10.25536/20180206",
         "location": "Krems an der Donau",
         "date": "2018",
-        "pages": ""
+        "pages": "105–121"
     },
     {
         "author": "Mihailo Popović",
@@ -954,7 +954,7 @@ tib_articles = [
     {
         "author": "Mihailo Popović, Jelena Nikić",
         "title": "Byzantinistik, historische Geographie und Ethnographie in dem Königreich Jugoslavien an dem Beispiel des Professors Milenko S. Filipović und der Philosophischen Fakultät in Skoplje (1925–1940), Zbornik Radova Vizantološkog Instituta 55",
-        "location": "Skopje",
+        "location": "Beograd",
         "date": "2018",
         "pages": "305-324"
     },
@@ -1009,7 +1009,7 @@ tib_articles = [
     },
     {
         "author": "Mihailo Popović, Vratislav Zervan, Toni Filiposki",
-        "title": "Über das Verhältnis von Herrschertiteln und Räumen: eine Fallstudie     zu Makedonien unter dem König     und Zaren Stefan Dušan (1331-1355). Zbornik Radova Vizantološkog Instituta 57.",
+        "title": "Über das Verhältnis von Herrschertiteln und Räumen: eine Fallstudie zu Makedonien unter dem König und Zaren Stefan Dušan (1331-1355). Zbornik Radova Vizantološkog Instituta 57.",
         "location": "Beograd",
         "date": "2020",
         "pages": "61-102"

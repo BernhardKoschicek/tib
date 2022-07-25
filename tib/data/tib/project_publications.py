@@ -34,7 +34,7 @@ project_publications = [{
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan, Toni Filiposki",
     "title": "Über das Verhältnis von Herrschertiteln und Räumen: eine Fallstudie zu Makedonien unter dem König und Zaren Stefan Dušan (1331-1355). Zbornik Radova Vizantološkog Instituta 57",
-    "location": "",
+    "location": "Beograd",
     "date": "2020",
     "pages": "179-199",
     "category": ['borderzones'],
@@ -42,7 +42,7 @@ project_publications = [{
 }, {
     "author": "Vratislav Zervan",
     "title": "Prosopographische Bemerkungen zu einer Grenzregion in Zeiten der Krise: Herausragende Akteure und Opfer nach den Eroberungszügen des serbischen Königs Stefan Uroš II. Milutin im byzantinischen Makedonien. Byzantinoslovaca 7 [Zborník k životnému jubileu profesora Miroslava Daniša]",
-    "location": "",
+    "location": "Wien",
     "date": "2020",
     "pages": "141–151",
     "category": ['borderzones'],

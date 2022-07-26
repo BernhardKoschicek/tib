@@ -1,5 +1,8 @@
 from typing import Any, Dict
 
+from tib.model.types import Types
+from tib.model.util import format_date, get_date
+from tib.util.api_calls import get_entity
 from tib.util.util import uc_first
 
 
@@ -13,6 +16,16 @@ class Entity:
         self.system_class = uc_first(data['systemClass'])
         self.types = self.get_types(data['types']) if 'types' in data else None
         self.alias = self.get_alias(data['names'])
+        self.begin_from = format_date(
+            data['when']['timespans'][0]['start']['earliest'])
+        self.begin_to = format_date(
+            data['when']['timespans'][0]['start']['latest'])
+        self.end_from = format_date(
+            data['when']['timespans'][0]['end']['earliest'])
+        self.end_to = format_date(
+            data['when']['timespans'][0]['end']['latest'])
+        self.begin = get_date(self.begin_from, self.begin_to)
+        self.end = get_date(self.end_from, self.end_to)
         # self.begin = self.get_date(data['when']['timespans'], 'start')
         # if 'depictions' in data else None
         # self.end = self.get_date(data['when']['timespans'], 'end')
@@ -34,9 +47,13 @@ class Entity:
     #     return entity
 
     @staticmethod
+    def get_entity_from_oa(id_: int):
+        return Entity(get_entity(id_))
+
+    @staticmethod
     def get_alias(data: list[dict[str, str]]) -> str:
         return ', '.join(map(str, [alias['alias'] for alias in data])) \
-            if data else None
+            if data else ''
 
     @staticmethod
     def get_types(data):
@@ -124,10 +141,4 @@ class Relation:
         self.type = data['type']
 
 
-class Types:
-    def __init__(self, data: Dict[str, Any]):
-        self.label = data['label']
-        self.hierarchy = data['hierarchy']
-        self.value = data['value']
-        self.unit = data['unit']
-        self.identifier = data['identifier'].rsplit('/', 1)[-1]
+

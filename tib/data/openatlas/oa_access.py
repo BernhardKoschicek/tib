@@ -1,7 +1,7 @@
 from typing import List
 
 from tib.model.entity import Entity
-from tib.util.api_calls import get_entity, get_view_class
+from tib.util.api_calls import get_view_class
 
 view_classes = {
     'actor': {
@@ -37,5 +37,3 @@ def get_oa_by_view_class(view: str, project_id: object) -> List[Entity]:
     return data
 
 
-def get_entity_from_oa(id_: int) -> Entity:
-    return Entity(get_entity(id_))

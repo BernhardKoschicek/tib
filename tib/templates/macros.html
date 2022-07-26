@@ -56,6 +56,10 @@
   <h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
 {% endmacro %}
 
+{% macro sub_header(title, bold) %}
+  <h5 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h5>
+{% endmacro %}
+
 {% macro header_balkan(title, bold) %}
   <h1 class=" display-4">{{ title }}</h1>
 {% endmacro %}

@@ -2,10 +2,32 @@
 {% block title %}TIB OpenAtlas Access{% endblock %}
 {% block content %}
   <div class="container top7">
-     {{ header(entity.name) }}
-    <div class="btn btn-violet-light px-2 py-1 pill">
- {{ entity.system_class }}
+    {{ header(entity.name) }}
+    {{ sub_header(entity.alias) }}
+
+
+    <button class="btn btn-violet-light px-2 py-1 pill">
+      {{ entity.system_class }}
+    </button>
+    <div>
+      {% for key, value in type_hierarchy.items() %}
+        <div class="col pt-1">
+        <span class="fw-bold">{{ key }}:</span>
+        {% for type in value %}
+          <button class="btn btn-violet-light px-2 py-1 pill">
+            {{ type }}
+          </button>
+        {% endfor %}
+        </div>
+      {% endfor %}
     </div>
+
+
+    <div>
+      <p>Begin: {{ entity.begin }}</p>
+      <p>End: {{ entity.end }}</p>
+    </div>
+
     <div class="col-md-12">
       <table class="table table-striped hover order-column w-100">
         <tr>
@@ -31,9 +53,13 @@
               <ul class="list-unstyled">
                 {% for type in entity.types %}
                   <li>
-                    <a href="{{ url_for('entity_view', id_=type.identifier) }}">
-                      {{ type.hierarchy }} > {{ type.label }}
-                    </a>
+                    <button class="btn btn-violet-light px-2 py-1 pill">
+                      <a href="{{ url_for('entity_view', id_=type.identifier) }}"
+                         class="text-decoration-none">
+                        {{ type.hierarchy }} > <span
+                              class="fw-bold">{{ type.label }}</span>
+                      </a>
+                    </button>
                   </li>
                 {% endfor %}
               </ul>
@@ -47,16 +73,17 @@
 
       </table>
     </div>
-  {% if entity.depictions %}
-    <div class="row">
-      {% for img in entity.depictions %}
-        <div class="col-3 p-3">
-          <img src="{{ img.url + '?image_size=thumbnail' }}" class="img-fluid">
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
+    {% if entity.depictions %}
+      <div class="row">
+        {% for img in entity.depictions %}
+          <div class="col-3 p-3">
+            <img src="{{ img.url + '?image_size=thumbnail' }}"
+                 class="img-fluid">
+          </div>
+        {% endfor %}
+      </div>
+      </div>
+    {% endif %}
 {% endblock %}
 
 

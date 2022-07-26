@@ -12,7 +12,7 @@ class Entity:
         self.description = self.get_description(data['descriptions'])
         self.system_class = uc_first(data['systemClass'])
         self.types = self.get_types(data['types']) if 'types' in data else None
-        self.alias = data['names'] if 'names' in data else None
+        self.alias = self.get_alias(data['names'])
         # self.begin = self.get_date(data['when']['timespans'], 'start')
         # if 'depictions' in data else None
         # self.end = self.get_date(data['when']['timespans'], 'end')
@@ -32,6 +32,12 @@ class Entity:
     #         'end': get_date(data['when']['timespans'], 'end')
     #     }
     #     return entity
+
+    @staticmethod
+    def get_alias(data: list[dict[str, str]]) -> str:
+        return ', '.join(map(str, [alias['alias'] for alias in data])) \
+            if data else None
+
     @staticmethod
     def get_types(data):
         if not data:

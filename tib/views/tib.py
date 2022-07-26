@@ -3,7 +3,9 @@ from flask import Response, redirect, render_template
 from tib import app
 from tib.data.images.images import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
+from tib.data.openatlas.oa_access import get_entity_from_oa, view_classes
 from tib.data.outreach import outreach
+from tib.data.openatlas.subprojects import subprojects_en_discover
 from tib.data.tib.counter import counter
 from tib.data.tib.digtib import digtib_bar
 from tib.data.tib.jumbotron import front_jumbotron
@@ -121,3 +123,18 @@ def tib_contact() -> str:
 @app.route('/atlas')
 def tib_atlas() -> Response:
     return redirect('https://data1.geo.univie.ac.at/projects/tibapp/')
+
+
+@app.route('/discover')
+def tib_discover() -> str:
+    return render_template(
+        'openatlas/discover.html',
+        subprojects_dict=subprojects_en_discover,
+        view_classes=view_classes)
+
+
+@app.route('/entity/<id_>')
+def entity_view(id_: int) -> str:
+    return render_template(
+        'openatlas/entity_view.html',
+        entity=get_entity_from_oa(id_))

@@ -13,9 +13,8 @@ from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, 
     tib_history
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.index import front_menu
-from tib.data.oa_access import get_entity_from_oa, \
-    get_oa_by_view_class, view_classes
-from tib.data.subprojects import subprojects_dict
+from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
+from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
 from tib.data.tib.presentations import presentations
 from tib.data.tib.project_publications import project_publications
@@ -95,13 +94,6 @@ def balkan_outreach() -> str:
         outreach_icons=icons_outreach)
 
 
-@app.route('/entity/<id_>')
-def entity_view(id_: int) -> str:
-    return render_template(
-        'balkan/digital/entity_view.html',
-        entity=get_entity_from_oa(id_))
-
-
 @app.route('/balkan/digital')
 @app.route('/balkan/digital/<category>')
 def balkan_digital(category: str = None) -> str:
@@ -109,12 +101,12 @@ def balkan_digital(category: str = None) -> str:
         return render_template(
             f'balkan/digital/{category}.html',
             objects3d=objects3d,
-            subprojects_dict=subprojects_dict,
+            subprojects_dict=subprojects_ger_discover,
             view_classes=view_classes)
     return render_template(
         'balkan/digital/digital.html',
         objects3d=objects3d,
-        subprojects_dict=subprojects_dict,
+        subprojects_dict=subprojects_ger_discover,
         view_classes=view_classes)
 
 
@@ -122,8 +114,10 @@ def balkan_digital(category: str = None) -> str:
 def digital_oa_access(project: str, view: str) -> str:
     return render_template(
         'balkan/digital/entity_table.html',
-        data=get_oa_by_view_class(view, subprojects_dict[project]['oaID']),
-        project=subprojects_dict[project],
+        data=get_oa_by_view_class(
+            view,
+            subprojects_ger_discover[project]['oaID']),
+        project=subprojects_ger_discover[project],
         view_classes=view_classes[view])
 
 

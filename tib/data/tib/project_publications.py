@@ -50,7 +50,7 @@ project_publications = [{
 }, {
     "author": "Mihailo St. Popović",
     "title": "Le changement des élites en Macédoine face à l’expansion serbe. Le cas de Skopje et ses environs au XIVe siècle, in: Byzance et ses voisins, XIIIe-XVe siècle. Art, identité, pouvoir, ed. E. Yota (Pour une histoire nouvelle de l’Europe 17).",
-    "location": "Bruxelles ",
+    "location": "Bruxelles",
     "date": "2021",
     "pages": "25-38",
     "category": ['borderzones'],

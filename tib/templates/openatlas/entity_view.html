@@ -2,6 +2,10 @@
 {% block title %}TIB OpenAtlas Access{% endblock %}
 {% block content %}
   <div class="container top7">
+     {{ header(entity.name) }}
+    <div class="btn btn-violet-light px-2 py-1 pill">
+ {{ entity.system_class }}
+    </div>
     <div class="col-md-12">
       <table class="table table-striped hover order-column w-100">
         <tr>
@@ -14,7 +18,7 @@
         </tr>
         <tr>
           <th class="table-active">Aliases</th>
-          <td> {{ entity.name }}</td>
+          <td> {{ entity.alias }}</td>
         </tr>
         <tr>
           <th class="table-active">System class</th>

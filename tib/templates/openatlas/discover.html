@@ -4,7 +4,7 @@
 {% block content %}
   <div class="container">
     <div class="text-center top7">
-      {{ header_balkan('Projektdaten durchsuchen') }}
+      {{ header('Discover Project Data') }}
     </div>
 
     <div class="row top5">
@@ -13,14 +13,14 @@
           role="tablist">
         {% for object, values in subprojects_dict.items() if object in show %}
           <li class="nav-item px-3" role="presentation">
-            <button class="nav-link btn btn-violet-light {% if loop.first %}active{% endif %} px-5 py-1 rounded-pill"
+            <div class="nav-link btn btn-violet-light {% if loop.first %}active{% endif %} px-5 py-1 rounded-pill"
                     id="{{ object }}-tab"
                     data-bs-toggle="pill" data-bs-target="#{{ object }}"
                     type="button"
                     role="tab" aria-controls="{{ object }}"
                     aria-selected="true">
               <span class="lead">{{ object.title() }}</span>
-            </button>
+            </div>
           </li>
         {% endfor %}
       </ul>

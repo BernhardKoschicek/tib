@@ -14,7 +14,6 @@ if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
 # pylint: disable=wrong-import-position, import-outside-toplevel
 from tib.util import filters, util
 from tib.views import tib, balkan
-from tib.model import team
 
 
 @babel.localeselector

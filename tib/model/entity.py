@@ -1,7 +1,7 @@
 from typing import Any, Dict
 
 from tib.model.types import Types
-from tib.model.util import format_date, get_date
+from tib.model.util import split_date_string, format_date
 from tib.util.api_calls import get_entity
 from tib.util.util import uc_first
 
@@ -15,17 +15,8 @@ class Entity:
         self.description = self.get_description(data['descriptions'])
         self.system_class = uc_first(data['systemClass'])
         self.types = self.get_types(data['types']) if 'types' in data else None
-        self.alias = self.get_alias(data['names'])
-        self.begin_from = format_date(
-            data['when']['timespans'][0]['start']['earliest'])
-        self.begin_to = format_date(
-            data['when']['timespans'][0]['start']['latest'])
-        self.end_from = format_date(
-            data['when']['timespans'][0]['end']['earliest'])
-        self.end_to = format_date(
-            data['when']['timespans'][0]['end']['latest'])
-        self.begin = get_date(self.begin_from, self.begin_to)
-        self.end = get_date(self.end_from, self.end_to)
+        self.alias = self.get_alias(data['names']) if 'names' in data else None
+
         # self.begin = self.get_date(data['when']['timespans'], 'start')
         # if 'depictions' in data else None
         # self.end = self.get_date(data['when']['timespans'], 'end')
@@ -34,6 +25,25 @@ class Entity:
             if 'relations' in data else None
         self.depictions = self.get_depiction(data['depictions']) \
             if 'depictions' in data else None
+
+        self.begin_from = None
+        self.begin_to = None
+        self.begin_comment = None
+        self.end_from = None
+        self.end_to = None
+        self.begin = None
+        self.end = None
+        if 'when' in data:
+            self.begin_from = split_date_string(
+                data['when']['timespans'][0]['start']['earliest'])
+            self.begin_to = split_date_string(
+                data['when']['timespans'][0]['start']['latest'])
+            self.end_from = split_date_string(
+                data['when']['timespans'][0]['end']['earliest'])
+            self.end_to = split_date_string(
+                data['when']['timespans'][0]['end']['latest'])
+            self.begin = format_date(self.begin_from, self.begin_to)
+            self.end = format_date(self.end_from, self.end_to)
 
     # def get_basic_data(data):
     #     entity = {

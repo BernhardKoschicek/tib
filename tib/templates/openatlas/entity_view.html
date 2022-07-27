@@ -31,6 +31,7 @@
             <td>
               {{ entity.id_ }}
             </td>
+          </tr>
           <tr>
             <th class="table-active">
               System Class
@@ -60,12 +61,12 @@
           <div class="entity-gallery gallery-row ">
             {% for list in images %}
               <div class="gallery-column">
-              {% for img in list %}
-                <a href="{{ img.url }}" data-caption="{{ img.title }}">
-                  <img src="{{ img.url + '?image_size=thumbnail' }}"
-                       class="img-fluid">
-                </a>
-              {% endfor %}
+                {% for img in list %}
+                  <a href="{{ img.url }}" data-caption="{{ img.title }}">
+                    <img src="{{ img.url + '?image_size=thumbnail' }}"
+                         class="img-fluid">
+                  </a>
+                {% endfor %}
               </div>
             {% endfor %}
           </div>
@@ -74,12 +75,46 @@
     </div>
     <div class="col-md-12 pt-3">
       {{ sub_header("Description") }}
-
       <div id="description">
         <p>
           {{ entity.description }}
         </p>
       </div>
+    </div>
+    <div class="col-md-12 pt-5">
+      <h3>Relations</h3>
+      {% for key, value in relations.items() %}
+        <h5>
+          {{ key | replace('_', ' ') | title }} ({{ value|length }})
+          <a class="btn btn-violet p-1" data-bs-toggle="collapse"
+             href="#collapse-{{ key }}" role="button" aria-expanded="false"
+             aria-controls="collapse-{{ key }}">
+            <i class="bi bi-caret-down-fill"  onclick="myFunction(this)"></i>
+          </a>
+        </h5>
+        <div class="collapse" id="collapse-{{ key }}">
+          <div class="card card-body">
+            <table class="table table-striped hover order-column w-100">
+              {% for item in value %}
+                <tr>
+                  <td>
+                    <a href="{{ url_for('entity_view', id_=item.relation_to_id) }}">
+                      {{ item.label }}
+                    </a>
+                  </td>
+                  {% if key == 'references' %}
+
+                    <td>
+                      {{ item.relation_description }}
+                    </td>
+                  {% endif %}
+                </tr>
+              {% endfor %}
+            </table>
+          </div>
+        </div>
+
+      {% endfor %}
 
     </div>
 
@@ -89,8 +124,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.js"></script>
   <script>
       window.addEventListener('load', function () {
-          baguetteBox.run('.entity-gallery', {
-          });
+          baguetteBox.run('.entity-gallery', {});
       });
   </script>
 
@@ -115,6 +149,11 @@
           }
 
       });
+  </script>
+  <script>
+      function myFunction(x) {
+          x.classList.toggle("bi-caret-up-fill");
+      }
   </script>
 
 {% endblock %}

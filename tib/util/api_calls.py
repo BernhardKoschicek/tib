@@ -27,6 +27,10 @@ def get_type_tree() -> List[TypeTree]:
     return [TypeTree(types) for types in type_tree.values()]
 
 
+def get_entities_linked_to_entity(id_: int):
+    url = f"{app.config['API_PATH']}/get_entities_linked_to_entity/"
+    return requests.get(f"{url}{id_}?limit=0").json()['results']
+
 def get_entity(id_: int):
     url = f"{app.config['API_PATH']}/entity/"
     return requests.get(f"{url}{id_}").json()['features'][0]

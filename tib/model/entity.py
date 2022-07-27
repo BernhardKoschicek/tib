@@ -145,9 +145,10 @@ class Depiction:
 class Relation:
     def __init__(self, data: Dict[str, Any]):
         self.label = data['label']
-        self.relation_to = data['relationTo']
+        self.relation_to_id = data['relationTo'].rsplit('/', 1)[-1]
         self.relation_type = data['relationType']
         self.relation_system_class = data['relationSystemClass']
+        self.relation_description = data['relationDescription']
         self.type = data['type']
 
 

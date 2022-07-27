@@ -1,4 +1,4 @@
-from typing import Any, Dict
+from typing import Any, Dict, List
 
 from tib.model.types import Types
 from tib.model.util import split_date_string, format_date
@@ -61,7 +61,7 @@ class Entity:
         return Entity(get_entity(id_))
 
     @staticmethod
-    def get_alias(data: list[dict[str, str]]) -> str:
+    def get_alias(data: List[Dict[str, str]]) -> str:
         return ', '.join(map(str, [alias['alias'] for alias in data])) \
             if data else ''
 

@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Dict, List
 
 from flask import render_template
 
@@ -16,7 +16,7 @@ def entity_view(id_: int) -> str:
         entity=entity,
         type_hierarchy=type_hierarchy)
 
-def get_types_sorted(types: list[Types]) -> dict[str, Any]:
+def get_types_sorted(types: List[Types]) -> Dict[str, Any]:
     type_hierarchy = {}
     for type_ in types:
         type_hierarchy.setdefault(type_.root, []).append(type_.label)

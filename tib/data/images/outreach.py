@@ -31,6 +31,12 @@ gallery_outreach = [
     }, ]
 
 icons_outreach = {
+    'tib11_release': {
+        'path': f'{icon_path}tib11_release.jpg',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'seminar_series_april': {
         'path': f'{icon_path}seminar_series_icon.jpg',
         'license': '',

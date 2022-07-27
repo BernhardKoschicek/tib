@@ -21,10 +21,15 @@ types = {
         'name': 'Präsentation',
         'bs_icon': 'bi-mortarboard-fill'
     },
+    'book_release': {
+        'name': 'Publikation',
+        'bs_icon': 'bi-book'
+    },
+
 }
 
 outreach_ger = [{
-    'id': 'seminar_series_april',
+    'id': 'tib11_release',
     'type': types['online_presentation'],
     'date': datetime(2022, 4, 1).strftime('%d.%m.%Y'),
     'who': [team['mpopovic']],
@@ -51,6 +56,27 @@ outreach_ger = [{
 }]
 
 outreach = [{
+    'id': 'tib11_release',
+    'type': types['book_release'],
+    'date': datetime(2022, 7, 26).strftime('%d.%m.%Y'),
+    'who': [team['psoustal'], team['mpopovic']],
+    'title': 'TIB Volume 11 ("Macedonia, Southern Part") published',
+    'description': """<p>
+        It is with great pleasure that we may announce the publication of the 
+        TIB Volume 11 ("Macedonia, Southern Part") written by Peter Soustal 
+        (with Andreas Pülz and Mihailo St. Popović as co-authors).
+        </p>
+        <p>
+        Cf. in detail: <a href="https://verlag.oeaw.ac.at/en/product/makedonien
+        -suedlicher-teil/99200596" target="_blank">https://verlag.oeaw.ac.at/
+        en/product/makedonien-suedlicher-teil/99200596</a>
+        </p>
+        """,
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}TIB_11_macedonia_southern_part.pdf',
+        'type': 'pdf'}]
+},{
     'id': 'seminar_series_april',
     'type': types['online_presentation'],
     'date': datetime(2022, 4, 1).strftime('%d.%m.%Y'),

@@ -1,7 +1,6 @@
 import requests
 
 from tib import app
-from tib.model.typetree import TypeTree
 
 
 def get_view_class(parameter: str):
@@ -17,12 +16,6 @@ def system_class_results(parameter: str):
 def get_typed_entities_all_results(id_: int):
     url = f"{app.config['API_PATH']}/type_entities_all/"
     return requests.get(f"{url}{id_}").json()['results']
-
-
-def get_type_tree() -> list[TypeTree]:
-    url = f"{app.config['API_PATH']}/type_tree/"
-    type_tree = requests.get(url).json()['typeTree']
-    return [TypeTree(types) for types in type_tree.values()]
 
 
 def get_entity(id_: int):

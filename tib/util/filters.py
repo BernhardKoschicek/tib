@@ -115,7 +115,7 @@ def digtib_submenu(item: str) -> str:
 def include_css(route: str) -> str:
     css = ''
     for style in ['style', 'burger', 'navbar', 'parallax', 'footer',
-                  'image_hover_effect', 'boxes_background']:
+                  'image_hover_effect', 'boxes_background', 'responsiv_grid']:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css

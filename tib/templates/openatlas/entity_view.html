@@ -2,88 +2,111 @@
 {% block title %}TIB OpenAtlas Access{% endblock %}
 {% block content %}
   <div class="container top7">
-    {{ header(entity.name) }}
-    {{ sub_header(entity.alias) }}
+    <div class="row">
+      <div class="col-6">
+        {{ header(entity.name) }}
+        {{ sub_header(entity.alias) }}
 
-
-    <button class="btn btn-violet-light px-2 py-1 pill">
-      {{ entity.system_class }}
-    </button>
-    <div>
-      {% for key, value in type_hierarchy.items() %}
-        <div class="col pt-1">
-        <span class="fw-bold">{{ key }}:</span>
-        {% for type in value %}
-          <button class="btn btn-violet-light px-2 py-1 pill">
-            {{ type }}
-          </button>
-        {% endfor %}
+        <div class="pt-3">
+          {{ sub_header("Dating") }}
+          <p>Begin {{ entity.begin }}</p>
+          <p>End {{ entity.end }}</p>
         </div>
-      {% endfor %}
+
+      </div>
+      <div class="col-6 bg-success text-center">
+        MAP
+      </div>
+
     </div>
 
-
-    <div>
-      <p>Begin: {{ entity.begin }}</p>
-      <p>End: {{ entity.end }}</p>
-    </div>
-
-    <div class="col-md-12">
-      <table class="table table-striped hover order-column w-100">
-        <tr>
-          <th class="table-active">ID</th>
-          <td> {{ entity.id_ }}</td>
-        </tr>
-        <tr>
-          <th class="table-active">Name</th>
-          <td> {{ entity.name }}</td>
-        </tr>
-        <tr>
-          <th class="table-active">Aliases</th>
-          <td> {{ entity.alias }}</td>
-        </tr>
-        <tr>
-          <th class="table-active">System class</th>
-          <td> {{ entity.system_class }}</td>
-        </tr>
-        {% if entity.types %}
+    <div class="row top5">
+      <div class="col-md-6 ">
+        {{ sub_header("Properties") }}
+        <table class="table table-striped hover order-column w-100">
           <tr>
-            <th class="table-active">Types</th>
+            <th class="table-active">
+              ID
+            </th>
             <td>
-              <ul class="list-unstyled">
-                {% for type in entity.types %}
-                  <li>
-                    <button class="btn btn-violet-light px-2 py-1 pill">
-                      <a href="{{ url_for('entity_view', id_=type.identifier) }}"
-                         class="text-decoration-none">
-                        {{ type.hierarchy }} > <span
-                              class="fw-bold">{{ type.label }}</span>
-                      </a>
-                    </button>
-                  </li>
-                {% endfor %}
-              </ul>
+              {{ entity.id_ }}
+            </td>
+          <tr>
+            <th class="table-active">
+              System Class
+            </th>
+            <td>
+              <button class="btn btn-violet-light px-2 py-1 pill">
+                {{ entity.system_class }}
+              </button>
             </td>
           </tr>
-        {% endif %}
-        <tr>
-          <th class="table-active">Description</th>
-          <td> {{ entity.description }}</td>
-        </tr>
+          {% for key, value in type_hierarchy.items() %}
+            <tr>
+              <th class="table-active">{{ key }}</th>
+              <td>
+                {% for type in value %}
+                  <button class="btn btn-violet-light px-2 py-1 pill">
+                    {{ type }}
+                  </button>
+                {% endfor %}
+              </td>
+            </tr>
+          {% endfor %}
+        </table>
+      </div>
 
-      </table>
-    </div>
-    {% if entity.depictions %}
-      <div class="row">
-        {% for img in entity.depictions %}
-          <div class="col-3 p-3">
-            <img src="{{ img.url + '?image_size=thumbnail' }}"
-                 class="img-fluid">
+      <div class="col-6">
+        {% if entity.depictions %}
+          <div class="gallery-row">
+            {% for list in images %}
+              <div class="gallery-column">
+                {% for img in list %}
+
+                  <img src="{{ img.url + '?image_size=thumbnail' }}"
+                       class="img-fluid">
+
+                {% endfor %}
+              </div>
+            {% endfor %}
           </div>
-        {% endfor %}
+        {% endif %}
       </div>
+    </div>
+    <div class="col-md-12 pt-3">
+      {{ sub_header("Description") }}
+
+      <div id="description">
+        <p>
+          {{ entity.description }}
+        </p>
       </div>
-    {% endif %}
+
+    </div>
+
+  </div>
+  <script>
+      $(document).ready(function () {
+          let desc = $('#description');
+          let str = desc.text();
+
+
+          if (str.length > 300) {
+
+              desc.empty().html(str.substring(0, 500));
+
+              let moreLink = '... <a href="#" class="read_more btn btn-violet-light">Read more</a>';
+              desc.append(moreLink);
+
+              $('.read_more').on('click', function (e) {
+                  e.preventDefault();
+                  desc.empty().html(str);
+              });
+
+          }
+
+      });
+  </script>
 {% endblock %}
 
 

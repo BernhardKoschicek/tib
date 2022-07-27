@@ -55,18 +55,17 @@
           {% endfor %}
         </table>
       </div>
-
       <div class="col-6">
         {% if entity.depictions %}
-          <div class="gallery-row">
+          <div class="entity-gallery gallery-row ">
             {% for list in images %}
               <div class="gallery-column">
-                {% for img in list %}
-
+              {% for img in list %}
+                <a href="{{ img.url }}" data-caption="{{ img.title }}">
                   <img src="{{ img.url + '?image_size=thumbnail' }}"
                        class="img-fluid">
-
-                {% endfor %}
+                </a>
+              {% endfor %}
               </div>
             {% endfor %}
           </div>
@@ -85,6 +84,16 @@
     </div>
 
   </div>
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.js"></script>
+  <script>
+      window.addEventListener('load', function () {
+          baguetteBox.run('.entity-gallery', {
+          });
+      });
+  </script>
+
   <script>
       $(document).ready(function () {
           let desc = $('#description');
@@ -107,6 +116,7 @@
 
       });
   </script>
+
 {% endblock %}
 
 

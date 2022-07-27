@@ -15,7 +15,8 @@ def entity_view(id_: int) -> str:
         'openatlas/entity_view.html',
         entity=entity,
         type_hierarchy=type_hierarchy,
-        images=numpy.array_split(entity.depictions, 4) if entity.depictions else None)
+        images=numpy.array_split(entity.depictions, 4)
+        if entity.depictions else None)
 
 def get_types_sorted(types: List[Types]) -> Dict[str, Any]:
     type_hierarchy = {}

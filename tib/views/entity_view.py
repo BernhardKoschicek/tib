@@ -5,12 +5,14 @@ import numpy
 from tib import app
 from tib.model.entity import Entity, Relation
 from tib.model.types import Types
+from tib.util.api_calls import get_entities_linked_to_entity
 
 
 @app.route('/entity/<id_>')
 def entity_view(id_: int) -> str:
     entity = Entity.get_entity_from_oa(id_)
     type_hierarchy = get_types_sorted(entity.types)
+    related_entities = get_entities_linked_to_entity(id_)
     relations = get_relations(entity.relations)
     return render_template(
         'openatlas/entity_view.html',
@@ -29,7 +31,8 @@ def get_types_sorted(types: List[Types]) -> Dict[str, Any]:
     return type_hierarchy
 
 
-def get_relations(relations: List[Relation]) -> Dict[str, List[Relation]]:
+def get_relations(
+        relations: List[Relation]) -> Dict[str, List[Relation]]:
     relation_dict = {}
     for relation in relations:
         if relation.relation_system_class in \

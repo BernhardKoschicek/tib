@@ -8,9 +8,8 @@
         {{ sub_header(entity.alias) }}
 
         <div class="pt-3">
-          {{ sub_header("Dating") }}
-          <p>Begin {{ entity.begin }}</p>
-          <p>End {{ entity.end }}</p>
+          <p><span class="fw-bold">Begin</span> {{ entity.begin }}</p>
+          <p><span class="fw-bold">End</span> {{ entity.end }}</p>
         </div>
 
       </div>
@@ -103,7 +102,6 @@
                     </a>
                   </td>
                   {% if key == 'references' %}
-
                     <td>
                       {{ item.relation_description }}
                     </td>

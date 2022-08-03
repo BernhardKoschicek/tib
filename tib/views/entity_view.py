@@ -11,17 +11,28 @@ from tib.util.api_calls import get_entities_linked_to_entity
 @app.route('/entity/<id_>')
 def entity_view(id_: int) -> str:
     entity = Entity.get_entity_from_oa(id_)
-    type_hierarchy = get_types_sorted(entity.types)
-    related_entities = get_entities_linked_to_entity(id_)
-    relations = get_relations(entity.relations)
+    linked_entities = get_entities_linked_to_entity(id_)
     return render_template(
         'openatlas/entity_view.html',
         entity=entity,
-        type_hierarchy=type_hierarchy,
+        type_hierarchy=get_types_sorted(entity.types),
         images=numpy.array_split(entity.depictions, 4)
         if entity.depictions else None,
-        relations=relations
+        relations=get_relations(
+            get_relation_entities(linked_entities, entity.relations))
     )
+
+
+def get_relation_entities(
+        linked: List[Dict[str, Any]],
+        relations: List[Dict[str, Any]]) -> List[Relation]:
+    linked_entities = {}
+    for entry in linked:
+        linked_entities[entry['features'][0]['@id'].rsplit('/', 1)[-1]] = entry['features'][0]
+    for relation in relations:
+        linked_entities[relation['relationTo'].rsplit('/', 1)[-1]].update(relation)
+    list_ = [value for value in linked_entities.values()]
+    return [Relation(entity) for entity in list_]
 
 
 def get_types_sorted(types: List[Types]) -> Dict[str, Any]:
@@ -36,7 +47,8 @@ def get_relations(
     relation_dict = {}
     for relation in relations:
         if relation.relation_system_class in \
-                ['type', 'file', 'appellation', 'object_location']:
+                ['type', 'file', 'appellation',
+                 'object_location', 'reference_system']:
             continue
         elif relation.relation_system_class == 'source':
             relation_dict.setdefault('sources', []).append(relation)

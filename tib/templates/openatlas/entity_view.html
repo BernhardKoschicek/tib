@@ -6,6 +6,14 @@
       <div class="col-6">
         {{ header(entity.name) }}
         {{ sub_header(entity.alias) }}
+        {% for system in entity.links %}
+
+          <a href="{{ system.identifier }}"
+             class="btn btn-violet-light px-2 py-1 pill"
+             target="_blank">
+            {{ system.referenceSystem }}
+          </a>
+        {% endfor %}
 
         <div class="pt-3">
           <p><span class="fw-bold">Begin</span> {{ entity.begin }}</p>
@@ -88,7 +96,7 @@
           <a class="btn btn-violet p-1" data-bs-toggle="collapse"
              href="#collapse-{{ key }}" role="button" aria-expanded="false"
              aria-controls="collapse-{{ key }}">
-            <i class="bi bi-caret-down-fill"  onclick="myFunction(this)"></i>
+            <i class="bi bi-caret-down-fill" onclick="myFunction(this)"></i>
           </a>
         </h5>
         <div class="collapse" id="collapse-{{ key }}">
@@ -101,9 +109,22 @@
                       {{ item.label }}
                     </a>
                   </td>
-                  {% if key == 'references' %}
+                  {% if key == 'events' %}
+                    <td>
+                      {{ item.begin }}
+                    </td>
+                    <td>
+                      {{ item.end }}
+                    </td>
+                  {% endif %}
+                  {% if item.relation_description %}
                     <td>
                       {{ item.relation_description }}
+                    </td>
+                  {% endif %}
+                  {% if key == 'actor' %}
+                    <td>
+                      {{ item.type }}
                     </td>
                   {% endif %}
                 </tr>

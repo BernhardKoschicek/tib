@@ -7,19 +7,17 @@ from tib.util.util import uc_first
 
 
 class Entity:
-
     def __init__(self, data: Dict[str, Any]) -> None:
-
         self.id_ = data['@id'].rsplit('/', 1)[-1]
         self.name = data['properties']['title']
         self.description = self.get_description(data['descriptions'])
         self.system_class = uc_first(data['systemClass'])
         self.types = self.get_types(data['types']) if 'types' in data else None
         self.alias = self.get_alias(data['names']) if 'names' in data else None
-        self.relations = self.get_relations(data['relations']) \
-            if 'relations' in data else None
+        self.relations = data['relations'] if 'relations' in data else None
         self.depictions = self.get_depiction(data['depictions']) \
             if 'depictions' in data else None
+        self.links = data['links']
         self.begin_from = None
         self.begin_to = None
         self.begin_comment = None
@@ -82,8 +80,9 @@ class Depiction:
         self.url = data['url']
 
 
-class Relation:
+class Relation(Entity):
     def __init__(self, data: Dict[str, Any]):
+        super().__init__(data)
         self.label = data['label']
         self.relation_to_id = data['relationTo'].rsplit('/', 1)[-1]
         self.relation_to = data['relationTo']

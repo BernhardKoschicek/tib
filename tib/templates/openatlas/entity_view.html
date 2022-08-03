@@ -21,8 +21,7 @@
         </div>
 
       </div>
-      <div class="col-6 bg-success text-center">
-        MAP
+      <div id="map" class="col-6">
       </div>
 
     </div>
@@ -136,7 +135,6 @@
       {% endfor %}
 
     </div>
-
   </div>
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.css">
@@ -173,6 +171,21 @@
       function myFunction(x) {
           x.classList.toggle("bi-caret-up-fill");
       }
+  </script>
+  <script>
+  var map = L.map('map').setView([51.505, -0.09], 13);
+
+  L.tileLayer(  "https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
+  {
+    maxZoom: 25,
+    maxNativeZoom: 20,
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>',
+  }).addTo(map);
+
+  {% if entity.geometry['type'] == 'Polygon' %}
+  var polygon = L.polygon([[19.261842521, 42.4650217], [19.261735233, 42.466652077], [19.261134418, 42.467696761], [19.262142928, 42.468662288], [19.261928352, 42.469184616], [19.262529166, 42.4696278], [19.264009746, 42.468963023], [19.265769275, 42.4692321], [19.267164024, 42.469327068], [19.268065246, 42.469991841], [19.269760402, 42.470086808], [19.271541389, 42.468345724], [19.269052299, 42.467649276], [19.266670497, 42.466778706], [19.264481815, 42.466003097], [19.262786659, 42.465654861], [19.261842521, 42.4650217]]).addTo(map);
+  {% endif %}
   </script>
 
 {% endblock %}

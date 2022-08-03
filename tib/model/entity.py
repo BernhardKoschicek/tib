@@ -17,7 +17,7 @@ class Entity:
         self.relations = data['relations'] if 'relations' in data else None
         self.depictions = self.get_depiction(data['depictions']) \
             if 'depictions' in data else None
-        self.links = data['links']
+        self.links = data['links'] if 'links' in data else None
         self.begin_from = None
         self.begin_to = None
         self.begin_comment = None
@@ -25,6 +25,7 @@ class Entity:
         self.end_to = None
         self.begin = None
         self.end = None
+        self.geometry = data['geometry'] if 'geometry' in data else None
         if 'when' in data:
             self.begin_from = split_date_string(
                 data['when']['timespans'][0]['start']['earliest'])

@@ -10,7 +10,7 @@ from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, \
-    tib_history
+    tib_balkan_long_term
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.index import front_menu
 from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
@@ -123,7 +123,9 @@ def digital_oa_access(project: str, view: str) -> str:
 
 @app.route('/balkan/langzeitprojekt')
 def balkan_long_term():
-    return render_template('balkan/longterm/longterm.html', images=tib_history)
+    return render_template(
+        'balkan/longterm/longterm.html',
+        images=tib_balkan_long_term)
 
 
 @app.route('/balkan/tib')

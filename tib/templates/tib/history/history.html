@@ -24,8 +24,7 @@
         </div>
       </div>
       <div class="col-4">
-        <img src="{{ url_for('static', filename='images/history/kerngebiete.jpg') }}"
-             class="img-fluid img-thumbnail d-block mx-auto" alt="TIB Core">
+        {{ img_modal(images['core'], 'core') }}
       </div>
     </div>
     <div class="collapse container-fluid" id="beginning">
@@ -50,8 +49,7 @@
             </figcaption>
           </div>
           <div class="col-4 align-items-center ml-auto d-flex">
-            <img src="{{ url_for('static', filename='images/history/hunger.jpg') }}"
-                 class="img-fluid img-thumbnail d-flex" alt="Herbert Hunger">
+            {{ img_modal(images['hunger'], 'hunger') }}
           </div>
         </figure>
 
@@ -86,12 +84,10 @@
         1945 more than a dozen sheets were accomplished. </p>
       <div class="row justify-content-center">
         <div class="col-4">
-          <img src="{{ url_for('static', filename='images/history/1996.jpg') }}"
-               class="img-fluid img-thumbnail d-block mx-auto" alt="TIB 1996">
+          {{ img_modal(images['1996'], '1996') }}
         </div>
         <div class="col-4">
-          <img src="{{ url_for('static', filename='images/history/kerngebiete.jpg') }}"
-               class="img-fluid img-thumbnail d-block mx-auto" alt="TIB Core">
+          {{ img_modal(images['core'], 'core') }}
         </div>
       </div>
       <p>In the period between the announcement of the project TIB by Herbert
@@ -131,8 +127,7 @@
         </div>
       </div>
       <div class="col-4">
-        <img src="{{ url_for('static', filename='images/history/2006.jpg') }}"
-             class="img-fluid img-thumbnail" alt="TIB 2006">
+        {{ img_modal(images['2006'], '2006') }}
       </div>
     </div>
     <div class="collapse container-fluid" id="first_volume">
@@ -164,9 +159,7 @@
             </figcaption>
           </div>
           <div class="col-4 align-items-center d-flex">
-            <img src="{{ url_for('static', filename='images/history/koder1.jpg') }}"
-                 class="img-fluid img-thumbnail d-block mx-auto"
-                 alt="Koder and Hunger">
+            {{ img_modal(images['koder'], 'koder') }}
           </div>
         </figure>
       </div>
@@ -231,8 +224,7 @@
         </div>
       </div>
       <div class="col-4">
-        <img src="{{ url_for('static', filename='images/history/2017.jpg') }}"
-             class="img-fluid img-thumbnail d-block mx-auto" alt="TIB 2017">
+        {{ img_modal(images['2017'], '2017') }}
       </div>
     </div>
     <div class="collapse container-fluid" id="core">
@@ -333,8 +325,7 @@
         </p>
       </div>
       <div class="col-4">
-        <img src="{{ url_for('static', filename='images/history/2021.png') }}"
-             class="img-fluid img-thumbnail d-block mx-auto" alt="TIB 2021">
+        {{ img_modal(images['2021'], '2021') }}
       </div>
     </div>
   </div>

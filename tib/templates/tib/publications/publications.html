@@ -1,11 +1,13 @@
 {% extends "tib/layout.html" %}
 {% block title %}Publications{% endblock %}
 {% block content %}
-  <div class="container top5">
+  <div class="container top7">
     <div class="text-center">
       {{ header('Publications', True) }}
     </div>
-    <ul class="nav justify-content-center  mb-3 top3" id="tib-publications"
+
+
+    <ul class="nav justify-content-center mb-3 top3" id="tib-publications"
         role="tablist">
       {% for key in publications %}
         <li class="nav-item px-3" role="presentation">
@@ -14,7 +16,7 @@
                   data-bs-toggle="pill" data-bs-target="#{{ key }}"
                   type="button"
                   role="tab" aria-controls="{{ key }}" aria-selected="true">
-            <span class="lead">{{ key | replace('_', ' ')}}</span>
+            <span class="lead">{{ key | replace('_', ' ') }}</span>
           </button>
         </li>
       {% endfor %}
@@ -25,17 +27,21 @@
       {% for key, value in publications.items() %}
         <div class="tab-pane fade {% if loop.first %}show active{% endif %}"
              id="{{ key }}" role="tabpanel" aria-labelledby="{{ key }}">
+        <div class="text-center">
+          {{ header(value['title']) }}
+          <p>{{ value['description'] | safe }}</p>
+        </div>
           <table id="table-{{ key }}"
                  class="row-border order-column stripe hover">
             <thead>
             <tr>
-              {% for key in value[0] %}
+              {% for key in value['data'][0] %}
                 <th>{{ key | title }}</th>
               {% endfor %}
             </tr>
             </thead>
             <tbody>
-            {% for item in value %}
+            {% for item in value['data'] %}
               <tr>
                 {% for key, value in item.items() %}
                   <td>{{ value }}</td>
@@ -48,6 +54,8 @@
       {% endfor %}
     </div>
   </div>
+
+
   <script>
       {% for key in publications %}
           $(document).ready(function () {
@@ -59,7 +67,8 @@
                       {"width": "55%", "targets": 1},
                   ],
                   "ordering": true,
-                  "order": [[3, {% if key == 'volumes'%}'asc'{% else %}'desc'{% endif %}]],
+                  "order": [[3, {% if key == 'volumes'%}
+                      'asc'{% else %}'desc'{% endif %}]],
                   "info": true,
                   "searching": true,
                   "pageLength": 25

@@ -60,6 +60,12 @@ tib_volumes = [
         "Volume Number": 10,
         "date": 1998},
     {
+        "author": "Peter Soustal mit Beiträgen von Andreas Pülz und unter Mitwirkung von Mihailo St. Popović",
+        "title": " Makedonien, südlicher Teil",
+        "location": "Vienna",
+        "Volume Number": 11,
+        "date": 2022},
+    {
         "author": "Andreas Külzer",
         "title": "Ostthrakien (Eurōpē)",
         "location": "Vienna",
@@ -151,20 +157,6 @@ tib_monographs = [
         "pages": 354
     },
     {
-        "author": "Andreas Külzer, Mihailo Popović (eds.)",
-        "title": "Space, Landscapes and Settlements in Byzantium. Studies in Historical Geography of the Eastern Mediterranean Presented to Johannes Koder (Studies in Historical Geography and Cultural Heritage 1).",
-        "location": "Vienna - Novi Sad",
-        "date": "2017",
-        "pages": 526
-    },
-    {
-        "author": "Andreas Külzer (ed.)",
-        "title": "Herbert Hunger und die Wiener Schule der Byzantinistik (Studies in Historical Geography and Cultural Heritage 2).",
-        "location": "Vienna - Novi Sad",
-        "date": "2019",
-        "pages": 352
-    },
-    {
         "author": "Mihailo St. Popović, Veronika Polloczek, Bernhard Koschicek, Stefan Eichert (eds.)",
         "title": "Power in Landscape – Geographic and Digital Approaches on Historical Research.",
         "location": "Leipzig",
@@ -185,19 +177,13 @@ tib_monographs = [
         "date": "2019",
         "pages": 59
     },
-    {
-        "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (eds.)",
-        "title": "Raum und Geschichte: der historische Atlas ‘Tabula Imperii Byzantini (TIB)’ an der Österreichischen Akademie der Wissenschaften (Studies in Historical Geography and Cultural Heritage 3)",
-        "location": "Vienna–Novi Sad",
-        "date": "2020",
-        "pages": 240
-    }
+
 ]
 
 tib_articles = [
     {
         "author": "Andreas Külzer",
-        "title": "Neue Forschungen in Ostthrakien, in: W. Hörandner – J. Koder – M.A. Stassinopoulou (Hgg.), Wiener Byzantinistik und Neogräzistik. Beiträge zum Symposion Vierzig Jahre Institut für Byzantinistik und Neogräzistik der Universität Wien. Im Gedenken an Herbert Hunger (Wien, 4. – 7. Dezember 2002). Byzantina et Neograeca Vindobonensia 24",
+        "title": "Neue Forschungen in Ostthrakien, in: W. Hörandner – Johannes Koder – M.A. Stassinopoulou (Hgg.), Wiener Byzantinistik und Neogräzistik. Beiträge zum Symposion Vierzig Jahre Institut für Byzantinistik und Neogräzistik der Universität Wien. Im Gedenken an Herbert Hunger (Wien, 4. – 7. Dezember 2002). Byzantina et Neograeca Vindobonensia 24",
         "location": "Vienna",
         "date": "2004",
         "pages": "264–271"
@@ -218,7 +204,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Die Küstengestade des Golfs von Saros und der thrakischen Chersones von der Antike bis zur frühen Neuzeit: einige Anmerkungen, in: K. Belke – E. Kislinger – A. Külzer – M. A. Stassinopoulou (ed.), Byzantina Mediterranea. Festschrift für Johannes Koder zum 65. Geburtstag",
+        "title": "Die Küstengestade des Golfs von Saros und der thrakischen Chersones von der Antike bis zur frühen Neuzeit: einige Anmerkungen, in: Klaus Belke – Ewald Kislinger – Andreas Külzer – M. A. Stassinopoulou (ed.), Byzantina Mediterranea. Festschrift für Johannes Koder zum 65. Geburtstag",
         "location": "Vienna – Cologne – Weimar",
         "date": "2007",
         "pages": "353–363"
@@ -323,7 +309,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Das Ganos-Gebirge in Ostthrakien (Işıklar dağı), in: P. Soustal (ed.), Heilige Berge und Wüsten. Byzanz und sein Umfeld. Referate auf dem 21. Internationalen Kongreß für Byzantinistik London, 21.–26. August 2006. (Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 379)",
+        "title": "Das Ganos-Gebirge in Ostthrakien (Işıklar dağı), in: Peter Soustal (ed.), Heilige Berge und Wüsten. Byzanz und sein Umfeld. Referate auf dem 21. Internationalen Kongreß für Byzantinistik London, 21.–26. August 2006. (Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 379)",
         "location": "Vienna",
         "date": "2009",
         "pages": "41-52, 91-97"
@@ -351,7 +337,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Wirtschaftliche Aspekte byzantinischer Pilgerzentren, in: E. Kislinger – J. Koder – A. Külzer (ed.), Handelsgüter und Verkehrswege. Aspekte der Warenversorgung im östlichen Mittelmeerraum, 4. bis 15. Jahrhundert (Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 388)",
+        "title": "Wirtschaftliche Aspekte byzantinischer Pilgerzentren, in: Ewald Kislinger – Johannes Koder – Andreas Külzer (ed.), Handelsgüter und Verkehrswege. Aspekte der Warenversorgung im östlichen Mittelmeerraum, 4. bis 15. Jahrhundert (Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 388)",
         "location": "Vienna",
         "date": "2010",
         "pages": "185-196"
@@ -575,7 +561,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "E geographia sto Byzantio, in: T. Lounghis – E. Kislinger (eds.), Byzantio. Istoria kai politismos",
+        "title": "E geographia sto Byzantio, in: T. Lounghis – Ewald Kislinger (eds.), Byzantio. Istoria kai politismos",
         "location": "Athen",
         "date": "2014",
         "pages": "391–409, 578–585"
@@ -610,21 +596,21 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Presbeia Theotokou: An Introduction (with L. M. Peltomaa), in: L. M. Peltomaa – A. Külzer – P. Allen (eds.), Presbeia Theotoku. The Intercessory Role of Mary across Times and Places in Byzantium (4th – 9th Century). Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 481",
+        "title": "Presbeia Theotokou: An Introduction (with L. M. Peltomaa), in: L. M. Peltomaa – Andreas Külzer – P. Allen (eds.), Presbeia Theotoku. The Intercessory Role of Mary across Times and Places in Byzantium (4th – 9th Century). Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 481",
         "location": "Vienna",
         "date": "2015",
         "pages": "11–21"
     },
     {
         "author": "Andreas Külzer",
-        "title": "Presbeia Theotokou: A Bibliography, in: L. M. Peltomaa – A. Külzer – P. Allen (eds.), Presbeia Theotoku. The Intercessory Role of Mary across Times and Places in Byzantium (4th – 9th Century). Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 481",
+        "title": "Presbeia Theotokou: A Bibliography, in: L. M. Peltomaa – Andreas Külzer – P. Allen (eds.), Presbeia Theotoku. The Intercessory Role of Mary across Times and Places in Byzantium (4th – 9th Century). Österreichische Akademie der Wissenschaften, phil.–hist. Kl., Denkschriften 481",
         "location": "Vienna",
         "date": "2015",
         "pages": "243–265"
     },
     {
         "author": "Andreas Külzer",
-        "title": "Häfen und Landeplätze an den Balkanküsten des Byzantinischen Reiches – Rückblicke und Ausblicke: die Jahre 2013 und 2014 (with E. Kislinger), in: Th. Schmidts – M. M. Vučetić (Hrsg.), Häfen im 1. Millennium AD: Bauliche Konzepte, herrschaftliche und religiöse Einflüsse. RGZM Tagungen 22 // Interdisziplinäre Forschungen zu den Häfen von der Römischen Kaiserzeit bis zum Mittelalter in Europa 1",
+        "title": "Häfen und Landeplätze an den Balkanküsten des Byzantinischen Reiches – Rückblicke und Ausblicke: die Jahre 2013 und 2014 (with Ewald Kislinger), in: Th. Schmidts – M. M. Vučetić (Hrsg.), Häfen im 1. Millennium AD: Bauliche Konzepte, herrschaftliche und religiöse Einflüsse. RGZM Tagungen 22 // Interdisziplinäre Forschungen zu den Häfen von der Römischen Kaiserzeit bis zum Mittelalter in Europa 1",
         "location": "Mainz",
         "date": "2015",
         "pages": "89–92"
@@ -680,7 +666,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "To geōgraphiko ypobathro tu Byzantiu, in: T. Lounghis – E. Kislinger (eds.), Byzantio. Istoria kai politismos",
+        "title": "To geōgraphiko ypobathro tu Byzantiu, in: T. Lounghis – Ewald Kislinger (eds.), Byzantio. Istoria kai politismos",
         "location": "Athen",
         "date": "2015 [2016]",
         "pages": "475–493, 579–583"
@@ -840,13 +826,6 @@ tib_articles = [
         "pages": "665-674"
     },
     {
-        "author": "David Schmid, Mihailo Popović, Markus Breier",
-        "title": "From the Via Egnatia to Prilep, Bitola and Ohrid: a Medieval Road Map based on Written Sources, Archaeological Remains and GIScience, in: Space, Landscapes and Settlements in Byzantium. Studies in Historical Geography of the Eastern Mediterranean Presented to Johannes Koder, ed. Andreas Külzer, Mihailo Popović (Studies in Historical Geography and Cultural Heritage 1).",
-        "location": "Vienna–Novi Sad",
-        "date": "2017",
-        "pages": "289-317, 511-518"
-    },
-    {
         "author": "Andreas Külzer",
         "title": "Pilgerwege und Kultorte im östlichen Mittelmeerraum. Das Meer und seine Heiligen: zum Einfluß naturräumlicher und geopolitischer Realitäten auf byzantinische Pilgerstätten, in: N. Jaspert – Ch. A. Neumann – M. di Branco (eds.), Ein Meer und seine Heiligen: Hagiographie im mittelalterlichen Mediterraneum.",
         "location": "Paderborn",
@@ -869,17 +848,10 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "1. Dornröschen erwacht… Neue Forschungen auf der Halbinsel Erythraia (Çeşme Yarımadası) im westlichen Kleinasien, in: J. Drauschke – E. Kislinger – K- Kühtreiber – Th. Kühtreiber – G. Scharrer-Liška – T. Vida (eds.), Lebenswelten zwischen Archäologie und Geschichte. Festschrift für Falko Daim zu seinem 65. Geburtstag. Bd. II.",
+        "title": "1. Dornröschen erwacht… Neue Forschungen auf der Halbinsel Erythraia (Çeşme Yarımadası) im westlichen Kleinasien, in: J. Drauschke – Ewald Kislinger – K- Kühtreiber – Th. Kühtreiber – G. Scharrer-Liška – T. Vida (eds.), Lebenswelten zwischen Archäologie und Geschichte. Festschrift für Falko Daim zu seinem 65. Geburtstag. Bd. II.",
         "location": "Mainz",
         "date": "2018",
         "pages": "741–748"
-    },
-    {
-        "author": "Andreas Külzer",
-        "title": "2. Streifzüge durch das Tal des Kaӱstrios (Küçük Menderes): Historisch-geographische Impressionen aus Westanatolien, in: A. Külzer – M. Popović (eds.), Space, Landscapes and Settlements in Byzantium: Studies in Historical Geography of the Eastern Mediterranean. Studies in Historical Geography and Cultural Heritage 1",
-        "location": "Novi Sad – Vienna",
-        "date": "2018",
-        "pages": "195–213, 475–478"
     },
     {
         "author": "Andreas Külzer",
@@ -993,13 +965,7 @@ tib_articles = [
         "date": "2019",
         "pages": "465-474"
     },
-    {
-        "author": "Mihailo Popović",
-        "title": "Das Langzeitprojekt TIB im 21. Jahrhundert: Bestandsaufnahme, Adaptierung und Methodenerweiterung in der Historischen Geographie des byzantinischen Raumes, in: Raum und Geschichte: der historische Atlas „Tabula Imperii Byzantini“ an der Österreichischen Akademie der Wissenschaften (Studies in Historical Geography and Cultural Heritage 3).",
-        "location": "Vienna–Novi Sad",
-        "date": "2020",
-        "pages": "157-180, 231-238"
-    },
+
     {
         "author": "Mihailo Popović, Toni Filiposki",
         "title": "Antique and Medieval Cultural Heritage in Macedonia during WW1: Based on German and Austrian Archival Evidence, in: On the Cross-Path of Cultural Ideas: Macedonia, the Balkans, Southeast Europe – Heritage, Management, Resources. A Collection of Papers from the International Conference held in Ohrid in September 2019.",
@@ -1037,34 +1003,6 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Ein historischer Atlas zum byzantinischen Reich: Anfänge und Entwicklung der Tabula Imperii Byzantini (TIB), in: A. Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
-        "location": "Wien – Novi Sad",
-        "date": "2020",
-        "pages": "11–30"
-    },
-    {
-        "author": "Andreas Külzer",
-        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 12 (Ostthrakien – Eurōpē), in: A. Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
-        "location": "Wien – Novi Sad",
-        "date": "2020",
-        "pages": "70–73"
-    },
-    {
-        "author": "Andreas Külzer",
-        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 14 Westkleinasien (Lydia und Asia), in: A. Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
-        "location": "Wien – Novi Sad",
-        "date": "2020",
-        "pages": "77f"
-    },
-    {
-        "author": "Andreas Külzer",
-        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 15 (Syria – Syria Prōtē, Syria Deutera, Syria Euphratēsia), in: A. Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
-        "location": "Wien – Novi Sad",
-        "date": "2020",
-        "pages": "78–80"
-    },
-    {
-        "author": "Andreas Külzer",
         "title": "Pilgrims on their Way in the Holy Land: Roads and Routes According to Byzantine and Post-Byzantine Travel Accounts, in: F. Daim – J. Pahlitzsch – J. Patrich – C. Rapp – J. Seligman (eds.), Pilgrimage to Jerusalem: Journeys, Destinations, Experiences across Times and Cultures. Proceedings of the Conference held in Jerusalem, 5th to 7th December 2017.",
         "location": "Mainz",
         "date": "2020",
@@ -1072,7 +1010,7 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Bibelrezeption im Heiligen Land: Der Beitrag der Proskynētaria tōn hagiōn topōn, in: C. Rapp – A. Külzer (eds.), The Bible in Byzantium: Appropriation, Adaption, Interpretation. Journal of Ancient Judaism, Supplements 25,6.",
+        "title": "Bibelrezeption im Heiligen Land: Der Beitrag der Proskynētaria tōn hagiōn topōn, in: C. Rapp – Andreas Külzer (eds.), The Bible in Byzantium: Appropriation, Adaption, Interpretation. Journal of Ancient Judaism, Supplements 25,6.",
         "location": "Göttingen",
         "date": "2019",
         "pages": "145–160"
@@ -1083,13 +1021,6 @@ tib_articles = [
         "location": "",
         "date": "2020",
         "pages": "27–46"
-    },
-    {
-        "author": "Andreas Külzer",
-        "title": "Herbert Hunger und die Historische Geographie: Zur Geschichte und Zukunft der Tabula Imperii Byzantini, in: A. Külzer (Hg.), Herbert Hunger und die Wiener Schule der Byzantinistik: Rückblick und Ausblick. Studies in Historical Geography and Cultural Heritage 2.",
-        "location": "Wien – Novi Sad",
-        "date": "2019",
-        "pages": "85–121"
     },
     {
         "author": "Andreas Külzer",
@@ -1149,8 +1080,220 @@ tib_articles = [
     }
 ]
 
+vtib=[
+    {
+        "author": "Johannes Koder",
+        "title": "Negroponte. Untersuchungen zur Topographie und Siedlungsgeschichte der Insel Euboia während der Zeit der Venezianerherrschaft (VTIB 1). ÖAW, phil.-hist. Kl., Denkschriften 112.",
+        "location": "Vienna",
+        "vtib": 1,
+        "date": 1973
+    },
+    {
+        "author": "Friedrich Hild",
+        "title": "Das byzantinische Straßennetz in Kappadokien (VTIB 2). ÖAW, phil.-hist. Kl., Denkschriften 131. ",
+        "location": "Vienna",
+        "vtib": 2,
+        "date": 1977
+    },
+    {
+        "author": "Marcell Restle",
+        "title": "Studien zur frühbyzantinischen Architektur Kappadokiens. Mit 219 Abbildungen auf Tafeln und 63 Plänen. (VTIB 3). ÖAW, phil.-hist. Kl., Denkschriften 138.",
+        "location": "Vienna",
+        "vtib": 3,
+        "date": 1979
+    },
+    {
+        "author": "Hansgerd Hellenkemper – Friedrich Hild",
+        "title": "Neue Forschungen in Kilikien. (VTIB 4). ÖAW, phil.-hist. Kl., Denkschriften 186.",
+        "location": "Vienna",
+        "vtib": 4,
+        "date": 1986
+    },
+    {
+        "author": "Sophia Kalopissi-Verti",
+        "title": "Dedicatory Inscriptions and Donor Portraits in Thirteenth-Century Churches of Greece. (VTIB 5). ÖAW, phil.-hist. Kl., Denkschriften 226.",
+        "location": "Vienna",
+        "vtib": 5,
+        "date": 1992
+    },
+    {
+        "author": "Hanns Michael Küpper",
+        "title": "Bautypus und Genesis der griechischen Dachtranseptkirche. (VTIB 6). ÖAW, phil.-hist. Kl., Denkschriften 246.",
+        "location": "Vienna",
+        "vtib": 6,
+        "date": 1996
+    },
+    {
+        "author": "Klaus Belke, Friedrich Hild, Johannes Koder, Peter Soustal (Hgg.)",
+        "title": "Byzanz als Raum. Zu Methoden und Inhalten der historischen Geographie des östlichen Mittelmeerraumes. (VTIB 7). ÖAW, phil.-hist. Kl., Denkschriften 283.",
+        "location": "Vienna",
+        "vtib": 7,
+        "date": 2000
+    },
+    {
+        "author": "Ewald Kislinger)",
+        "title": "Regionalgeschichte als Quellenproblem. Die Chronik von Monembasia und das sizilianische Demenna: Eine historisch – topographische Studie. (VTIB 8). ÖAW, phil.-hist. Kl., Denkschriften 294.",
+        "location": "Vienna",
+        "vtib": 8,
+        "date": 2001
+    },
+    {
+        "author": "Annegret Plontke-Lüning",
+        "title": "Frühchristliche Architektur in Kaukasien. Die Entwicklung des christlichen Sakralbaus in Lazika, Iberien, Armenien, Albanien und den Grenzregionen vom 4. bis zum 7. Jh. (VB 13). ÖAW, phil.-hist. Kl., Denkschriften 359.",
+        "location": "Vienna",
+        "vtib": 9,
+        "date": 2007
+    },
+    {
+        "author": "Peter Soustal (Hg.)",
+        "title": "Heilige Berge und Wüsten: Byzanz und sein Umfeld. Referate auf dem 21. Internationalen Kongress für Byzantinistik London 21.–26. August 2006. (VB 16). ÖAW, phil.-hist. Kl., Denkschriften 379.",
+        "location": "Vienna",
+        "vtib": 10,
+        "date": 2009
+    },
+    {
+        "author": "Ewald Kislinger – Johannes Koder – Andreas Külzer (Hgg.)",
+        "title": "Handelsgüter und Verkehrswege. Aspekte der Warenversorgung im östlichen Mittelmeerraum (4. bis 15. Jahrhundert). (VB 18) ÖAW, phil.-hist. Kl., Denkschriften 388.",
+        "location": "Vienna",
+        "vtib": 11,
+        "date": 2010
+    },
+    {
+        "author": "Anthony Kaldellis – Stephanos Efthymiadis",
+        "title": "The Prosopography of Byzantine Lesbos 284–1335 AD. (VB 22). ÖAW, phil.-hist. Kl., Denkschriften 403.",
+        "location": "Vienna",
+        "vtib": 12,
+        "date": 2010
+    },
+    {
+        "author": "Marcell Restle mit Beiträgen von Johannes Koder u. a.",
+        "title": "Architekturdenkmäler der spätantiken und frühbyzantinischen Zeit im Hauran, 1: AZR’A (Zora). (VB 31).",
+        "location": "Vienna",
+        "vtib": 13,
+        "date": 2012
+    },
+    {
+        "author": "Friedrich Hild",
+        "title": "Meilensteine, Straßen und das Verkehrsnetz der Provinz Karia. (VB 33). ÖAW, phil.-hist. Kl., Denkschriften 464.",
+        "location": "Vienna",
+        "vtib": 14,
+        "date": 2014
+    },
+    {
+        "author": "Marcell Restle – Johannes Koder – Annegret Plontke-Lüning",
+        "title": "Architekturdenkmäler der spätantiken und frühbyzantinischen Zeit im Hauran, 2: Šaqqā (Sakkaia – Maximanupolis) (VB 40).",
+        "location": "Vienna",
+        "vtib": 15,
+        "date": 2016
+    },
+    {
+        "author": "Friedrich Hild",
+        "title": "Karien in Portulanen und Portulankarten von der Antike bis in die frühosmanische Zeit (VB 43). ÖAW, phil.-hist. Kl., Denkschriften 514. ",
+        "location": "Vienna",
+        "vtib": 16,
+        "date": 2019
+    },
+]
+
+histgeo=[
+    {
+        "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (eds.)",
+        "title": "Raum und Geschichte: der historische Atlas ‘Tabula Imperii Byzantini (TIB)’ an der Österreichischen Akademie der Wissenschaften (Studies in Historical Geography and Cultural Heritage 3)",
+        "location": "Vienna–Novi Sad",
+        "date": "2020",
+        "pages": 240
+    },
+    {
+        "author": "Mihailo Popović",
+        "title": "Das Langzeitprojekt TIB im 21. Jahrhundert: Bestandsaufnahme, Adaptierung und Methodenerweiterung in der Historischen Geographie des byzantinischen Raumes, in: Raum und Geschichte: der historische Atlas „Tabula Imperii Byzantini“ an der Österreichischen Akademie der Wissenschaften (Studies in Historical Geography and Cultural Heritage 3).",
+        "location": "Vienna–Novi Sad",
+        "date": "2020",
+        "pages": "157-180, 231-238"
+    },
+    {
+        "author": "David Schmid, Mihailo Popović, Markus Breier",
+        "title": "From the Via Egnatia to Prilep, Bitola and Ohrid: a Medieval Road Map based on Written Sources, Archaeological Remains and GIScience, in: Space, Landscapes and Settlements in Byzantium. Studies in Historical Geography of the Eastern Mediterranean Presented to Johannes Koder, ed. Andreas Külzer, Mihailo Popović (Studies in Historical Geography and Cultural Heritage 1).",
+        "location": "Vienna–Novi Sad",
+        "date": "2017",
+        "pages": "289-317, 511-518"
+    },
+    {
+        "author": "Andreas Külzer (ed.)",
+        "title": "Herbert Hunger und die Wiener Schule der Byzantinistik (Studies in Historical Geography and Cultural Heritage 2).",
+        "location": "Vienna - Novi Sad",
+        "date": "2019",
+        "pages": 352
+    },
+    {
+        "author": "Andreas Külzer, Mihailo Popović (eds.)",
+        "title": "Space, Landscapes and Settlements in Byzantium. Studies in Historical Geography of the Eastern Mediterranean Presented to Johannes Koder (Studies in Historical Geography and Cultural Heritage 1).",
+        "location": "Vienna - Novi Sad",
+        "date": "2017",
+        "pages": 526
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "Ein historischer Atlas zum byzantinischen Reich: Anfänge und Entwicklung der Tabula Imperii Byzantini (TIB), in: Andreas Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
+        "location": "Wien – Novi Sad",
+        "date": "2020",
+        "pages": "11–30"
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 12 (Ostthrakien – Eurōpē), in: Andreas Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
+        "location": "Wien – Novi Sad",
+        "date": "2020",
+        "pages": "70–73"
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 14 Westkleinasien (Lydia und Asia), in: Andreas Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
+        "location": "Wien – Novi Sad",
+        "date": "2020",
+        "pages": "77f"
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "Arbeitsgebiete der Tabula Imperii Byzantini: TIB 15 (Syria – Syria Prōtē, Syria Deutera, Syria Euphratēsia), in: Andreas Külzer – M. Popović – V. Polloczek (Hgg.), Raum und Geschichte. Der historische Atlas Tabula Imperii Byzantini (TIB) an der Österreichischen Akademie der Wissenschaften. Studies in Historical Geography and Cultural Heritage 3.",
+        "location": "Wien – Novi Sad",
+        "date": "2020",
+        "pages": "78–80"
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "Herbert Hunger und die Historische Geographie: Zur Geschichte und Zukunft der Tabula Imperii Byzantini, in: Andreas Külzer (Hg.), Herbert Hunger und die Wiener Schule der Byzantinistik: Rückblick und Ausblick. Studies in Historical Geography and Cultural Heritage 2.",
+        "location": "Wien – Novi Sad",
+        "date": "2019",
+        "pages": "85–121"
+    },
+    {
+        "author": "Andreas Külzer",
+        "title": "2. Streifzüge durch das Tal des Kaӱstrios (Küçük Menderes): Historisch-geographische Impressionen aus Westanatolien, in: Andreas Külzer – M. Popović (eds.), Space, Landscapes and Settlements in Byzantium: Studies in Historical Geography of the Eastern Mediterranean. Studies in Historical Geography and Cultural Heritage 1",
+        "location": "Novi Sad – Vienna",
+        "date": "2018",
+        "pages": "195–213, 475–478"
+    },
+]
+
 tib_publications_data = {
-    'tib_volumes': tib_volumes,
-    'monographs': tib_monographs,
-    'articles': tib_articles
+    'TIB_Volumes': {
+        'title': 'Tabula Imperii Byzantini',
+        'description': 'The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian Academy of Sciences are the main scholarly result of the project TIB and have been published since 1976.',
+        'data': tib_volumes},
+    'VTIB': {
+        'title': 'Veröffentlichungen der Kommission für die Tabula Imperii Byzantini ',
+        'description': 'In addition to the main series Tabula Imperii Byzantini (TIB) an accompanying series entitled Veröffentlichungen der Kommission für die Tabula Imperii Byzantini (VTIB) of the Austrian Academy of Sciences had been published since 1973 and has been replaced by the series Veröffentlichungen zur Byzanzforschung since 2006.',
+        'data': vtib},
+    'HistGeo': {
+        'title': 'Historical Geography and Cultural Heritage',
+        'description': 'The series <a href="https://histgeo.oeaw.ac.at/" target="_blank">Studies in Historical Geography and Cultural Heritage</a> was founded by Mihailo St. Popović in the spring of 2016 and is edited by him and Andreas Külzer in order to innovate the historical-geographical research in  Byzantine Studies.',
+        'data': histgeo},
+    'Monographs': {
+        'title': 'Monographs',
+        'description': 'The project leaders and scholarly co-workers of the Tabula Imperii Byzantini (TIB) are continuously publishing scholarly monographs and edited volumes on various topics of the Historical Geography of Byzantium.',
+        'data': tib_monographs},
+    'Articles': {
+        'title': 'Articles',
+        'description': 'The project leaders and scholarly co-workers of the Tabula Imperii Byzantini (TIB) are continuously publishing scholarly articles on various topics of the Historical Geography of Byzantium.',
+        'data': tib_articles}
 }

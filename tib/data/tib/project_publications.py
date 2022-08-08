@@ -3,7 +3,7 @@ project_publications = [{
     "author": "A. Bracanović, M. Breier, M. Hernández Cordero u. a.",
     "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. ",
     "location": "Krems",
-    "date": "TBA",
+    "date": "in Druck",
     "pages": "",
     "category": ['holdura', 'montenegro'],
     "download": ''
@@ -57,8 +57,8 @@ project_publications = [{
     "download": ''
 }, {
     "author": "Bernhard Koschiček, Mihailo St. Popović, Vratislav Zervan",
-    "title": "Memories are Made of This: Tracing Ambulant Rulers, Local Elites and Shifting Borders in Byzantine Macedonia. In: The edited volume in honor of Predrag Matejic. The Ohio State University, Columbus, OH ",
-    "location": " ",
+    "title": "Memories are Made of This: Tracing Ambulant Rulers, Local Elites and Shifting Borders in Byzantine Macedonia. In: Fruits of Devotion: Essays in Honor of Predrag Matejic (Ohio Slavic Papers 11)",
+    "location": "Columbus, OH",
     "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
@@ -66,7 +66,7 @@ project_publications = [{
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan",
     "title": "The “Fatherland” of the Serbian Kings Milutin and Dečanski or Some Additional Thoughts on the “Medieval Serbian Oecumene”. Studia Slavica et Balcanica Petropolitana ",
-    "location": " ",
+    "location": "Sankt-Peterburg",
     "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
@@ -74,15 +74,15 @@ project_publications = [{
 }, {
     "author": "Mihailo St. Popović",
     "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Comptes rendus des séances de l’Académie (CRAI)",
-    "location": "",
-    "date": "",
+    "location": "Paris",
+    "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Veronika Polloczek",
     "title": "Die Regionen von Bitola und Prilep und deren kulturelles Erbe während und nach dem Ersten Weltkrieg, in: Die Ursprünge der österreichischen Diplomatie in Mazedonien – mit Schwerpunkt auf das österreichisch–ungarische Konsulat in Bitola/Monastir 1851–1919 ",
-    "location": "",
+    "location": "Bitola-Skopje",
     "date": "in Druck",
     "pages": "",
     "category": ['digtib'],

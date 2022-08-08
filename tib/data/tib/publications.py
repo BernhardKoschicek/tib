@@ -190,8 +190,8 @@ tib_articles = [
     },
     {
         "author": "Andreas Külzer",
-        "title": "Unbekanntes Ostthrakien: byzantinische Forschungen zwischen Ägäis, Propontis und dem Schwarzen Meer. Peri Thrakēs (Xanthē) 4",
-        "location": "",
+        "title": "Unbekanntes Ostthrakien: byzantinische Forschungen zwischen Ägäis, Propontis und dem Schwarzen Meer. Peri Thrakēs 4",
+        "location": "Xanthē",
         "date": "2004",
         "pages": "51–68"
     },
@@ -541,7 +541,7 @@ tib_articles = [
     {
         "author": "Mihailo Popović",
         "title": "Kliment von Ohrid, in: Religiöse Erinnerungsorte in Ostmitteleuropa. Konstitution und Konkurrenz im nationen- und epochenübergreifenden Zugriff Berlin (Akademie Verlag-De Gruyter)",
-        "location": "",
+        "location": "Berlin",
         "date": "2013",
         "pages": "494–500"
     },
@@ -990,7 +990,7 @@ tib_articles = [
     {
         "author": "Andreas Külzer",
         "title": "Kleinasien in der Tabula Peutingeriana: Reale und fiktionale Kommunikationswege zwischen Ephesos und Ankara. Orbis Terrarum 18",
-        "location": "",
+        "location": "Wiesbaden",
         "date": "2020",
         "pages": "125–145"
     },

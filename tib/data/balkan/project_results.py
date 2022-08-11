@@ -50,6 +50,12 @@ result_links = {
             'file': None,
             'icon': 'bi bi-box-arrow-up-right',
         },
+        {
+            'label': 'Relief Map',
+            'link': '/static/3dhop/relief.html',
+            'file': None,
+            'icon': 'bi bi-image-alt',
+        },
     ],
     'holdura': [],
     'borderzones': [],

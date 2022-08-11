@@ -5,6 +5,7 @@ project_publications = [{
     "date": "in Druck",
     "pages": "",
     "category": ['holdura', 'montenegro'],
+    "external_link": '',
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan",
@@ -13,7 +14,8 @@ project_publications = [{
     "date": "2018",
     "pages": "105-121",
     "category": ['borderzones'],
-    "download": 'https://memo.imareal.sbg.ac.at/wsarticle/memo/2018-popovic-signs-and-maps-of-power/'
+    "external_link": 'https://memo.imareal.sbg.ac.at/wsarticle/memo/2018-popovic-signs-and-maps-of-power/',
+    "download": ''
 }, {
     "author": "Vratislav Zervan",
     "title": "Local Elites in the Region of Polog in the Light of the Bogorodica Htetovska Charters. In: Popović, Mihailo St./ Polloczek, Veronika/Koschicek, Bernhard/ Eichert, Stefan (Eds.), Power in Landscape – Geographic and Digital Approaches on Historical Research.",
@@ -21,7 +23,8 @@ project_publications = [{
     "date": "2019",
     "pages": "275-356",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'VZervan_Local_Elites.pdf'
 }, {
     "author": "Mihailo Popović, Rainer Simon",
     "title": "Illustrating Workflows in Digital Humanities: Byzantine Macedonia in the 13th/14th Centuries and Its \"Transformation\" from Analogue to Digital, in: Power in Landscape – Geographic and Digital Approaches on Historical Research.",
@@ -29,7 +32,8 @@ project_publications = [{
     "date": "2019",
     "pages": "65-87",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'DPPSD6PoSi.pdf'
 }, {
     "author": "Vratislav Zervan, Mihailo St. Popović",
     "title": "Die Beziehungen und Kontakte der Häuser Luxemburg und Valois zur serbischen Herrscherfamilie der Nemanjiden vor dem Hintergrund der päpstlichen Unionsversuche (13./14. Jh.), in: Byzanz und das Abendland VI. Studia Byzantino-Occidentalia (Antiquitas. Byzantium. Renascentia XXXVIII). ",
@@ -37,7 +41,8 @@ project_publications = [{
     "date": "2019",
     "pages": "179-199",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'MPopovicVZervanLuxemburgValoisNemanjiden.pdf'
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan, Toni Filiposki",
     "title": "Über das Verhältnis von Herrschertiteln und Räumen: eine Fallstudie zu Makedonien unter dem König und Zaren Stefan Dušan (1331-1355). Zbornik Radova Vizantološkog Instituta 57",
@@ -45,7 +50,8 @@ project_publications = [{
     "date": "2020",
     "pages": "179-199",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'MPopovicVZervanTFiliposkiVerhältnisHerrschertitelRäumeMakedonien.pdf'
 }, {
     "author": "Vratislav Zervan",
     "title": "Prosopographische Bemerkungen zu einer Grenzregion in Zeiten der Krise: Herausragende Akteure und Opfer nach den Eroberungszügen des serbischen Königs Stefan Uroš II. Milutin im byzantinischen Makedonien. Byzantinoslovaca 7 [Zborník k životnému jubileu profesora Miroslava Daniša]",
@@ -53,7 +59,8 @@ project_publications = [{
     "date": "2020",
     "pages": "141–151",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'VZervanProsopographische.pdf'
 }, {
     "author": "Mihailo St. Popović",
     "title": "Le changement des élites en Macédoine face à l’expansion serbe. Le cas de Skopje et ses environs au XIVe siècle, in: Byzance et ses voisins, XIIIe-XVe siècle. Art, identité, pouvoir, ed. E. Yota (Pour une histoire nouvelle de l’Europe 17).",
@@ -61,7 +68,8 @@ project_publications = [{
     "date": "2021",
     "pages": "25-38",
     "category": ['borderzones'],
-    "download": ''
+    "external_link": '',
+    "download": 'MPopovicChangementElitesMacedoine.pdf'
 }, {
     "author": "Bernhard Koschiček, Mihailo St. Popović, Vratislav Zervan",
     "title": "Memories are Made of This: Tracing Ambulant Rulers, Local Elites and Shifting Borders in Byzantine Macedonia. In: Fruits of Devotion: Essays in Honor of Predrag Matejic (Ohio Slavic Papers 11)",
@@ -69,6 +77,7 @@ project_publications = [{
     "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
+    "external_link": '',
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan",
@@ -77,6 +86,7 @@ project_publications = [{
     "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
+    "external_link": '',
     "download": ''
 }, {
     "author": "Mihailo St. Popović",
@@ -85,6 +95,7 @@ project_publications = [{
     "date": "in Druck",
     "pages": "",
     "category": ['borderzones'],
+    "external_link": '',
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Veronika Polloczek",
@@ -93,6 +104,7 @@ project_publications = [{
     "date": "in Druck",
     "pages": "",
     "category": ['digtib'],
+    "external_link": '',
     "download": ''
 }, {
     "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (Hgg.) unter Mitwirkung von Johannes Koder",
@@ -101,6 +113,7 @@ project_publications = [{
     "date": "2020",
     "pages": "239",
     "category": ['digtib'],
+    "external_link": '',
     "download": ''
 },
 ]

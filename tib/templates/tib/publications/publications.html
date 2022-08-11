@@ -24,59 +24,19 @@
 
 
     <div class="tab-content-borderless top3" id="pills-tabContent">
-      {% for key, value in publications.items() %}
+      {% for key, values in publications.items() %}
         <div class="tab-pane fade {% if loop.first %}show active{% endif %}"
              id="{{ key }}" role="tabpanel" aria-labelledby="{{ key }}">
         <div class="text-center">
-          {{ header(value['title']) }}
-          <p>{{ value['description'] | safe }}</p>
+          {{ header(values.title) }}
+          <p>{{ values.description | safe }}</p>
         </div>
-          <table id="table-{{ key }}"
-                 class="row-border order-column stripe hover">
-            <thead>
-            <tr>
-              {% for key in value['data'][0] %}
-                <th>{{ key | title }}</th>
-              {% endfor %}
-            </tr>
-            </thead>
-            <tbody>
-            {% for item in value['data'] %}
-              <tr>
-                {% for key, value in item.items() %}
-                  <td>{{ value }}</td>
-                {% endfor %}
-              </tr>
-            {% endfor %}
-            </tbody>
-          </table>
+         {{ create_table(values.data, key, 3) }}
         </div>
       {% endfor %}
     </div>
   </div>
 
-
-  <script>
-      {% for key in publications %}
-          $(document).ready(function () {
-              $('#table-{{ key }}').dataTable({
-                  "paging": true,
-                  "autoWidth": false,
-                  "columnDefs": [
-                      {"width": "20%", "targets": 0},
-                      {"width": "55%", "targets": 1},
-                  ],
-                  "ordering": true,
-                  "order": [[3, {% if key == 'volumes'%}
-                      'asc'{% else %}'desc'{% endif %}]],
-                  "info": true,
-                  "searching": true,
-                  "pageLength": 25
-              });
-          });
-
-      {% endfor %}
-  </script>
 {% endblock %}
 
 

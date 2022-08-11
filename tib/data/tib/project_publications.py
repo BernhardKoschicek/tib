@@ -1,4 +1,5 @@
-project_publications = [{
+project_publications = [
+    {
     "author": "A. Bracanović, M. Breier, M. Hernández Cordero u. a.",
     "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. ",
     "location": "Krems",
@@ -136,6 +137,15 @@ project_publications = [{
 }, {
     "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (Hgg.) unter Mitwirkung von Johannes Koder",
     "title": "Raum und Geschichte: Der historische Atlas „Tabula Imperii Byzantini“ an der Österreichischen Akademie der Wissenschaften",
+    "location": "Wien-Novi Sad ",
+    "date": "2020",
+    "pages": "239",
+    "category": ['digtib'],
+    "external_link": '',
+    "download": ''
+},{
+    "author": "Mihailo St. Popović, Toni Filiposki",
+    "title": "Antique and Medieval Cultural Heritage in Macedonia during WW1: Based on German and Austrian Archival Evidence, in: On the Cross-Path of Cultural Ideas: Macedonia, the Balkans, Southeast Europe – Heritage, Management, Resources. A Collection of Papers from the International Conference held in Ohrid in September 2019",
     "location": "Wien-Novi Sad ",
     "date": "2020",
     "pages": "239",

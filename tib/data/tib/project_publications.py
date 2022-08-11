@@ -98,6 +98,33 @@ project_publications = [{
     "external_link": '',
     "download": ''
 }, {
+    "author": "Vratislav Zervan",
+    "title": "Migration into the Borderzone: A Case Study on Byzantine Macedonia after the Serbian Conquest (1282-1355), in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
+    "location": "Leipzig",
+    "date": "in Druck",
+    "pages": "",
+    "category": ['borderzones'],
+    "external_link": '',
+    "download": ''
+}, {
+    "author": "Markus Breier, Bernhard Koschiček-Krombholz",
+    "title": "Border Interpretation and Its Cartographic Representation, in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
+    "location": "Leipzig",
+    "date": "in Druck",
+    "pages": "",
+    "category": ['borderzones'],
+    "external_link": '',
+    "download": ''
+}, {
+    "author": "Mihailo St. Popović",
+    "title": "Über „kurze Wege“ und „tiefe Gruben“ im Süden der Balkanhalbinsel: die Begriffe „preki put“ und „trap“ in altserbischen mittelalterlichen Quellen, in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
+    "location": "Leipzig",
+    "date": "in Druck",
+    "pages": "",
+    "category": ['borderzones'],
+    "external_link": '',
+    "download": ''
+},  {
     "author": "Mihailo St. Popović, Veronika Polloczek",
     "title": "Die Regionen von Bitola und Prilep und deren kulturelles Erbe während und nach dem Ersten Weltkrieg, in: Die Ursprünge der österreichischen Diplomatie in Mazedonien – mit Schwerpunkt auf das österreichisch–ungarische Konsulat in Bitola/Monastir 1851–1919 ",
     "location": "Bitola-Skopje",

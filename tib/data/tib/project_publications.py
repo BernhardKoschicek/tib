@@ -1,4 +1,3 @@
-
 project_publications = [{
     "author": "A. Bracanović, M. Breier, M. Hernández Cordero u. a.",
     "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. ",
@@ -21,6 +20,14 @@ project_publications = [{
     "location": "Leipzig",
     "date": "2019",
     "pages": "275-356",
+    "category": ['borderzones'],
+    "download": ''
+}, {
+    "author": "Mihailo Popović, Rainer Simon",
+    "title": "Illustrating Workflows in Digital Humanities: Byzantine Macedonia in the 13th/14th Centuries and Its \"Transformation\" from Analogue to Digital, in: Power in Landscape – Geographic and Digital Approaches on Historical Research.",
+    "location": "Leipzip",
+    "date": "2019",
+    "pages": "65-87",
     "category": ['borderzones'],
     "download": ''
 }, {

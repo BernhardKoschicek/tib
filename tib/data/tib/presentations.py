@@ -228,7 +228,7 @@ presentations = [{
     "presenter": "Veronika Polloczek",
     "title": "How to Expand the Tabula Imperii Byzantini in a Digital Age?",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2018, 7, 3).strftime('%Y/%m/%d'),
     "category": ["digtib"]
 }, {
@@ -242,7 +242,7 @@ presentations = [{
     "presenter": "Veronika Polloczek",
     "title": "Digitising and Archiving Cultural Heritage in DPP / OpenAtlas on the Example of the Tabula Imperii Byzantini",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2019, 7, 3).strftime('%Y/%m/%d'),
     "category": ["digtib"]
 }, {
@@ -256,63 +256,70 @@ presentations = [{
     "presenter": "Dorota Vargová",
     "title": "An Ecclesiastical History of Medieval Duklja: A Landscape Defined by Rite",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura"]
 }, {
     "presenter": "Branka Vranešević",
     "title": "Towards Imperial Dignity: A Contribution to the Study of the Imperial Crown of King Stefan Uroš III Dečanski in the Cetinje Monastery",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura"]
 }, {
     "presenter": "Moisés Hernández Cordero",
     "title": "Mapping Cultural Heritage beyond the Eye: The Case of the Crown of the Serbian King Stefan Dečanski",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura", "montenegro"]
 }, {
     "presenter": "Mihailo Popović",
     "title": "Beyond East and West: Sacred Landscapes in the Territory of Today's Montenegro, 11th-14th Centuries",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura"]
 }, {
     "presenter": "Markus Breier",
     "title": "Modern Cartographic Representations of Medieval Borders and Border Zones",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura"]
 }, {
     "presenter": "Lukas Neugebauer",
     "title": "Experiencing Historical Landscapes Using Visual Storytelling",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["holdura"]
 }, {
     "presenter": "Bernhard Koschiček-Krombholz",
     "title": "Medieval Borders in the Digital Age: Approaching the (Re)Creation of Medieval Border Zones through Digital Methods (OpenAtlas and GIS)",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["borderzones"]
 }, {
     "presenter": "Vratislav Zervan",
     "title": "The Governors of the Border Towns during the Serbian Expansion into Byzantine Macedonia, 1282-1355: Survey and Analysis of Elite Change",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
+    "category": ["borderzones"]
+},{
+    "presenter": "Mihailo Popović",
+    "title": "Separating the Wheat from the Chaff: On the Use and Usefulness of Digital Humanities in History and Beyond ",
+    "conference": "Searching Digital: Methods, Tools, and Standards of Research in Digital Humanities, Online workshops organised by the Centre for the Study of the Balkans, Department of History, Goldsmiths University of London, CHASE Doctoral Training Partnership, Session 3",
+    "location": "London, United Kingdom",
+    "date": datetime(2021, 6, 21).strftime('%Y/%m/%d'),
     "category": ["borderzones"]
 }, {
     "presenter": "Veronika Polloczek",
     "title": "On the Trail of the Digital Tabula Imperii Byzantini: How Changes in the World's Cultural Heritage Become Visible",
     "conference": "International Medieval Congress",
-    "location": "Leeds, Großbritannien",
+    "location": "Leeds, United Kingdom",
     "date": datetime(2022, 7, 6).strftime('%Y/%m/%d'),
     "category": ["digtib"]
 },

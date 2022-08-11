@@ -137,7 +137,7 @@ project_publications = [
 }, {
     "author": "Andreas Külzer, Veronika Polloczek, Mihailo St. Popović (Hgg.) unter Mitwirkung von Johannes Koder",
     "title": "Raum und Geschichte: Der historische Atlas „Tabula Imperii Byzantini“ an der Österreichischen Akademie der Wissenschaften",
-    "location": "Wien-Novi Sad ",
+    "location": "Wien-Novi Sad",
     "date": "2020",
     "pages": "239",
     "category": ['digtib'],

@@ -5,7 +5,7 @@ from flask import render_template
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
 from tib.data.outreach import outreach, outreach_ger
-from tib.data.balkan.project_results import project_results
+from tib.data.balkan.project_results import result_links, project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
@@ -79,7 +79,8 @@ def balkan_subprojects(project: str = None) -> str:
                 project,
                 project_publications),
             images=get_dict_entries_by_category(project, IMAGES_SUB_GER),
-            results=project_results[project])
+            results=project_results[project],
+            result_links=result_links[project])
     return render_template(
         'balkan/subprojects/subproject_overview.html',
         subprojects=subprojects_ger)

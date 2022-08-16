@@ -59,5 +59,23 @@ result_links = {
     ],
     'holdura': [],
     'borderzones': [],
-    'digtib': []
+    'digtib': [
+        {
+            'label': 'Projektendbericht',
+            'link': None,
+            'file': 'digtib/MPopovic_Abschlußbericht_OENB17771.pdf',
+            'icon': 'bi bi-journals',
+        },
+        {
+            'label': 'TIB Register',
+            'link': '../../tib-register',
+            'file': None,
+            'icon': 'bi bi-list-columns-reverse',
+        },
+        {
+            'label': 'Image Collection',
+            'link': 'https://catalogue.tib.oeaw.ac.at/',
+            'file': None,
+            'icon': 'bi bi-images',
+        },]
 }

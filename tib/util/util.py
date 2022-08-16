@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import Any, Dict, List, Tuple, Union
 
 
@@ -20,10 +21,21 @@ def get_prev_and_next_item_of_dict(
     return prev, next_
 
 
-
 def get_dict_entries_by_category(
         categories: Union[List[str], str],
         list_: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     categories = [categories] if type(categories) == str else categories
     return [entry for entry in list_
             if any(item in categories for item in entry['category'])]
+
+
+def get_table_dates_formatted(year: int, month: int, day: int) -> str:
+    return datetime(year, month, day).strftime('%Y/%m/%d')
+
+
+def get_news_dates_formatted(year: int, month: int, day: int) -> str:
+    return datetime(year, month, day).strftime('%d %B %Y')
+
+
+def get_dates_formatted(year: int, month: int, day: int) -> str:
+    return datetime(year, month, day).strftime('%d.%m.%Y')

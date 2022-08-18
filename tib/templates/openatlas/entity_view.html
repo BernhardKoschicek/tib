@@ -1,28 +1,44 @@
 {% extends "balkan/layout.html" %}
-{% block title %}TIB OpenAtlas Access{% endblock %}
+{% block title %}{{ entity.name }}{% endblock %}
 {% block content %}
   <div class="container top7">
     <div class="row">
-      <div class="col-6">
+      <div class="col-10">
         {{ header(entity.name) }}
-        {{ sub_header(entity.alias) }}
-        {% for system in entity.links %}
+      </div>
+      <div class="col text-end display-6">
+        <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}"
+           target="_blank">
+          <i class="bi bi-filetype-json"></i>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-6">
 
-          <a href="{{ system.identifier }}"
-             class="btn btn-violet-light px-2 py-1 pill"
-             target="_blank">
-            {{ system.referenceSystem }}
-          </a>
-        {% endfor %}
+        {{ sub_header(entity.alias) }}
+        {% if entity.links %}
+          {% for system in entity.links %}
+
+            <a href="{{ system.identifier }}"
+               class="btn btn-violet-light px-2 py-1 pill"
+               target="_blank">
+              {{ system.referenceSystem }}
+            </a>
+          {% endfor %}
+        {% endif %}
 
         <div class="pt-3">
-          <p><span class="fw-bold">Begin</span> {{ entity.begin }}</p>
-          <p><span class="fw-bold">End</span> {{ entity.end }}</p>
+          <span class="fw-bold">Begin</span> {{ entity.begin }}
+          <br/>
+          <span class="fw-bold">End</span> {{ entity.end }}
         </div>
 
       </div>
-      <div id="map" class="col-6">
+
+      <div id="map" class="col-6 pt-5">
       </div>
+
 
     </div>
 
@@ -90,7 +106,7 @@
     <div class="col-md-12 pt-5">
       <h3>Relations</h3>
       {% for key, value in relations.items() %}
-        <h5>
+        <h5 class="pt-3">
           {{ key | replace('_', ' ') | title }} ({{ value|length }})
           <a class="btn btn-violet p-1" data-bs-toggle="collapse"
              href="#collapse-{{ key }}" role="button" aria-expanded="false"
@@ -173,19 +189,19 @@
       }
   </script>
   <script>
-  var map = L.map('map').setView([51.505, -0.09], 13);
+      var map = L.map('map').setView([51.505, -0.09], 13);
 
-  L.tileLayer(  "https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
-  {
-    maxZoom: 25,
-    maxNativeZoom: 20,
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>',
-  }).addTo(map);
+      L.tileLayer("https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
+          {
+              maxZoom: 25,
+              maxNativeZoom: 20,
+              attribution:
+                  '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org/" target="_blank">Humanitarian OpenStreetMap Team</a> hosted by <a href="https://openstreetmap.fr/" target="_blank">OpenStreetMap France</a>',
+          }).addTo(map);
 
-  {% if entity.geometry['type'] == 'Polygon' %}
-  var polygon = L.polygon([[19.261842521, 42.4650217], [19.261735233, 42.466652077], [19.261134418, 42.467696761], [19.262142928, 42.468662288], [19.261928352, 42.469184616], [19.262529166, 42.4696278], [19.264009746, 42.468963023], [19.265769275, 42.4692321], [19.267164024, 42.469327068], [19.268065246, 42.469991841], [19.269760402, 42.470086808], [19.271541389, 42.468345724], [19.269052299, 42.467649276], [19.266670497, 42.466778706], [19.264481815, 42.466003097], [19.262786659, 42.465654861], [19.261842521, 42.4650217]]).addTo(map);
-  {% endif %}
+      {% if entity.geometry['type'] == 'Polygon' %}
+          var polygon = L.polygon([[19.261842521, 42.4650217], [19.261735233, 42.466652077], [19.261134418, 42.467696761], [19.262142928, 42.468662288], [19.261928352, 42.469184616], [19.262529166, 42.4696278], [19.264009746, 42.468963023], [19.265769275, 42.4692321], [19.267164024, 42.469327068], [19.268065246, 42.469991841], [19.269760402, 42.470086808], [19.271541389, 42.468345724], [19.269052299, 42.467649276], [19.266670497, 42.466778706], [19.264481815, 42.466003097], [19.262786659, 42.465654861], [19.261842521, 42.4650217]]).addTo(map);
+      {% endif %}
   </script>
 
 {% endblock %}

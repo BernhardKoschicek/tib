@@ -1,6 +1,7 @@
 from flask import Response, redirect, render_template
 
 from tib import app
+from tib.data.images.history import tib_history_images
 from tib.data.images.images import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.openatlas.oa_access import view_classes
@@ -15,7 +16,7 @@ from tib.data.tib.publications import tib_publications_data
 from tib.data.tib.subprojects import subprojects
 from tib.data.tib.team import team_categories
 from tib.data.tib.tib_volumen import tib_volumes_dict
-from tib.data.volumes.toponym_register import register_volume
+from tib.data.register.toponym_register import register_volume
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict
 
@@ -33,7 +34,9 @@ def tib_home() -> str:
 
 @app.route('/history')
 def tib_history() -> str:
-    return render_template('tib/history/history.html')
+    return render_template(
+        'tib/history/history.html',
+        images=tib_history_images)
 
 
 @app.route('/current_status')

@@ -128,7 +128,8 @@
           {{ icon.license |safe }}
         {% endif %}
         {% if icon.author %}
-          by <a class="text-decoration-none" href="{{ icon.url }}">{{ icon.author }}</a>
+          by<a class="text-decoration-none"
+               href="{{ icon.url }}">{{ icon.author }}</a>
         {% endif %}
       </small>
     {% else %}
@@ -223,24 +224,39 @@
 
 
 {% macro create_table(list_, id, order_column) %}
-
+  {% set not_shown = ['category', 'download', 'external_link'] %}
   <table id="table-{{ id }}"
          class="row-border order-column stripe hover">
     <thead>
     <tr>
-      {% for header in list_[0] if not header in ['category', 'download'] %}
+      {% for header in list_[0] if not header in not_shown %}
         <th>{{ header | title }}</th>
       {% endfor %}
+      <th></th>
     </tr>
     </thead>
     <tbody>
     {% for item in list_ %}
       <tr>
-        {% for key, value in item.items() if not key in ['category', 'download'] %}
+        {% for key, value in item.items() if not key in not_shown %}
           <td>
             {{ value }}
           </td>
         {% endfor %}
+      <td>
+        {% if item.external_link %}
+              <a href="{{ item.external_link }}" class="text-decoration-none"
+                 target="_blank">
+          <i class="bi bi-box-arrow-up-right lead"></i>
+            {% endif %}
+            {% if  item.download %}
+              <a href="{{ url_for('static', filename='repository/publications/' + item.download ) }}"
+                 class="text-decoration-none">
+              <i class="bi bi-file-earmark-arrow-down lead"></i>
+            {% endif %}
+
+            </a>
+      </td>
       </tr>
     {% endfor %}
     </tbody>
@@ -256,10 +272,10 @@
               ],
               "ordering": true,
               "order": [[{{ order_column }},
-                  {% if id == 'volumes'%}'asc'{% else %}'desc'{% endif %}]],
+                  {% if id == 'TIB_Volumes'%}'asc'{% else %}'desc'{% endif %}]],
               "info": true,
               "searching": true,
-              "pageLength": 10
+              "pageLength":  {% if id == 'TIB_Volumes'%}20{% else %}10{% endif %}
           });
       });
 

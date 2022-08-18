@@ -1,7 +1,6 @@
-from datetime import datetime
-
 from tib.data.institutes import institutes
 from tib.data.tib.team import tib_team_data
+from tib.util.util import get_dates_formatted
 
 path = 'images/icons/'
 
@@ -62,8 +61,8 @@ subprojects_ger = {
             'Florian Korn, BSc MSc', 'Dipl.-Ing. Leonhard Kreil-Brunauer',
             'Ass. Prof. Dr. Branka Vranešević'],
         'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek']],
-        'begin': datetime(2020, 3, 1).strftime('%d %B %Y'),
-        'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2020, 3, 1),
+        'end': get_dates_formatted(2023, 2, 28),
         'description': holdura_description,
         'question':
             'Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ '
@@ -86,8 +85,8 @@ subprojects_ger = {
         ],
         'employees': [tib_team_data['vpolloczek'], tib_team_data['bkoschicek'],
                       tib_team_data['mhernandez']],
-        'begin': datetime(2019, 1, 1).strftime('%d %B %Y'),
-        'end': datetime(2021, 12, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2019, 1, 1),
+        'end': get_dates_formatted(2021, 12, 31),
         'description': montenegro_description,
         'question':
             'Was blieb von der österreichisch-ungarischen Besetzung '
@@ -105,8 +104,8 @@ subprojects_ger = {
         'cooperation': ['Alexander Watzinger, IT Experte'],
         'employees': [tib_team_data['vpolloczek'], tib_team_data['bkoschicek'],
                       tib_team_data['mhernandez']],
-        'begin': datetime(2018, 3, 1).strftime('%d %B %Y'),
-        'end': datetime(2020, 5, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2018, 3, 1),
+        'end': get_dates_formatted(2020, 5, 31),
         'description': digtib_description,
         'question':
             'Welchen Beitrag leistet die TIB Balkan zur Dokumentation und '
@@ -123,8 +122,8 @@ subprojects_ger = {
         'pi': [tib_team_data['mpopovic']],
         'cooperation': '',
         'employees': [tib_team_data['vzervan'], tib_team_data['bkoschicek']],
-        'begin': datetime(2017, 10, 1).strftime('%d %B %Y'),
-        'end': datetime(2022, 3, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2017, 10, 1),
+        'end': get_dates_formatted(2022, 3, 31),
         'description': borderzones_description,
         'question':
             'Wo und wie lebten die Menschen in der historischen Landschaft '

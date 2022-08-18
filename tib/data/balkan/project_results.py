@@ -1,5 +1,5 @@
 project_results = {
-    'montenegro': """
+    'montenegro': f"""
         <ul>
             <li>Etablierung von Kontakten zu Wissenschaftler*innen, Archiven und Museen in Montenegro</li>
             <li>Erforschung und Kontextualisierung der österreichisch-ungarischen Reliefkarte Montenegros (1916-1918)</li>
@@ -9,7 +9,7 @@ project_results = {
             <li>Zusammenarbeit mit dem TIB Teilprojekt <a href="holdura">„Beyond East and West: Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and Time (11th-14th Cent.)/HOLDURA“</a></li>
             <li>Gemeinsamer wissenschaftlicher Artikel des österreichischen und montenegrinischen Projektteams mit dem Titel „On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results“, der in der österreichischen Online Zeitschrift <a href="https://memo.imareal.sbg.ac.at/2021/04/30/neue-reihe-memo_quer/">MEMO_quer</a> im Laufe des Jahres 2022 erscheinen wird</li>
             <li>Überreichung des 3D Modells der Reliefkarte an das Nationalmuseum Montenegros in Cetinje zum Zweck musealer Ausstellungen und digitaler Präsentationen</li>
-        </ul>     
+        </ul>  
     """,
     'holdura': '',
     'borderzones': '',
@@ -28,4 +28,54 @@ project_results = {
         Des weiteren hat Veronika Polloczek ein Dissertationsthema an der Universität Wien mit dem Arbeitstitel „From the Past into the Future – Digitale Archivierung am Beispiel des historischen Atlas Tabula Imperii Byzantini und seiner Diathek“ erfolgreich beantragt und verteidigt, das von der Universität Wien offiziell am 17. Mai 2019 genehmigt wurde und von Mihailo Popović als Privatdozent der Universität Wien betreut wird.
         </p>
     """
+}
+
+result_links = {
+    'montenegro': [
+        {
+            'label': 'Projektendbericht',
+            'link': None,
+            'file': 'montenegro/MPopovic_WTZ_Detailed_Presentation_ME07_2019.pdf',
+            'icon': 'bi bi-journals',
+        },
+        {
+            'label': 'Maps of Power',
+            'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+            'file': None,
+            'icon': 'bi bi-map-fill',
+        },
+        {
+            'label': 'HOLDURA Project',
+            'link': 'holdura',
+            'file': None,
+            'icon': 'bi bi-box-arrow-up-right',
+        },
+        {
+            'label': 'Relief Map',
+            'link': '/static/3dhop/relief.html',
+            'file': None,
+            'icon': 'bi bi-image-alt',
+        },
+    ],
+    'holdura': [],
+    'borderzones': [],
+    'digtib': [
+        {
+            'label': 'Projektendbericht',
+            'link': None,
+            'file': 'digtib/MPopovic_Abschlußbericht_OENB17771.pdf',
+            'icon': 'bi bi-journals',
+        },
+        {
+            'label': 'TIB Register',
+            'link': '../../tib-register',
+            'file': None,
+            'icon': 'bi bi-list-columns-reverse',
+        },
+        {
+            'label': 'Image Collection',
+            'link': 'https://catalogue.tib.oeaw.ac.at/',
+            'file': None,
+            'icon': 'bi bi-images',
+        },]
 }

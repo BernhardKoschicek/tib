@@ -1,6 +1,5 @@
-from datetime import datetime
-
 from tib.data.tib.team import tib_team_data as team
+from tib.util.util import get_dates_formatted
 
 img_path = '/images/icons/outreach/'
 attach_path = '/repository/outreach/'
@@ -31,7 +30,7 @@ types = {
 outreach_ger = [{
     'id': 'tib11_release',
     'type': types['online_presentation'],
-    'date': datetime(2022, 4, 1).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 4, 1),
     'who': [team['mpopovic']],
     'title': 'On the Use and Usefulness of Digital Humanities in the '
              'Historical Geography of Byzantium ',
@@ -58,7 +57,7 @@ outreach_ger = [{
 outreach = [{
     'id': 'tib11_release',
     'type': types['book_release'],
-    'date': datetime(2022, 7, 26).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 7, 26),
     'who': [team['psoustal'], team['mpopovic']],
     'title': 'TIB Volume 11 ("Macedonia, Southern Part") published',
     'description': """<p>
@@ -79,7 +78,7 @@ outreach = [{
 },{
     'id': 'seminar_series_april',
     'type': types['online_presentation'],
-    'date': datetime(2022, 4, 1).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 4, 1),
     'who': [team['mpopovic']],
     'title': 'On the Use and Usefulness of Digital Humanities in the '
              'Historical Geography of Byzantium ',
@@ -101,7 +100,7 @@ outreach = [{
 }, {
     'id': 'global_eurasia_5_12_22',
     'type': types['presentation'],
-    'date': datetime(2022, 5, 12).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 5, 12),
     'who': [team['mpopovic']],
     'title': 'Presentation at “Global Eurasia – Comparison and Connectivity '
              'II: Agency, Networks and Transregional Contexts”',
@@ -119,7 +118,7 @@ outreach = [{
 }, {
     'id': 'lange_nacht_22',
     'type': types['science_fair'],
-    'date': datetime(2022, 5, 20).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 5, 20),
     'who': [team['dvargova']],
     'title': 'TIB at the "Lange Nacht der Forschung" in Vienna',
     'description': """<p>
@@ -135,7 +134,7 @@ outreach = [{
 }, {
     'id': 'seminar_koeln',
     'type': types['online_presentation'],
-    'date': datetime(2022, 6, 23).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 6, 23),
     'who': [team['bkoschicek'], team['mpopovic']],
     'title': 'Presentation at the University of Cologne, Germany',
     'description': """<p>
@@ -150,7 +149,7 @@ outreach = [{
 }, {
     'id': 'imc2022',
     'type': types['online_presentation'],
-    'date': datetime(2022, 7, 6).strftime('%d.%m.%Y'),
+    'date': get_dates_formatted(2022, 7, 6),
     'who': [team['mhernandez'], team['bkoschicek'], team['vpolloczek'],
             team['mpopovic'], team['dvargova'], team['vzervan']],
     'title': 'Presentation at the International Medieval Congress (IMC) in '
@@ -167,8 +166,8 @@ outreach = [{
 }, {
     'id': 'aieb_roundtable',
     'type': types['online_presentation'],
-    'date': f"{datetime(2022, 8, 22).strftime('%d.%m.%Y')}-"
-            f"{datetime(2022, 8, 27).strftime('%d.%m.%Y')}",
+    'date': f"{get_dates_formatted(2022, 8, 22)}-"
+            f"{get_dates_formatted(2022, 8, 27)}",
     'who': [team['mpopovic']],
     'title': '24th International Congress of Byzantine Studies in Venice and '
              'Padua',

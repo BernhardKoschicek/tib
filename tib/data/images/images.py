@@ -2,7 +2,7 @@ from tib.data.images.subprojects_ger_images import subprojects_ger_images
 
 path = 'images/gallery/'
 
-tib_history = [{
+tib_balkan_long_term = [{
     'path': f'{path}tib_regions_hunger.jpg',
     'description': 'Die Einteilung der Arbeitsgebiete der TIB Balkan in der Nordhälfte der Balkanhalbinsel nach Herbert Hunger',
     'citation': '',
@@ -26,6 +26,7 @@ balkan_hist_geo = [{
     'category': ['geo']
 },
 ]
+
 tib11 = [
     {
         'path': f'{path}roman_bridge.jpg',

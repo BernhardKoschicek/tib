@@ -1,7 +1,6 @@
-from datetime import datetime
-
 from tib.data.institutes import institutes
 from tib.data.tib.team import tib_team_data
+from tib.util.util import get_dates_formatted
 
 path = 'images/icons/'
 
@@ -83,8 +82,8 @@ subprojects = {
             'Univ. Prof. Dr. Alexander Beihammer, University of Notre Dame',
             'Dr. Myrto Veikou, Uppsala University'],
         'employees': [tib_team_data['dariantzi']],
-        'begin': datetime(2021, 1, 15).strftime('%d %B %Y'),
-        'end': datetime(2025, 1, 14).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2021, 1, 15),
+        'end': get_dates_formatted(2025, 1, 14),
         'description': mesmy_description,
         'icon': f'{path}mesmy_icon.jpg',
         'presentations': [],
@@ -102,8 +101,8 @@ subprojects = {
             'Ass. Prof. Dr. Branka Vranešević'],
         'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek'],
                       tib_team_data['dschmid']],
-        'begin': datetime(2020, 3, 1).strftime('%d %B %Y'),
-        'end': datetime(2023, 2, 28).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2020, 3, 1),
+        'end': get_dates_formatted(2023, 2, 28),
         'description': holdura_description,
         'icon': f'{path}holdura_icon.jpg',
         'presentations': [],
@@ -120,8 +119,8 @@ subprojects = {
             'Byzantine Archaeology at the German Archaeological Institute,'
             ' Department Istanbul)'],
         'employees': [],
-        'begin': datetime(2019, 8, 29).strftime('%d %B %Y'),
-        'end': datetime(2021, 8, 28).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2019, 8, 29),
+        'end': get_dates_formatted(2021, 8, 28),
         'description': inventory_description,
         'icon': f'{path}inventory_icon.jpg',
         'presentations': [],
@@ -141,8 +140,8 @@ subprojects = {
         ],
         'employees': [tib_team_data['vpolloczek'], tib_team_data['bkoschicek'],
                       tib_team_data['mhernandez']],
-        'begin': datetime(2019, 1, 1).strftime('%d %B %Y'),
-        'end': datetime(2021, 12, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2019, 1, 1),
+        'end': get_dates_formatted(2021, 12, 31),
         'description': montenegro_description,
         'icon': f'{path}montenegro_icon.jpg',
         'presentations': [],
@@ -157,8 +156,8 @@ subprojects = {
         'cooperation': ['Alexander Watzinger, IT Experte'],
         'employees': [tib_team_data['vpolloczek'], tib_team_data['bkoschicek'],
                       tib_team_data['mhernandez']],
-        'begin': datetime(2018, 3, 1).strftime('%d %B %Y'),
-        'end': datetime(2020, 5, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2018, 3, 1),
+        'end': get_dates_formatted(2020, 5, 31),
         'description': digtib_description,
         'icon': f'{path}digtib_icon.jpg',
         'presentations': [],
@@ -172,8 +171,8 @@ subprojects = {
         'pi': [tib_team_data['mpopovic']],
         'cooperation': '',
         'employees': [tib_team_data['vzervan'], tib_team_data['bkoschicek']],
-        'begin': datetime(2017, 10, 1).strftime('%d %B %Y'),
-        'end': datetime(2022, 3, 31).strftime('%d %B %Y'),
+        'begin': get_dates_formatted(2017, 10, 1),
+        'end': get_dates_formatted(2022, 3, 31),
         'description': borderzones_description,
         'icon': f'{path}borderzones_icon.jpg',
         'presentations': [],

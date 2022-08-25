@@ -1,3 +1,4 @@
+import os
 from typing import Any, Dict, List
 
 from tib.model.types import Types
@@ -79,6 +80,8 @@ class Depiction:
         self.title = data['title']
         self.license = data['license']
         self.url = data['url']
+        self.extension = os.path.splitext(self.url.rsplit('/', 1)[-1])[1]
+
 
 
 class Relation(Entity):
@@ -91,4 +94,3 @@ class Relation(Entity):
         self.relation_system_class = data['relationSystemClass']
         self.relation_description = data['relationDescription']
         self.type = data['type']
-

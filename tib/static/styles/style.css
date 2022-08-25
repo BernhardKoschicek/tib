@@ -309,6 +309,34 @@ a.oa-access-tab-boxes:hover {
     border-color: #4f1b3c;
 }
 
+
+.btn-outline-violet {
+  color:  #4f1b3c;
+  border-color:  #4f1b3c;
+}
+.btn-outline-violet:hover {
+  color: #ffffff;
+  background-color:  #4f1b3c;
+  border-color:  #4f1b3c;
+}
+.btn-check:focus + .btn-outline-violet, .btn-outline-violet:focus {
+  box-shadow: 0 0 0 0.25rem rgba(79, 27, 60, 0.63);
+}
+.btn-check:checked + .btn-outline-violet, .btn-check:active + .btn-outline-violet, .btn-outline-violet:active, .btn-outline-violet.active, .btn-outline-violet.dropdown-toggle.show {
+  color: #ffffff;
+  background-color:  #4f1b3c;
+  border-color:  #4f1b3c;
+}
+.btn-check:checked + .btn-outline-violet:focus, .btn-check:active + .btn-outline-violet:focus, .btn-outline-violet:active:focus, .btn-outline-violet.active:focus, .btn-outline-violet.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(79, 27, 60, 0.63);
+}
+.btn-outline-violet:disabled, .btn-outline-violet.disabled {
+  color:  #4f1b3c;
+  background-color: transparent;
+}
+
+
+
 .counter-font {
     font-size: 12px;
     letter-spacing: 2px;

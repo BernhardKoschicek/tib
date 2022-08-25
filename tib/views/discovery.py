@@ -1,8 +1,10 @@
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 from flask import render_template
 import numpy
 from tib import app
+from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
+from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.model.entity import Entity, Relation
 from tib.model.types import Types
 from tib.util.api_calls import get_entities_linked_to_entity
@@ -35,10 +37,12 @@ def get_relation_entities(
     return [Relation(entity) for entity in list_]
 
 
-def get_types_sorted(types: List[Types]) -> Dict[str, Any]:
+def get_types_sorted(types: List[Types]) -> Optional[Dict[str, Any]]:
+    if not types:
+        return None
     type_hierarchy = {}
     for type_ in types:
-        type_hierarchy.setdefault(type_.root, []).append(type_.label)
+        type_hierarchy.setdefault(type_.root, []).append(type_)
     return type_hierarchy
 
 
@@ -47,9 +51,11 @@ def get_relations(
     relation_dict = {}
     for relation in relations:
         if relation.relation_system_class in \
-                ['type', 'file', 'appellation',
+                ['file', 'appellation',
                  'object_location', 'reference_system']:
             continue
+        elif relation.relation_system_class == 'type':
+            relation_dict.setdefault('types', []).append(relation)
         elif relation.relation_system_class == 'source':
             relation_dict.setdefault('sources', []).append(relation)
         elif relation.relation_system_class == 'source_translation':
@@ -75,3 +81,17 @@ def get_relations(
     return relation_dict
 
 
+@app.route('/digital/<project>/<view>')
+def digital_oa_access(project: str, view: str) -> str:
+    data = False
+    try:
+        data = get_oa_by_view_class(
+                view,
+                subprojects_ger_discover[project]['oaID'])
+    except:
+        pass
+    return render_template(
+            'openatlas/entity_table.html',
+            data=data,
+            project=subprojects_ger_discover[project],
+            view_classes=view_classes[view])

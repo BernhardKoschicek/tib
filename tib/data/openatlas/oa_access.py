@@ -15,7 +15,7 @@ view_classes = {
         'description': 'Verknüpfung von Ort und Akteur'},
     'source': {
         'display_name': 'Quellen',
-        'description': 'Inhalt von Manuskripten'},
+        'description': 'Urkunden, Manuskripten u.a.'},
     'reference': {
         'display_name': 'Referenzen',
         'description': 'Forschungsliteratur'},
@@ -27,13 +27,14 @@ view_classes = {
 def get_oa_by_view_class(view: str, project_id: object) -> List[Entity]:
     if view not in view_classes:
         return []
-    data = [Entity(entry['features'][0])
+    data =  [Entity(entry['features'][0])
             for entry in get_view_class(
             f'{view}?limit=0&'
             f'show=description&search='
             '{"typeID":[{"operator":"equal",'
             f'"values":[{project_id}]'
             '}]}')]
+
     return data
 
 

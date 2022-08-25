@@ -13,7 +13,7 @@ from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, 
     tib_balkan_long_term
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.index import front_menu
-from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
+from tib.data.openatlas.oa_access import view_classes
 from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
 from tib.data.tib.presentations import presentations
@@ -109,17 +109,6 @@ def balkan_digital(category: str = None) -> str:
         objects3d=objects3d,
         subprojects_dict=subprojects_ger_discover,
         view_classes=view_classes)
-
-
-@app.route('/digital/<project>/<view>')
-def digital_oa_access(project: str, view: str) -> str:
-    return render_template(
-        'balkan/digital/entity_table.html',
-        data=get_oa_by_view_class(
-            view,
-            subprojects_ger_discover[project]['oaID']),
-        project=subprojects_ger_discover[project],
-        view_classes=view_classes[view])
 
 
 @app.route('/balkan/langzeitprojekt')

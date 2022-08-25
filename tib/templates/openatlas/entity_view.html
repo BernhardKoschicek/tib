@@ -12,6 +12,14 @@
              target="_blank" class="btn btn-outline-violet">
             <i class="bi bi-filetype-json" style="font-size: 1.5em"></i>
           </a>
+          <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}?format=pretty-xml"
+             target="_blank" class="btn btn-outline-violet">
+            <i class="bi bi-filetype-xml" style="font-size: 1.5em"></i>
+          </a>
+          <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}?export=csv"
+             target="_blank" class="btn btn-outline-violet">
+            <i class="bi bi-filetype-csv" style="font-size: 1.5em"></i>
+          </a>
         </div>
       </div>
     </div>
@@ -56,18 +64,21 @@
                 </button>
               </td>
             </tr>
-            {% for key, value in type_hierarchy.items() %}
-              <tr>
-                <th class="table-active">{{ key }}</th>
-                <td>
-                  {% for type in value %}
-                    <button class="btn btn-violet-light px-2 py-1 pill">
-                      {{ type }}
-                    </button>
-                  {% endfor %}
-                </td>
-              </tr>
-            {% endfor %}
+            {% if type_hierarchy %}
+              {% for key, value in type_hierarchy.items() %}
+                <tr>
+                  <th class="table-active">{{ key }}</th>
+                  <td>
+                    {% for type in value %}
+                      <a href="{{ url_for('entity_view', id_=type.identifier) }}"
+                         class="btn btn-violet-light px-2 py-1 pill">
+                        {{ type.label }}
+                      </a>
+                    {% endfor %}
+                  </td>
+                </tr>
+              {% endfor %}
+            {% endif %}
           </table>
         </div>
       </div>
@@ -100,21 +111,21 @@
 
 
     <div class="row pt-5">
-
-
-      <div class="col-md-12 pt-3">
-        {{ sub_header("Description") }}
-        <div id="description">
-          <p>
-            {{ entity.description }}
-          </p>
+      {% if entity.description %}
+        <div class="col-md-12 pt-3">
+          {{ sub_header("Description") }}
+          <div id="description">
+            <p>
+              {{ entity.description }}
+            </p>
+          </div>
         </div>
-      </div>
+      {% endif %}
 
 
       <div class="col-md-12 pt-5">
         <h3>Relations</h3>
-        {% for key, value in relations.items() %}
+        {% for key, value in relations.items() if key != 'types' %}
           <h5 class="pt-3">
             {{ key | replace('_', ' ') | title }} ({{ value|length }})
             <a class="btn btn-violet p-1" data-bs-toggle="collapse"

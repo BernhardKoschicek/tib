@@ -12,7 +12,7 @@ class Entity:
         self.id_ = data['@id'].rsplit('/', 1)[-1]
         self.name = data['properties']['title']
         self.description = self.get_description(data['descriptions'])
-        self.system_class = uc_first(data['systemClass'])
+        self.system_class = uc_first(data['systemClass'].replace('_', ' '))
         self.types = self.get_types(data['types']) if 'types' in data else None
         self.alias = self.get_alias(data['names']) if 'names' in data else None
         self.relations = data['relations'] if 'relations' in data else None

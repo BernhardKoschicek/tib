@@ -22,10 +22,12 @@
           {% for entity in data %}
             <tr>
               <td>
-                <a href="{{ url_for('entity_view', id_=entity.id_) }}">{{ entity.id_ }}</a>
+                <a href="{{ url_for('entity_view', id_=entity.id_) }}"
+                class="text-decoration-none">{{ entity.id_ }}</a>
               </td>
               <td>
-                <a href="{{ url_for('entity_view', id_=entity.id_) }}">{{ entity.name }}</a>
+                <a href="{{ url_for('entity_view', id_=entity.id_) }}"
+                class="text-decoration-none">{{ entity.name }}</a>
               </td>
               <td> {{ entity.system_class }}</td>
               <td> {{ entity.description }}</td>
@@ -39,17 +41,18 @@
 
   <script>
       $(document).ready(function () {
-        $('#entity_table').DataTable({
-            columnDefs: [{
-                targets: 3,
-                render: $.fn.dataTable.render.ellipsis(200, true)
-            },
-                {
-                    targets: 1,
-                    render: $.fn.dataTable.render.ellipsis(80, true)
-                }]
-        });
-    });
+          $('#entity_table').DataTable({
+              columnDefs: [
+                  {
+                      targets: 3,
+                      render: $.fn.dataTable.render.ellipsis(200, true)
+                  },
+                  {
+                      targets: 1,
+                      render: $.fn.dataTable.render.ellipsis(80, true)
+                  }]
+          });
+      });
   </script>
 {% endblock %}
 

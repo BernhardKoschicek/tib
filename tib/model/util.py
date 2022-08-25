@@ -1,10 +1,9 @@
-from typing import Any, Optional
+from typing import Optional
 
 
 def split_date_string(data: Optional[str]) -> Optional[str]:
-    if data == "None":
-        return None
-    return '.'.join(map(str, data.split('T')[0].split('-')[::-1])) if data else None
+    return '.'.join(map(str, data.split('T')[0].split('-')[::-1])) \
+        if data else ''
 
 
 def format_date(date_from: str, date_to: str) -> str:

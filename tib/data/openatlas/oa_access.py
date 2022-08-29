@@ -15,7 +15,7 @@ view_classes = {
         'description': 'Verknüpfung von Ort und Akteur'},
     'source': {
         'display_name': 'Quellen',
-        'description': 'Urkunden, Manuskripten u.a.'},
+        'description': 'Urkunden, Manuskripte u.a.'},
     'reference': {
         'display_name': 'Referenzen',
         'description': 'Forschungsliteratur'},

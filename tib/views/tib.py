@@ -135,7 +135,7 @@ def tib_atlas() -> Response:
 @app.route('/balkan/explore')
 def tib_discover() -> str:
     return render_template(
-        'openatlas/discover.html',
+        'openatlas/explore.html',
         subprojects_dict=subprojects_en_discover,
         view_classes=view_classes)
 

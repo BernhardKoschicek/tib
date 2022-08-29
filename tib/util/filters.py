@@ -16,7 +16,7 @@ MENU_NAMES = {
     'balkan_subprojects': 'Projekte',
     'balkan_digital': 'Digitale Ära',
     '3dobjects': '3D Objekte',
-    'discover': 'Datenbank durchstöbern',
+    'explore': 'Datenbank durchstöbern',
     'holdura': 'HOLDURA',
     'digtib': 'DigTIB',
     'borderzones': 'Borderzones',
@@ -34,7 +34,7 @@ def display_menu(route: str) -> str:
             'balkan_team',
             'balkan_volumes'],
         'balkan_subprojects': [i for i in subprojects_ger],
-        'balkan_digital': ['3dobjects', 'discover']}
+        'balkan_digital': ['3dobjects', 'explore']}
     html = ''
     for key, sub in menu.items():
         html += '<div class="col-lg-3 col-md-6 mb-4 mb-md-0">'

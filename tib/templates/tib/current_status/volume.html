@@ -24,13 +24,13 @@
           {{ header(tib_volume['title'], False) }}
         </div>
         <div class="container">
-          <p class="p-2 text-center ">
+          <p class="p-2 text-center bg-violet-light small ">
             {{ tib_volume['description'] }}
           </p>
           <div class="row justify-content-center">
             {% for img in images %}
               <div class="col-3">
-              {{ img_modal(img, loop.index) }}
+                {{ img_modal(img, loop.index) }}
               </div>
             {% endfor %}
           </div>
@@ -50,6 +50,16 @@
         </div>
       </div>
     </div>
+  </div>
+  <div class="container">
+    {% if tib_volume['comment'] %}
+     <span class="text-center">
+      {{ sub_header('Description', False) }}
+     </span>
+      <div class="row p-2 ">
+        {{ tib_volume['comment'] | safe }}
+      </div>
+    {% endif %}
   </div>
 
 

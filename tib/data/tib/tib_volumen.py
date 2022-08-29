@@ -1,4 +1,5 @@
 from tib.data.image_descriptions import project_icons
+from tib.data.tib.tib_descriptions import comments
 
 descriptions = {
     'tib11': 'The volume "Macedonia, Southern Part" covers approximately the province of Macedonia prima as this administrative unit was established in the 5th century and corresponds to the area Makedonia of modern Greece. This area comprises the region from Epirus in the west to Thrace in the east and is bordered to the north by the Republic of North Macedonia, to a lesser extent by Bulgaria and Albania and to the south by Thessaly and the Aegean. Within the TIB series, the territory of volume 11 abuts by the regions of the published volumes TIB 1 (Hellas und Thessalia), TIB 3 (Nikopolis und Kephallēnia) and TIB 6 (Thrakien) as well as the region TIB 16 (Macedonia, Northern Part), which is in preparation. The immigration of Slavs in the 6th and 7th centuries has been a decisive influence on the medieval toponymy and the settlement history of Macedonia. In the Middle Ages, Macedonia was a region of contacts between Byzantine Greeks and Slavs (e. g. Bulgarians, Serbs). The metropolis of Thessalonica was of great importance in political, cultural and economic terms. In the 10th and 11th centuries, the peninsula of Mount Athos developed into a center of monasticism and extended its spiritual and economic influence far beyond its borders. As for the Late Byzantine period, extensive written sources (Greek documents for monasteries, Ottoman tax registers) provide important insights into toponymy, population, and economy.',
@@ -15,6 +16,7 @@ tib_volumes_dict = {
         'icon_description': project_icons['tib11'],
         'icon': 'images/boxes_background/tib11_icon.jpg',
         'description': descriptions['tib11'],
+        'comment': comments['tib11'],
         'subprojects': [],
         'images': 'tib11'
     },
@@ -24,6 +26,7 @@ tib_volumes_dict = {
         'icon_description': project_icons['tib14'],
         'icon': 'images/boxes_background/tib14_icon.jpg',
         'description': descriptions['tib14'],
+        'comment': comments['tib14'],
         'subprojects': [],
         'images': 'tib14'
     },
@@ -33,6 +36,7 @@ tib_volumes_dict = {
         'icon_description': project_icons['tib16'],
         'icon': 'images/boxes_background/tib16_icon.jpg',
         'description': descriptions['tib16'],
+        'comment': comments['tib16'],
         'subprojects': [],
         'images': 'tib16'
     },
@@ -42,6 +46,7 @@ tib_volumes_dict = {
         'icon_description': project_icons['tib17'],
         'icon': 'images/boxes_background/tib17_icon.jpg',
         'description': descriptions['tib17'],
+        'comment': None,
         'subprojects': [],
         'images': 'tib17'
     },
@@ -51,6 +56,7 @@ tib_volumes_dict = {
         'icon_description': project_icons['tib18'],
         'icon': 'images/boxes_background/tib18_icon.jpg',
         'description': descriptions['tib18'],
+        'comment': None,
         'subprojects': [],
         'images': 'tib18'
     }

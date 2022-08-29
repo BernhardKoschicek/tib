@@ -201,7 +201,7 @@ presentations = [{
 }, {
     "presenter": "Mihailo Popović",
     "title": "Current State and Outlook of the Research of the TIB Balkans: TIB Volumes, Digital Humanities and Geocommunication",
-    "conference": "Seventh National Conference of Byzantine Studies, Serbian Committee for Byzantine Studies",
+    "conference": "Seventh National Conference of Byzantine Studies",
     "location": "Beograd",
     "date": get_table_dates_formatted(2021, 6, 24),
     "external_link": '',
@@ -240,15 +240,6 @@ presentations = [{
     "conference": "International Medieval Congress, University of Leeds",
     "location": "Leeds",
     "date": get_table_dates_formatted(2021, 7, 7),
-    "external_link": '',
-    "download": '',
-    "category": ["borderzones"]
-}, {
-    "presenter": "Mihailo Popović",
-    "title": "Separating the Wheat from the Chaff: On the Use and Usefulness of Digital Humanities in History and Beyond",
-    "conference": "Searching Digital: Methods, Tools, and Standards of Research in Digital Humanities, Online workshops organised by the Centre for the Study of the Balkans, Department of History, Goldsmiths University of London, CHASE Doctoral Training Partnership, Session",
-    "location": "London",
-    "date": get_table_dates_formatted(2021, 7, 21),
     "external_link": '',
     "download": '',
     "category": ["borderzones"]

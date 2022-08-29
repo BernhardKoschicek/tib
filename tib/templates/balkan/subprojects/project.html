@@ -24,7 +24,7 @@
       {% endfor %}
     </div>
     {% if results %}
-      <h4 id="resultate" class="pt-5 text-center"><a href="#resultate" class="text-decoration-none">Resultate:</a></h4>
+      <h4 id="resultate" class="pt-5 text-center"><a href="#resultate" class="text-decoration-none">Resultate</a></h4>
       {{ results | safe }}
     {% endif %}
     {% if result_links %}
@@ -46,11 +46,11 @@
     {% endif %}
     {% if publications %}
 
-      <h4 id="publikationen" class="pt-5 text-center"><a href="#publikationen" class="text-decoration-none">Publikationen:</a></h4>
+      <h4 id="publikationen" class="pt-5 text-center"><a href="#publikationen" class="text-decoration-none">Publikationen</a></h4>
       {{ create_table(publications, 'publications', 3) }}
     {% endif %}
     {% if presentations %}
-      <h4 id="vorträge" class="pt-5 text-center"><a href="#vorträge" class="text-decoration-none">Vorträge:</a></h4>
+      <h4 id="vorträge" class="pt-5 text-center"><a href="#vorträge" class="text-decoration-none">Vorträge</a></h4>
       {{ create_table(presentations, 'presentations', 4) }}
     {% endif %}
   </div>

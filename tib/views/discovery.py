@@ -10,7 +10,7 @@ from tib.model.types import Types
 from tib.util.api_calls import get_entities_linked_to_entity
 
 
-@app.route('/entity/<id_>')
+@app.route('/balkan/explore/entity/<id_>')
 def entity_view(id_: int) -> str:
     entity = Entity.get_entity_from_oa(id_)
     linked_entities = get_entities_linked_to_entity(id_)
@@ -81,7 +81,7 @@ def get_relations(
     return relation_dict
 
 
-@app.route('/digital/<project>/<view>')
+@app.route('/balkan/explore/<project>/<view>')
 def digital_oa_access(project: str, view: str) -> str:
     data = False
     try:

@@ -35,8 +35,7 @@ def home() -> str:
         team=team_members,
         outreach=outreach,
         images=gallery_outreach,
-        outreach_icons=icons_outreach
-    )
+        outreach_icons=icons_outreach    )
 
 
 @app.route('/balkan/team')

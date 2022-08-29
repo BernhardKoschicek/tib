@@ -41,6 +41,8 @@ def tib_history() -> str:
 
 @app.route('/current_status')
 @app.route('/current_status/<volume>')
+@app.route('/current-status')
+@app.route('/current-status/<volume>')
 def tib_current_status(volume: str = None) -> str:
     if volume:
         return render_template(
@@ -60,6 +62,8 @@ def tib_current_status(volume: str = None) -> str:
 
 @app.route('/sub_projects')
 @app.route('/sub_projects/<project>')
+@app.route('/subprojects')
+@app.route('/subprojects/<project>')
 def tib_sub_projects(project: str = None) -> str:
     if project:
         return render_template(
@@ -128,7 +132,7 @@ def tib_atlas() -> Response:
     return redirect('https://data1.geo.univie.ac.at/projects/tibapp/')
 
 
-@app.route('/discover')
+@app.route('/balkan/explore')
 def tib_discover() -> str:
     return render_template(
         'openatlas/discover.html',

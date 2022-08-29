@@ -1,4 +1,4 @@
-comments = {
+descriptions = {
 
     'tib1': """
 <p>In accordance with the administrative structure of Greece, the area covered by TIB 1 was essentially divided into the following administrative districts: a) in Hellas, the Nomoi Eurytania, Phthiotis, Phokis and the island of Euboea, which have been assigned to the Sterea Ellada region since the 2011 administrative reform, as well as Attica and the mainland parts of Corinthia; b) in Thessalia, Larisa, Trikala, Karditsa and Magnesia. 

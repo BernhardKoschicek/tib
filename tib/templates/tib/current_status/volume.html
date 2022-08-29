@@ -25,7 +25,7 @@
         </div>
         <div class="container">
           <p class="p-2 text-center bg-violet-light small ">
-            {{ tib_volume['description'] }}
+            {{ tib_volume['comment'] }}
           </p>
           <div class="row justify-content-center">
             {% for img in images %}
@@ -57,7 +57,7 @@
       {{ sub_header('Description', False) }}
      </span>
       <div class="row p-2 ">
-        {{ tib_volume['comment'] | safe }}
+        {{ tib_volume['description'] | safe }}
       </div>
     {% endif %}
   </div>

@@ -84,11 +84,11 @@ project_publications = [
     "author": "Mihailo St. Popović, Vratislav Zervan",
     "title": "The “Fatherland” of the Serbian Kings Milutin and Dečanski or Some Additional Thoughts on the “Medieval Serbian Oecumene”. Studia Slavica et Balcanica Petropolitana ",
     "location": "Sankt-Peterburg",
-    "date": "in Druck",
-    "pages": "",
+    "date": "2022",
+    "pages": "36-57",
     "category": ['borderzones'],
     "external_link": '',
-    "download": ''
+    "download": 'MPopovicVZervanFatherlandoftheSerbianKings.pdf'
 }, {
     "author": "Mihailo St. Popović",
     "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Comptes rendus des séances de l’Académie (CRAI)",

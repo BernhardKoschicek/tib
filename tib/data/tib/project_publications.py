@@ -82,7 +82,7 @@ project_publications = [
     "download": ''
 }, {
     "author": "Mihailo St. Popović, Vratislav Zervan",
-    "title": "The “Fatherland” of the Serbian Kings Milutin and Dečanski or Some Additional Thoughts on the “Medieval Serbian Oecumene”. Studia Slavica et Balcanica Petropolitana ",
+    "title": "The “Fatherland” of the Serbian Kings Milutin and Dečanski or Some Additional Thoughts on the “Medieval Serbian Oecumene”. Studia Slavica et Balcanica Petropolitana 1",
     "location": "Sankt-Peterburg",
     "date": "2022",
     "pages": "36-57",

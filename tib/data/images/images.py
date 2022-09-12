@@ -15,15 +15,41 @@ tib_balkan_long_term = [{
 },
 ]
 balkan_hist_geo = [{
-    'path': f'{path}hmsds6.jpg',
-    'description': 'Serbische Urkunde des Königs Stefan Uroš II. Milutin über die Schenkung der Einsiedelei der Heiligen Petka im Dorf Tmorane, ca. 1300',
-    'citation': 'Ohio State University, Resource Center for Medieval Slavic Studies (RCMSS), Hilandar Research Library, HM SDS 6',
+    'path': f'{path}RilskaGramota.jpg',
+    'description': 'Die Urkunde für das Kloster Rila des bulgarischen Zaren Ivan III. Šišman (1378)',
+    'citation': '<a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B0_%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%B0">bg.wikipedia.org/wiki/Рилска_грамота</a>',
+    'text': 'Wir lesen die schriftlichen Quellen der Zeit des 4. bis 15. Jahrhunderts, die in verschiedenen Sprachen verfasst sind (z. B. griechisch, lateinisch, altslawisch, etc.), und filtern alle Informationen zu den oben genannten Fragen heraus. <br />     Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten und Lexika.',
     'category': ['hist-geo']
 }, {
     'path': f'{path}vlaska_carkva.jpg',
-    'description': 'Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien, 2010 ',
+    'description': 'Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien, 2010',
     'citation': 'M. St. Popović, TIB 16',
-    'category': ['geo']
+    'text': 'Wir verschaffen uns einen Überblick über archäologische Grabungen und bestehende Denkmäler (Kirchen, Klöster, Burgen, etc.) vor Ort.',
+    'category': ['hist-geo']
+},{
+    'path': f'{path}11Ezeba018.jpg',
+    'description': 'Peter Soustal mit Kostantinos, einem Bewohner des Dorfes Daphni, Griechenland, 2004',
+    'citation': 'M. St. Popović, TIB 11',
+    'text': '',
+    'category': ['hist-geo']
+},{
+    'path': f'{path}altwege_2014.jpg',
+    'description': 'Dokumentation eines Altwegereliktes in Nordgriechenland, 2014',
+    'citation': 'M. St. Popović, TIB 11',
+    'text': '',
+    'category': ['hist-geo']
+},{
+    'path': f'{path}bulgarisch_landwirt.jpg',
+    'description': 'Erkundigung bei einem bulgarischen Landwirt, Bulgarien, 2010',
+    'citation': 'P. Soustal, TIB 16',
+    'text': '',
+    'category': ['hist-geo']
+},{
+    'path': f'{path}bar_22.jpg',
+    'description': 'Dokumentation einer frühchristlichen Basilika in Bar, Montenegro, 2022 ',
+    'citation': 'M. St. Popović, TIB 17',
+    'text': '',
+    'category': ['hist-geo']
 },
 ]
 

@@ -55,6 +55,12 @@ icons_outreach = {
         'author': '',
         'url': '',
     },
+    'hypotheses_post': {
+        'path': f'{icon_path}blog_post.png',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'seminar_koeln': {
         'path': f'{icon_path}koeln_icon.jpg',
         'license': licenses['cc_by_sa_3.0'],

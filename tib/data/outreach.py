@@ -24,6 +24,10 @@ types = {
         'name': 'Publikation',
         'bs_icon': 'bi-book'
     },
+    'blog_post': {
+        'name': 'Blog Post',
+        'bs_icon': 'bi-blockquote-right'
+    },
 
 }
 
@@ -188,6 +192,25 @@ outreach = [{
         For further information and the programme please cf. 
         <a href="https://byzcongress2022.org/" target=_blank>
         https://byzcongress2022.org/</a>
+       </p>
+        """,
+    'category': ['tib', 'balkan'],
+    'attachment': []
+},{
+    'id': 'hypotheses_post',
+    'type': types['blog_post'],
+    'date': f"{get_dates_formatted(2022, 8, 15)}-"
+            f"{get_dates_formatted(2022, 8, 15)}",
+    'who': [team['mpopovic'], team['bkoschicek']],
+    'title': 'Blogpost on the Paper “OpenAtlas und historische Geographie”',
+    'description': """<p>
+        The paper “OpenAtlas und historische Geographie: Die Tabula Imperii
+         Byzantini (Balkan) im digitalen Zeitalter” by Bernhard 
+         Koschiček-Krombholz and Mihailo St. Popović is presented and 
+         commented in a blogpost by a student of the University of Cologne:
+          </p><p>
+        <a href="https://dhc.hypotheses.org/2053" target=_blank>
+        https://dhc.hypotheses.org/2053</a>
        </p>
         """,
     'category': ['tib', 'balkan'],

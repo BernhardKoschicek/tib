@@ -101,7 +101,7 @@ subprojects = {
         'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek'],
                       tib_team_data['dschmid']],
         'begin': get_dates_formatted(2020, 3, 1),
-        'end': get_dates_formatted(2023, 2, 28),
+        'end': get_dates_formatted(2023, 8, 31),
         'description': holdura_description,
         'icon': f'{path}holdura_icon.jpg',
         'presentations': [],

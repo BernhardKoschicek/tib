@@ -62,7 +62,7 @@ subprojects_ger = {
             'Ass. Prof. Dr. Branka Vranešević'],
         'employees': [tib_team_data['dvargova'], tib_team_data['bkoschicek']],
         'begin': get_dates_formatted(2020, 3, 1),
-        'end': get_dates_formatted(2023, 2, 28),
+        'end': get_dates_formatted(2023, 8, 31),
         'description': holdura_description,
         'question':
             'Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ '

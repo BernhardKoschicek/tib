@@ -67,4 +67,22 @@ tib_history_images = {
         'citation': 'Fritz Kelnhofer, Die topographische Bezugsgrundlage der Tabula Imperii Byzantini. Mit 12 Tabellen und 16 Abbildungen im Text. Wien 1976 (Tabula Imperii Byzantini, Beiheft zu Band 1), 6.',
         'category': ['tib_history']
     },
+    'turkey_road_1960': {
+        'path': f'{path}turkey_road_1960.jpg',
+        'description': 'On the Road for the TIB in Turkey in the 1960s',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
+    'survey_cappadocia_1960_1': {
+        'path': f'{path}survey_cappadocia_1960_1.jpg',
+        'description': 'Surveying in Cappadocia in the 1960s ',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
+    'survey_cappadocia_1960_2': {
+        'path': f'{path}survey_cappadocia_1960_2.jpg',
+        'description': 'Surveying in Cappadocia in the 1960s ',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
 }

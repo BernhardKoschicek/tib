@@ -414,5 +414,23 @@ presentations = [{
     "external_link": 'https://byzcongress2022.org/',
     "download": '',
     "category": ["borderzones"]
+},{
+    "presenter": "Markus Breier",
+    "title": "Beyond East and West - A Framework for Researching and Communicating Historical Landscapes",
+    "conference": "EuroCarto 2022",
+    "location": "Vienna, Austria",
+    "date": get_table_dates_formatted(2022, 9, 19),
+    "external_link": '',
+    "download": 'eurocarto_2022.pdf',
+    "category": ["holdura"]
+},{
+    "presenter": "Markus Breier",
+    "title": "The Sacred Landscape of Medieval Montenegro: Map-Based Communication",
+    "conference": "5. Geographie-Werkstatt des Österreichischem Geographieverbands",
+    "location": "Vienna, Austria",
+    "date": get_table_dates_formatted(2022, 9, 20),
+    "external_link": '',
+    "download": '2022-09-20_Geographiewerkstatt_Poster.jpg',
+    "category": ["holdura"]
 },
 ]

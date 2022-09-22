@@ -15,12 +15,11 @@ from tib.data.register.tib9 import tib9_table_data
 toponym_register = tib1_table_data + tib2_table_data + tib3_table_data + \
                    tib4_table_data + tib5_table_data + tib6_table_data + \
                    tib7_table_data + tib8_table_data + tib9_table_data + \
-                   tib10_table_data + tib12_table_data + tib13_table_data + \
-                   tib15_table_data
+                   tib10_table_data + tib12_table_data + tib13_table_data
 
 register_volume = {
     'all': {
-        'title': 'Complete Register of TIB 1-10, 12, 13, 15',
+        'title': 'Complete Register of TIB 1-10, 12, 13',
         'register': toponym_register,
         'published': True,
     },

@@ -94,7 +94,7 @@ def digtib_submenu(item: str) -> str:
     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
          <li class="nav-item">
                 <a class="nav-link " href="{url_for(f'tib_{item}')}">
-                Digital Tabula Imperii Byzntini</a>
+                Digital Tabula Imperii Byzantini</a>
             </li>
     <li><hr class="dropdown-divider"></li>
     '''

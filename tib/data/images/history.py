@@ -75,13 +75,31 @@ tib_history_images = {
     },
     'survey_cappadocia_1960_1': {
         'path': f'{path}survey_cappadocia_1960_1.jpg',
-        'description': 'Surveying in Cappadocia in the 1960s ',
+        'description': 'Surveying in Cappadocia in the 1960s',
         'citation': 'TIB Archive',
         'category': ['tib_history']
     },
     'survey_cappadocia_1960_2': {
         'path': f'{path}survey_cappadocia_1960_2.jpg',
-        'description': 'Surveying in Cappadocia in the 1960s ',
+        'description': 'Surveying in Cappadocia in the 1960s',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
+    'albania_1960': {
+        'path': f'{path}albania_1960.jpg',
+        'description': 'Travelling in Albania in the 1960s',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
+    'survey_bulgaria_1970': {
+        'path': f'{path}survey_bulgaria_1970.jpg',
+        'description': 'Surveying in Bulgaria in the 1970s',
+        'citation': 'TIB Archive',
+        'category': ['tib_history']
+    },
+    'rila_1970': {
+        'path': f'{path}rila_1970.jpg',
+        'description': 'A Visit to the Monastery of Rila in Bulgaria in the 1970s',
         'citation': 'TIB Archive',
         'category': ['tib_history']
     },

@@ -18,10 +18,8 @@ from tib.views import tib, balkan, discovery
 
 @babel.localeselector
 def get_locale() -> str:
-    if 'language' in session:
-        return session['language']
-    return request.accept_languages.best_match(app.config['LANGUAGES'])
-
+    #return request.accept_languages.best_match(app.config['LANGUAGES'])
+    return 'en'
 
 @app.before_request
 def before_request():

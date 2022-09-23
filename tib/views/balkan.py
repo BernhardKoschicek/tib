@@ -12,7 +12,7 @@ from tib.data.image_descriptions import home_images
 from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, \
     tib_balkan_long_term
 from tib.data.images.outreach import gallery_outreach, icons_outreach
-from tib.data.index import front_menu
+from tib.data.navigation import balkan_jumbotron
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
@@ -28,7 +28,7 @@ from tib.util.util import get_dict_entries_by_category, \
 def home() -> str:
     return render_template(
         'balkan/home/home.html',
-        front_menu=front_menu,
+        front_menu=balkan_jumbotron,
         img_description=home_images,
         tib_volumen=tib_volumen_dict,
         subprojects=subprojects_ger,

@@ -7,22 +7,145 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-04-04 09:33+0200\n"
-"PO-Revision-Date: 2022-04-04 09:35+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-09-23 12:02+0200\n"
+"PO-Revision-Date: 2022-09-23 12:06+0200\n"
+"Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 2.2.1\n"
 
-#: data/team.py:29
-msgid "programmer"
-msgstr "Software Developer"
+#: tib/data/navigation.py:6
+msgid "history"
+msgstr "History"
 
-#: templates/404.html:4
+#: tib/data/navigation.py:7
+msgid "current_status"
+msgstr "Current Status"
+
+#: tib/data/navigation.py:8
+msgid "sub_projects"
+msgstr "Sub Projects"
+
+#: tib/data/navigation.py:9
+msgid "publications"
+msgstr "Publications"
+
+#: tib/data/navigation.py:10 tib/data/navigation.py:36
+msgid "digtib"
+msgstr "DigTIB"
+
+#: tib/data/navigation.py:11
+msgid "aieb"
+msgstr "AIEB"
+
+#: tib/data/navigation.py:12
+msgid "team"
+msgstr "Team"
+
+#: tib/data/navigation.py:25
+msgid "balkan_tib"
+msgstr "TIB Balkan"
+
+#: tib/data/navigation.py:26
+msgid "balkan_long_term"
+msgstr "Long Term Project"
+
+#: tib/data/navigation.py:27
+msgid "balkan_historical_geographie"
+msgstr "Historical Geographie"
+
+#: tib/data/navigation.py:28
+msgid "balkan_outreach"
+msgstr "Outreach"
+
+#: tib/data/navigation.py:29
+msgid "balkan_team"
+msgstr "Team"
+
+#: tib/data/navigation.py:30
+msgid "balkan_volumes"
+msgstr "Volumes"
+
+#: tib/data/navigation.py:31
+msgid "balkan_subprojects"
+msgstr "Sub Projects"
+
+#: tib/data/navigation.py:32
+msgid "balkan_digital"
+msgstr "Digital Era"
+
+#: tib/data/navigation.py:33
+msgid "3dobjects"
+msgstr "3D objects"
+
+#: tib/data/navigation.py:34
+msgid "explore"
+msgstr "Explore"
+
+#: tib/data/navigation.py:35
+msgid "holdura"
+msgstr "HOLDURA"
+
+#: tib/data/navigation.py:37
+msgid "borderzones"
+msgstr "Borderzones"
+
+#: tib/data/navigation.py:38
+msgid "montenegro"
+msgstr "Montenegro"
+
+#: tib/data/navigation.py:56
+msgid "toponym_register"
+msgstr "Toponym Register"
+
+#: tib/data/navigation.py:60
+msgid ""
+"A complete list of geographic registers of the published TIB volumes "
+"1-13 and 15"
+msgstr ""
+"A complete list of geographic registers of the published TIB volumes "
+"1-13 and 15"
+
+#: tib/data/navigation.py:63
+msgid "image_collection"
+msgstr "Image Collection"
+
+#: tib/data/navigation.py:67
+msgid ""
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 "
+"enriched with metadata"
+msgstr ""
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 "
+"enriched with metadata"
+
+#: tib/data/navigation.py:70
+msgid "map_application"
+msgstr "Map Application"
+
+#: tib/data/navigation.py:74
+msgid ""
+"Graphical map application to access, browse and query data from TIB "
+"Balkans"
+msgstr ""
+"Graphical map application to access, browse and query data from TIB "
+"Balkans"
+
+#: tib/data/navigation.py:78
+msgid "browse_tib_balkans_data"
+msgstr "Browse TIB Balkans Data"
+
+#: tib/data/navigation.py:82
+msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
+msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
+
+#: tib/templates/404.html:4
 msgid "File Not Found"
 msgstr "File Not Found"
 
+#~ msgid "programmer"
+#~ msgstr "Software Developer"

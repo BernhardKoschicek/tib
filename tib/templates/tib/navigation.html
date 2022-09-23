@@ -18,7 +18,7 @@
       <div class="collapse navbar-collapse justify-content-end"
            id="navbarNav">
         <ul class="navbar-nav">
-          {{ request.path |tib_menu()|safe }}
+          {{ request.path | tib_nav() | safe }}
         </ul>
       </div>
     </div>

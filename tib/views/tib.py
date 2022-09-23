@@ -8,7 +8,7 @@ from tib.data.openatlas.oa_access import view_classes
 from tib.data.outreach import outreach
 from tib.data.openatlas.subprojects import subprojects_en_discover
 from tib.data.tib.counter import counter
-from tib.data.tib.digtib import digtib_bar
+from tib.data.navigation import tib_digtib_submenu_items
 from tib.data.tib.jumbotron import front_jumbotron
 from tib.data.tib.presentations import presentations
 from tib.data.tib.project_publications import project_publications
@@ -90,7 +90,7 @@ def tib_publications() -> str:
 
 @app.route('/digtib')
 def tib_digtib() -> str:
-    return render_template('tib/digtib/digtib.html', bar=digtib_bar)
+    return render_template('tib/digtib/digtib.html', bar=tib_digtib_submenu_items)
 
 
 @app.route('/tib-register')

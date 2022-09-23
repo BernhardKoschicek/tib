@@ -14,13 +14,15 @@
 
         <!--Grid column-->
         <div class="col-lg-4 col-md-6 mb-4 mb-md-0 text-center">
-         <h5 class="text-uppercase mb-4  text-light">Contact</h5>
+         <h5 class="text-uppercase mb-4 text-light">
+           {{ _('contact') }}
+         </h5>
           <p class="text-light">
-            Austrian Academy of Sciences <br>
-            Institute for Medieval Research <br>
-            Division of Byzantine Research <br>
+            {{ _('Austrian Academy of Sciences') }} <br>
+            {{ _('Institute for Medieval Research') }} <br>
+            {{ _('Division of Byzantine Research') }} <br>
             Hollandstraße 11-13 <br>
-            1020 Vienna, Austria, Europe <br>
+            1020 {{ _('Vienna') }}, {{ _('Austria') }}, {{ _('Europe') }} <br>
             +43 1 51581 3444 <br>
             tib[at]oeaw.ac.at <br>
           </p>
@@ -41,7 +43,7 @@
 
     <!-- Copyright -->
     <div class="text-center p-3">
-      <a href="{{ url_for('tib_imprint') }}" class="text-white">Imprint</a>
+      <a href="{{ url_for('tib_imprint') }}" class="text-white">{{ _('imprint') }}</a>
     </div>
     <!-- Copyright -->
   </footer>

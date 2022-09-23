@@ -1,53 +1,54 @@
 {% extends "tib/layout.html" %}
-{% block title %}Imprint{% endblock %}
+{% block title %}{{ _('imprint') }}{% endblock %}
 {% block content %}
   <div class="container top5">
     <div class="text-center">
-      {{ header('Imprint', True) }}
+      {{ header(_('imprint'), True) }}
     </div>
 
-    <h4>Legal disclosure according to §§ 24, 25 Austrian media law and § 5
-      E-Commerce law:</h4>
-    <h5>Media owner, publisher, responsible for content and editorial office,
-      service provider:</h5>
-    <p><a href="http://www.oeaw.ac.at">Austrian Academy of Sciences</a><br>Corporate
-      body organized under public law (BGBl 569/1921 idF BGBl I 130/2003)
-  <br>Dr. Ignaz
-      Seipel-Platz 2, 1010 Vienna, Austria<br>E-Mail:
-      <a style="color: black;" href="mailto:Mihailo.Popovic@oeaw.ac.at">Mihailo.Popovic@oeaw.ac.at</a>
+    <h4>{{ _('Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act (MedienG) as well as information according to § 5 E-Commerce Act (ECG)')}}:</h4>
+    <h5>{{ _('Media owner')}}:</h5>
+    <p><a href="http://www.oeaw.ac.at">{{ _('Austrian Academy of Sciences') }}</a>
+      <br>
+      {{ _('Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as amended by Federal Law Gazette (BGBl) I 31/2018)')}}
+      <br>
+      Dr. Ignaz Seipel-Platz 2, 1010 {{ _('Vienna') }}, {{ _('Austria') }}
+      <br>
+      Tel: 01/51581-0
+      <br>
+      E-Mail: <a style="color: black;" href="mailto:Mihailo.Popovic@oeaw.ac.at">mihailo.popovic(at)oeaw.ac.at</a>
+      <br>
+      FN 71839 x
+      <br>
+      {{ _('VAT Identification Number') }}: ATU37116303
     </p>
-    <h4>Nature and purpose of the business:</h4>
-    <p>The Austrian Academy of Sciences (OEAW) has the legal duty to support
-      the sciences and humanities in every respect. As a learned society, the
-      OEAW fosters discourse and cooperation between science and society,
-      politics and economy.</p>
-    <h4>Signing power:</h4>
-    <p>President: o. Univ.-Prof. Dr. Anton Zeilinger<br>Vice President:
-      Univ.-Prof. Dr. phil. Arnold Suppan<br>Class President: Univ.-Prof. Dr.
-      phil. Oliver Jens Schmitt<br>Class President: Univ.-Prof. Dipl.-Ing.
-      Dr.techn. Georg Brasseur<br>The Academy Council exists as supervisory
-      body. For more information see <a
-              href="https://www.oeaw.ac.at/en/oeaw/bodies/academy-council/"
-              target="_blank" rel="noopener">https://www.oeaw.ac.at/en/oeaw/bodies/academy-council/</a>
+    <h4>{{ _('Object of the company') }}:</h4>
+    <p>{{ _('The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) has the statutory mission to promote science in every way. As a learned society the OeAW cultivates the discourse and cooperation of science with the public, politics and business. As the largest institution of non-university basic research in the country, the OeAW conducts application-open basic research at the highest international level at its 28 institutes.') }}</p>
+    <h4>{{ _('Executive body')}}:</h4>
+    <p>
+      {{ _('President') }}: Univ.-Prof. Dr. phil. Heinz Faßmann
+      <br>
+      {{ _('Vice President')}}: Univ.-Prof. DI Dr. techn. Ulrike Diebold
+      <br>
+      {{ _('Class President')}}: Univ.-Prof. Dr. iur. Christiane Wendehorst LL.M. (CANTAB.)
+      <br>
+      {{ _('Class President')}}: Prof. Dr. Wolfgang Baumjohann
+      <br>
+      {{ _('The Academy Council exists as supervisory body. For more information see')}} <a href="https://www.oeaw.ac.at/en/oeaw/bodies/academy-council/" target="_blank" rel="noopener">https://www.oeaw.ac.at/en/oeaw/bodies/academy-council/</a>
     </p>
-    <h4>Main aim:</h4>
-    <p>This website serves to inform the public on the scientific activities
-      of the Long-Term Project Tabula Imperii Byzantini.</p>
-    <h4>Disclaimer:</h4>
-    <p>The Austrian Academy of Sciences does not take responsibility for the
-      nature, accuracy, entirety or quality of the provided information.<br>In
-      the case of links to websites of other media owners, whose content the
-      OEAW is neither directly nor indirectly responsible for, the OEAW does
-      not assume liability for their content and excludes any liability in this
-      case.</p>
-    <h4>Data privacy notice:</h4>
-    <p>By using this website, you agree to the manner and purposes of data
-      processing. You can disable cookies in your browser settings. However,
-      this might limit functionality of this website.<br>Please find the ÖAW's
-      detailed data privacy statement <a
-              href="https://www.oeaw.ac.at/die-oeaw/datenschutz/">here</a>. The
-      contact data published in the context of the imprint duty may not be used
-      to send promotional or informational material not explicitly requested.
-      We explicitly disagree with this usage.</p>
+    <h4>{{ _('Basic line')}}:</h4>
+    <p>{{ _('This website serves to inform the public on the scientific activities of the Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences.')}}</p>
+    <h4>{{ _('Disclaimer') }}:</h4>
+    <p>
+      {{ _('The Austrian Academy of Sciences gives no warranty as to the topicality, correctness, completeness or quality of the information provided. In the case of links to websites of other media owners, for which the OeAW is not directly or indirectly responsible, the OeAW assumes no liability for their contents and excludes any liability therefor.') }}
+    </p>
+    <h4>{{ _('Copyright notice') }}:</h4>
+    <p>
+      {{ _('The contents and works created by the Austrian Academy of Sciences on these pages are subject to Austrian copyright law. The duplication, editing, distribution and any kind of utilization outside the scope of copyright law require the written consent of the respective author or creator. Downloads and copies of these pages are only permitted for private, non-commercial use. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is identified as such. In the event that you should nevertheless become aware of a copyright infringement, we ask that you inform us accordingly. If we become aware of any infringements, we will remove such contents immediately.') }}
+    </p>
+    <h4>{{ _('Data privacy notice')}}:</h4>
+    <p>{{ _('The contents and works created by the Austrian Academy of Sciences on these pages are subject to Austrian copyright law. The duplication, editing, distribution and any kind of utilization outside the scope of copyright law require the written consent of the respective author or creator. Downloads and copies of these pages are only permitted for private, non-commercial use. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is identified as such. In the event that you should nevertheless become aware of a copyright infringement, we ask that you inform us accordingly. If we become aware of any infringements, we will remove such contents immediately.') }}</p>
+    <p>{{ _('The contact data published within the scope of the imprint obligation may not be used by third parties for the transmission of advertising and information material not expressly requested. Any such use is hereby expressly contradicted.') }}</p>
+    <p><a href="https://www.oeaw.ac.at/en/oeaw/data-protection/" target="_blank">{{ _('Further information on data protection on websites of the OeAW.') }}</a> </p>
   </div>
 {% endblock %}

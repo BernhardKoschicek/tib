@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-09-23 12:02+0200\n"
-"PO-Revision-Date: 2022-09-23 12:06+0200\n"
+"POT-Creation-Date: 2022-09-23 13:14+0200\n"
+"PO-Revision-Date: 2022-09-23 13:15+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -105,11 +105,11 @@ msgstr "Toponym Register"
 
 #: tib/data/navigation.py:60
 msgid ""
-"A complete list of geographic registers of the published TIB volumes "
-"1-13 and 15"
+"A complete list of geographic registers of the published TIB volumes 1-13 and "
+"15"
 msgstr ""
-"A complete list of geographic registers of the published TIB volumes "
-"1-13 and 15"
+"A complete list of geographic registers of the published TIB volumes 1-13 and "
+"15"
 
 #: tib/data/navigation.py:63
 msgid "image_collection"
@@ -117,11 +117,11 @@ msgstr "Image Collection"
 
 #: tib/data/navigation.py:67
 msgid ""
-"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 "
-"enriched with metadata"
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
+"metadata"
 msgstr ""
-"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 "
-"enriched with metadata"
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
+"metadata"
 
 #: tib/data/navigation.py:70
 msgid "map_application"
@@ -129,11 +129,9 @@ msgstr "Map Application"
 
 #: tib/data/navigation.py:74
 msgid ""
-"Graphical map application to access, browse and query data from TIB "
-"Balkans"
+"Graphical map application to access, browse and query data from TIB Balkans"
 msgstr ""
-"Graphical map application to access, browse and query data from TIB "
-"Balkans"
+"Graphical map application to access, browse and query data from TIB Balkans"
 
 #: tib/data/navigation.py:78
 msgid "browse_tib_balkans_data"
@@ -147,5 +145,193 @@ msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgid "File Not Found"
 msgstr "File Not Found"
 
+#: tib/templates/footer.html:18
+msgid "contact"
+msgstr "Contact"
+
+#: tib/templates/footer.html:21 tib/templates/tib/imprint.html:11
+msgid "Austrian Academy of Sciences"
+msgstr "Austrian Academy of Sciences"
+
+#: tib/templates/footer.html:22
+msgid "Institute for Medieval Research"
+msgstr "Institute for Medieval Research"
+
+#: tib/templates/footer.html:23
+msgid "Division of Byzantine Research"
+msgstr "Division of Byzantine Research"
+
+#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
+msgid "Vienna"
+msgstr "Vienna"
+
+#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
+msgid "Austria"
+msgstr "Austria"
+
+#: tib/templates/footer.html:25
+msgid "Europe"
+msgstr "Europe"
+
+#: tib/templates/footer.html:46 tib/templates/tib/imprint.html:6
+msgid "imprint"
+msgstr "Imprint"
+
+#: tib/templates/tib/imprint.html:9
+msgid ""
+"Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
+"(MedienG) as well as information according to § 5 E-Commerce Act (ECG)"
+msgstr ""
+"Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
+"(MedienG) as well as information according to § 5 E-Commerce Act (ECG)"
+
+#: tib/templates/tib/imprint.html:10
+msgid "Media owner"
+msgstr "Media owner"
+
+#: tib/templates/tib/imprint.html:13
+msgid ""
+"Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as "
+"amended by Federal Law Gazette (BGBl) I 31/2018)"
+msgstr ""
+"Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as "
+"amended by Federal Law Gazette (BGBl) I 31/2018)"
+
+#: tib/templates/tib/imprint.html:23
+msgid "VAT Identification Number"
+msgstr "VAT Identification Number"
+
+#: tib/templates/tib/imprint.html:25
+msgid "Object of the company"
+msgstr "Object of the company"
+
+#: tib/templates/tib/imprint.html:26
+msgid ""
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) "
+"has the statutory mission to promote science in every way. As a learned "
+"society the OeAW cultivates the discourse and cooperation of science with the "
+"public, politics and business. As the largest institution of non-university "
+"basic research in the country, the OeAW conducts application-open basic "
+"research at the highest international level at its 28 institutes."
+msgstr ""
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) "
+"has the statutory mission to promote science in every way. As a learned "
+"society the OeAW cultivates the discourse and cooperation of science with the "
+"public, politics and business. As the largest institution of non-university "
+"basic research in the country, the OeAW conducts application-open basic "
+"research at the highest international level at its 28 institutes."
+
+#: tib/templates/tib/imprint.html:27
+msgid "Executive body"
+msgstr "Executive body"
+
+#: tib/templates/tib/imprint.html:29
+msgid "President"
+msgstr "President"
+
+#: tib/templates/tib/imprint.html:31
+msgid "Vice President"
+msgstr "Vice President"
+
+#: tib/templates/tib/imprint.html:33 tib/templates/tib/imprint.html:35
+msgid "Class President"
+msgstr "Class President"
+
+#: tib/templates/tib/imprint.html:37
+msgid "The Academy Council exists as supervisory body. For more information see"
+msgstr "The Academy Council exists as supervisory body. For more Information see"
+
+#: tib/templates/tib/imprint.html:39
+msgid "Basic line"
+msgstr "Basic line"
+
+#: tib/templates/tib/imprint.html:40
+msgid ""
+"This website serves to inform the public on the scientific activities of the "
+"Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences."
+msgstr ""
+"This website serves to inform the public on the scientific activities of the "
+"Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences."
+
+#: tib/templates/tib/imprint.html:41
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#: tib/templates/tib/imprint.html:43
+msgid ""
+"The Austrian Academy of Sciences gives no warranty as to the topicality, "
+"correctness, completeness or quality of the information provided. In the case "
+"of links to websites of other media owners, for which the OeAW is not directly "
+"or indirectly responsible, the OeAW assumes no liability for their contents "
+"and excludes any liability therefor."
+msgstr ""
+"The Austrian Academy of Sciences gives no warranty as to the topicality, "
+"correctness, completeness or quality of the information provided. In the case "
+"of links to websites of other media owners, for which the OeAW is not directly "
+"or indirectly responsible, the OeAW assumes no liability for their contents "
+"and excludes any liability therefor."
+
+#: tib/templates/tib/imprint.html:45
+msgid "Copyright notice"
+msgstr "Copyright notice"
+
+#: tib/templates/tib/imprint.html:47 tib/templates/tib/imprint.html:50
+msgid ""
+"The contents and works created by the Austrian Academy of Sciences on these "
+"pages are subject to Austrian copyright law. The duplication, editing, "
+"distribution and any kind of utilization outside the scope of copyright law "
+"require the written consent of the respective author or creator. Downloads and "
+"copies of these pages are only permitted for private, non-commercial use. "
+"Insofar as the content on this site was not created by the operator, the "
+"copyrights of third parties are respected. In particular, third-party content "
+"is identified as such. In the event that you should nevertheless become aware "
+"of a copyright infringement, we ask that you inform us accordingly. If we "
+"become aware of any infringements, we will remove such contents immediately."
+msgstr ""
+"The contents and works created by the Austrian Academy of Sciences on these "
+"pages are subject to Austrian copyright law. The duplication, editing, "
+"distribution and any kind of utilization outside the scope of copyright law "
+"require the written consent of the respective author or creator. Downloads and "
+"copies of these pages are only permitted for private, non-commercial use. "
+"Insofar as the content on this site was not created by the operator, the "
+"copyrights of third parties are respected. In particular, third-party content "
+"is identified as such. In the event that you should nevertheless become aware "
+"of a copyright infringement, we ask that you inform us accordingly. If we "
+"become aware of any infringements, we will remove such contents immediately."
+
+#: tib/templates/tib/imprint.html:49
+msgid "Data privacy notice"
+msgstr "Data privacy notice"
+
+#: tib/templates/tib/imprint.html:51
+msgid ""
+"The contact data published within the scope of the imprint obligation may not "
+"be used by third parties for the transmission of advertising and information "
+"material not expressly requested. Any such use is hereby expressly "
+"contradicted."
+msgstr ""
+"The contact data published within the scope of the imprint obligation may not "
+"be used by third parties for the transmission of advertising and information "
+"material not expressly requested. Any such use is hereby expressly "
+"contradicted."
+
+#: tib/templates/tib/imprint.html:52
+msgid "Further information on data protection on websites of the OeAW."
+msgstr "Further information on data protection on websites of the OeAW."
+
+#: tib/templates/tib/layout.html:67
+msgid "Read more..."
+msgstr "Read more..."
+
+#: tib/templates/tib/layout.html:70
+msgid "Show less..."
+msgstr "Show less..."
+
 #~ msgid "programmer"
 #~ msgstr "Software Developer"
+
+#~ msgid "Hollandstraße 11-13"
+#~ msgstr "Hollandstraße 11-13"
+
+#~ msgid "1020 Vienna, Austria, Europe"
+#~ msgstr "1020 Vienna, Austria, Europe"

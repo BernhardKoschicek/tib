@@ -19,7 +19,7 @@ from tib.views import tib, balkan, discovery
 @babel.localeselector
 def get_locale() -> str:
     #return request.accept_languages.best_match(app.config['LANGUAGES'])
-    return 'en'
+    return 'de'
 
 @app.before_request
 def before_request():

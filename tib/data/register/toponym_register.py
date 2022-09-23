@@ -1,5 +1,6 @@
 from tib.data.register.tib1 import tib1_table_data
 from tib.data.register.tib10 import tib10_table_data
+from tib.data.register.tib11 import tib11_table_data
 from tib.data.register.tib12 import tib12_table_data
 from tib.data.register.tib13 import tib13_table_data
 from tib.data.register.tib15 import tib15_table_data
@@ -15,7 +16,8 @@ from tib.data.register.tib9 import tib9_table_data
 toponym_register = tib1_table_data + tib2_table_data + tib3_table_data + \
                    tib4_table_data + tib5_table_data + tib6_table_data + \
                    tib7_table_data + tib8_table_data + tib9_table_data + \
-                   tib10_table_data + tib12_table_data + tib13_table_data
+                   tib10_table_data + tib12_table_data + tib13_table_data + \
+                   tib11_table_data
 
 register_volume = {
     'all': {
@@ -75,8 +77,8 @@ register_volume = {
     },
     'tib11': {
         'title': 'TIB 11 Macedonia, Southern Part',
-        'register': '',
-        'published': False,
+        'register': tib11_table_data,
+        'published': True,
     },
     'tib12': {
         'title': 'TIB 12 Eastern Thrace (Eurōpē)',

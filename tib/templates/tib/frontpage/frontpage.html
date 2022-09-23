@@ -1,27 +1,15 @@
 {% extends "tib/layout.html" %}
-{% block title %}Tabula Imperii Byzantini{% endblock %}
+{% block title %}{{ _('TIB')}}{% endblock %}
 {% block content %}
-
-
   {% with jumbotron=jumbotron %}
     {% include 'tib/frontpage/jumbotron.html' %}
   {% endwith %}
-  <h1 class="display-4 text-center top3">Long-Term Project</h1>
-  <h1 class="display-3 text-center fw-bold">Tabula Imperii Byzantini</h1>
+
+  <h1 class="display-4 text-center top3">{{ _('Long-Term Project')}}</h1>
+  <h1 class="display-3 text-center fw-bold">{{ _('TIB')}}</h1>
   <div class="container top3 text-center fs-6">
     <p>
-      Research on the Historical Geography of the Byzantine Empire at the
-      Austrian Academy of Sciences in Vienna is conducted by the Tabula Imperii
-      Byzantini (TIB). This renowned project was accepted by the
-      <a href="http://www.uai-iua.org/en/projects/104/tabula-imperii-byzantini"
-         target="_blank">Union Académique Internationale</a> in Brussels
-      in 2015 (Project 87), and at the same time included into the scheme of
-      Long-Term-Projects at the Austrian Academy of
-      Sciences, based on independent excellent international evaluations. The
-      TIB carries out systematic research in the historical geography of the
-      Byzantine Empire, from the beginning of the 4th century to the mid-15th
-      century. The aim of the project is to create a historical atlas of the
-      Byzantine space from Late Antiquity to the Early Modern period.
+      {{  _('tib_frontpage_research_on_the_historical') }}
     </p>
     <div class="container top3">
       <div class="row justify-content-center" id="counter_frontpage">
@@ -38,48 +26,13 @@
         </div>
         <div class="col-6">
           <p class="text-start">
-            Individual regions are represented on maps on a scale of 1 :
-            800,000. A
-            separate accompanying volume provides the results of further
-            research
-            in
-            each region. Each volume contains detailed introductory chapters on
-            geography and climate, borders and territorial designations,
-            history,
-            administrative history, church history and monasticism, traffic
-            routes,
-            economy and demographic trends. The main part of each volume
-            consists of an alphabetical catalogue of all toponyms, hydronyms
-            etc.
-            that were known in Byzantine times. Also included are the
-            historical places, whose historical names are unknown, but for
-            whose
-            existence there is (or there was) archaeological evidence. Written
-            sources (from Late Antiquity to Early Modern Times) and
-            archaeological
-            materials elucidate the history of individual places, along with
-            brief
-            descriptions of monuments, both those that are known to have
-            existed
-            and
-            those that are still preserved. The aforesaid results are enriched
-            by
-            systematic field research in order to verify, modify or complete
-            the
-            information of the sources.
+            {{  _('tib_frontpage_individual_regions') }}
           </p>
         </div>
 
       </div>
       <p>
-        Since 1986 new methods have been included into the scholarly work
-        of the TIB, namely: studies of Palaeo-climate and settlement
-        theories (for example the modified "Central Place Theory"),
-        as well as the regular use of the Global Positioning System (GPS)
-        during field missions and surveys. Digital Humanities, e.g.
-        in the form of Historical Geographical Information Systems (HGIS),
-        further contribute to the analysis and interpretation of the
-        research data.
+           {{  _('tib_frontpage_since_1986_new_methods') }}
       </p>
     </div>
 
@@ -88,7 +41,7 @@
     </div>
 
     <div class="row justify-content-start top5 text-start">
-      <h1 class="text-center">Activities</h1>
+      <h1 class="text-center">{{ _('activities') }}</h1>
       <div class="row pt-5">
         {% for item in outreach %}
           <div class="col-3 text-center">
@@ -101,12 +54,10 @@
   </div>
   <script>
       let notInited = true
-
       function init() {
           // init your chart
           // code here run once on element with id="el" will in viewport
       }
-
       window.onscroll = function () {
           if (notInited) {
               $('.tib_volumen').counter();

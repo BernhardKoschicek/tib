@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-09-23 13:14+0200\n"
-"PO-Revision-Date: 2022-09-23 13:15+0200\n"
+"POT-Creation-Date: 2022-09-23 13:49+0200\n"
+"PO-Revision-Date: 2022-09-23 13:49+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -141,6 +141,34 @@ msgstr "Browse TIB Balkans Data"
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
 
+#: tib/data/tib/jumbotron.py:5
+msgid "The TIB in a Digital Age"
+msgstr "The TIB in a Digital Age"
+
+#: tib/data/tib/jumbotron.py:6
+msgid "A repository of TIB resources is digitally available"
+msgstr "A repository of TIB resources is digitally available"
+
+#: tib/data/tib/jumbotron.py:10
+msgid "TIB Publications in the Making"
+msgstr "TIB Publications in the Making"
+
+#: tib/data/tib/jumbotron.py:11
+msgid ""
+"The TIB Team is currently working on five new TIB volumes in Asia Minor and "
+"the Balkans"
+msgstr ""
+"The TIB Team is currently working on five new TIB volumes in Asia Minor and "
+"the Balkans"
+
+#: tib/data/tib/jumbotron.py:15
+msgid "Sub Projects of the TIB"
+msgstr "Sub Projects of the TIB"
+
+#: tib/data/tib/jumbotron.py:16
+msgid "The TIB Team works in several sub projects on groundbreaking research"
+msgstr "The TIB Team works in several sub projects on groundbreaking research"
+
 #: tib/templates/404.html:4
 msgid "File Not Found"
 msgstr "File Not Found"
@@ -173,7 +201,8 @@ msgstr "Austria"
 msgid "Europe"
 msgstr "Europe"
 
-#: tib/templates/footer.html:46 tib/templates/tib/imprint.html:6
+#: tib/templates/footer.html:46 tib/templates/tib/imprint.html:2
+#: tib/templates/tib/imprint.html:6
 msgid "imprint"
 msgstr "Imprint"
 
@@ -326,6 +355,64 @@ msgstr "Read more..."
 #: tib/templates/tib/layout.html:70
 msgid "Show less..."
 msgstr "Show less..."
+
+#: tib/templates/tib/frontpage/frontpage.html:2
+#: tib/templates/tib/frontpage/frontpage.html:9
+msgid "TIB"
+msgstr "Tabula Imperii Byzantini"
+
+#: tib/templates/tib/frontpage/frontpage.html:8
+msgid "Long-Term Project"
+msgstr "Long-Term Project"
+
+#: tib/templates/tib/frontpage/frontpage.html:12
+msgid "tib_frontpage_research_on_the_historical"
+msgstr ""
+"Research on the Historical Geography of the Byzantine Empire at the Austrian "
+"Academy of Sciences in Vienna is conducted by the Tabula Imperii Byzantini "
+"(TIB). This renowned project was accepted by the <a href=\"http://www.uai-iua."
+"org/en/projects/104/tabula-imperii-byzantini\" target=\"_blank\"Union "
+"Académique Internationale</a> in Brussels in 2015 (Project 87), and at the "
+"same time included into the scheme of Long-Term-Projects at the Austrian "
+"Academy of Sciences, based on independent excellent international evaluations. "
+"The TIB carries out systematic research in the historical geography of the "
+"Byzantine Empire, from the beginning of the 4th century to the mid-15th "
+"century. The aim of the project is to create a historical atlas of the "
+"Byzantine space from Late Antiquity to the Early Modern period."
+
+#: tib/templates/tib/frontpage/frontpage.html:29
+msgid "tib_frontpage_individual_regions"
+msgstr ""
+"Individual regions are represented on maps on a scale of 1 : 800,000. A "
+"separate accompanying volume provides the results of further research in each "
+"region. Each volume contains detailed introductory chapters on geography and "
+"climate, borders and territorial designations, history, administrative "
+"history, church history and monasticism, traffic routes, economy and "
+"demographic trends. The main part of each volume consists of an alphabetical "
+"catalogue of all toponyms, hydronyms etc. that were known in Byzantine times. "
+"Also included are the historical places, whose historical names are unknown, "
+"but for whose existence there is (or there was) archaeological evidence. "
+"Written sources (from Late Antiquity to Early Modern Times) and archaeological "
+"materials elucidate the history of individual places, along with brief "
+"descriptions of monuments, both those that are known to have existed and those "
+"that are still preserved. The aforesaid results are enriched by systematic "
+"field research in order to verify, modify or complete the information of the "
+"sources."
+
+#: tib/templates/tib/frontpage/frontpage.html:35
+msgid "tib_frontpage_since_1986_new_methods"
+msgstr ""
+"Since 1986 new methods have been included into the scholarly work of the TIB, "
+"namely: studies of Palaeo-climate and settlement theories (for example the "
+"modified \"Central Place Theory\"), as well as the regular use of the Global "
+"Positioning System (GPS) during field missions and surveys. Digital "
+"Humanities, e.g. in the form of Historical Geographical Information Systems "
+"(HGIS), further contribute to the analysis and interpretation of the research "
+"data."
+
+#: tib/templates/tib/frontpage/frontpage.html:44
+msgid "activities"
+msgstr "Activities"
 
 #~ msgid "programmer"
 #~ msgstr "Software Developer"

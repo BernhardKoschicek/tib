@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-09-23 13:49+0200\n"
-"PO-Revision-Date: 2022-09-23 13:49+0200\n"
+"POT-Creation-Date: 2022-09-23 14:03+0200\n"
+"PO-Revision-Date: 2022-09-23 14:06+0200\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -140,6 +140,34 @@ msgstr "Browse TIB Balkans Data"
 #: tib/data/navigation.py:82
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
+
+#: tib/data/tib/counter.py:6
+msgid "TIB Volumes Published"
+msgstr "TIB Volumes Published"
+
+#: tib/data/tib/counter.py:11
+msgid "TIB Volumes in Progress"
+msgstr "TIB Volumes in Progress"
+
+#: tib/data/tib/counter.py:16
+msgid "Articles published since 2004"
+msgstr "Articles published since 2004"
+
+#: tib/data/tib/counter.py:21
+msgid "Presentations held since 2006"
+msgstr "Presentations held since 2006"
+
+#: tib/data/tib/counter.py:26
+msgid "Books published since 2006"
+msgstr "Books published since 2006"
+
+#: tib/data/tib/counter.py:31
+msgid "and more pictures shot since 1966"
+msgstr "and more pictures shot since 1966"
+
+#: tib/data/tib/counter.py:36
+msgid "and more travels accomplished"
+msgstr "and more travels accomplished"
 
 #: tib/data/tib/jumbotron.py:5
 msgid "The TIB in a Digital Age"
@@ -413,6 +441,10 @@ msgstr ""
 #: tib/templates/tib/frontpage/frontpage.html:44
 msgid "activities"
 msgstr "Activities"
+
+#: tib/templates/tib/frontpage/jumbotron.html:24
+msgid "Learn more"
+msgstr "Learn more"
 
 #~ msgid "programmer"
 #~ msgstr "Software Developer"

@@ -148,7 +148,7 @@ subprojects = {
         'outreach': [],
     },
     'digtib': {
-        'title': 'Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum Weltkulturerbe',
+        'title': 'The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s Cultural Heritage',
         'funded_by': [institutes['oenb']],
         'project_number': '17771',
         'pi': [tib_team_data['mpopovic']],

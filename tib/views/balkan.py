@@ -4,7 +4,7 @@ from flask import render_template
 
 from tib import app
 from tib.data.balkan.balkan_volumen import tib_volumen_dict
-from tib.data.outreach import outreach, outreach_ger
+from tib.data.outreach import outreach
 from tib.data.balkan.project_results import result_links, project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
@@ -35,7 +35,7 @@ def home() -> str:
         team=team_members,
         outreach=outreach,
         images=gallery_outreach,
-        outreach_icons=icons_outreach    )
+        outreach_icons=icons_outreach)
 
 
 @app.route('/balkan/team')
@@ -89,7 +89,7 @@ def balkan_subprojects(project: str = None) -> str:
 def balkan_outreach() -> str:
     return render_template(
         'balkan/outreach/outreach.html',
-        outreach=outreach_ger,
+        outreach=outreach,
         outreach_gallery=gallery_outreach,
         outreach_icons=icons_outreach)
 

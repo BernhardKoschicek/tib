@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-03 10:16+0200\n"
+"POT-Creation-Date: 2022-10-03 12:06+0200\n"
 "PO-Revision-Date: 2022-10-03 10:20+0200\n"
 "Last-Translator: \n"
-"Language-Team: en <LL@li.org>\n"
 "Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.1.1\n"
 
 #: tib/data/navigation.py:6
 msgid "history"
@@ -105,11 +104,11 @@ msgstr "Toponym Register"
 
 #: tib/data/navigation.py:60
 msgid ""
-"A complete list of geographic registers of the published TIB volumes 1-13 and "
-"15"
+"A complete list of geographic registers of the published TIB volumes 1-13"
+" and 15"
 msgstr ""
-"A complete list of geographic registers of the published TIB volumes 1-13 and "
-"15"
+"A complete list of geographic registers of the published TIB volumes 1-13"
+" and 15"
 
 #: tib/data/navigation.py:63
 msgid "image_collection"
@@ -117,11 +116,11 @@ msgstr "Image Collection"
 
 #: tib/data/navigation.py:67
 msgid ""
-"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
-"metadata"
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
+" with metadata"
 msgstr ""
-"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
-"metadata"
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
+" with metadata"
 
 #: tib/data/navigation.py:70 tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
@@ -129,9 +128,11 @@ msgstr "Map Application"
 
 #: tib/data/navigation.py:74
 msgid ""
-"Graphical map application to access, browse and query data from TIB Balkans"
+"Graphical map application to access, browse and query data from TIB "
+"Balkans"
 msgstr ""
-"Graphical map application to access, browse and query data from TIB Balkans"
+"Graphical map application to access, browse and query data from TIB "
+"Balkans"
 
 #: tib/data/navigation.py:78
 msgid "browse_tib_balkans_data"
@@ -140,6 +141,64 @@ msgstr "Browse TIB Balkans Data"
 #: tib/data/navigation.py:82
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
+
+#: tib/data/outreach.py:9 tib/data/outreach.py:13
+msgid "presentation"
+msgstr ""
+
+#: tib/data/outreach.py:17
+msgid "award"
+msgstr ""
+
+#: tib/data/outreach.py:21
+msgid "science_fair"
+msgstr ""
+
+#: tib/data/outreach.py:25
+msgid "book_release"
+msgstr ""
+
+#: tib/data/outreach.py:29
+msgid "blogpost"
+msgstr ""
+
+#: tib/data/outreach.py:63
+msgid ""
+"On the Use and Usefulness of Digital Humanities in the Historical "
+"Geography of Byzantium"
+msgstr ""
+
+#: tib/data/outreach.py:102
+msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+msgstr ""
+
+#: tib/data/outreach.py:140
+msgid "presentation at"
+msgstr ""
+
+#: tib/data/outreach.py:142
+msgid "imc2022"
+msgstr ""
+
+#: tib/data/outreach.py:156
+msgid "24th International Congress of Byzantine Studies in Venice and Padua"
+msgstr ""
+
+#: tib/data/outreach.py:158
+msgid "aieb_roundtable"
+msgstr ""
+
+#: tib/data/outreach.py:159
+msgid "For further information and the programme please cf."
+msgstr ""
+
+#: tib/data/outreach.py:186
+msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
+msgstr ""
+
+#: tib/data/outreach.py:188
+msgid "hypotheses_post"
+msgstr ""
 
 #: tib/data/tib/counter.py:6
 msgid "TIB Volumes Published"
@@ -183,11 +242,11 @@ msgstr "TIB Publications in the Making"
 
 #: tib/data/tib/jumbotron.py:11
 msgid ""
-"The TIB Team is currently working on five new TIB volumes in Asia Minor and "
-"the Balkans"
+"The TIB Team is currently working on five new TIB volumes in Asia Minor "
+"and the Balkans"
 msgstr ""
-"The TIB Team is currently working on five new TIB volumes in Asia Minor and "
-"the Balkans"
+"The TIB Team is currently working on five new TIB volumes in Asia Minor "
+"and the Balkans"
 
 #: tib/data/tib/jumbotron.py:15
 msgid "Sub Projects of the TIB"
@@ -264,19 +323,21 @@ msgstr "Object of the company"
 
 #: tib/templates/tib/imprint.html:26
 msgid ""
-"The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) "
-"has the statutory mission to promote science in every way. As a learned "
-"society the OeAW cultivates the discourse and cooperation of science with the "
-"public, politics and business. As the largest institution of non-university "
-"basic research in the country, the OeAW conducts application-open basic "
-"research at the highest international level at its 28 institutes."
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of "
+"Sciences) has the statutory mission to promote science in every way. As a"
+" learned society the OeAW cultivates the discourse and cooperation of "
+"science with the public, politics and business. As the largest "
+"institution of non-university basic research in the country, the OeAW "
+"conducts application-open basic research at the highest international "
+"level at its 28 institutes."
 msgstr ""
-"The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) "
-"has the statutory mission to promote science in every way. As a learned "
-"society the OeAW cultivates the discourse and cooperation of science with the "
-"public, politics and business. As the largest institution of non-university "
-"basic research in the country, the OeAW conducts application-open basic "
-"research at the highest international level at its 28 institutes."
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of "
+"Sciences) has the statutory mission to promote science in every way. As a"
+" learned society the OeAW cultivates the discourse and cooperation of "
+"science with the public, politics and business. As the largest "
+"institution of non-university basic research in the country, the OeAW "
+"conducts application-open basic research at the highest international "
+"level at its 28 institutes."
 
 #: tib/templates/tib/imprint.html:27
 msgid "Executive body"
@@ -304,11 +365,13 @@ msgstr "Basic line"
 
 #: tib/templates/tib/imprint.html:40
 msgid ""
-"This website serves to inform the public on the scientific activities of the "
-"Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences."
+"This website serves to inform the public on the scientific activities of "
+"the Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of"
+" Sciences."
 msgstr ""
-"This website serves to inform the public on the scientific activities of the "
-"Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences."
+"This website serves to inform the public on the scientific activities of "
+"the Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of"
+" Sciences."
 
 #: tib/templates/tib/imprint.html:41
 msgid "Disclaimer"
@@ -317,16 +380,16 @@ msgstr "Disclaimer"
 #: tib/templates/tib/imprint.html:43
 msgid ""
 "The Austrian Academy of Sciences gives no warranty as to the topicality, "
-"correctness, completeness or quality of the information provided. In the case "
-"of links to websites of other media owners, for which the OeAW is not directly "
-"or indirectly responsible, the OeAW assumes no liability for their contents "
-"and excludes any liability therefor."
+"correctness, completeness or quality of the information provided. In the "
+"case of links to websites of other media owners, for which the OeAW is "
+"not directly or indirectly responsible, the OeAW assumes no liability for"
+" their contents and excludes any liability therefor."
 msgstr ""
 "The Austrian Academy of Sciences gives no warranty as to the topicality, "
-"correctness, completeness or quality of the information provided. In the case "
-"of links to websites of other media owners, for which the OeAW is not directly "
-"or indirectly responsible, the OeAW assumes no liability for their contents "
-"and excludes any liability therefor."
+"correctness, completeness or quality of the information provided. In the "
+"case of links to websites of other media owners, for which the OeAW is "
+"not directly or indirectly responsible, the OeAW assumes no liability for"
+" their contents and excludes any liability therefor."
 
 #: tib/templates/tib/imprint.html:45
 msgid "Copyright notice"
@@ -334,27 +397,29 @@ msgstr "Copyright notice"
 
 #: tib/templates/tib/imprint.html:47 tib/templates/tib/imprint.html:50
 msgid ""
-"The contents and works created by the Austrian Academy of Sciences on these "
-"pages are subject to Austrian copyright law. The duplication, editing, "
-"distribution and any kind of utilization outside the scope of copyright law "
-"require the written consent of the respective author or creator. Downloads and "
-"copies of these pages are only permitted for private, non-commercial use. "
-"Insofar as the content on this site was not created by the operator, the "
-"copyrights of third parties are respected. In particular, third-party content "
-"is identified as such. In the event that you should nevertheless become aware "
-"of a copyright infringement, we ask that you inform us accordingly. If we "
-"become aware of any infringements, we will remove such contents immediately."
+"The contents and works created by the Austrian Academy of Sciences on "
+"these pages are subject to Austrian copyright law. The duplication, "
+"editing, distribution and any kind of utilization outside the scope of "
+"copyright law require the written consent of the respective author or "
+"creator. Downloads and copies of these pages are only permitted for "
+"private, non-commercial use. Insofar as the content on this site was not "
+"created by the operator, the copyrights of third parties are respected. "
+"In particular, third-party content is identified as such. In the event "
+"that you should nevertheless become aware of a copyright infringement, we"
+" ask that you inform us accordingly. If we become aware of any "
+"infringements, we will remove such contents immediately."
 msgstr ""
-"The contents and works created by the Austrian Academy of Sciences on these "
-"pages are subject to Austrian copyright law. The duplication, editing, "
-"distribution and any kind of utilization outside the scope of copyright law "
-"require the written consent of the respective author or creator. Downloads and "
-"copies of these pages are only permitted for private, non-commercial use. "
-"Insofar as the content on this site was not created by the operator, the "
-"copyrights of third parties are respected. In particular, third-party content "
-"is identified as such. In the event that you should nevertheless become aware "
-"of a copyright infringement, we ask that you inform us accordingly. If we "
-"become aware of any infringements, we will remove such contents immediately."
+"The contents and works created by the Austrian Academy of Sciences on "
+"these pages are subject to Austrian copyright law. The duplication, "
+"editing, distribution and any kind of utilization outside the scope of "
+"copyright law require the written consent of the respective author or "
+"creator. Downloads and copies of these pages are only permitted for "
+"private, non-commercial use. Insofar as the content on this site was not "
+"created by the operator, the copyrights of third parties are respected. "
+"In particular, third-party content is identified as such. In the event "
+"that you should nevertheless become aware of a copyright infringement, we"
+" ask that you inform us accordingly. If we become aware of any "
+"infringements, we will remove such contents immediately."
 
 #: tib/templates/tib/imprint.html:49
 msgid "Data privacy notice"
@@ -362,15 +427,15 @@ msgstr "Data privacy notice"
 
 #: tib/templates/tib/imprint.html:51
 msgid ""
-"The contact data published within the scope of the imprint obligation may not "
-"be used by third parties for the transmission of advertising and information "
-"material not expressly requested. Any such use is hereby expressly "
-"contradicted."
+"The contact data published within the scope of the imprint obligation may"
+" not be used by third parties for the transmission of advertising and "
+"information material not expressly requested. Any such use is hereby "
+"expressly contradicted."
 msgstr ""
-"The contact data published within the scope of the imprint obligation may not "
-"be used by third parties for the transmission of advertising and information "
-"material not expressly requested. Any such use is hereby expressly "
-"contradicted."
+"The contact data published within the scope of the imprint obligation may"
+" not be used by third parties for the transmission of advertising and "
+"information material not expressly requested. Any such use is hereby "
+"expressly contradicted."
 
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
@@ -396,47 +461,48 @@ msgstr "Long-Term Project"
 #: tib/templates/tib/frontpage/frontpage.html:12
 msgid "tib_frontpage_research_on_the_historical"
 msgstr ""
-"Research on the Historical Geography of the Byzantine Empire at the Austrian "
-"Academy of Sciences in Vienna is conducted by the Tabula Imperii Byzantini "
-"(TIB). This renowned project was accepted by the <a href=\"http://www.uai-iua."
-"org/en/projects/104/tabula-imperii-byzantini\" target=\"_blank\"Union "
-"Académique Internationale</a> in Brussels in 2015 (Project 87), and at the "
-"same time included into the scheme of Long-Term-Projects at the Austrian "
-"Academy of Sciences, based on independent excellent international evaluations. "
-"The TIB carries out systematic research in the historical geography of the "
-"Byzantine Empire, from the beginning of the 4th century to the mid-15th "
-"century. The aim of the project is to create a historical atlas of the "
-"Byzantine space from Late Antiquity to the Early Modern period."
+"Research on the Historical Geography of the Byzantine Empire at the "
+"Austrian Academy of Sciences in Vienna is conducted by the Tabula Imperii"
+" Byzantini (TIB). This renowned project was accepted by the <a "
+"href=\"http://www.uai-iua.org/en/projects/104/tabula-imperii-byzantini\" "
+"target=\"_blank\"Union Académique Internationale</a> in Brussels in 2015 "
+"(Project 87), and at the same time included into the scheme of Long-Term-"
+"Projects at the Austrian Academy of Sciences, based on independent "
+"excellent international evaluations. The TIB carries out systematic "
+"research in the historical geography of the Byzantine Empire, from the "
+"beginning of the 4th century to the mid-15th century. The aim of the "
+"project is to create a historical atlas of the Byzantine space from Late "
+"Antiquity to the Early Modern period."
 
 #: tib/templates/tib/frontpage/frontpage.html:29
 msgid "tib_frontpage_individual_regions"
 msgstr ""
 "Individual regions are represented on maps on a scale of 1 : 800,000. A "
-"separate accompanying volume provides the results of further research in each "
-"region. Each volume contains detailed introductory chapters on geography and "
-"climate, borders and territorial designations, history, administrative "
-"history, church history and monasticism, traffic routes, economy and "
-"demographic trends. The main part of each volume consists of an alphabetical "
-"catalogue of all toponyms, hydronyms etc. that were known in Byzantine times. "
-"Also included are the historical places, whose historical names are unknown, "
-"but for whose existence there is (or there was) archaeological evidence. "
-"Written sources (from Late Antiquity to Early Modern Times) and archaeological "
-"materials elucidate the history of individual places, along with brief "
-"descriptions of monuments, both those that are known to have existed and those "
-"that are still preserved. The aforesaid results are enriched by systematic "
-"field research in order to verify, modify or complete the information of the "
-"sources."
+"separate accompanying volume provides the results of further research in "
+"each region. Each volume contains detailed introductory chapters on "
+"geography and climate, borders and territorial designations, history, "
+"administrative history, church history and monasticism, traffic routes, "
+"economy and demographic trends. The main part of each volume consists of "
+"an alphabetical catalogue of all toponyms, hydronyms etc. that were known"
+" in Byzantine times. Also included are the historical places, whose "
+"historical names are unknown, but for whose existence there is (or there "
+"was) archaeological evidence. Written sources (from Late Antiquity to "
+"Early Modern Times) and archaeological materials elucidate the history of"
+" individual places, along with brief descriptions of monuments, both "
+"those that are known to have existed and those that are still preserved. "
+"The aforesaid results are enriched by systematic field research in order "
+"to verify, modify or complete the information of the sources."
 
 #: tib/templates/tib/frontpage/frontpage.html:35
 msgid "tib_frontpage_since_1986_new_methods"
 msgstr ""
-"Since 1986 new methods have been included into the scholarly work of the TIB, "
-"namely: studies of Palaeo-climate and settlement theories (for example the "
-"modified \"Central Place Theory\"), as well as the regular use of the Global "
-"Positioning System (GPS) during field missions and surveys. Digital "
-"Humanities, e.g. in the form of Historical Geographical Information Systems "
-"(HGIS), further contribute to the analysis and interpretation of the research "
-"data."
+"Since 1986 new methods have been included into the scholarly work of the "
+"TIB, namely: studies of Palaeo-climate and settlement theories (for "
+"example the modified \"Central Place Theory\"), as well as the regular "
+"use of the Global Positioning System (GPS) during field missions and "
+"surveys. Digital Humanities, e.g. in the form of Historical Geographical "
+"Information Systems (HGIS), further contribute to the analysis and "
+"interpretation of the research data."
 
 #: tib/templates/tib/frontpage/frontpage.html:44
 msgid "activities"
@@ -449,13 +515,14 @@ msgstr "Learn more"
 #: tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Our TIB map viewer is online! Please feel free to <a href="
-"\"{{ url_for('tib_atlas') }}\">browse and test it</a>. It features selected "
-"data from the <a href=\"{{ url_for('home') }}\">TIB Balkans</a> deriving from "
-"its <a href=\"{{ url_for('tib_sub_projects') }}\">sub-projects</a> and is work "
-"in progress. If you have any questions or comments, please feel free to contact"
+"Our TIB map viewer is online! Please feel free to <a href=\"{{ "
+"url_for('tib_atlas') }}\">browse and test it</a>. It features selected "
+"data from the <a href=\"{{ url_for('home') }}\">TIB Balkans</a> deriving "
+"from its <a href=\"{{ url_for('tib_sub_projects') }}\">sub-projects</a> "
+"and is work in progress. If you have any questions or comments, please "
+"feel free to contact"
 
-#: tib/templates/tib/frontpage/tib_map.html:23
+#: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"
 msgstr "Try it out now"
 
@@ -467,3 +534,34 @@ msgstr "Try it out now"
 
 #~ msgid "1020 Vienna, Austria, Europe"
 #~ msgstr "1020 Vienna, Austria, Europe"
+
+#~ msgid ""
+#~ "Presentation at “Global Eurasia – "
+#~ "Comparison and Connectivity II: Agency, "
+#~ "Networks and Transregional Contexts”"
+#~ msgstr ""
+
+#~ msgid "Presentation at the University of Cologne, Germany"
+#~ msgstr ""
+
+#~ msgid "Presentation at the International Medieval Congress (IMC) in Leeds"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the Use and Usefulness of "
+#~ "Digital Humanities in the Historical "
+#~ "Geography of Byzantium"
+#~ msgstr ""
+
+#~ msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+#~ msgstr ""
+
+#~ msgid "24th International Congress of Byzantine Studies in Venice and Padua"
+#~ msgstr ""
+
+#~ msgid "Blogpost on the Paper “OpenAtlas und historische Geographie”"
+#~ msgstr ""
+
+#~ msgid "TIB Volume 11 (\"Macedonia, Southern Part\") published"
+#~ msgstr ""
+

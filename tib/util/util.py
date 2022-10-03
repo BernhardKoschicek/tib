@@ -39,3 +39,19 @@ def get_news_dates_formatted(year: int, month: int, day: int) -> str:
 
 def get_dates_formatted(year: int, month: int, day: int) -> str:
     return datetime(year, month, day).strftime('%d.%m.%Y')
+
+
+def format_link(link_: str) -> str:
+    return f'<a href="{link_}" target=_blank>{link_}</a>'
+
+
+def format_link_text(link_: str, text: str) -> str:
+    return f'<a href="{link_}" target=_blank>{text}</a>'
+
+def youtube_iframe(link_: str) -> str:
+    return '<iframe width="560" height="315" ' \
+           f'src="{link_}" ' \
+           'title="YouTube video  player" frameborder="0" ' \
+           'allow="accelerometer; autoplay; clipboard-write;  ' \
+           'encrypted-media; gyroscope; picture-in-picture" ' \
+           'allowfullscreen></iframe>'

@@ -18,35 +18,3 @@ objects3d = {
         "path": "3dhop/mitra.html",
     },
 }
-
-
-tib_balkan = {
-    "tib1": {
-
-    },
-    "tib3": {
-
-    },
-    "tib6": {
-
-    },
-    "tib12": {
-
-    },
-    "tib16": {
-
-    },
-
-}
-
-external = {
-    "digtib": {
-
-    },
-    "tib-catalouge": {
-
-    },
-    "maps": {
-
-    }
-}

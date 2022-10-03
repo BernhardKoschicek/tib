@@ -43,6 +43,7 @@ def tib_history() -> str:
 @app.route('/current_status/<volume>')
 @app.route('/current-status')
 @app.route('/current-status/<volume>')
+@app.route('/current-status/<volume>')
 def tib_current_status(volume: str = None) -> str:
     if volume:
         return render_template(

@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-09-23 14:03+0200\n"
-"PO-Revision-Date: 2022-09-23 14:06+0200\n"
+"POT-Creation-Date: 2022-10-03 10:16+0200\n"
+"PO-Revision-Date: 2022-10-03 10:20+0200\n"
 "Last-Translator: \n"
-"Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: tib/data/navigation.py:6
 msgid "history"
@@ -123,7 +123,7 @@ msgstr ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
 "metadata"
 
-#: tib/data/navigation.py:70
+#: tib/data/navigation.py:70 tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
 msgstr "Map Application"
 
@@ -445,6 +445,19 @@ msgstr "Activities"
 #: tib/templates/tib/frontpage/jumbotron.html:24
 msgid "Learn more"
 msgstr "Learn more"
+
+#: tib/templates/tib/frontpage/tib_map.html:7
+msgid "map_application_text"
+msgstr ""
+"Our TIB map viewer is online! Please feel free to <a href="
+"\"{{ url_for('tib_atlas') }}\">browse and test it</a>. It features selected "
+"data from the <a href=\"{{ url_for('home') }}\">TIB Balkans</a> deriving from "
+"its <a href=\"{{ url_for('tib_sub_projects') }}\">sub-projects</a> and is work "
+"in progress. If you have any questions or comments, please feel free to contact"
+
+#: tib/templates/tib/frontpage/tib_map.html:23
+msgid "try it out now"
+msgstr "Try it out now"
 
 #~ msgid "programmer"
 #~ msgstr "Software Developer"

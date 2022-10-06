@@ -126,12 +126,26 @@ outreach = [{
     'who': [team['dvargova']],
     'title': 'TIB at the "Lange Nacht der Forschung" in Vienna',
     'description': """<p>
-        Dorota Vargová represents the Long Term Project TIB at the <a 
-        href='https://www.oeaw.ac.at/lange-nacht-der-forschung'>
-        "Lange Nacht der Forschung"</a> in Vienna. in Vienna. She will welcome 
-        the interested public, present insights in our current research and 
-        stage a quiz for children.
+        In May 2022, the Austrian Academy of Sciences co-hosted and 
+        participated in the Austrian nationwide event "Lange Nacht der 
+        Forschung 2022" (Science Night 2022). This provided another excellent 
+        opportunity for the Long-Term Project Tabula Imperii Byzantini (TIB) 
+        to communicate its newest research output to the public. At the stand 
+        of the academy's Institute for Medieval Research, the TIB-team 
+        organized fun discovery activities such as the Historical Geographer's 
+        Quiz for all ages and presented the everyday work of a TIB researcher 
+        in a custom-made short film, here based on the sub-project <a href="/subprojects/holdura">"Beyond 
+        East and West: Geocommunicating the Sacred Landscapes of “Duklja” and 
+        “Raška” through Space and Time (11th-14th Cent.)</a>. 
         </p>
+        <div class="col align-self-center text-center">
+            <video loop muted autoplay controls>
+              <source
+                src="/static/video/BEW_Lange_Nacht_der_Forschung_2022.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+        </div>
         """,
     'category': ['tib', 'balkan'],
     'attachment': []

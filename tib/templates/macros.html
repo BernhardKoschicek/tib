@@ -278,7 +278,7 @@
               ],
               "ordering": true,
               "order": [[{{ order_column }},
-                  {% if id == 'TIB_Volumes'%}'asc'{% else %}'desc'{% endif %}]],
+                  {% if id in ['TIB_Volumes', 'TIB_Bände'] %}'asc'{% else %}'desc'{% endif %}]],
               "info": true,
               "searching": true,
               "pageLength":  {% if id == 'TIB_Volumes'%}20{% else %}10{% endif %}

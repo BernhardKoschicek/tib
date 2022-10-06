@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-06 16:34+0200\n"
-"PO-Revision-Date: 2022-10-06 16:36+0200\n"
+"POT-Creation-Date: 2022-10-06 17:01+0200\n"
+"PO-Revision-Date: 2022-10-06 17:01+0200\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -349,6 +349,82 @@ msgstr "Teilprojekte der TIB"
 msgid "The TIB Team works in several sub projects on groundbreaking research"
 msgstr ""
 "Das TIB-Team arbeitet in mehreren Teilprojekten an bahnbrechender Forschung"
+
+#: tib/data/tib/publications.py:2349
+msgid "TIB_Volumes"
+msgstr "TIB_Bände"
+
+#: tib/data/tib/publications.py:2352
+msgid ""
+"The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian "
+"Academy of Sciences are the main scholarly result of the project TIB and have "
+"been published since 1976."
+msgstr ""
+"Die Bände der Reihe Tabula Imperii Byzantini (TIB) der Österreichischen "
+"Akademie der Wissenschaften sind das wissenschaftliche Hauptergebnis des "
+"Projekts TIB und werden seit 1976 veröffentlicht."
+
+#: tib/data/tib/publications.py:2359
+msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
+msgstr "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
+
+#: tib/data/tib/publications.py:2362
+msgid ""
+"In addition to the main series Tabula Imperii Byzantini (TIB) an accompanying "
+"series entitled Veröffentlichungen der Kommission für die Tabula Imperii "
+"Byzantini (VTIB) of the Austrian Academy of Sciences had been published since "
+"1973 and has been replaced by the series Veröffentlichungen zur Byzanzforschung "
+"since 2006."
+msgstr ""
+"Neben der Hauptreihe Tabula Imperii Byzantini (TIB) erschien seit 1973 eine "
+"Begleitreihe mit dem Titel Veröffentlichungen der Kommission für die Tabula "
+"Imperii Byzantini (VTIB) der Österreichischen Akademie der Wissenschaften, die "
+"seit 2006 durch die Reihe Veröffentlichungen zur Byzanzforschung ersetzt wird."
+
+#: tib/data/tib/publications.py:2371
+msgid "Historical Geography and Cultural Heritage"
+msgstr "Historical Geography and Cultural Heritage"
+
+#: tib/data/tib/publications.py:2373
+msgid ""
+"The series <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
+"Historical Geography and Cultural Heritage</a> was founded by Mihailo St. "
+"Popović in the spring of 2016 and is edited by him and Andreas Külzer in order "
+"to innovate the historical-geographical research in  Byzantine Studies."
+msgstr ""
+"Die Reihe <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
+"Historical Geography and Cultural Heritage</a> wurde im Frühjahr 2016 von "
+"Mihailo St. Popović gegründet und wird von ihm und Andreas Külzer "
+"herausgegeben, um die historisch-geographische Forschung in der Byzantinistik "
+"zu erneuern."
+
+#: tib/data/tib/publications.py:2381 tib/data/tib/publications.py:2382
+msgid "Monographs"
+msgstr "Monografien"
+
+#: tib/data/tib/publications.py:2383
+msgid ""
+"The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
+"(TIB) are continuously publishing scholarly monographs and edited volumes on "
+"various topics of the Historical Geography of Byzantium."
+msgstr ""
+"Die Projektleiter und wissenschaftlichen Mitarbeiter der Tabula Imperii "
+"Byzantini (TIB) veröffentlichen kontinuierlich wissenschaftliche Monographien "
+"und Sammelbände zu verschiedenen Themen der Historischen Geographie von Byzanz."
+
+#: tib/data/tib/publications.py:2389 tib/data/tib/publications.py:2390
+msgid "Articles"
+msgstr "Artikel"
+
+#: tib/data/tib/publications.py:2391
+msgid ""
+"The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
+"(TIB) are continuously publishing scholarly articles on various topics of the "
+"Historical Geography of Byzantium."
+msgstr ""
+"Die Projektleiter und wissenschaftlichen Mitarbeiter der Tabula Imperii "
+"Byzantini (TIB) veröffentlichen kontinuierlich wissenschaftliche Artikel zu "
+"verschiedenen Themen der Historischen Geographie von Byzanz."
 
 #: tib/templates/404.html:4
 msgid "File Not Found"
@@ -839,6 +915,10 @@ msgstr ""
 #: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"
 msgstr "Jetzt ausprobieren"
+
+#: tib/templates/tib/publications/publications.html:6
+msgid "Publications"
+msgstr "Publikationen"
 
 #~ msgid "published"
 #~ msgstr "veröffentlicht"

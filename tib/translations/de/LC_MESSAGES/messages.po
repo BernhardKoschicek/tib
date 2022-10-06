@@ -7,16 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-03 12:06+0200\n"
-"PO-Revision-Date: 2022-10-03 11:27+0200\n"
+"POT-Creation-Date: 2022-10-06 16:34+0200\n"
+"PO-Revision-Date: 2022-10-06 16:36+0200\n"
 "Last-Translator: \n"
-"Language: de\n"
 "Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: tib/data/navigation.py:6
 msgid "history"
@@ -104,11 +105,9 @@ msgstr "Toponymregister"
 
 #: tib/data/navigation.py:60
 msgid ""
-"A complete list of geographic registers of the published TIB volumes 1-13"
-" and 15"
+"A complete list of geographic registers of the published TIB volumes 1-13 and 15"
 msgstr ""
-"Vollständiges geografisches Register der veröffentlichten TIB-Bände 1-13 "
-"und 15"
+"Vollständiges geografisches Register der veröffentlichten TIB-Bände 1-13 und 15"
 
 #: tib/data/navigation.py:63
 msgid "image_collection"
@@ -116,11 +115,11 @@ msgstr "Bildkollektion"
 
 #: tib/data/navigation.py:67
 msgid ""
-"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
-" with metadata"
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
+"metadata"
 msgstr ""
-"Zugang zu mehr als 7.000 Dias der TIB-Bände 5, 12 und 16, angereichert "
-"mit Metadaten"
+"Zugang zu mehr als 7.000 Dias der TIB-Bände 5, 12 und 16, angereichert mit "
+"Metadaten"
 
 #: tib/data/navigation.py:70 tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
@@ -128,8 +127,7 @@ msgstr "Kartenapplikation"
 
 #: tib/data/navigation.py:74
 msgid ""
-"Graphical map application to access, browse and query data from TIB "
-"Balkans"
+"Graphical map application to access, browse and query data from TIB Balkans"
 msgstr ""
 "Digitale Kartenanwendung um die Daten der TIB Balkan zu durchsuchen und "
 "abzufragen"
@@ -141,67 +139,159 @@ msgstr "TIB Balkan Daten erkunden"
 #: tib/data/navigation.py:82
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr ""
-"Durchsuchen Sie die Daten von TIB Balkans direkt in der OpenAtlas-"
-"Datenbank"
+"Durchsuchen Sie die Daten von TIB Balkans direkt in der OpenAtlas-Datenbank"
 
-#: tib/data/outreach.py:9 tib/data/outreach.py:13
+#: tib/data/outreach.py:10 tib/data/outreach.py:14
 msgid "presentation"
 msgstr "Presentation"
 
-#: tib/data/outreach.py:17
+#: tib/data/outreach.py:18
 msgid "award"
 msgstr "Auszeichnung"
 
-#: tib/data/outreach.py:21
+#: tib/data/outreach.py:22
 msgid "science_fair"
 msgstr "Wissenschaftsmesse"
 
-#: tib/data/outreach.py:25
+#: tib/data/outreach.py:26
 msgid "book_release"
 msgstr "Buchveröffentlichung"
 
-#: tib/data/outreach.py:29
+#: tib/data/outreach.py:30
 msgid "blogpost"
 msgstr "Blog Post"
 
-#: tib/data/outreach.py:63
+#: tib/data/outreach.py:40
+msgid "TIB volume 11, Macedonia, Southern Part published"
+msgstr "TIB Band 11, Mazedonien, Südlicher Teil veröffentlicht"
+
+#: tib/data/outreach.py:42
+msgid "tib_11_release"
+msgstr ""
+"Mit großer Freude dürfen wir die Veröffentlichung des TIB-Bandes 11 "
+"(\"Mazedonien, südlicher Teil\") ankündigen, der von Peter Soustal (mit Andreas "
+"Pülz und Mihailo St. Popović als Co-Autoren) geschrieben wurde."
+
+#: tib/data/outreach.py:43
+msgid "Cf. in detail:"
+msgstr "Sehen Sie im Detail:"
+
+#: tib/data/outreach.py:56
 msgid ""
-"On the Use and Usefulness of Digital Humanities in the Historical "
-"Geography of Byzantium"
+"On the Use and Usefulness of Digital Humanities in the Historical Geography of "
+"Byzantium"
 msgstr ""
+"Über den Nutzen und die Nützlichkeit der digitalen Geisteswissenschaften in der "
+"historischen Geographie von Byzanz"
 
-#: tib/data/outreach.py:102
+#: tib/data/outreach.py:59
+msgid "seminar_series_april"
+msgstr ""
+"Mihailo Popović hielt am 1. April 2022 einen Online-Vortrag mit dem Titel \"On "
+"the Use and Usefulness of Digital Humanities in the Historical Geography of "
+"Byzantium\" vor Studenten und Kollegen der Aristoteles-Universität in "
+"Thessaloniki und der Ibn-Haldun-Universität in Istanbul. Dieser Vortrag ist "
+"Teil einer Seminarreihe mit dem Titel \"Der Balkan zwischen den Imperien\". "
+"Nach dem Vortrag stellten die Zuhörer vielfältige Fragen zur Historischen "
+"Geographie des Byzantinischen Reiches und zu Digital Humanities."
+
+#: tib/data/outreach.py:69
+msgid ""
+"presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts\""
+msgstr ""
+"Presentation bei \"Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts\""
+
+#: tib/data/outreach.py:72
+msgid "global_eurasia_5_12_22"
+msgstr ""
+"Mihailo Popović hat auf der Konferenz <a href=\"https://www.oeaw.ac.at/en/"
+"global-eurasia/detail/news-detail/handlungsspielraeume-netzwerke-und-"
+"transregionale-kontexte\" target=\"_blank\">\"Global Eurasia - Comparison and "
+"Connectivity II: Agency, Networks and Transregional Contexts\"</a> am IMAFO "
+"(ÖAW) einen Vortrag über die TIB gehalten."
+
+#: tib/data/outreach.py:80
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+msgstr "TIB bei der \"Langen Nacht der Forschung\" in Wien"
+
+#: tib/data/outreach.py:82
+msgid "lange_nacht_22_text"
 msgstr ""
+"Im Mai 2022 war die Österreichische Akademie der Wissenschaften "
+"Mitveranstalterin und Teilnehmerin der österreichweiten \"Langen Nacht der "
+"Forschung 2022\". Dies war eine weitere hervorragende Gelegenheit für das "
+"Langzeitprojekt Tabula Imperii Byzantini (TIB), seine neuesten "
+"Forschungsergebnisse der Öffentlichkeit vorzustellen. Am Stand des Instituts "
+"für Mittelalterforschung der Akademie organisierte das TIB-Team unterhaltsame "
+"Entdeckungsaktivitäten wie das Historische Geographen-Quiz für alle "
+"Altersgruppen und präsentierte den Arbeitsalltag eines TIB-Forschers in einem "
+"eigens gedrehten Kurzfilm, der hier auf dem Teilprojekt <a href=\"/subprojects/"
+"holdura\">Jenseits von Ost und West: Geokommunikation der heiligen Landschaften "
+"\"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)</a>. basiert."
 
-#: tib/data/outreach.py:140
-#, fuzzy
-msgid "presentation at"
-msgstr "Presentation"
+#: tib/data/outreach.py:91
+msgid "presentation at university of cologne, germany"
+msgstr "Präsentation an der Universität Köln, Deutschland"
 
-#: tib/data/outreach.py:142
+#: tib/data/outreach.py:93
+msgid "seminar_koeln"
+msgstr ""
+"Bernhard Koschiček-Krombholz und Mihailo St. Popović präsentieren einen Vortrag "
+"zum Thema \"OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
+"(Balkan) im digitalen Zeitalter\" an der Universität zu Köln, Deutschland auf "
+"einem <a href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities "
+"Kolloquium</a>."
+
+#: tib/data/outreach.py:103
+msgid "presentation at International Medieval Congress (IMC) in Leeds"
+msgstr "Vortrag auf dem Internationalen Mittelalterkongress (IMC) in Leeds"
+
+#: tib/data/outreach.py:106
 msgid "imc2022"
 msgstr ""
+"Während des Internationalen Mittelalterkongresses (IMC) in Leeds vom 4. bis 7. "
+"Juli 2022 hat das Team der TIB Balkan am Mittwoch, den 6. Juli, seine "
+"Forschungen in den Sitzungen Nr. 1034, 1134, 1234 und 1334 vorstellen."
 
-#: tib/data/outreach.py:156
+#: tib/data/outreach.py:107
+msgid "Cf. in detail"
+msgstr "Sehen sie im Detail"
+
+#: tib/data/outreach.py:117
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
-msgstr ""
+msgstr "24er Internationaler Kongress für Byzantinistik in Venedig und Padua"
 
-#: tib/data/outreach.py:158
+#: tib/data/outreach.py:121
 msgid "aieb_roundtable"
 msgstr ""
+"Die \"Kommission für die Historische Geographie und Raumanalyse von Byzanz\" "
+"der AIEB organisiert einen Runden Tisch mit dem Titel \"Historische Geographie "
+"von Byzanz im digitalen Zeitalter: Chancen und Risiken\" im Rahmen des 24. "
+"Internationalen Kongresses für Byzantinische Studien in Venedig und Padua (22. "
+"bis 27. August 2022). Er findet am 23. August in Venedig statt. Am Donnerstag, "
+"den 25. August, wird Mihailo St. Popović im Rahmen der Plenarsitzung \"Bridging "
+"Interdisciplinary Gaps. New Ways Making Connections\" die von Professor Judith "
+"Herrin geleitet wird, einen Plenarvortrag mit dem Titel \"A Race against Time: "
+"The Impact of Contemporary Environmental and Demographic Change on the Research "
+"of the Historical Geography of Byzantium\" in Padua halten."
 
-#: tib/data/outreach.py:159
+#: tib/data/outreach.py:122
 msgid "For further information and the programme please cf."
-msgstr ""
+msgstr "Weitere Informationen und das Programm finden Sie hier"
 
-#: tib/data/outreach.py:186
+#: tib/data/outreach.py:132
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
-msgstr ""
+msgstr "Blogpost zum Paper \"OpenAtlas und historische Geographie\""
 
-#: tib/data/outreach.py:188
+#: tib/data/outreach.py:135
 msgid "hypotheses_post"
 msgstr ""
+"Das Paper \"OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
+"(Balkan) im digitalen Zeitalter\" von Bernhard Koschiček-Krombholz und Mihailo "
+"St. Popović wird in einem Blogpost von einem Studenten der Universität zu Köln "
+"vorgestellt und kommentiert:"
 
 #: tib/data/tib/counter.py:6
 msgid "TIB Volumes Published"
@@ -245,11 +335,11 @@ msgstr "TIB-Publikationen im Entstehen"
 
 #: tib/data/tib/jumbotron.py:11
 msgid ""
-"The TIB Team is currently working on five new TIB volumes in Asia Minor "
-"and the Balkans"
+"The TIB Team is currently working on five new TIB volumes in Asia Minor and the "
+"Balkans"
 msgstr ""
-"Das TIB-Team arbeitet derzeit an fünf neuen TIB-Bänden zu Kleinasien und "
-"dem Balkan"
+"Das TIB-Team arbeitet derzeit an fünf neuen TIB-Bänden zu Kleinasien und dem "
+"Balkan"
 
 #: tib/data/tib/jumbotron.py:15
 msgid "Sub Projects of the TIB"
@@ -258,8 +348,7 @@ msgstr "Teilprojekte der TIB"
 #: tib/data/tib/jumbotron.py:16
 msgid "The TIB Team works in several sub projects on groundbreaking research"
 msgstr ""
-"Das TIB-Team arbeitet in mehreren Teilprojekten an bahnbrechender "
-"Forschung"
+"Das TIB-Team arbeitet in mehreren Teilprojekten an bahnbrechender Forschung"
 
 #: tib/templates/404.html:4
 msgid "File Not Found"
@@ -303,8 +392,7 @@ msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
 "(MedienG) as well as information according to § 5 E-Commerce Act (ECG)"
 msgstr ""
-"Impressum und Offenlegung nach §§ 24, 25 MedienG sowie Angaben nach § 5 "
-"ECG"
+"Impressum und Offenlegung nach §§ 24, 25 MedienG sowie Angaben nach § 5 ECG"
 
 #: tib/templates/tib/imprint.html:10
 msgid "Media owner"
@@ -312,8 +400,8 @@ msgstr "Medieninhaber"
 
 #: tib/templates/tib/imprint.html:13
 msgid ""
-"Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as "
-"amended by Federal Law Gazette (BGBl) I 31/2018)"
+"Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as amended "
+"by Federal Law Gazette (BGBl) I 31/2018)"
 msgstr "Juristische Person öffentlichen Rechts (BGBl 569/1921 idF BGBl I 31/2018)"
 
 #: tib/templates/tib/imprint.html:23
@@ -326,21 +414,19 @@ msgstr "Unternehmensgegenstand"
 
 #: tib/templates/tib/imprint.html:26
 msgid ""
-"The Österreichische Akademie der Wissenschaften (Austrian Academy of "
-"Sciences) has the statutory mission to promote science in every way. As a"
-" learned society the OeAW cultivates the discourse and cooperation of "
-"science with the public, politics and business. As the largest "
-"institution of non-university basic research in the country, the OeAW "
-"conducts application-open basic research at the highest international "
-"level at its 28 institutes."
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of Sciences) "
+"has the statutory mission to promote science in every way. As a learned society "
+"the OeAW cultivates the discourse and cooperation of science with the public, "
+"politics and business. As the largest institution of non-university basic "
+"research in the country, the OeAW conducts application-open basic research at "
+"the highest international level at its 28 institutes."
 msgstr ""
-"Die Österreichische Akademie der Wissenschaften hat den gesetzlichen "
-"Auftrag, die Wissenschaft in jeder Hinsicht zu fördern. Als "
-"Gelehrtengesellschaft pflegt die ÖAW den Diskurs und die Zusammenarbeit "
-"der Wissenschaft mit Öffentlichkeit, Politik und Wirtschaft. Als größte "
-"Einrichtung außeruniversitärer Grundlagenforschung des Landes betreibt "
-"die ÖAW an ihren 28 Instituten anwendungsoffene Grundlagenforschung auf "
-"höchstem internationalem Niveau."
+"Die Österreichische Akademie der Wissenschaften hat den gesetzlichen Auftrag, "
+"die Wissenschaft in jeder Hinsicht zu fördern. Als Gelehrtengesellschaft pflegt "
+"die ÖAW den Diskurs und die Zusammenarbeit der Wissenschaft mit Öffentlichkeit, "
+"Politik und Wirtschaft. Als größte Einrichtung außeruniversitärer "
+"Grundlagenforschung des Landes betreibt die ÖAW an ihren 28 Instituten "
+"anwendungsoffene Grundlagenforschung auf höchstem internationalem Niveau."
 
 #: tib/templates/tib/imprint.html:27
 msgid "Executive body"
@@ -368,13 +454,11 @@ msgstr "Grundlegende Richtung"
 
 #: tib/templates/tib/imprint.html:40
 msgid ""
-"This website serves to inform the public on the scientific activities of "
-"the Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of"
-" Sciences."
+"This website serves to inform the public on the scientific activities of the "
+"Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of Sciences."
 msgstr ""
 "Diese Website dient zur Information der Öffentlichkeit über die "
-"wissenschaftlichen Aktivitäten der Österreichischen Akademie der "
-"Wissenschaften."
+"wissenschaftlichen Aktivitäten der Österreichischen Akademie der Wissenschaften."
 
 #: tib/templates/tib/imprint.html:41
 msgid "Disclaimer"
@@ -383,18 +467,17 @@ msgstr "Haftungsausschluss"
 #: tib/templates/tib/imprint.html:43
 msgid ""
 "The Austrian Academy of Sciences gives no warranty as to the topicality, "
-"correctness, completeness or quality of the information provided. In the "
-"case of links to websites of other media owners, for which the OeAW is "
-"not directly or indirectly responsible, the OeAW assumes no liability for"
-" their contents and excludes any liability therefor."
+"correctness, completeness or quality of the information provided. In the case "
+"of links to websites of other media owners, for which the OeAW is not directly "
+"or indirectly responsible, the OeAW assumes no liability for their contents and "
+"excludes any liability therefor."
 msgstr ""
-"Die Österreichische Akademie der Wissenschaften übernimmt keinerlei "
-"Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der"
-" bereitgestellten Informationen.\n"
-"Im Falle des Bestehens von Links auf Webseiten anderer Medieninhaber, für"
-" deren Inhalt die ÖAW weder direkt oder indirekt mitverantwortlich ist, "
-"übernimmt die ÖAW keine Haftung für deren Inhalte und schließt jegliche "
-"Haftung hierfür aus."
+"Die Österreichische Akademie der Wissenschaften übernimmt keinerlei Gewähr für "
+"die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten "
+"Informationen.\n"
+"Im Falle des Bestehens von Links auf Webseiten anderer Medieninhaber, für deren "
+"Inhalt die ÖAW weder direkt oder indirekt mitverantwortlich ist, übernimmt die "
+"ÖAW keine Haftung für deren Inhalte und schließt jegliche Haftung hierfür aus."
 
 #: tib/templates/tib/imprint.html:45
 msgid "Copyright notice"
@@ -402,30 +485,28 @@ msgstr "Urheberrechtlicher Hinweis"
 
 #: tib/templates/tib/imprint.html:47 tib/templates/tib/imprint.html:50
 msgid ""
-"The contents and works created by the Austrian Academy of Sciences on "
-"these pages are subject to Austrian copyright law. The duplication, "
-"editing, distribution and any kind of utilization outside the scope of "
-"copyright law require the written consent of the respective author or "
-"creator. Downloads and copies of these pages are only permitted for "
-"private, non-commercial use. Insofar as the content on this site was not "
-"created by the operator, the copyrights of third parties are respected. "
-"In particular, third-party content is identified as such. In the event "
-"that you should nevertheless become aware of a copyright infringement, we"
-" ask that you inform us accordingly. If we become aware of any "
-"infringements, we will remove such contents immediately."
+"The contents and works created by the Austrian Academy of Sciences on these "
+"pages are subject to Austrian copyright law. The duplication, editing, "
+"distribution and any kind of utilization outside the scope of copyright law "
+"require the written consent of the respective author or creator. Downloads and "
+"copies of these pages are only permitted for private, non-commercial use. "
+"Insofar as the content on this site was not created by the operator, the "
+"copyrights of third parties are respected. In particular, third-party content "
+"is identified as such. In the event that you should nevertheless become aware "
+"of a copyright infringement, we ask that you inform us accordingly. If we "
+"become aware of any infringements, we will remove such contents immediately."
 msgstr ""
-"Die durch die ÖAW auf diesen Seiten erstellten Inhalte und Werke "
-"unterliegen dem österreichischen Urheberrecht. Die Vervielfältigung, "
-"Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der "
-"Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des "
-"jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind"
-" nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die"
-" Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die"
-" Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als "
-"solche gekennzeichnet. Für den Fall, dass Sie trotzdem auf eine "
-"Urheberrechtsverletzung aufmerksam werden, ersuchen wir um einen "
-"entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden "
-"wir derartige Inhalte umgehend entfernen."
+"Die durch die ÖAW auf diesen Seiten erstellten Inhalte und Werke unterliegen "
+"dem österreichischen Urheberrecht. Die Vervielfältigung, Bearbeitung, "
+"Verbreitung und jede Art der Verwertung außerhalb der Grenzen des "
+"Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. "
+"Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht "
+"kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom "
+"Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. "
+"Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Für den Fall, "
+"dass Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, ersuchen "
+"wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen "
+"werden wir derartige Inhalte umgehend entfernen."
 
 #: tib/templates/tib/imprint.html:49
 msgid "Data privacy notice"
@@ -433,19 +514,17 @@ msgstr "Datenschutzrechtlicher Hinweis"
 
 #: tib/templates/tib/imprint.html:51
 msgid ""
-"The contact data published within the scope of the imprint obligation may"
-" not be used by third parties for the transmission of advertising and "
-"information material not expressly requested. Any such use is hereby "
-"expressly contradicted."
+"The contact data published within the scope of the imprint obligation may not "
+"be used by third parties for the transmission of advertising and information "
+"material not expressly requested. Any such use is hereby expressly contradicted."
 msgstr ""
-"Im Rahmen der Nutzung der Seiten der ÖAW kann es sein, dass "
-"personenbezogenen Daten erhoben oder verarbeitet werden. Soweit dies "
-"erfolgt, werden diese Daten nicht ohne Ihre ausdrückliche Zustimmung an "
-"Dritte weitergegeben.\n"
-"Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten dürfen "
-"von Dritten nicht zur Übersendung von nicht ausdrücklich angeforderter "
-"Werbung und Informationsmaterialien verwendet werden. Einer derartigen "
-"Verwendung wird hiermit ausdrücklich widersprochen."
+"Im Rahmen der Nutzung der Seiten der ÖAW kann es sein, dass personenbezogenen "
+"Daten erhoben oder verarbeitet werden. Soweit dies erfolgt, werden diese Daten "
+"nicht ohne Ihre ausdrückliche Zustimmung an Dritte weitergegeben.\n"
+"Die im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten dürfen von "
+"Dritten nicht zur Übersendung von nicht ausdrücklich angeforderter Werbung und "
+"Informationsmaterialien verwendet werden. Einer derartigen Verwendung wird "
+"hiermit ausdrücklich widersprochen."
 
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
@@ -459,6 +538,232 @@ msgstr "Mehr lesen..."
 msgid "Show less..."
 msgstr "Weniger anzeigen..."
 
+#: tib/templates/tib/aieb/aieb.html:6
+msgid "Commission for the"
+msgstr "Kommission für die"
+
+#: tib/templates/tib/aieb/aieb.html:7
+msgid "Historical Geography and Spatial Analysis of Byzantium"
+msgstr "Historische Geographie und räumliche Analyse von Byzanz"
+
+#: tib/templates/tib/aieb/aieb.html:14
+msgid ""
+"The proposal for the foundation of a \"Commission for the Historical Geography "
+"and Spatial Analysis of Byzantium\" was submitted officially with a letter to "
+"the Presidency of the AIEB on 16 December 2015 by the Austrian Society for "
+"Byzantine Studies through its President Prof. Dr. Claudia Rapp based on the "
+"initiative of Prof. Dr. Andreas Külzer and Doz. Dr. Mihailo Popović (both "
+"Project-Leaders of the Tabula Imperii Byzantini of the Austrian Academy of "
+"Sciences). As stated in the aforesaid letter, twelve international experts in "
+"the fields of the Historical Geography and Spatial Analysis of Byzantium were "
+"named as members for the formation of the respective Commission."
+msgstr ""
+"Der Vorschlag zur Gründung einer \"Kommission für die Historische Geographie "
+"und Raumanalyse von Byzanz\" wurde am 16. Dezember 2015 von der "
+"Österreichischen Gesellschaft für Byzantinistik durch ihre Präsidentin Prof. "
+"Dr. Claudia Rapp offiziell mit einem Schreiben an das Präsidium der AIEB "
+"eingereicht, das auf der Initiative von Prof. Dr. Andreas Külzer und Doz. Dr. "
+"Mihailo Popović (beide Projektleiter der Tabula Imperii Byzantini der "
+"Österreichischen Akademie der Wissenschaften). Wie in dem genannten Schreiben "
+"ausgeführt, wurden zwölf internationale Experten auf dem Gebiet der "
+"Historischen Geographie und der Raumanalyse von Byzanz als Mitglieder für die "
+"Bildung der entsprechenden Kommission benannt."
+
+#: tib/templates/tib/aieb/aieb.html:17
+msgid ""
+"At the session of the AIEB in Belgrade Mihailo Popović was nominated by the "
+"Austrian Society for Byzantine Studies to present the proposal to the present "
+"delegates. He outlined that the envisaged Commission will have the aim to "
+"observe the vibrant scholarly developments in the respective fields, to compare "
+"ongoing projects and to address related methodological questions. It will focus "
+"on the \"classic\" Historical Geography as well as on emerging tools coming "
+"from the field of GeoSciences. Therefore, Cartography will play an important "
+"role in its future discourse. Although related academic fields (e.g. "
+"Archaeology, Digital Humanities etc.) will be included in the discussions of "
+"the Commission, it has to be stressed that the Commission is eager to "
+"strengthen the overall picture of Historical Geography and to coordinate "
+"dispersed scholarly initiatives. Following a short discussion, in which the "
+"submitted list of members was augmented by the names of Leah di Segni (Israel), "
+"Joseph Patrich (Israel), Toni Filiposki (North Macedonia), Anastasia G. Yangaki "
+"(Greece) and Georgi Nikolov (Bulgaria), the aforesaid Commission was accepted "
+"unanimously by the present delegates."
+msgstr ""
+"Auf der Sitzung der AIEB in Belgrad wurde Mihailo Popović von der "
+"Österreichischen Gesellschaft für Byzantinistik ernannt, um den Vorschlag den "
+"anwesenden Delegierten vorzustellen. Er erläuterte, dass die geplante "
+"Kommission das Ziel haben wird, die dynamischen wissenschaftlichen "
+"Entwicklungen in den jeweiligen Bereichen zu beobachten, laufende Projekte zu "
+"vergleichen und damit verbundene methodische Fragen zu behandeln. Sie wird sich "
+"sowohl auf die \"klassische\" Historische Geographie als auch auf neue "
+"Instrumente aus dem Bereich der Geowissenschaften konzentrieren. Daher wird die "
+"Kartographie im zukünftigen Diskurs eine wichtige Rolle spielen. Obwohl "
+"verwandte akademische Bereiche (z.B. Archäologie, Digital Humanities etc.) in "
+"die Diskussionen der Kommission einbezogen werden, muss betont werden, dass die "
+"Kommission bestrebt ist, das Gesamtbild der Historischen Geographie zu stärken "
+"und verstreute wissenschaftliche Initiativen zu koordinieren. Nach einer kurzen "
+"Diskussion, in der die vorgelegte Mitgliederliste um die Namen von Leah di "
+"Segni (Israel), Joseph Patrich (Israel), Toni Filiposki (Nordmazedonien), "
+"Anastasia G. Yangaki (Griechenland) und Georgi Nikolov (Bulgarien) ergänzt "
+"wurde, wurde die besagte Kommission von den anwesenden Delegierten einstimmig "
+"angenommen."
+
+#: tib/templates/tib/aieb/aieb.html:20
+msgid ""
+"In accordance with its aims the chair of the “Commission for the Historical "
+"Geography and Spatial Analysis of Byzantium”, Mihailo Popović, is coordinating "
+"a new quarterly Newsletter starting with the year 2019. The Long-Term Project "
+"“Tabula Imperii Byzantini (TIB)” of the Austrian Academy of Sciences (Institute "
+"for Medieval Research, Division of Byzantine Research) will succeed the DPP "
+"Newsletter and launch its successor, namely a Newsletter called the “HistGeo-"
+"Newsletter”, with its first issue due in March 2019. This “HistGeo-Newsletter” "
+"will include news and reports from the fields of Mapping, Digital Mapping, "
+"Historical Atlases and of Historical Geography of the Byzantine Commonwealth. "
+"Contributors will be – apart from the TIB – especially members of the "
+"Commission for the Historical Geography and Spatial Analysis of Byzantium at "
+"the Association Internationale des Etudes Byzantines (AIEB)."
+msgstr ""
+"Der Vorsitzende der \"Kommission für Historische Geographie und Raumanalyse von "
+"Byzanz\", Mihailo Popović, koordiniert ab dem Jahr 2019 einen neuen "
+"vierteljährlich erscheinenden Newsletter im Sinne seiner Ziele. Das "
+"Langzeitprojekt \"Tabula Imperii Byzantini (TIB)\" der Österreichischen "
+"Akademie der Wissenschaften (Institut für Mittelalterforschung, Abteilung für "
+"Byzanzforschung) wird den DPP-Newsletter ablösen und einen Nachfolger, den "
+"\"HistGeo-Newsletter\", herausbringen, dessen erste Ausgabe im März 2019 "
+"erscheinen wird. Dieser \"HistGeo-Newsletter\" wird Neuigkeiten und Berichte "
+"aus den Bereichen Mapping, Digital Mapping, Historische Atlanten und der "
+"Historischen Geographie des byzantinischen Raumes enthalten. Mitwirkende sind - "
+"neben der TIB - insbesondere Mitglieder der Kommission für Historische "
+"Geographie und Raumanalyse von Byzanz bei der Association Internationale des "
+"Etudes Byzantines (AIEB)."
+
+#: tib/templates/tib/aieb/aieb.html:23
+msgid ""
+"If you have registered for the DPP Newsletter, you will continue to receive the "
+"new HistGeo-Newsletter in 2019. Please feel free to consult also our DPP "
+"homepage in order to subscribe or unsubscribe to the DPP Newsletter and its "
+"successor, which is in accordance with the Privacy Policy of the Austrian "
+"Academy of Sciences."
+msgstr ""
+"Wenn Sie sich für den DPP-Newsletter angemeldet haben, werden Sie auch 2019 den "
+"neuen HistGeo-Newsletter erhalten. Bitte konsultieren Sie auch unsere DPP-"
+"Homepage, um sich für den DPP-Newsletter und seinen Nachfolger anzumelden oder "
+"abzumelden, was im Einklang mit der Datenschutzrichtlinie der Österreichischen "
+"Akademie der Wissenschaften steht."
+
+#: tib/templates/tib/aieb/aieb.html:27
+msgid "Mission Statement"
+msgstr "Leitbild"
+
+#: tib/templates/tib/aieb/aieb.html:29
+msgid ""
+"The Commission for the Historical Geography and Spatial Analysis of Byzantium "
+"was founded by unanimous vote of the General Assembly of the AIEB in 2016 and "
+"has a long-standing tradition in the former Commission Internationale pour la "
+"Géographie historique du monde byzantin (under the Presidency of Hélène "
+"Ahrweiler, 1973-1992). Its aim is to monitor and coordinate scholarly "
+"initiatives within the field of Historical Geography in Byzantine Studies "
+"worldwide."
+msgstr ""
+"Die Kommission für Historische Geographie und Raumanalyse von Byzanz wurde "
+"durch einstimmigen Beschluss der Generalversammlung der AIEB im Jahr 2016 "
+"gegründet und hat eine langjährige Tradition in der ehemaligen Commission "
+"Internationale pour la Géographie historique du monde byzantin (unter dem "
+"Vorsitz von Hélène Ahrweiler, 1973-1992). Ihr Ziel ist es, wissenschaftliche "
+"Initiativen auf dem Gebiet der Historischen Geographie in der Byzantinistik "
+"weltweit zu beobachten und zu koordinieren."
+
+#: tib/templates/tib/aieb/aieb.html:32
+msgid ""
+"In order to fulfil its tasks in the most efficient and appropriate way the "
+"Commission unites scholarly members from various countries and academic "
+"disciplines, who are doing research on the former “Byzantine Commonwealth”. The "
+"expertise of the Commission’s members covers amongst others Byzantine Studies, "
+"Historical Geography, Geography, Archaeology, Cartography and Geographical "
+"Information (GI)-Science. Its mission follows two main lines:"
+msgstr ""
+"Um ihre Aufgaben so effizient und angemessen wie möglich zu erfüllen, vereint "
+"die Kommission wissenschaftliche Mitglieder aus verschiedenen Ländern und "
+"akademischen Disziplinen, die über das ehemalige \"byzantinische Commonwealth\" "
+"forschen. Das Fachwissen der Kommissionsmitglieder umfasst u.a. Byzantinistik, "
+"Historische Geographie, Geographie, Archäologie, Kartographie und Geographische "
+"Information (GI)-Wissenschaft. Der Auftrag der Kommission umfasst zwei "
+"Hauptbereiche:"
+
+#: tib/templates/tib/aieb/aieb.html:37
+msgid ""
+"The coverage, documentation and coordination of relevant scholarly "
+"initiatives / projects within Historical Geography."
+msgstr ""
+"Die Erfassung, Dokumentation und Koordination relevanter wissenschaftlicher "
+"Initiativen/Projekte innerhalb der Historischen Geographie."
+
+#: tib/templates/tib/aieb/aieb.html:43
+msgid "The fostering of respective digital innovation in a digital age."
+msgstr ""
+"Die Förderung der jeweiligen digitalen Innovation in einem digitalen Zeitalter."
+
+#: tib/templates/tib/aieb/aieb.html:48
+msgid ""
+"The role of coordination is achieved on the one hand through meetings, "
+"workshops and congresses, and on the other hand through information published "
+"in an external HistGeo-Newsletter. Thus, the Commission reaches out to other "
+"Commissions of the AIEB, to the colleagues working worldwide in the field of "
+"Byzantine Studies and to the interested public."
+msgstr ""
+"Die Rolle der Koordination wird einerseits durch Treffen, Workshops und "
+"Kongresse, andererseits durch die Veröffentlichung von Informationen in einem "
+"externen HistGeo-Newsletter wahrgenommen. Auf diese Weise wendet sich die "
+"Kommission an andere Kommissionen der AIEB, an die weltweit auf dem Gebiet der "
+"Byzantinistik tätigen Kollegen und an die interessierte Öffentlichkeit."
+
+#: tib/templates/tib/aieb/aieb.html:51
+msgid ""
+"The Commission for the Historical Geography and Spatial Analysis of Byzantium "
+"is strongly committed to innovation by strengthening and developing the field "
+"of Historical Geography through scholarly discussions and evaluation of "
+"conventional as well as digital methods."
+msgstr ""
+"Die Kommission für Historische Geographie und Raumanalyse von Byzanz setzt sich "
+"für Innovationen ein, indem sie das Gebiet der Historischen Geographie durch "
+"wissenschaftliche Diskussionen und die Bewertung konventioneller und digitaler "
+"Methoden stärkt und weiterentwickelt."
+
+#: tib/templates/tib/aieb/aieb.html:54
+msgid "Members"
+msgstr "Mitglieder"
+
+#: tib/templates/tib/aieb/aieb.html:61
+msgid "Name"
+msgstr "Name"
+
+#: tib/templates/tib/aieb/aieb.html:62
+msgid "Country"
+msgstr "Land"
+
+#: tib/templates/tib/aieb/aieb.html:63
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: tib/templates/tib/aieb/aieb.html:179
+msgid "Documents of the Commission"
+msgstr "Dokumente der Kommission"
+
+#: tib/templates/tib/aieb/aieb.html:184
+msgid "Date"
+msgstr "Datum"
+
+#: tib/templates/tib/aieb/aieb.html:185
+msgid "Titel"
+msgstr "Titel"
+
+#: tib/templates/tib/aieb/aieb.html:186
+msgid "Download"
+msgstr "Download"
+
+#: tib/templates/tib/aieb/aieb.html:192
+msgid "Complete Report AIEB 2016-2022"
+msgstr "Vollständiger Bericht AIEB 2016-2022"
+
 #: tib/templates/tib/frontpage/frontpage.html:2
 #: tib/templates/tib/frontpage/frontpage.html:9
 msgid "TIB"
@@ -471,51 +776,47 @@ msgstr "Langezeitprojekt"
 #: tib/templates/tib/frontpage/frontpage.html:12
 msgid "tib_frontpage_research_on_the_historical"
 msgstr ""
-"Die Forschung zur Historischen Geographie des Byzantinischen Reiches an "
-"der Österreichischen Akademie der Wissenschaften in Wien wird von der "
-"Tabula Imperii Byzantini (TIB) durchgeführt. Dieses renommierte Projekt "
-"wurde 2015 von der <a href=\"http://www.uai-iua.org/en/projects/104"
-"/tabula-imperii-byzantini\" target=\"_blank\">Union Académique "
-"Internationale</a> in Brüssel angenommen (Projekt 87) und gleichzeitig in"
-" das Schema der Langzeitprojekte der Österreichischen Akademie der "
-"Wissenschaften aufgenommen, basierend auf unabhängigen, hervorragenden "
-"internationalen Evaluierungen. Die TIB erforscht systematisch die "
-"historische Geographie des Byzantinischen Reiches vom Beginn des 4. "
-"Jahrhunderts bis zur Mitte des 15. Jahrhunderts. Ziel des Projektes ist "
-"es, einen historischen Atlas des byzantinischen Raumes von der Spätantike"
-" bis zur Frühen Neuzeit zu erstellen."
+"Die Forschung zur Historischen Geographie des Byzantinischen Reiches an der "
+"Österreichischen Akademie der Wissenschaften in Wien wird von der Tabula "
+"Imperii Byzantini (TIB) durchgeführt. Dieses renommierte Projekt wurde 2015 von "
+"der <a href=\"http://www.uai-iua.org/en/projects/104/tabula-imperii-byzantini\" "
+"target=\"_blank\">Union Académique Internationale</a> in Brüssel angenommen "
+"(Projekt 87) und gleichzeitig in das Schema der Langzeitprojekte der "
+"Österreichischen Akademie der Wissenschaften aufgenommen, basierend auf "
+"unabhängigen, hervorragenden internationalen Evaluierungen. Die TIB erforscht "
+"systematisch die historische Geographie des Byzantinischen Reiches vom Beginn "
+"des 4. Jahrhunderts bis zur Mitte des 15. Jahrhunderts. Ziel des Projektes ist "
+"es, einen historischen Atlas des byzantinischen Raumes von der Spätantike bis "
+"zur Frühen Neuzeit zu erstellen."
 
 #: tib/templates/tib/frontpage/frontpage.html:29
 msgid "tib_frontpage_individual_regions"
 msgstr ""
-"Die einzelnen Regionen sind auf Karten im Maßstab 1 : 800.000 "
-"dargestellt. Ein separater Begleitband liefert die Ergebnisse der "
-"weiteren Forschungen in jeder Region. Jeder Band enthält ausführliche "
-"Einführungskapitel zu Geographie und Klima, Grenzen und "
-"Gebietsbezeichnungen, Geschichte, Verwaltungsgeschichte, "
+"Die einzelnen Regionen sind auf Karten im Maßstab 1 : 800.000 dargestellt. Ein "
+"separater Begleitband liefert die Ergebnisse der weiteren Forschungen in jeder "
+"Region. Jeder Band enthält ausführliche Einführungskapitel zu Geographie und "
+"Klima, Grenzen und Gebietsbezeichnungen, Geschichte, Verwaltungsgeschichte, "
 "Kirchengeschichte und Mönchtum, Verkehrswege, Wirtschaft und "
 "Bevölkerungsentwicklung. Der Hauptteil jedes Bandes besteht aus einem "
-"alphabetischen Katalog aller Toponyme, Hydronyme usw., die in "
-"byzantinischer Zeit bekannt waren. Ebenfalls enthalten sind die "
-"historischen Orte, deren historische Namen nicht bekannt sind, für deren "
-"Existenz es aber archäologische Belege gibt (oder gab). Schriftliche "
-"Quellen (von der Spätantike bis zur frühen Neuzeit) und archäologisches "
-"Material erhellen die Geschichte der einzelnen Orte, zusammen mit kurzen "
-"Beschreibungen der Denkmäler, sowohl derjenigen, von denen man weiß, dass"
-" sie existierten, als auch derjenigen, die noch erhalten sind. Diese "
-"Ergebnisse werden durch systematische Feldforschung ergänzt, um die "
+"alphabetischen Katalog aller Toponyme, Hydronyme usw., die in byzantinischer "
+"Zeit bekannt waren. Ebenfalls enthalten sind die historischen Orte, deren "
+"historische Namen nicht bekannt sind, für deren Existenz es aber archäologische "
+"Belege gibt (oder gab). Schriftliche Quellen (von der Spätantike bis zur frühen "
+"Neuzeit) und archäologisches Material erhellen die Geschichte der einzelnen "
+"Orte, zusammen mit kurzen Beschreibungen der Denkmäler, sowohl derjenigen, von "
+"denen man weiß, dass sie existierten, als auch derjenigen, die noch erhalten "
+"sind. Diese Ergebnisse werden durch systematische Feldforschung ergänzt, um die "
 "Informationen der Quellen zu überprüfen, zu ändern oder zu ergänzen."
 
 #: tib/templates/tib/frontpage/frontpage.html:35
 msgid "tib_frontpage_since_1986_new_methods"
 msgstr ""
 "Seit 1986 sind neue Methoden in die wissenschaftliche Arbeit der TIB "
-"eingeflossen, nämlich: Studien zum Paläoklima und zu Siedlungstheorien "
-"(z.B. die modifizierte \"Zentrale-Orte-Theorie\") sowie der regelmäßige "
-"Einsatz des Global Positioning Systems (GPS) bei Feldbegehungen und "
-"Vermessungen. Digital Humanities, z.B. in Form von Historischen "
-"Geographischen Informationssystemen (HGIS), tragen ebenfalls zur Analyse "
-"und Interpretation der Forschungsdaten bei."
+"eingeflossen, nämlich: Studien zum Paläoklima und zu Siedlungstheorien (z.B. "
+"die modifizierte \"Zentrale-Orte-Theorie\") sowie der regelmäßige Einsatz des "
+"Global Positioning Systems (GPS) bei Feldbegehungen und Vermessungen. Digital "
+"Humanities, z.B. in Form von Historischen Geographischen Informationssystemen "
+"(HGIS), tragen ebenfalls zur Analyse und Interpretation der Forschungsdaten bei."
 
 #: tib/templates/tib/frontpage/frontpage.html:44
 msgid "activities"
@@ -528,44 +829,30 @@ msgstr "Mehr erfahren"
 #: tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href=\"{{ "
-"url_for('tib_atlas') }}\">ausprobieren und testen</a>. Er enthält "
-"ausgewählte Daten aus den <a href=\"{{ url_for('tib_sub_projects') "
-"}}\">Teilprojekten</a> der <a href=\"{{ url_for('home') }}\">TIB "
-"Balkan</a> und ist noch in Arbeit. Wenn Sie Fragen oder Kommentare haben,"
-" wenden Sie sich bitte an"
+"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href="
+"\"{{ url_for('tib_atlas') }}\">ausprobieren und testen</a>. Er enthält "
+"ausgewählte Daten aus den <a href="
+"\"{{ url_for('tib_sub_projects') }}\">Teilprojekten</a> der <a href="
+"\"{{ url_for('home') }}\">TIB Balkan</a> und ist noch in Arbeit. Wenn Sie "
+"Fragen oder Kommentare haben, wenden Sie sich bitte an"
 
 #: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"
 msgstr "Jetzt ausprobieren"
 
-#~ msgid "programmer"
-#~ msgstr "Programmierer"
+#~ msgid "published"
+#~ msgstr "veröffentlicht"
 
-#~ msgid "Hollandstraße 11-13"
-#~ msgstr "Hollanstraße 11-13"
+#~ msgid "germany"
+#~ msgstr "Deutschland"
 
-#~ msgid "1020 Vienna, Austria, Europe"
-#~ msgstr "1020 Wien, Österreich, Europa"
+#~ msgid "Digital Humanities colloquium"
+#~ msgstr "Digital Humanities Kolloquium"
 
-#~ msgid ""
-#~ "On the Use and Usefulness of "
-#~ "Digital Humanities in the Historical "
-#~ "Geography of Byzantium"
+#~ msgid "holdura_project_title"
 #~ msgstr ""
-#~ "Über den Nutzen und die Nützlichkeit "
-#~ "der Digital Humanities in der "
-#~ "Historischen Geographie von Byzanz"
+#~ "Jenseits von Ost und West: Geokommunikation der heiligen Landschaften "
+#~ "\"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)"
 
-#~ msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
-#~ msgstr "TIB bei der \"Lange Nacht der Forschung\" in Wien"
-
-#~ msgid "24th International Congress of Byzantine Studies in Venice and Padua"
-#~ msgstr "24th Internationaler Kongress of Byzantine Studies in Venice and Padua"
-
-#~ msgid "Blogpost on the Paper “OpenAtlas und historische Geographie”"
-#~ msgstr ""
-
-#~ msgid "TIB Volume 11 (\"Macedonia, Southern Part\") published"
-#~ msgstr ""
-
+#~ msgid "presentation at"
+#~ msgstr "Presentation bei"

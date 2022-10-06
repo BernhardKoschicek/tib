@@ -45,8 +45,22 @@ def format_link(link_: str) -> str:
     return f'<a href="{link_}" target=_blank>{link_}</a>'
 
 
+def format_video_tag(src: str) -> str:
+    return f"""
+        <div class="col align-self-center text-center">
+            <video loop muted autoplay controls>
+                <source
+                    src="/static/video/{src}"
+                    type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        """
+
+
 def format_link_text(link_: str, text: str) -> str:
     return f'<a href="{link_}" target=_blank>{text}</a>'
+
 
 def youtube_iframe(link_: str) -> str:
     return '<iframe width="560" height="315" ' \

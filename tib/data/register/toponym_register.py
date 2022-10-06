@@ -21,7 +21,7 @@ toponym_register = tib1_table_data + tib2_table_data + tib3_table_data + \
 
 register_volume = {
     'all': {
-        'title': 'Complete Register of TIB 1-10, 12, 13',
+        'title': 'Complete Register of TIB 1-13',
         'register': toponym_register,
         'published': True,
     },

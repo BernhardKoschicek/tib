@@ -1,6 +1,6 @@
 from flask_babel import lazy_gettext as _l
 
-from tib.data.images.util import gallery_path
+gallery_path = 'images/gallery/'
 
 tib_balkan_long_term = [{
     'path': f'{gallery_path}tib_regions_hunger.jpg',

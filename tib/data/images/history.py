@@ -1,6 +1,6 @@
 from flask_babel import lazy_gettext as _l
 
-from tib.data.images.util import history_path
+history_path = 'images/history/'
 
 tib_history_images = {
     '1978': {

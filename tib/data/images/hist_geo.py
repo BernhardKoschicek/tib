@@ -1,5 +1,6 @@
-from tib.data.images.util import gallery_path
 from flask_babel import lazy_gettext as _l
+
+gallery_path = 'images/gallery/'
 
 balkan_hist_geo = [{
     'path': f'{gallery_path}RilskaGramota.jpg',

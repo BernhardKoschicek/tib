@@ -1,5 +1,7 @@
-from tib.data.images.util import gallery_path_outreach, icon_path_outreach
 from tib.data.util_data import licenses
+
+gallery_path_outreach = 'images/gallery/outreach/'
+icon_path_outreach = '/images/icons/outreach/'
 
 gallery_outreach = [
     {

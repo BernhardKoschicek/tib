@@ -1,23 +1,17 @@
 {% extends "tib/layout.html" %}
-{% block title %}History{% endblock %}
+{% block title %}{{ _('History') }}{% endblock %}
 {% block content %}
   <div class="container top5">
     <div class="text-center">
-      {{ header('Brief History of the', False) }}
-      {{ header('Tabula Imperii Byzantini', True) }}
+      {{ header( _('Brief History of the'), False) }}
+      {{ header( _('Tabula Imperii Byzantini'), True) }}
     </div>
     <div class="row top5">
       <div class="col-8">
-        <h2 class="display-6 top5">The Beginning in 1966</h2>
+        <h2 class="display-6 top5">{{ _('The Beginning in 1966') }}</h2>
         <p>
-          When Prof. Dr. Herbert Hunger (1914-2000) announced the foundation of
-          the
-          project Tabula Imperii Byzantini (hereafter TIB) of the Austrian
-          Academy
-          of Sciences at the XIIIth International Congress of Byzantine Studies
-          in
-          Oxford in the year 1966, he indicated at the same time preliminary
-          studies, which had served as a model for the new project:
+          {{ _('When Prof. Dr. Herbert Hunger (1914-2000) announced the foundation of the project Tabula Imperii Byzantini (hereafter TIB) of the Austrian Academy of Sciences at the XIIIth International Congress of Byzantine Studies in Oxford in the year 1966, he indicated at the same time preliminary studies, which had served as a model for the new project:') }}
+
         </p>
         <div class="text-center align-content-center justify-content-center">
           {{ read_more('beginning') }}
@@ -55,33 +49,11 @@
 
       </div>
       <p>
-        Although some similarities exist, it needs to be stressed that there
-        are
-        nevertheless substantial differences between the two projects. While
-        the
-        Tabula Imperii Romani puts a strong emphasis on archaeological data
-        with
-        little information on the history of localities and with references to
-        the
-        most important literature, the TIB combines aspects of history,
-        archaeology, bibliography and field research / surveys in equal shares.
+          {{ _('Although some similarities exist, it needs to be stressed that there are nevertheless substantial differences between the two projects. While the Tabula Imperii Romani puts a strong emphasis on archaeological data with little information on the history of localities and with references to the most important literature, the TIB combines aspects of history, archaeology, bibliography and field research / surveys in equal shares.') }}
       </p>
       <p>
-        Initially, the project Tabula Imperii Romani (TIR) served as a model
-        for
-        the TIB. According to the website of the Union Académique
-        Internationale,
-        the Tabula Imperii Romani was founded in 1928. After the Second World
-        War
-        it was placed under the supervision of the Union Académique
-        Internationale. Its aim consists in publishing an atlas of the Roman
-        Empire on the scale of 1:1,000,000 with accompanying volumes
-        containing
-        historical and bibliographical data for each locality shown on the
-        maps.
-        Fifteen sheets were published between 1932 and the Second World War.
-        After
-        1945 more than a dozen sheets were accomplished. </p>
+        {{ _('Initially, the project Tabula Imperii Romani (TIR) served as a model for the TIB. According to the website of the Union Académique Internationale, the Tabula Imperii Romani was founded in 1928. After the Second World War it was placed under the supervision of the Union Académique Internationale. Its aim consists in publishing an atlas of the Roman Empire on the scale of 1:1,000,000 with accompanying volumes containing historical and bibliographical data for each locality shown on the maps. Fifteen sheets were published between 1932 and the Second World War. After 1945 more than a dozen sheets were accomplished.') }}
+      </p>
       <div class="row justify-content-center">
         <div class="col-4">
           {{ img_modal(images['1996'], '1996') }}
@@ -102,37 +74,18 @@
           {{ img_modal(images['survey_cappadocia_1960_2'], 'survey_cappadocia_1960_2') }}
         </div>
       </div>
-      <p>In the period between the announcement of the project TIB by Herbert
-        Hunger in 1966 and the publication of its first volume in 1976 the TIB
-        evolved significantly. Progress reports were presented by Herbert
-        Hunger
-        in 1966 and in 1972/73 and by Johannes Koder in 1975/76.</p>
+      <p>
+        {{ _('In the period between the announcement of the project TIB by Herbert Hunger in 1966 and the publication of its first volume in 1976 the TIB evolved significantly. Progress reports were presented by Herbert Hunger in 1966 and in 1972/73 and by Johannes Koder in 1975/76.') }}
+      </p>
     </div>
   </div>
   <div class="container pt-5">
     <hr class="my-4">
     <div class="row">
       <div class="col-8">
-        <h2 class="display-6">The First Volume of the Project in 1976</h2>
+        <h2 class="display-6">{{ _('The First Volume of the Project in 1976') }}</h2>
         <p>
-          The first volume of the TIB (TIB 1) entitled 'Hellas und Thessalia'
-          was
-          completed by Johannes Koder and Friedrich Hild in the year 1976 and
-          was
-          referred to at the XVth International Congress of Byzantine Studies
-          in
-          Athens in the same year. Since 1976 the aforesaid volume has served
-          as
-          a
-          model for all future volumes of the TIB. Moreover, it helped to
-          define
-          the
-          working method of the overall project, which can be summarised as
-          follows.
-          After the publication of the first volume and on the basis of the
-          experience gathered during its writing Johannes Koder described the
-          aim of
-          the project in the following manner:
+          {{ _('The first volume of the TIB (TIB 1) entitled "Hellas und Thessalia" was completed by Johannes Koder and Friedrich Hild in the year 1976 and was referred to at the XVth International Congress of Byzantine Studies in Athens in the same year. Since 1976 the aforesaid volume has served as a model for all future volumes of the TIB. Moreover, it helped to define the working method of the overall project, which can be summarised as follows. After the publication of the first volume and on the basis of the experience gathered during its writing Johannes Koder described the aim of the project in the following manner:') }}
         </p>
         <div class="text-center align-content-center justify-content-center">
           {{ read_more('first_volume') }}
@@ -151,18 +104,14 @@
             <blockquote class="blockquote pb-2">
               <p class="text-end">
                 Das Ziel der TIB ist nicht, in jedem Detail und für jeden
-                Aspekt
-                neue Forschung zu treiben bzw. neue Ergebnisse anzubieten,
-                sondern
-                in erster Linie ein möglichst vollständiges, homogenes und
-                „objektives" Bild des neuesten Forschungsstandes zu
-                produzieren,
-                wobei der historisch-quellenkundliche, der denkmalkundliche,
-                der
+                Aspekt neue Forschung zu treiben bzw. neue Ergebnisse anzubieten,
+                sondern in erster Linie ein möglichst vollständiges, homogenes und
+                "objektives" Bild des neuesten Forschungsstandes zu produzieren,
+                wobei der historisch-quellenkundliche, der denkmalkundliche, der
                 archäologische, der kunsthistorische und der topographische
-                Faktor
-                in gleicher Weise zu berücksichtigen sind und auch die
-                kartographische Präsentation qualitativ entsprechen soll.</p>
+                Faktor in gleicher Weise zu berücksichtigen sind und auch die
+                kartographische Präsentation qualitativ entsprechen soll.
+              </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0">
               Professor Dr Johannes Koder in <cite title="Source Title">Überlegungen
@@ -176,20 +125,7 @@
         </figure>
       </div>
       <p>
-        Thus, the TIB carries out systematic research of the historical
-        geography
-        of the Byzantine Empire, which existed from the beginning of the 4th
-        century AD until the 15th century AD, that is from Late Antiquity to
-        the
-        Ottoman conquest, in order to create an atlas of the aforesaid empire.
-        The
-        results of each TIB volume are presented to the reader on a map on the
-        scale of 1:800,000 with the headwords marked onto it. Special symbols
-        and combinations of colours indicate the nature of the monument and its
-        dating. The maps also include historical places for whose existence
-        there
-        is only archaeological evidence without knowledge of their ancient
-        (Byzantine) names.
+        {{ _('Thus, the TIB carries out systematic research of the historical geography of the Byzantine Empire, which existed from the beginning of the 4th century AD until the 15th century AD, that is from Late Antiquity to the Ottoman conquest, in order to create an atlas of the aforesaid empire. The results of each TIB volume are presented to the reader on a map on the scale of 1:800,000 with the headwords marked onto it. Special symbols and combinations of colours indicate the nature of the monument and its dating. The maps also include historical places for whose existence there is only archaeological evidence without knowledge of their ancient (Byzantine) names.') }}
       </p>
       <div class="row justify-content-center">
         <div class="col-4">
@@ -211,23 +147,8 @@
           {{ img_modal(images['rila_1970'], 'rila_1970') }}
         </div>
       </div>
-      <p>The original plan to produce maps on the scale of 1:1,000,000 in the
-        style of the Tabula Imperii Romani (see above) had soon been abandoned
-        and
-        the former Institute of Cartography of the Austrian Academy of Sciences
-        designed a map for the whole Mediterranean on the above-mentioned
-        larger
-        scale. This enabled a more thorough topographic approach and
-        facilitated
-        the entry of headwords. If necessary, even a larger scale is applied
-        for
-        some regions (e.g. 1:400,000). The scholarly work of the TIB focuses
-        on
-        the regions / provinces of the Byzantine Empire. Therefore, borders had
-        to
-        be drawn for each volume at the beginning of the project in accordance
-        with the sources on Byzantine administration and the natural borders of
-        landscapes. This classification was undertaken by Johannes Koder.
+      <p>
+        {{ _('The original plan to produce maps on the scale of 1:1,000,000 in the style of the Tabula Imperii Romani (see above) had soon been abandoned and the former Institute of Cartography of the Austrian Academy of Sciences designed a map for the whole Mediterranean on the above-mentioned larger scale. This enabled a more thorough topographic approach and facilitated the entry of headwords. If necessary, even a larger scale is applied for some regions (e.g. 1:400,000). The scholarly work of the TIB focuses on the regions / provinces of the Byzantine Empire. Therefore, borders had to be drawn for each volume at the beginning of the project in accordance with the sources on Byzantine administration and the natural borders of landscapes. This classification was undertaken by Johannes Koder.') }}
       </p>
     </div>
   </div>
@@ -235,21 +156,9 @@
     <hr class="my-4">
     <div class="row">
       <div class="col-8">
-        <h2 class="display-6">The Core Regions of Research</h2>
+        <h2 class="display-6">{{ _('The Core Regions of Research') }}</h2>
         <p>
-          Initially, the main focus of research was put on the Balkan Peninsula
-          (Hellas, Thessaly) and on Asia Minor (Cappadocia). The first volume
-          of
-          the
-          TIB (TIB 1), published in 1976, is entitled 'Hellas und Thessalia',
-          the
-          second (TIB 2) on 'Kappadokien' was completed by Friedrich Hild and
-          Marcell Restle in 1981. The third volume (TIB 3) on 'Nikopolis und
-          Kephallēnia' was also published in 1981. The last two volumes were
-          subsequently presented to a wider audience at the XVIth International
-          Congress of Byzantine Studies in Vienna in October 1981. The regions
-          upon
-          which research was to be conducted were initially chosen as follows:
+          {{ _('Initially, the main focus of research was put on the Balkan Peninsula (Hellas, Thessaly) and on Asia Minor (Cappadocia). The first volume of the TIB (TIB 1), published in 1976, is entitled "Hellas und Thessalia2, the second (TIB 2) on "Kappadokien" was completed by Friedrich Hild and Marcell Restle in 1981. The third volume (TIB 3) on "Nikopolis und Kephallēnia" was also published in 1981. The last two volumes were subsequently presented to a wider audience at the XVIth International Congress of Byzantine Studies in Vienna in October 1981. The regions upon which research was to be conducted were initially chosen as follows:') }}
         </p>
         <div class="text-center align-content-center justify-content-center">
           {{ read_more('core') }}
@@ -273,12 +182,11 @@
                 wir dabei für zielführend und arbeitstechnisch sinnvoll. […]
                 Ferner werden – in Beibehaltung des Kontraposts Hellas ~
                 Anatolien – die Bände Epirus und Lykaonien vorbereitet. Mit
-                den
-                Arbeiten an Aigaion Pelagos wurde begonnen.
+                den Arbeiten an Aigaion Pelagos wurde begonnen.
               </p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0">
-              Professor Dr Johannes Koder and Dr Friedrich Hild in <cite
+              Professor Dr Johannes Koder {{ _('and') }} Dr Friedrich Hild in <cite
                     title="Source Title">Hellas und Thessalia, p. 8-10</cite>
             </figcaption>
           </div>
@@ -287,34 +195,12 @@
       </div>
 
       <p>
-        Volume 4 of the TIB (TIB 4) entitled 'Galatien und Lykaonien' was
-        printed
-        in 1984 and included black-and-white photographs of monuments for the
-        first time.
-        The same year witnessed the publication of a book on the historical
-        geography of the eastern Mediterranean by Johannes Koder (Der
-        Lebensraum
-        der Byzantiner. Historisch-geographischer Abriß ihres mittelalterlichen
-        Staates im östlichen Mittelmeerraum), which marked the beginning of a
-        new
-        perception of the geographical characteristics of the Byzantine Empire.
-        Due to its impact on the scholarly community in general and on the TIB
-        in
-        particular it was reprinted with an augmented bibliography in 2001 and
-        translated into Modern Greek in 2005 as well as into Serbian in 2011.
-        In
-        this book Johannes Koder has defined three core regions of the
-        Byzantine
-        Empire (the so-called 'Kerngebiete'), which were: 1. the eastern
-        Mediterranean, 2. Asia Minor and 3. the Balkan Peninsula. Vital for the
-        existence of the Byzantine state and therefore of great importance
-        were:
-        1. the Aegean Sea, the Sea of Marmora, the Bosphorus and the access to
-        the
-        Black Sea, 2. the western part of Asia Minor, the northern and southern
-        shores of Asia Minor and 3. Thrace, the shores of the Aegean Sea and
-        the
-        Peloponnesus.
+        {{ _('Volume 4 of the TIB (TIB 4) entitled "Galatien und Lykaonien" was printed in 1984 and included black-and-white photographs of monuments for the first time. The same year witnessed the publication of a book on the historical geography of the eastern Mediterranean by Johannes Koder (Der Lebensraum der Byzantiner. Historisch-geographischer Abriß ihres mittelalterlichen Staates im östlichen Mittelmeerraum), which marked the beginning of a new perception of the geographical characteristics of the Byzantine Empire. Due to its impact on the scholarly community in general and on the TIB in particular it was reprinted with an augmented bibliography in 2001 and translated into Modern Greek in 2005 as well as into Serbian in 2011. In this book Johannes Koder has defined three core regions of the Byzantine Empire (the so-called "Kerngebiete"), which were: 1. the eastern Mediterranean, 2. Asia Minor and 3. the Balkan Peninsula. Vital for the existence of the Byzantine state and therefore of great importance were:') }}
+        <ol>
+          <li>{{ _('the Aegean Sea, the Sea of Marmora, the Bosphorus and the access to the Black Sea') }}</li>
+          <li>{{ _('the western part of Asia Minor, the northern and southern shores of Asia Minor') }}</li>
+          <li>{{ _('Thrace, the shores of the Aegean Sea and the Peloponnesus') }}</li>
+        </ol>
       </p>
     </div>
   </div>
@@ -322,38 +208,9 @@
     <hr class="my-4">
     <div class="row">
       <div class="col-8">
-        <h2 class="display-6">The TIB in the 1990s</h2>
+        <h2 class="display-6">{{ _('The TIB in the 1990s') }}</h2>
         <p>
-          On the basis of this approach the scholarly work of the TIB shifted
-          towards those core regions ('Kerngebiete') in the 1990s.
-          Consequently,
-          the
-          fifth volume on 'Kilikien und Isaurien' (TIB 5) was printed in 1990.
-          Volume 7 entitled 'Phrygien und Pisidien' (TIB 7) was published in
-          the
-          same year. One year later, Peter Soustal completed the sixth volume
-          of
-          the
-          TIB (TIB 6) on 'Thrakien (Thrakē, Rodopē und Haimimontos)'. All three
-          volumes were presented to a wider audience at the XVIIIth
-          International
-          Congress of Byzantine Studies in Moscow in August 1991. In 1995 Prof.
-          Dr.
-          Johannes Koder became chairman of the overall project of the TIB
-          (following Prof. Dr. Herbert Hunger). Since 1995 the ninth volume
-          (TIB
-          9)
-          on 'Paphlagonien und Honorias', the tenth (TIB 10) on 'Aigaion
-          Pelagos
-          (Die nördliche Ägäis)' and the eighth volume (TIB 8) on 'Lykien und
-          Pamphylien' have been accomplished. In 2008 Andreas Külzer published
-          the
-          twelfth volume (TIB 12) on 'Ostthrakien (Eurōpē)', while in 2014 TIB
-          15
-          (Syria) covering the provinces 'Syria Prōtē, Syria Deutera and Syria
-          Euphratēsia' was edited (by the external cooperation partners K.-P.
-          Todt
-          and B. A. Vest, from the University of Mainz).
+          {{ _('On the basis of this approach the scholarly work of the TIB shifted towards those core regions ("Kerngebiete") in the 1990s. Consequently, the fifth volume on "Kilikien und Isaurien" (TIB 5) was printed in 1990. Volume 7 entitled "Phrygien und Pisidien" (TIB 7) was published in the same year. One year later, Peter Soustal completed the sixth volume of the TIB (TIB 6) on "Thrakien (Thrakē, Rodopē und Haimimontos)". All three volumes were presented to a wider audience at the XVIIIth International Congress of Byzantine Studies in Moscow in August 1991. In 1995 Prof. Dr. Johannes Koder became chairman of the overall project of the TIB (following Prof. Dr. Herbert Hunger). Since 1995 the ninth volume (TIB 9) on "Paphlagonien und Honorias", the tenth (TIB 10) on "Aigaion Pelagos (Die nördliche Ägäis)" and the eighth volume (TIB 8) on "Lykien und Pamphylien" have been accomplished. In 2008 Andreas Külzer published the twelfth volume (TIB 12) on "Ostthrakien (Eurōpē)", while in 2014 TIB 15 (Syria) covering the provinces "Syria Prōtē, Syria Deutera and Syria Euphratēsia" was edited (by the external cooperation partners K.-P. Todt and B. A. Vest, from the University of Mainz).') }}
         </p>
       </div>
       <div class="col-4">

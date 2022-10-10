@@ -9,7 +9,8 @@ from tib.data.balkan.project_results import result_links, project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
-from tib.data.images.images import IMAGES_SUB_GER, IMAGES_TIB, balkan_hist_geo, \
+from tib.data.images.images import IMAGES_SUB, IMAGES_TIB, \
+    balkan_hist_geo, \
     tib_balkan_long_term
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.navigation import balkan_jumbotron
@@ -77,7 +78,7 @@ def balkan_subprojects(project: str = None) -> str:
             publications=get_dict_entries_by_category(
                 project,
                 project_publications),
-            images=get_dict_entries_by_category(project, IMAGES_SUB_GER),
+            images=get_dict_entries_by_category(project, IMAGES_SUB),
             results=project_results[project],
             result_links=result_links[project])
     return render_template(

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-10 14:08+0200\n"
-"PO-Revision-Date: 2022-10-10 14:09+0200\n"
+"POT-Creation-Date: 2022-10-10 15:42+0200\n"
+"PO-Revision-Date: 2022-10-10 15:43+0200\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -293,6 +293,284 @@ msgstr ""
 "(Balkan) im digitalen Zeitalter\" von Bernhard Koschiček-Krombholz und Mihailo "
 "St. Popović wird in einem Blogpost von einem Studenten der Universität zu Köln "
 "vorgestellt und kommentiert:"
+
+#: tib/data/images/history.py:8
+msgid "The State of the Project TIB in 1978"
+msgstr "Der Stand der TIB im Jahr 1978"
+
+#: tib/data/images/history.py:14
+msgid "The State of the Project TIB in 1991"
+msgstr "Der Stand der TIB im Jahr 1991"
+
+#: tib/data/images/history.py:20
+msgid "The State of the Project TIB in 1996"
+msgstr "Der Stand der TIB im Jahr 1996"
+
+#: tib/data/images/history.py:26
+msgid "The State of the Project TIB in 2006"
+msgstr "Der Stand der TIB im Jahr 2006"
+
+#: tib/data/images/history.py:32
+msgid "The State of the Project TIB in 2012"
+msgstr "Der Stand der TIB im Jahr 2012"
+
+#: tib/data/images/history.py:38
+msgid "The State of the Project TIB in 2017"
+msgstr "Der Stand der TIB im Jahr 2017"
+
+#: tib/data/images/history.py:44
+msgid "The State of the Project TIB in 2022"
+msgstr "Der Stand der TIB im Jahr 2022"
+
+#: tib/data/images/history.py:56
+msgid "The Core Areas of the Byzantine Empire according to Johannes Koder"
+msgstr "Die Kerngebiete des Byzantinischen Reiches nach Johannes Koder"
+
+#: tib/data/images/history.py:62
+#, fuzzy
+msgid ""
+"Johannes Koder receiving His PhD-Degree by Professor Herbert Hunger in 1965"
+msgstr ""
+"Johannes Koder bei der Verleihung des Doktortitels durch Professor Herbert "
+"Hunger im Jahr 1965"
+
+#: tib/data/images/history.py:68
+msgid ""
+"The Overview of the Entire Map of the TIB based on the Calculations by the "
+"Geographer and Cartographer Fritz Kelnhofer"
+msgstr ""
+"Die Übersicht über die Gesamtkarte der TIB auf der Grundlage der Berechnungen "
+"des Geographen und Kartographen Fritz Kelnhofer"
+
+#: tib/data/images/history.py:74
+msgid "On the Road for the TIB in Turkey in the 1960s"
+msgstr "Unterwegs für die TIB in der Türkei in den 1960er Jahren"
+
+#: tib/data/images/history.py:80 tib/data/images/history.py:86
+msgid "Surveying in Cappadocia in the 1960s"
+msgstr "Feldforschung in Kappadokien in den 1960er Jahren"
+
+#: tib/data/images/history.py:92
+msgid "Travelling in Albania in the 1960s"
+msgstr "Reisen in Albanien in den 1960er Jahren"
+
+#: tib/data/images/history.py:98
+msgid "Surveying in Bulgaria in the 1970s"
+msgstr "Feldforschung in Bulgarien in den 1970er Jahren"
+
+#: tib/data/images/history.py:104
+msgid "A Visit to the Monastery of Rila in Bulgaria in the 1970s"
+msgstr "Ein Besuch im Rila-Kloster in Bulgarien in den 1970er Jahren"
+
+#: tib/data/images/subprojects.py:8
+msgid ""
+"Detail of the Relief Map of Montenegro in the Courtyard of the Museum Biljarda "
+"(Cetinje)"
+msgstr ""
+"Detail der Reliefkarte von Montenegro im Innenhof des Museums Biljarda (Cetinje)"
+
+#: tib/data/images/subprojects.py:13
+msgid ""
+"Pavilion of the Relief Map in the Courtyard of the Museum Biljarda (Cetinje)"
+msgstr "Pavillon der Reliefkarte im Innenhof des Museums Biljarda (Cetinje)"
+
+#: tib/data/images/subprojects.py:18
+msgid "The Bay of Budva in Montenegro"
+msgstr "Die Bucht von Budva in Montenegro"
+
+#: tib/data/images/subprojects.py:23
+msgid "Aerial Photo of Montenegro"
+msgstr "Luftaufnahme von Montenegro"
+
+#: tib/data/images/subprojects.py:29 tib/data/images/subprojects_ger_images.py:28
+msgid ""
+"The pavilion where the relief map of Montenegro is now located, Cetinje, "
+"Republic of Montenegro"
+msgstr ""
+"Der Pavillon, in dem sich die Reliefkarte Montenegros jetzt befindet, Cetinje, "
+"Republik Montenegro"
+
+#: tib/data/images/subprojects.py:37 tib/data/images/subprojects_ger_images.py:34
+msgid ""
+"The Bay of Kotor on the relief map of Montenegro, Cetinje, Republic of "
+"Montenegro"
+msgstr ""
+"Die Bucht von Kotor auf der Reliefkarte Montenegros, Cetinje, Republik "
+"Montenegro"
+
+#: tib/data/images/subprojects.py:45 tib/data/images/subprojects_ger_images.py:40
+msgid ""
+"The relief map of Montenegro, in the foreground Lake Skadar, Cetinje, Republic "
+"of Montenegro"
+msgstr ""
+"Die Reliefkarte Montenegros, im Vordergrund der Skadar See, Cetinje, Republik "
+"Montenegro"
+
+#: tib/data/images/subprojects.py:53 tib/data/images/subprojects_ger_images.py:46
+msgid "The 3D model of the relief map of Montenegro"
+msgstr "Das 3D Modell der Reliefkarte Montenegros"
+
+#: tib/data/images/subprojects.py:59 tib/data/images/subprojects_ger_images.py:52
+msgid ""
+"The 3D model of the relief map of Montenegro as a layer in the \"Maps of Power"
+"\" web application"
+msgstr ""
+"Das 3D Modell der Reliefkarte Montenegros als Layer in der Web Applikation "
+"„Maps of Power“"
+
+#: tib/data/images/subprojects.py:69
+msgid ""
+"Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from "
+"Different Authors"
+msgstr ""
+"Interpretation der byzantinisch-serbischen Grenze zwischen 1228 und 1334 durch "
+"verschiedene Autoren"
+
+#: tib/data/images/subprojects.py:74
+msgid "Fortifications in the Northern Macedonian Region in the 13/14th century"
+msgstr "Festungsanlagen in der nordmakedonischen Region im 13/14. Jahrhundert"
+
+#: tib/data/images/subprojects.py:79
+msgid "Road Model based on a k. u k. Marching Map"
+msgstr "Straßenmodell basierend auf einer k. u k. Marschkarte"
+
+#: tib/data/images/subprojects.py:84 tib/data/images/subprojects_ger_images.py:58
+msgid ""
+"Markovi Kuli Castle near Prilep from the south, Republic of Northern Macedonia"
+msgstr "Die Burg Markovi Kuli bei Prilep von Süden, Republik Nordmazedonien"
+
+#: tib/data/images/subprojects.py:90 tib/data/images/subprojects_ger_images.py:64
+msgid "The Kale elevation in Skopje, Republic of Northern Macedonia"
+msgstr "Die Erhebung Kale in Skopje, Republik Nordmazedonien"
+
+#: tib/data/images/subprojects.py:96 tib/data/images/subprojects_ger_images.py:70
+msgid "The old city gate of Ohrid, Republic of Northern Macedonia"
+msgstr "Das alte Stadttor von Ohrid, Republik Nordmazedonien"
+
+#: tib/data/images/subprojects.py:102 tib/data/images/subprojects_ger_images.py:76
+msgid "Ohrid and Samuilova tvrdina Castle, Republic of Northern Macedonia"
+msgstr "Ohrid und die Burg Samuilova tvrdina, Republik Nordmazedonien"
+
+#: tib/data/images/subprojects.py:110
+msgid ""
+"Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 1920/30. "
+"Cross-domed church with naos, narthex and exonarthex added in the 16th century"
+msgstr ""
+"Lesnovo, Kloster von St. Erzengel Michael und St. Hermit Gabriel 1920/30. "
+"Kreuzkuppelkirche mit Naos, Narthex und Exonarthex, der im 16. Jahrhundert "
+"angebaut wurde"
+
+#: tib/data/images/subprojects.py:115
+msgid ""
+"Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 2010. cross-"
+"domed church with rebuilt exonarthex"
+msgstr ""
+"Lesnovo, Kloster von St. Erzengel Michael und St. Hermit Gabriel 2010. "
+"Kreuzkuppelkirche mit wiedererrichtetem Exonarthex"
+
+#: tib/data/images/subprojects.py:120
+msgid ""
+"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the locals "
+"after the end of the Roman Empire due to executions of Christians by the Romans"
+msgstr ""
+"Ohrid, Antikes Theater 1988. Antikes Theater in Ohrid, das nach Ende des "
+"Römischen Reiches aufgrund Hinrichtungen der Christen durch die Römer von den "
+"Einheimischen verlassen wurde"
+
+#: tib/data/images/subprojects.py:125
+msgid ""
+"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the 1980s "
+"onwards"
+msgstr ""
+"Ohrid, Antikes Theater 2008. Ab den 1980er Jahren graduelle Renovierung des "
+"Theaters"
+
+#: tib/data/images/subprojects.py:130
+msgid ""
+"The Cilician Gate (Pylai Kilikias) as the most important connection between "
+"Cilicia and the highlands in Anatolia"
+msgstr ""
+"Die Kilikische Pforte (Pylai Kilikias) als wichtigste Verbindung zwischen "
+"Kilikien und dem Hochland in Anatolien"
+
+#: tib/data/images/subprojects.py:135
+msgid ""
+"Pylai Kilikias 2016. From the 1970s onwards, massive damage to the Cilician "
+"Gate for the purpose of widening the roadway as part of road construction works"
+msgstr ""
+"Pylai Kilikias 2016. Ab den 1970er Jahren massive Schädigung der Kilikischen "
+"Pforte zwecks Verbreiterung der Fahrbahn im Rahmen von Straßenbauarbeiten"
+
+#: tib/data/images/subprojects.py:140
+msgid ""
+"Euboia, Panagia Monomeritissa 1967. Extension to the church of the monastery of "
+"Eria, which also served as a dwelling house"
+msgstr ""
+"Euboia, Panagia Monomeritissa 1967. Anbau an Kirche des Klosters Eria, der auch "
+"als Wohnhaus diente"
+
+#: tib/data/images/subprojects.py:145
+msgid "Euboia, Panagia Monomeritissa 1972. Deconstruction of this annexe in 1972"
+msgstr "Euboia, Panagia Monomeritissa 1972. Rückbau dieses Anbaus im Jahr 1972"
+
+#: tib/data/images/subprojects.py:151 tib/data/images/subprojects_ger_images.py:82
+msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 1970"
+msgstr "Die Stadt Melnik in Südwest-Bulgarien, Republik Bulgarien, 1970"
+
+#: tib/data/images/subprojects.py:157 tib/data/images/subprojects_ger_images.py:88
+msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 2010"
+msgstr "Die Stadt Melnik in Südwest-Bulgarien, Republik Bulgarien, 2010"
+
+#: tib/data/images/subprojects.py:163 tib/data/images/subprojects_ger_images.py:94
+msgid "The monastery church of the Rila Monastery, Republic of Bulgaria, 1977"
+msgstr "Die Klosterkirche des Klosters Rila, Republik Bulgarien, 1977"
+
+#: tib/data/images/subprojects.py:169
+#: tib/data/images/subprojects_ger_images.py:100
+msgid "The monastery church of the Rila Monastery, Republic of Bulgaria,2014"
+msgstr "Die Klosterkirche des Klosters Rila, Republik Bulgarien,2014"
+
+#: tib/data/images/subprojects.py:175
+#: tib/data/images/subprojects_ger_images.py:106
+msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 1968"
+msgstr "Die Bucht bei der Stadt Ohrid, Republik Nordmazedonien, 1968"
+
+#: tib/data/images/subprojects.py:181
+#: tib/data/images/subprojects_ger_images.py:112
+msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 2017"
+msgstr "Die Bucht bei der Stadt Ohrid, Republik Nordmazedonien, 2017"
+
+#: tib/data/images/subprojects.py:190 tib/data/images/subprojects_ger_images.py:7
+msgid ""
+"Bird's eye view of the Doclea archaeological excavation, A: Basilica A, B: "
+"Basilica B and cruciform church, Republic of Montenegro"
+msgstr ""
+"Vogelperspektive der archäologischen Grabung Doclea, A: Basilika A, B: Basilika "
+"B und kreuzförmige Kirche, Republik Montenegro"
+
+#: tib/data/images/subprojects.py:195 tib/data/images/subprojects_ger_images.py:12
+msgid ""
+"Bird's eye view of the Doclea archaeological excavation, the western part of "
+"the city in the foreground, Republic of Montenegro"
+msgstr ""
+"Vogelperspektive der archäologischen Grabung Doclea, der westliche Teil der "
+"Stadt im Vordergrund, Republik Montenegro"
+
+#: tib/data/images/subprojects.py:200 tib/data/images/subprojects_ger_images.py:17
+msgid ""
+"The monastery of Sveti Nikola Vranjina (in the centre of the picture) on Lake "
+"Skadar, Republic of Montenegro"
+msgstr ""
+"Das Kloster Sveti Nikola Vranjina (in der Bildmitte) am Skadar See, Republik "
+"Montenegro"
+
+#: tib/data/images/subprojects.py:205 tib/data/images/subprojects_ger_images.py:22
+msgid ""
+"The former Latin (Catholic) monastery of Ratac from the 12th/13th century near "
+"the town of Bar, Republic of Montenegro."
+msgstr ""
+"Das vormals lateinische (katholische) Kloster Ratac aus dem 12./13. Jh. bei der "
+"Stadt Bar, Republik Montenegro"
 
 #: tib/data/tib/counter.py:6
 msgid "TIB Volumes Published"

@@ -1,4 +1,6 @@
-from tib.data.images.subprojects_ger_images import subprojects_ger_images
+from tib.data.images.subprojects import borderzones, digtib, holdura, \
+    montenegro
+
 
 path = 'images/gallery/'
 
@@ -168,90 +170,8 @@ tib18 = [
         'citation': 'TIB 18, F. Hild, 2010',
         'category': ['tib18']
     }]
-montenegro = [
-    {
-        'path': f'{path}montenegro-relief.jpg',
-        'description': 'Detail of the Relief Map of Montenegro in the Courtyard of the Museum Biljarda (Cetinje)',
-        'citation': 'Museum Biljarda',
-        'category': ['montenegro']
-    }, {
-        'path': f'{path}montenegro-pavilion.jpg',
-        'description': 'Pavilion of the Relief Map in the Courtyard of the Museum Biljarda (Cetinje)',
-        'citation': 'Museum Biljarda',
-        'category': ['montenegro']
-    }, {
-        'path': f'{path}montenegro-budva-bay.jpg',
-        'description': 'The Bay of Budva in Montenegro',
-        'citation': 'M. Popović, 2016',
-        'category': ['montenegro']
-    }, {
-        'path': f'{path}montenegro-aerial.jpg',
-        'description': 'Aerial Photo of Montenegro',
-        'citation': 'M. Popović, 2016',
-        'category': ['montenegro']
-    }]
-borderzones = [
-    {
-        'path': f'{path}border_all.png',
-        'description': 'Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from Different Authors',
-        'citation': 'Bernhard Koschicek, 2018',
-        'category': ['borderzones']
-    }, {
-        'path': f'{path}fortifications.png',
-        'description': 'Fortifications in the Northern Macedonian Region in the 13/14th century',
-        'citation': 'Bernhard Koschicek, 2019',
-        'category': ['borderzones']
-    }, {
-        'path': f'{path}Marschroute_Abstract_cyrillic_km.png',
-        'description': 'Road Model based on a k. u k. Marching Map',
-        'citation': 'Bernhard Koschicek, 2018',
-        'category': ['borderzones']
-    }]
-digtib = [
-    {
-        'path': f'{path}lesnovo_1920_30.jpg',
-        'description': 'Lesnovo, Kloster von St. Erzengel Michael und St. Hermit Gabriel 1920/30. Kreuzkuppelkirche mit Naos, Narthex und Exonarthex, der im 16. Jahrhundert angebaut wurde',
-        'citation': 'unknown',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}lesnovo_2010.jpg',
-        'description': 'Lesnovo, Kloster von St. Erzengel Michael und St. Hermit Gabriel 2010. Kreuzkuppelkirche mit wiedererrichtetem Exonarthex',
-        'citation': 'M. Popović, ÖAW, 2010',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}Ohrid_Ancient_Theatre_1988.jpg',
-        'description': 'Ohrid, Antikes Theater 1988. Antikes Theater in Ohrid, das nach Ende des Römischen Reiches aufgrund Hinrichtungen der Christen durch die Römer von den Einheimischen verlassen wurde',
-        'citation': 'M. Popović, 2016',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}Ohrid_Ancient_Theatre_2008.jpg',
-        'description': 'Ohrid, Antikes Theater 2008. Ab den 1980er Jahren graduelle Renovierung des Theaters',
-        'citation': 'Mihailo Popović, ÖAW, 2008',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}Pylai_Kilikias_Gülek Bogazi_Blick_thumb.jpg',
-        'description': 'Die Kilikische Pforte (Pylai Kilikias) als wichtigste Verbindung zwischen Kilikien und dem Hochland in Anatolien',
-        'citation': 'Friedrich Hild, ÖAW, 1973',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}Pylai_Kilikias_google.jpg',
-        'description': 'Pylai Kilikias 2016. Ab den 1970er Jahren massive Schädigung der Kilikischen Pforte zwecks Verbreiterung der Fahrbahn im Rahmen von Straßenbauarbeiten',
-        'citation': 'Müzik life https://goo.gl/maps/xe4UMk8DBjaEWX898, 2016',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}euboia_1967.png',
-        'description': 'Euboia, Panagia Monomeritissa 1967. Anbau an Kirche des Klosters Eria, der auch als Wohnhaus diente',
-        'citation': 'Johannes Koder, ÖAW, 1967',
-        'category': ['digtib']
-    }, {
-        'path': f'{path}euboia_1972.png',
-        'description': 'Euboia, Panagia Monomeritissa 1972. Rückbau dieses Anbaus im Jahr 1972',
-        'citation': 'Johannes Koder, ÖAW, 1972',
-        'category': ['digtib']
-    }]
 
 IMAGES_TIB = tib11 + tib14 + tib16 + tib17 + tib18
-IMAGES_SUB = montenegro + borderzones + digtib
-IMAGES_SUB_GER = subprojects_ger_images
+IMAGES_SUB = montenegro + borderzones + digtib + holdura
 
-IMAGES = IMAGES_TIB + IMAGES_SUB + IMAGES_SUB_GER
+IMAGES = IMAGES_TIB + IMAGES_SUB

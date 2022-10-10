@@ -2,7 +2,7 @@ from flask import Response, redirect, render_template
 
 from tib import app
 from tib.data.images.history import tib_history_images
-from tib.data.images.images import IMAGES_SUB, IMAGES_TIB
+from tib.data.images.util import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.outreach import outreach

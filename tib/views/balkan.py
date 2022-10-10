@@ -9,9 +9,9 @@ from tib.data.balkan.project_results import result_links, project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
-from tib.data.images.images import IMAGES_SUB, IMAGES_TIB, \
-    balkan_hist_geo, \
-    tib_balkan_long_term
+from tib.data.images.hist_geo import balkan_hist_geo
+from tib.data.images.long_term import tib_balkan_long_term
+from tib.data.images.util import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.navigation import balkan_jumbotron
 from tib.data.openatlas.oa_access import view_classes

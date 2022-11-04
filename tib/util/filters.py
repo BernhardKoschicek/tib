@@ -1,6 +1,6 @@
 import flask
 from flask import url_for
-
+from flask_babel import gettext as _
 from tib.data.navigation import \
     balkan_nav_items, tib_digtib_submenu_items, balkan_nav_translations, \
     tib_nav_items
@@ -67,7 +67,7 @@ def tib_digtib_submenu(item: str) -> str:
     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
          <li class="nav-item">
                 <a class="nav-link " href="{url_for(f'tib_{item}')}">
-                Digital Tabula Imperii Byzantini</a>
+                {_('Digital Tabula Imperii Byzantini')}</a>
             </li>
     <li><hr class="dropdown-divider"></li>
     '''

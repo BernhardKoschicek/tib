@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 17:55+0100\n"
-"PO-Revision-Date: 2022-11-04 17:59+0100\n"
+"POT-Creation-Date: 2022-11-04 19:04+0100\n"
+"PO-Revision-Date: 2022-11-04 19:07+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -4092,6 +4092,38 @@ msgstr ""
 "(Fläche 348,8 km2), der Große Prespasee (Fläche 274 km2) und der Dojransee "
 "(Fläche 43 km2)."
 
+#: tib/data/tib_volumes.py:157
+msgid ""
+"Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece (TIB 11, P. "
+"Soustal, M. Popović, 2004)"
+msgstr ""
+"Halbinsel Sithonia, Bucht des Singitischen Golfs, Nordgriechenland (TIB 11, P. "
+"Soustal, M. Popović, 2004)"
+
+#: tib/data/tib_volumes.py:158
+msgid "Sardis, West of Modern Salihli, Lydia (TIB 14, A. Külzer, 2013)"
+msgstr "Sardes, westlich des modernen Salihli, Lydien (TIB 14, A. Külzer, 2013)"
+
+#: tib/data/tib_volumes.py:159
+msgid ""
+"Traces of an Early Christian Basilica (5. Cent) on the Island of Golem Grad, "
+"Repbulic of North Macedonia (M. Popović, TIB 16, 2017)"
+msgstr ""
+"Spuren einer frühchristlichen Basilika (5. Jahrhundert) auf der Insel Golem "
+"Grad, Republik Nordmakedonien (M. Popović, TIB 16, 2017)"
+
+#: tib/data/tib_volumes.py:160
+msgid ""
+"Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. "
+"Popović, TIB 17, 2021)"
+msgstr ""
+"Österreichisch-ungarische Festung Kabala auf der Halbinsel Luštica, Montenegro "
+"(M. Popović, TIB 17, 2021)"
+
+#: tib/data/tib_volumes.py:161
+msgid "Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)"
+msgstr "Kaunos und sein Sumpfhafen (TIB 8 und TIB 18, F. Hild, 1994)"
+
 #: tib/data/tib_volumes.py:166
 msgid "Macedonia, Southern Part"
 msgstr "Mazedonien, Südlicher Teil"
@@ -5958,7 +5990,7 @@ msgstr "Mitarbeitende"
 
 #: tib/templates/tib/subprojects/project.html:55
 msgid "Cooperation and External Employees"
-msgstr "Zusammenarbeit und externe Mitarbeiter"
+msgstr "Kooperationen und externe Mitarbeiter"
 
 #: tib/templates/tib/subprojects/project.html:76
 msgid "Presentations"

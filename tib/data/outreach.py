@@ -33,6 +33,27 @@ types = {
 }
 
 outreach = [{
+    'id': 'tib11_promotion',
+    'type': types['award'],
+    'date': f"{get_dates_formatted(2022, 11, 14)}",
+    'who': [team['psoustal'], team['jkoder'], team['mpopovic']],
+    'title': 'Promotion Event for TIB 11',
+    'description': """<p>
+        On Monday, 14 November 2022, the TIB volume “Macedonia, Southern Part” (TIB 11) will be officially promoted at the 
+Department of Byzantine Research of the Institute for Medieval Research (IMAFO).
+          </p>
+          <ul class="list-unstyled">
+          <li>Date: 24.11.2022</li>
+          <li>Begin: 17:00</li>
+          <li>Venue: Hollandstrasse 11-13, 1st Floor, 1020 Vienna</li>
+          <li>Registration: <a href="mailto:ekaterini.mitsiou@oeaw.ac.at">Ekaterini.Mitsiou@oeaw.ac.at</a></li>
+        </ul>
+        """,
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}ABF_Buchpraesentation_TIB_11.pdf',
+        'type': 'pdf'}]
+},{
     'id': 'tib11_release',
     'type': types['book_release'],
     'date': get_dates_formatted(2022, 7, 26),
@@ -138,3 +159,4 @@ outreach = [{
     'attachment': []
 },
 ]
+

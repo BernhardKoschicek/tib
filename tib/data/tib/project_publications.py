@@ -1,13 +1,13 @@
 project_publications = [
     {
         "author": "A. Bracanović, M. Breier, M. Hernández Cordero u. a.",
-        "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. ",
+        "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. DOI: 10.25536/2022q004",
         "location": "Krems",
-        "date": "in Druck",
-        "pages": "",
+        "date": "2022",
+        "pages": "33",
         "category": ['holdura', 'montenegro'],
-        "external_link": '',
-        "download": ''
+        "external_link": 'http://dx.doi.org/10.25536/2022q004',
+        "download": 'On_the_Crossroads_memo_quer_04.pdf'
     }, {
         "author": "Mihailo St. Popović, Vratislav Zervan",
         "title": "Signs and Maps of Power in Medieval Europe: A Case Study on Byzantine Macedonia (13th/14th). MEMO 2: Digital Humanities & Materielle Kultur, DOI: 10.25536/20180206 ",

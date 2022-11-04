@@ -8,14 +8,16 @@
     <div class="row pt-5">
       <div class="col-8 row">
         <div>
-          {{ project.description | safe }}
+          {% for description in project.description %}
+            <p>{{ description }}</p>
+          {% endfor %}
         </div>
 
       </div>
       <div class="col-4 bg-violet-light">
         <div class="pt-1">
           <p>
-            <span class="fw-bolder">Funded by</span>:
+            <span class="fw-bolder">{{ _('Funded by') }}</span>:
           </p>
           <div class="container-fluid justify-content-center bg-white">
             {% for fund in project.funded_by %}
@@ -27,11 +29,11 @@
         </div>
         <div class="pt-3">
           <p>
-            <span class="fw-bolder">Project Number:</span> {{ project.project_number }}
+            <span class="fw-bolder">{{_('Project Number')}}:</span> {{ project.project_number }}
           </p>
         </div>
         <div class="pt-3">
-          <p><span class="fw-bolder">Duration:</span> {{ project.begin }}
+          <p><span class="fw-bolder">{{_('Duration')}}:</span> {{ project.begin }}
             - {{ project.end }}</p>
         </div>
         <div class="pt-3">
@@ -42,7 +44,7 @@
           </p>
         </div>
         <div class="pt-3">
-          <span class="fw-bolder">Employees:</span>
+          <span class="fw-bolder">{{_('Employees')}}:</span>
           <ul class="text-decoration-none list-unstyled">
             {% for emp in project.employees %}
               <li>{{ emp.name }}</li>
@@ -50,8 +52,7 @@
           </ul>
         </div>
         <div class="pt-3">
-            <span class="fw-bolder">Cooperation and External
-            Employees:</span>
+            <span class="fw-bolder">{{_('Cooperation and External Employees')}}:</span>
           <ul class="text-decoration-none list-unstyled">
             {% for emp in project.cooperation %}
               <li>{{ emp }}</li>
@@ -69,11 +70,11 @@
     </div>
     {% if publications %}
       <h4 id="publications" class="pt-5 text-center"><a href="#publications" class="text-decoration-none">Publications</a></h4>
-      {{ create_table(publications, 'publications', 3) }}
+      {{ create_table(publications, _('publications'), 3) }}
     {% endif %}
     {% if presentations %}
       <h4 id="presentations" class="pt-5 text-center"><a href="#presentations" class="text-decoration-none">Presentations</a></h4>
-      {{ create_table(presentations, 'presentations', 4) }}
+      {{ create_table(presentations, _('presentations'), 4) }}
     {% endif %}
   </div>
 {% endblock %}

@@ -1,5 +1,6 @@
 from tib.util.util import get_table_dates_formatted
 
+
 presentations = [{
     "presenter": "Mihailo St. Popović",
     "title": "Historical Geography, Digital Humanities and Database Systems: an Approach to reconstruct “Sacred Landscapes” – the Case of Medieval Duklja and Raška (today’s Montenegro and Serbia)",

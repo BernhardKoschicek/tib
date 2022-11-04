@@ -235,7 +235,7 @@
   <thead>
   <tr>
     {% for header in list_[0] if not header in not_shown %}
-    <th>{{ header | title }}</th>
+    <th>{{ _(header) | title }}</th>
     {% endfor %}
     <th></th>
   </tr>

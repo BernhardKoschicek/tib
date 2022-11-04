@@ -1,38 +1,36 @@
 {% extends "tib/layout.html" %}
-{% block title %}Subprojects{% endblock %}
+{% block title %}{{_('Subprojects')}}{% endblock %}
 {% block content %}
 
-  <div class="text-center top5">
-    {{ header('Subprojects of the', False) }}
+<div class="text-center top5">
+    {{ header(_('Subprojects of the'), False) }}
     {{ header('Tabula Imperii Byzantini', True) }}
-  </div>
+</div>
 
 
-  <div class="container">
+<div class="container">
     {% for project, detail in projects.items() %}
-      <div class="row my-5 py-2 project-background {{ loop.cycle('flex-row', 'flex-row-reverse') }}">
+    <div class="row my-5 py-2 project-background {{ loop.cycle('flex-row', 'flex-row-reverse') }}">
         <div class="col-2">
-          <a href="{{ url_for('tib_sub_projects', project=project) }}">
-            <img src="{{ url_for('static', filename=detail['icon']) }}"
-                 class="mx-auto d-flex img-fluid rounded-3"
-                 alt="{{ project }}">
-          </a>
+            <a href="{{ url_for('tib_sub_projects', project=project) }}">
+                <img src="{{ url_for('static', filename=detail['icon']) }}"
+                     class="mx-auto d-flex img-fluid rounded-3"
+                     alt="{{ project }}">
+            </a>
         </div>
         <div class="col-8 {{ loop.cycle('text-end', 'text-start') }}">
-          <a href="{{ url_for('tib_sub_projects', project=project) }}"
-             class="text-decoration-none link-secondary">
-            <h4 class="fst-italic display-6">{{ detail['question'] }}</h4>
-            <h4>{{ detail['title'] }}</h4>
-            {% for pi in detail['pi'] %}
-              <h6>{{ pi['name'] }}</h6>
-            {% endfor %}
-          <h6>Duration: {{ detail['begin'] }} - {{ detail['end'] }}</h6>
-          </a>
+            <a href="{{ url_for('tib_sub_projects', project=project) }}"
+               class="text-decoration-none link-secondary">
+                <h4>{{ detail['title'] }}</h4>
+                {% for pi in detail['pi'] %}
+                <h6>{{ pi['name'] }}</h6>
+                {% endfor %}
+                <h6>{{_('Duration')}}: {{ detail['begin'] }} - {{ detail['end'] }}</h6>
+            </a>
         </div>
 
-      </div>
+    </div>
     {% endfor %}
-  </div>
-
+</div>
 
 {% endblock %}

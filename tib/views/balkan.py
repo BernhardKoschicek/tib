@@ -5,7 +5,6 @@ from flask import render_template
 from tib import app
 from tib.data.outreach import outreach
 from tib.data.balkan.project_results import result_links, project_results
-from tib.data.balkan.subprojects_ger import subprojects_ger
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.images.hist_geo import balkan_hist_geo
@@ -18,6 +17,7 @@ from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
 from tib.data.tib.presentations import presentations
 from tib.data.tib.project_publications import project_publications
+from tib.data.tib.subprojects import subprojects
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict
@@ -31,7 +31,7 @@ def home() -> str:
         front_menu=balkan_jumbotron,
         img_description=home_images,
         tib_volumes=tib_volumes_dict,
-        subprojects=subprojects_ger,
+        subprojects=subprojects,
         team=team_members,
         outreach=outreach,
         images=gallery_outreach,
@@ -70,7 +70,7 @@ def balkan_subprojects(project: str = None) -> str:
     if project:
         return render_template(
             'balkan/subprojects/project.html',
-            project=subprojects_ger[project],
+            project=subprojects[project],
             presentations=get_dict_entries_by_category(
                 project,
                 presentations),
@@ -82,7 +82,7 @@ def balkan_subprojects(project: str = None) -> str:
             result_links=result_links[project])
     return render_template(
         'balkan/subprojects/subproject_overview.html',
-        subprojects=subprojects_ger)
+        subprojects=subprojects)
 
 
 @app.route('/balkan/öffentlichskeitsarbeit')

@@ -1,6 +1,6 @@
 from flask_babel import lazy_gettext as _l
 
-from tib.data.balkan.subprojects_ger import subprojects_ger
+from tib.data.tib.subprojects import subprojects
 
 tib_nav_items = {
     'history': _l('history'),
@@ -18,7 +18,7 @@ balkan_nav_items = {
         'balkan_outreach',
         'balkan_team',
         'balkan_volumes'],
-    'balkan_subprojects': [i for i in subprojects_ger],
+    'balkan_subprojects': [i for i in subprojects if subprojects[i]['part'] == 'balkan'],
     'balkan_digital': ['3dobjects', 'explore']}
 
 balkan_nav_translations = {

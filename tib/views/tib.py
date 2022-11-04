@@ -10,13 +10,13 @@ from tib.data.openatlas.subprojects import subprojects_en_discover
 from tib.data.tib.counter import counter
 from tib.data.navigation import tib_digtib_submenu_items
 from tib.data.tib.jumbotron import front_jumbotron
-from tib.data.tib.presentations import presentations
-from tib.data.tib.project_publications import project_publications
-from tib.data.tib.publications import tib_publications_data
-from tib.data.tib.subprojects import subprojects
+from tib.data.presentations import presentations
+from tib.data.project_publications import project_publications
+from tib.data.publications import tib_publications_data
+from tib.data.subprojects import subprojects
 from tib.data.tib.team import team_categories
 from tib.data.tib_volumes import tib_volumes_dict
-from tib.data.register.toponym_register import register_volume
+from tib.data.toponym_register import register_volume
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict
 

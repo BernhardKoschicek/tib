@@ -15,9 +15,9 @@ from tib.data.navigation import balkan_jumbotron
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
-from tib.data.tib.presentations import presentations
-from tib.data.tib.project_publications import project_publications
-from tib.data.tib.subprojects import subprojects
+from tib.data.presentations import presentations
+from tib.data.project_publications import project_publications
+from tib.data.subprojects import subprojects
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict

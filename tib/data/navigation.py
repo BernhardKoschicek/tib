@@ -1,6 +1,6 @@
 from flask_babel import lazy_gettext as _l
 
-from tib.data.tib.subprojects import subprojects
+from tib.data.subprojects import subprojects
 
 tib_nav_items = {
     'history': _l('history'),

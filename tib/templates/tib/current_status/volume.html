@@ -1,5 +1,5 @@
 {% extends "tib/layout.html" %}
-{% block title %}Current Status{% endblock %}
+{% block title %}{{ _('Current Status') }}{% endblock %}
 {% block content %}
 
 
@@ -52,12 +52,14 @@
     </div>
   </div>
   <div class="container">
-    {% if tib_volume['comment'] %}
+    {% if tib_volume['description'] %}
      <span class="text-center">
-      {{ sub_header('Description', False) }}
+      {{ sub_header(_('Description'), False) }}
      </span>
       <div class="row p-2 ">
-        {{ tib_volume['description'] | safe }}
+        {% for description in tib_volume['description'] %}
+          <p>{{ description }}</p>
+        {% endfor %}
       </div>
     {% endif %}
   </div>

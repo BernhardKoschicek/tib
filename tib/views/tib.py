@@ -58,7 +58,7 @@ def tib_current_status(volume: str = None) -> str:
                 IMAGES_TIB))
     return render_template(
         'tib/current_status/current_status.html',
-        tib_volumen=tib_volumes_dict)
+        tib_volumes=tib_volumes_dict)
 
 
 @app.route('/sub_projects')

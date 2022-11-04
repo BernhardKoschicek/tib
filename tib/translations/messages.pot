@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 16:46+0100\n"
+"POT-Creation-Date: 2022-11-04 17:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3358,6 +3358,145 @@ msgstr ""
 
 #: tib/templates/tib/current_status/volume.html:57
 msgid "Description"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:8
+msgid "Digital Tabula Imperii Byzantini"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:13
+msgid ""
+" The initiatives in the field of Digital Humanities at the Austrian "
+"Academy of Sciences and also the related developments in Byzantine "
+"Studies in the last couple of years have encouraged the TIB to step up "
+"its efforts to provide a platform for the adequate presentation and "
+"sustainable usage of its data, which was and is published in respective "
+"TIB volumes."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:33
+msgid ""
+"As a Long-Term Project of the Austrian Academy of Sciences the TIB is "
+"pursuing <b>three main lines of development</b>"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:36
+msgid ""
+"The <b>first line of development</b> comprises the ongoing scholarly work"
+" and resulting printed publications, i.e. the TIB volumes with their maps"
+" on a scale of 1 : 800,000, following the Long-Term Project scheme of the"
+" Austrian Academy of Sciences until 2027. Cf. on the <a "
+"href=\"current_status\">current status</a> of the TIB volumes in detail."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:38
+msgid ""
+"The <b>second line of development</b> is constituted by the scholarly, "
+"archival and digital (re)processing of published and unpublished data of "
+"the TIB, which has been collected from 1966 until 2016. The year 2016 is "
+"to be discerned as a marker, because the TIB is since then following a "
+"Long-Term Project scheme implemented at the Austrian Academy of Sciences."
+" Our published and unpublished data comprises three main collections: the"
+" slides, which were made during TIB surveys from 1966 until 2007/08 "
+"(about 52,000); thousands of black-and-white photographs from the 1960s "
+"and 1970s from different areas of research; the published TIB volumes "
+"1-13 and 15."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:41
+msgid ""
+"Since 2016 we are pursuing the aim to apply \"regressive engineering\" to"
+" these data sets through third-party funded projects. In this way we are,"
+" and we will be able to digitise and process them, to save them "
+"sustainably within the technical framework of the Austrian Academy of "
+"Sciences, to present them to the scholarly community and interested "
+"public and to preserve them for future generations."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:44
+msgid ""
+"You may access the lists of the geographic registers of each published "
+"TIB volume (1-13 and 15) and a complete list via <a href=\"tib-"
+"register\">TIB register</a>."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:47
+msgid ""
+"They allow you to search and compare the toponomastic evidence from all "
+"areas of research of the TIB since 1966. In all lists you may access the "
+"pdf files of the respective TIB volume by clicking on the page number, "
+"which is tagged to respective page in the pdf of the volume. Due to "
+"copyright regulations of the Austrian Academy of Sciences these functions"
+" are available for the TIB volumes 1-7, 12 and 13."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:50
+msgid ""
+"Finally, a \"best practice\" has been created for the slides of the TIB. "
+"For the time being, 7,172 slides of the TIB volumes 5 (\"Cilicia and "
+"Isauria\", Friedrich Hild; 4,981 slides), 12 (\"Eastern Thrace "
+"(Eurōpē)\", Andreas Külzer; 1,252 slides) and 16 (\"Macedonia, Northern "
+"Part\", Mihailo St. Popović; 939 slides) have been scanned and embedded "
+"with the respective metadata in the open-source software "
+"CollectiveAccess. You may access this data via"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:53
+msgid ""
+"For the time being, you may search and compare these slides and view "
+"their metadata, but not download them for scholarly or private use due to"
+" copyright regulations of the Austrian Academy of Sciences."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:58
+msgid ""
+"Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of"
+" Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:62
+msgid ""
+"The third line of development is state of the art Geocommunication of "
+"current TIB content and results. Therefore, the TIB Balkans (Mihailo St. "
+"Popović) is creating, developing and upkeeping the online atlas \"Maps of"
+" Power: Historical Atlas of Places, Borderzones and Migration Dynamics in"
+" Byzantium\" since 2019"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:65
+msgid "You may freely access this online atlas (web application) via"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:69
+msgid ""
+"Scholarly results as well as digital photographs of the TIB Balkans, i.e."
+" from the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. "
+"Popović) and 17 (\"Nea Epeiros and Praevalis\", Mihailo St. Popović), and"
+" of related <a href=\"/balkan/subprojekte\">sub-projects of the TIB "
+"Balkans</a> with a team of young scholarly co-workers are regularly "
+"embedded in English into a TIB Balkans OpenAtlas Database."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:72
+msgid ""
+"You may freely query the data embedded in the TIB Balkans OpenAtlas "
+"Database via"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:75
+msgid ""
+"All three main lines of development are intertwined and form a holistic "
+"approach."
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:78
+msgid ""
+"If you would like to read more about all three lines of development, "
+"please cf. the following two articles"
+msgstr ""
+
+#: tib/templates/tib/digtib/digtib.html:104
+msgid "Contact"
 msgstr ""
 
 #: tib/templates/tib/frontpage/frontpage.html:2

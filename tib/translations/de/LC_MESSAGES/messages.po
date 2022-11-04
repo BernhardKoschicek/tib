@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 16:10+0100\n"
-"PO-Revision-Date: 2022-11-04 16:12+0100\n"
+"POT-Creation-Date: 2022-11-04 17:17+0100\n"
+"PO-Revision-Date: 2022-11-04 17:19+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -31,7 +31,7 @@ msgstr "Aktueller Status"
 msgid "sub_projects"
 msgstr "Projekte"
 
-#: tib/data/navigation.py:9 tib/templates/tib/subprojects/project.html:73
+#: tib/data/navigation.py:9
 msgid "publications"
 msgstr "Publikationen"
 
@@ -629,10 +629,6 @@ msgstr ""
 "(\"Binnenland\") bis zum Kap Sunion ist von den Bergen Parnes, Pentelikon, "
 "Hymettos, Laureotischer Olymp und ihren Ausläufern begrenzt oder durchsetzt."
 
-#: tib/data/tib_volumes.py:23 tib/data/tib_volumes.py:103
-msgid "Johannes Koder"
-msgstr ""
-
 #: tib/data/tib_volumes.py:26
 msgid ""
 "The territory of Cappadocia, which stretched from the Great Salt Lake (Tatta "
@@ -808,10 +804,6 @@ msgstr ""
 "Elbistan Ovası, der dann durch das Becken von Kukusos (Göksun, Ort des Exils von "
 "Johannes Chrysostomus) nach Kilikien und dort durch Mopsuestia (Misis, heute "
 "Yakapınar) fließt, um bei Aigaiai (Lajazzo, Yumurtalık) zu münden."
-
-#: tib/data/tib_volumes.py:34 tib/data/tib_volumes.py:59 tib/data/tib_volumes.py:87
-msgid "Friedrich Hild"
-msgstr ""
 
 #: tib/data/tib_volumes.py:37
 msgid ""
@@ -1033,11 +1025,6 @@ msgstr ""
 "eingenommen; im Osten schließt sich an das Bergland eine Ebene aus Schwemmland "
 "an, die im Norden und Süden bis an die Küsten reicht und im Südosten in eine "
 "Hügelkette übergeht."
-
-#: tib/data/tib_volumes.py:43 tib/data/tib_volumes.py:64
-#: tib/data/tib_volumes.py:113
-msgid "Peter Soustal"
-msgstr ""
 
 #: tib/data/tib_volumes.py:46
 msgid ""
@@ -1273,11 +1260,6 @@ msgstr ""
 "spürbar sind, und der östlich anschließende Gölcük Dağı die Südgrenze der "
 "Provinz. Die Grenzen zu Pisidien, Lykaonien und dem \"Stil\" Galatien I liegen "
 "bereits in der zentralanatolischen Steppenregion."
-
-#: tib/data/tib_volumes.py:52 tib/data/tib_volumes.py:73 tib/data/tib_volumes.py:94
-#: tib/data/tib_volumes.py:129
-msgid "Klaus Belke"
-msgstr ""
 
 #: tib/data/tib_volumes.py:55
 msgid ""
@@ -2710,11 +2692,6 @@ msgstr ""
 "werden, an der Nordküste des Golfs von Saros, der den nordöstlichsten Teil der "
 "Ägäis bildet, oder das Tuz gölu im Südwesten des Chersones."
 
-#: tib/data/tib_volumes.py:119 tib/data/tib_volumes.py:133
-#: tib/data/tib_volumes.py:141
-msgid "Andreas Külzer"
-msgstr ""
-
 #: tib/data/tib_volumes.py:122
 msgid ""
 "Bithynia and the Hellespont, which adjoins it to the west and shifts slightly to "
@@ -3415,10 +3392,6 @@ msgstr ""
 "110 künstliche Stauseen sind. Die größten natürlichen Seen sind der Ohridsee "
 "(Fläche 348,8 km2), der Große Prespasee (Fläche 274 km2) und der Dojransee "
 "(Fläche 43 km2)."
-
-#: tib/data/tib_volumes.py:153
-msgid "Mihailo St. Popović"
-msgstr ""
 
 #: tib/data/tib_volumes.py:166
 msgid "Macedonia, Southern Part"
@@ -4228,97 +4201,106 @@ msgstr ""
 
 #: tib/data/tib/subprojects.py:25
 msgid ""
-"The year of 2018 marks 100 years from the end of one of the most disastrous wars "
-"in human history. When the armistice between the Central Powers and the Allied "
-"Powers (Entente) was concluded in November 1918, which ended the First World "
-"War, millions of soldiers as well as civilians had met their death, landscapes "
-"and infrastructure throughout the whole of Europe was devastated, Empires had "
-"fallen apart and cultural monuments had been erased to the ground. This project "
-"does not focus on the analysis of the armed conflict itself, but will instead "
-"shed light on a very special aspect of international and intercultural "
-"cooperation in times of war. Today’s Republic of Montenegro (and here the "
-"National Museum of Montenegro / Narodni muzej Crne Gore in Cetinje) is "
-"preserving a fascinating example of a European cultural monument, which is the "
-"result of an Austro-Hungarian and Montenegrin cooperation from 1916 until 1918. "
-"In March 1916 the Austro-Hungarian army established its military command in the "
-"former Montenegrin capital of Cetinje and here in the palace of the Montenegrin "
-"kings called Biljarda. In the same year the Austro-Hungarian General Staff "
-"ordered a 3D relief map of entire Montenegro to be made at a scale of 1 : 10,000 "
-"in the courtyard of the Biljarda in Cetinje. This relief map with 282 square "
-"metres, which was finished in 1917, displays Montenegro itself as well as "
-"territories which belong to Bosnia and Herzegovina, Croatia, Albania and Serbia. "
-"The relief map was made of concrete on bedrock in accordance with Austro-"
-"Hungarian topographic maps of South-East Europe."
+"A famous example of a relief map of the Balkan Peninsula in the former "
+"Yugoslavia is the map of Montenegro and adjacent territories, which was made in "
+"1916/17 by order of the Austro-Hungarian military administration and is now "
+"located in the courtyard of the former royal residence \"Biljarda\" (now the "
+"National Museum of Montenegro) in Cetinje in the Republic of Montenegro. The "
+"National Museum of Montenegro in Cetinje reports about the relief map on its "
+"homepage on the Internet as follows: \"After the Austro-Hungarian army made the "
+"breakthrough of the Lovćen front and occupied Cetinje in 1916, a glazed object "
+"with a relief map of Montenegro at a scale of 1:10,000 was erected on two levels "
+"in the south wing of the \"Biljarda\" residence, where the headquarters of the "
+"occupation troops was also located. The relief, which shows parts of Bosnia and "
+"Herzegovina, Croatia, Albania and Serbia, among others, consists of a concrete "
+"mass on a stone base and was prepared on the basis of precise Austrian "
+"topographic maps and land surveys, which in turn had been prepared using the "
+"most modern means. To determine the elevations on the map, a network of thin "
+"metal rods was used, around which the space in between was filled manually to "
+"match the landscape characteristics. The surface was then painted in detail so "
+"that it contained all the relevant information about the road network of that "
+"time, water areas, forests and populated places. For a better overview of the "
+"map, a bridge was built over its central part, from which every single detail "
+"was visible. In addition to Austro-Hungarian military cartographers, Montenegrin "
+"prisoners of war were also involved in the production of the relief map, "
+"including our famous sculptor Marko Brežanin. The old protective superstructure "
+"was demolished in the early 1980s and replaced by a glazed metal structure, "
+"which is still in use now. The relief map of Montenegro was declared a cultural "
+"monument (cultural property) by Decision No. 1794/1 of September 14, 1948. Apart "
+"from the undoubtedly military-strategic purposes it had during the war years, "
+"this unique object has gained importance over time due to its aesthetic and "
+"historical value, so that it now forms an inevitable tourist attraction."
+"\" (Translation by M. Popović)"
 msgstr ""
-"2018 jährt sich zum 100. Mal das Ende eines der verheerendsten Kriege der "
-"Menschheitsgeschichte. Als im November 1918 der Waffenstillstand zwischen den "
-"Mittelmächten und den alliierten Mächten (Entente) geschlossen wurde, der den "
-"Ersten Weltkrieg beendete, hatten Millionen von Soldaten und Zivilisten den Tod "
-"gefunden, Landschaften und Infrastrukturen in ganz Europa waren verwüstet, "
-"Imperien waren zerfallen und Kulturdenkmäler dem Erdboden gleichgemacht worden. "
-"Im Mittelpunkt dieses Projekts steht nicht die Analyse des bewaffneten Konflikts "
-"selbst, sondern es soll ein ganz besonderer Aspekt der internationalen und "
-"interkulturellen Zusammenarbeit in Kriegszeiten beleuchtet werden. Die heutige "
-"Republik Montenegro (und hier das Nationalmuseum von Montenegro / Narodni muzej "
-"Crne Gore in Cetinje) bewahrt ein faszinierendes Beispiel eines europäischen "
-"Kulturdenkmals, das das Ergebnis einer österreichisch-ungarischen und "
-"montenegrinischen Zusammenarbeit von 1916 bis 1918 ist. Im März 1916 errichtete "
-"die österreichisch-ungarische Armee ihr Militärkommando in der ehemaligen "
-"montenegrinischen Hauptstadt Cetinje und hier im Palast der montenegrinischen "
-"Könige namens Biljarda. Im selben Jahr ließ der österreichisch-ungarische "
-"Generalstab im Hof der Biljarda in Cetinje eine 3D-Reliefkarte von ganz "
-"Montenegro im Maßstab 1 : 10.000 anfertigen. Diese Reliefkarte mit 282 "
-"Quadratmetern, die 1917 fertiggestellt wurde, zeigt Montenegro selbst sowie "
-"Gebiete, die zu Bosnien und Herzegowina, Kroatien, Albanien und Serbien gehören. "
-"Die Reliefkarte wurde in Anlehnung an die österreichisch-ungarischen "
-"topografischen Karten von Südosteuropa aus Beton auf Felsgestein hergestellt."
+"Ein im ehemaligen Jugoslawien berühmtes Exemplar einer Reliefkarte der "
+"Balkanhalbinsel ist die Karte Montenegros und angrenzender Gebiete, die 1916/17 "
+"auf Anordnung der österreichisch-ungarischen Militärverwaltung angefertigt wurde "
+"und sich jetzt im Hof der vormaligen königlichen Residenz „Biljarda“ (nunmehr "
+"Nationalmuseum Montenegros) in Cetinje in der Republik Montenegro befindet. Das "
+"Nationalmuseum Montenegros in Cetinje berichtet über die Reliefkarte auf seiner "
+"Homepage im Internet wie folgt: „Nachdem die österreichisch-ungarische Armee den "
+"Durchbruch der Front am Lovćen vollzogen und Cetinje 1916 besetzt hatte, wurde "
+"im Südflügel der Residenz „Biljarda“, wo sich auch das Hauptquartier der "
+"Besatzungstruppen befand, auf zwei Ebenen ein verglastes Objekt mit einer "
+"Reliefkarte Montenegros im Maßstab 1:10.000 errichtet. Das Relief, auf dem unter "
+"anderem Teile von Bosnien und Herzegowina, Kroatien, Albanien und Serbien zu "
+"sehen sind, besteht aus einer Betonmasse auf einer steinernen Unterlage und "
+"wurde auf der Grundlage präziser österreichischer topographischer Karten und "
+"Landvermessungen ausgearbeitet, die wiederum mit modernsten Mitteln erstellt "
+"worden waren. Um die Höhenlagen auf der Karte zu bestimmen, wurde ein Netz aus "
+"dünnen Metallstäben verwendet, um die herum der Zwischenraum manuell befüllt "
+"wurde, damit er den landschaftlichen Charakteristika entspricht. Die Oberfläche "
+"wurde anschließend detailliert bemalt, sodaß sie alle relevanten Informationen "
+"zu dem damaligen Straßennetz jener Zeit, den Wasserflächen, Wäldern und "
+"besiedelten Orten enthält. Zur besseren Kartenübersicht wurde über ihrem "
+"zentralen Teil eine Brücke errichtet, von der aus jedes einzelne Detail sichtbar "
+"war. An der Herstellung der Reliefkarte waren neben österreichisch-ungarischen "
+"Militärkartographen auch montenegrinische Kriegsgefangene beteiligt, darunter "
+"auch unser berühmter Bildhauer Marko Brežanin. Der alte, schützende Überbau "
+"wurde Anfang der 1980er Jahre abgerissen und durch eine verglaste "
+"Metallkonstruktion ersetzt, die jetzt noch in Verwendung ist. Die Reliefkarte "
+"Montenegros wurde durch Bescheid Nr. 1794/1 vom 14. September 1948 zum "
+"Kulturdenkmal (Kulturgut) erklärt. Abgesehen von den zweifellos militärisch-"
+"strategischen Zwecken, die sie in den Kriegsjahren hatte, hat dieses "
+"einzigartige Objekt im Laufe der Zeit aufgrund seines ästhetischen und "
+"historischen Wertes an Bedeutung gewonnen, sodaß es jetzt eine unumgängliche "
+"Touristenattraktion bildet.“ (deutsche Übersetzung M. Popović)"
 
 #: tib/data/tib/subprojects.py:26
 msgid ""
-"Although this relief map is a remarkable cultural monument of its time, which "
-"was even mentioned as a sight in the Austro-Hungarian newspapers of 1917, and "
-"also nowadays, its exact history of production remains obscure. The relief map "
-"of Montenegro was declared a monument of culture in 1948 and is representing one "
-"of the most important local tourist sights in Cetinje and in overall Montenegro "
-"today. That is why scholarly research on the relief map is desperately needed. "
-"This project (No. ME 07/2019) between the Long-Term Project Tabula Imperii "
-"Byzantini (TIB) at the Institute for Medieval Research, Division of Byzantine "
-"Research (Austrian Academy of Sciences, Vienna) and the Faculty for Culture and "
-"Tourism of the University of Donja Gorica (Podgorica) is funded by the Federal "
-"Ministry of Education, Science and Research (BMBWF) of the Republic of Austria "
-"via the Austrian Agency for International Cooperation in Education and Research "
-"(OeAD) and envisages to research archival data on the Austro-Hungarian "
-"cartographers and the Montenegrin artists working on the aforesaid relief map, "
-"to collect relevant secondary literature, to capture pictures of the relief map "
-"with a drone in order to calculate a high resolution digital terrain model and "
-"to prepare a joint scholarly article on the project’s results. All of these "
-"aspects will be used for the outreach to academia and the interested public in "
-"order to emphasise this vivid example of Cultural Heritage in times of war."
+"In the description of the National Museum of Montenegro, the statement \"In "
+"addition to Austro-Hungarian military cartographers, Montenegrin prisoners of "
+"war were also involved in the production of the relief map, including our famous "
+"sculptor Marko Brežanin\" is of particular interest. Surprisingly, the relief "
+"map is not mentioned in Austrian scientific literature, but only finds brief "
+"mention as a tourist attraction in modern Austrian or German travel guides about "
+"Montenegro."
 msgstr ""
-"Obwohl diese Reliefkarte ein bemerkenswertes Kulturdenkmal ihrer Zeit ist, das "
-"sogar in den österreichisch-ungarischen Zeitungen von 1917 als Sehenswürdigkeit "
-"erwähnt wurde, und auch heute noch, bleibt ihre genaue Entstehungsgeschichte "
-"unklar. Die Reliefkarte von Montenegro wurde 1948 zum Kulturdenkmal erklärt und "
-"stellt heute eine der wichtigsten lokalen touristischen Sehenswürdigkeiten in "
-"Cetinje und in ganz Montenegro dar. Deshalb ist eine wissenschaftliche "
-"Erforschung der Reliefkarte dringend erforderlich. Dieses Projekt (Nr. ME "
-"07/2019) zwischen dem Langzeitprojekt Tabula Imperii Byzantini (TIB) am Institut "
-"für Mittelalterforschung, Abteilung für Byzantinistik (Österreichische Akademie "
-"der Wissenschaften, Wien) und der Fakultät für Kultur und Tourismus der "
-"Universität Donja Gorica (Podgorica) wird aus Mitteln des Bundesministeriums für "
-"Bildung, Wissenschaft und Forschung (BMBWF) der Republik Österreich über die "
-"Österreichische Agentur für Internationale Zusammenarbeit in Bildung und "
-"Forschung (OeAD) gefördert und sieht vor, Archivdaten zu den österreichisch-"
-"ungarischen Kartographen und den montenegrinischen Künstlern, die an der "
-"genannten Reliefkarte gearbeitet haben, zu recherchieren, relevante "
-"Sekundärliteratur zu sammeln, Bilder der Reliefkarte mit einer Drohne "
-"aufzunehmen, um ein hochauflösendes digitales Geländemodell zu berechnen und "
-"einen gemeinsamen wissenschaftlichen Artikel über die Ergebnisse des Projekts zu "
-"verfassen. All diese Aspekte werden für die Vermittlung an die Wissenschaft und "
-"die interessierte Öffentlichkeit genutzt, um dieses anschauliche Beispiel für "
-"kulturelles Erbe in Zeiten des Krieges hervorzuheben."
+"In der Beschreibung des Nationalmuseums Montenegros ist die Aussage „An der "
+"Herstellung der Reliefkarte waren neben österreichisch-ungarischen "
+"Militärkartographen auch montenegrinische Kriegsgefangene beteiligt, darunter "
+"auch unser berühmter Bildhauer Marko Brežanin“ von besonderem Interesse. "
+"Überraschenderweise wird die Reliefkarte in der österreichischen "
+"wissenschaftlichen Literatur nicht erwähnt, sondern findet lediglich als "
+"touristischer Anziehungspunkt in modernen österreichischen oder deutschen "
+"Reiseführern über Montenegro knappe Erwähnung."
 
-#: tib/data/tib/subprojects.py:28
+#: tib/data/tib/subprojects.py:27
+msgid ""
+"The aim of the project is to investigate the circumstances and general "
+"conditions of the production of the relief map by the Austro-Hungarian army and "
+"to search for the Austro-Hungarian artists who worked on the relief map of "
+"Montenegro in 1916. Among the participants were the Austrian sergeant and "
+"sculptor Schugar, the sculptor Brežanin and the painter Grabwinkler."
+msgstr ""
+"Ziel des Projektes ist es, die Umstände sowie Rahmenbedingungen der Herstellung "
+"der Reliefkarte durch die österreichisch-ungarische Armee zu erforschen und nach "
+"den österreichisch-ungarischen Künstlern auf die Suche zu gehen, die im Jahre "
+"1916 an der Reliefkarte Montenegros gearbeitet haben. Zu den Beteiligten zählten "
+"unter anderem der österreichische Feldwebel und Bildhauer Schugar, der Bildhauer "
+"Brežanin und der Maler Grabwinkler."
+
+#: tib/data/tib/subprojects.py:29
 msgid ""
 "The devastating impact of wars on world cultural heritage has been widely "
 "discussed after 1945. Scholarly projects at the Austrian Academy of Sciences "
@@ -4346,7 +4328,7 @@ msgstr ""
 "Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum Weltkulturerbe\" sowie "
 "zukünftiger Forschungsarbeiten."
 
-#: tib/data/tib/subprojects.py:29
+#: tib/data/tib/subprojects.py:30
 msgid ""
 "The initiatives in the field of Digital Humanities and Byzantine Studies in "
 "recent years have prompted the scholarly team of the TIB at the ÖAW to intensify "
@@ -4360,7 +4342,7 @@ msgstr ""
 "scannen und zu konservieren, sondern auch eine Plattform für die adäquate "
 "Präsentation und nachhaltige Nutzung der Daten zu ermöglichen."
 
-#: tib/data/tib/subprojects.py:30
+#: tib/data/tib/subprojects.py:31
 msgid ""
 "The aim of the project is not to limit itself to digitisation / preservation in "
 "general, but to specifically embed the respective monuments and their subsequent "
@@ -4385,7 +4367,7 @@ msgstr ""
 "Folgen für die Landschaften der Vergangenheit und für die jeweiligen Denkmäler "
 "(TIB 12 und TIB 16)."
 
-#: tib/data/tib/subprojects.py:32
+#: tib/data/tib/subprojects.py:33
 msgid ""
 "The European continent as a whole and the European Union in particular are "
 "facing a period of increasing dynamics of internal migration as well as external "
@@ -4410,7 +4392,7 @@ msgstr ""
 "Dynamik der Grenzen prägt gleichzeitig die Dynamik der Siedlungsmuster und der "
 "Verkehrsnetze."
 
-#: tib/data/tib/subprojects.py:33
+#: tib/data/tib/subprojects.py:34
 msgid ""
 "The respective stand-alone project focuses on the borders of the Byzantine "
 "(Eastern Roman) Empire in medieval South-East Europe, namely in pre-Ottoman (i."
@@ -4436,7 +4418,7 @@ msgstr ""
 "insbesondere in fünf ausgewählten Zielgebieten (Strumica-Tal, Lesnovo, Skopje, "
 "Ohrid, Prilep)."
 
-#: tib/data/tib/subprojects.py:34
+#: tib/data/tib/subprojects.py:35
 msgid ""
 "Although substantial publications exist on the population of as well as on the "
 "migration in Byzantine Macedonia, there is still an urgent need for this kind of "
@@ -4453,7 +4435,7 @@ msgstr ""
 "Byzantium and the Medieval Serbian Oecumene\" und \"Cross-Border Societies and "
 "Elite Change in Byzantine Macedonia\"."
 
-#: tib/data/tib/subprojects.py:35
+#: tib/data/tib/subprojects.py:36
 msgid ""
 "The initial point form the medieval written sources, i.e. Serbian and Byzantine "
 "charters as main corpus, as well as other selected written sources from the "
@@ -4480,7 +4462,7 @@ msgstr ""
 "Bereich Mapping und Visualisierung eingesetzt, um die erzielten Ergebnisse der "
 "interessierten Öffentlichkeit zu vermitteln."
 
-#: tib/data/tib/subprojects.py:39
+#: tib/data/tib/subprojects.py:40
 msgid ""
 "Medieval Smyrna / İzmir: The Transformation of a City and its Hinterland from "
 "Byzantine to Ottoman Times"
@@ -4488,15 +4470,15 @@ msgstr ""
 "Das mittelalterliche Smyrna / İzmir: Der Wandel einer Stadt und ihres "
 "Hinterlandes von der byzantinischen zur osmanischen Zeit"
 
-#: tib/data/tib/subprojects.py:45
+#: tib/data/tib/subprojects.py:46
 msgid "Univ. Prof. Dr. Alexander Beihammer, University of Notre Dame"
 msgstr "Univ. Prof. Dr. Alexander Beihammer, Universität von Notre Dame"
 
-#: tib/data/tib/subprojects.py:46
+#: tib/data/tib/subprojects.py:47
 msgid "Dr. Myrto Veikou, Uppsala University"
 msgstr "Dr. Myrto Veikou, Universität Uppsala"
 
-#: tib/data/tib/subprojects.py:59
+#: tib/data/tib/subprojects.py:60
 msgid ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and "
 "“Raška” through Space and Time (11th-14th Cent.)"
@@ -4504,7 +4486,7 @@ msgstr ""
 "Jenseits von Ost und West: Geokommunikation der heiligen Landschaften \"Duklja\" "
 "und \"Raška\" durch Raum und Zeit (11.-14. Jh.)"
 
-#: tib/data/tib/subprojects.py:74
+#: tib/data/tib/subprojects.py:75
 msgid ""
 "Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ aus mittelalterlichen "
 "Kirchen und Klöstern rekonstruieren?"
@@ -4512,12 +4494,12 @@ msgstr ""
 "Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ aus mittelalterlichen "
 "Kirchen und Klöstern rekonstruieren?"
 
-#: tib/data/tib/subprojects.py:82
+#: tib/data/tib/subprojects.py:83
 msgid "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 msgstr ""
 "Inventar der spätantiken und mittelalterlichen Häfen am westlichen Schwarzen Meer"
 
-#: tib/data/tib/subprojects.py:101
+#: tib/data/tib/subprojects.py:102
 msgid ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
@@ -4525,7 +4507,7 @@ msgstr ""
 "Kulturelles Erbe in Zeiten des Ersten Weltkriegs: Der Fall der österreichisch-"
 "ungarischen Reliefkarte von Montenegro (1916-1918)"
 
-#: tib/data/tib/subprojects.py:108
+#: tib/data/tib/subprojects.py:109
 msgid ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
@@ -4533,7 +4515,7 @@ msgstr ""
 "Universität von Donja Gorica (Fakultät für Kultur und Tourismus, Podgorica, "
 "Montenegro)"
 
-#: tib/data/tib/subprojects.py:109
+#: tib/data/tib/subprojects.py:110
 msgid ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
@@ -4541,13 +4523,13 @@ msgstr ""
 "Österreichisches Archäologisches Institut (ÖAI) der Österreichischen Akademie "
 "der Wissenschaften (Direktor Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 
-#: tib/data/tib/subprojects.py:110
+#: tib/data/tib/subprojects.py:111
 msgid ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 msgstr ""
 "Nationalmuseum von Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 
-#: tib/data/tib/subprojects.py:117
+#: tib/data/tib/subprojects.py:118
 msgid ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im Ersten "
 "Weltkrieg?"
@@ -4555,14 +4537,14 @@ msgstr ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im Ersten "
 "Weltkrieg?"
 
-#: tib/data/tib/subprojects.py:126
+#: tib/data/tib/subprojects.py:127
 msgid ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
 msgstr ""
 "Die digitale Tabula Imperii Byzantini (Dig-TIB) als Beitrag zum Weltkulturerbe"
 
-#: tib/data/tib/subprojects.py:137
+#: tib/data/tib/subprojects.py:138
 msgid ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung von "
 "Kulturdenkmälern auf der Balkanhalbinsel?"
@@ -4570,7 +4552,7 @@ msgstr ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung von "
 "Kulturdenkmälern auf der Balkanhalbinsel?"
 
-#: tib/data/tib/subprojects.py:146
+#: tib/data/tib/subprojects.py:147
 msgid ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
@@ -4578,7 +4560,7 @@ msgstr ""
 "Byzantinisch-serbische Grenzregionen im Wandel: Migration und Elitenwechsel im "
 "vorosmanischen Mazedonien (1282-1355)"
 
-#: tib/data/tib/subprojects.py:156
+#: tib/data/tib/subprojects.py:157
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien während "
 "des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
@@ -4618,18 +4600,6 @@ msgstr "Europa"
 #: tib/templates/tib/imprint.html:6
 msgid "imprint"
 msgstr "Impressum"
-
-#: tib/templates/macros.html:233
-msgid "presenter"
-msgstr "Vortragende"
-
-#: tib/templates/macros.html:233
-msgid "title"
-msgstr "titel"
-
-#: tib/templates/macros.html:233
-msgid "conference"
-msgstr ""
 
 #: tib/templates/tib/imprint.html:9
 msgid ""
@@ -5067,6 +5037,206 @@ msgstr "Fertige Bände"
 msgid "Description"
 msgstr "Beschreibung"
 
+#: tib/templates/tib/digtib/digtib.html:8
+msgid "Digital Tabula Imperii Byzantini"
+msgstr "Digitale Tabula Imperii Byzantini"
+
+#: tib/templates/tib/digtib/digtib.html:13
+msgid ""
+" The initiatives in the field of Digital Humanities at the Austrian Academy of "
+"Sciences and also the related developments in Byzantine Studies in the last "
+"couple of years have encouraged the TIB to step up its efforts to provide a "
+"platform for the adequate presentation and sustainable usage of its data, which "
+"was and is published in respective TIB volumes."
+msgstr ""
+" Die Initiativen im Bereich Digital Humanities an der Österreichischen Akademie "
+"der Wissenschaften und auch die damit verbundenen Entwicklungen in der "
+"Byzantinistik in den letzten Jahren haben die TIB ermutigt, ihre Bemühungen zu "
+"verstärken, eine Plattform für die adäquate Präsentation und nachhaltige Nutzung "
+"ihrer Daten zu bieten, die in entsprechenden TIB-Bänden veröffentlicht wurden "
+"und werden."
+
+#: tib/templates/tib/digtib/digtib.html:33
+msgid ""
+"As a Long-Term Project of the Austrian Academy of Sciences the TIB is pursuing "
+"<b>three main lines of development</b>"
+msgstr ""
+"Als Langzeitprojekt der Österreichischen Akademie der Wissenschaften verfolgt "
+"die TIB <b>drei wesentliche Entwicklungslinien</b>"
+
+#: tib/templates/tib/digtib/digtib.html:36
+msgid ""
+"The <b>first line of development</b> comprises the ongoing scholarly work and "
+"resulting printed publications, i.e. the TIB volumes with their maps on a scale "
+"of 1 : 800,000, following the Long-Term Project scheme of the Austrian Academy "
+"of Sciences until 2027. Cf. on the <a href=\"current_status\">current status</a> "
+"of the TIB volumes in detail."
+msgstr ""
+"Die <b>erste Entwicklungslinie</b> umfasst die laufenden wissenschaftlichen "
+"Arbeiten und die daraus resultierenden gedruckten Publikationen, d.h. die TIB-"
+"Bände mit ihren Karten im Maßstab 1 : 800.000, die dem langfristigen Projektplan "
+"der Österreichischen Akademie der Wissenschaften bis 2027 folgen. Vgl. zum <a "
+"href=\"current_status\">aktuellen Stand</a> der TIB-Bände im Detail."
+
+#: tib/templates/tib/digtib/digtib.html:38
+msgid ""
+"The <b>second line of development</b> is constituted by the scholarly, archival "
+"and digital (re)processing of published and unpublished data of the TIB, which "
+"has been collected from 1966 until 2016. The year 2016 is to be discerned as a "
+"marker, because the TIB is since then following a Long-Term Project scheme "
+"implemented at the Austrian Academy of Sciences. Our published and unpublished "
+"data comprises three main collections: the slides, which were made during TIB "
+"surveys from 1966 until 2007/08 (about 52,000); thousands of black-and-white "
+"photographs from the 1960s and 1970s from different areas of research; the "
+"published TIB volumes 1-13 and 15."
+msgstr ""
+"Die <b>zw. zweite Entwicklungslinie</b> besteht in der wissenschaftlichen, "
+"archivarischen und digitalen (Auf-)Bearbeitung von veröffentlichten und "
+"unveröffentlichten Daten der TIB, die von 1966 bis 2016 gesammelt wurden. Das "
+"Jahr 2016 ist als Marker zu sehen, da die TIB seither einem Langzeitprojekt der "
+"Österreichischen Akademie der Wissenschaften folgt. Unsere veröffentlichten und "
+"unveröffentlichten Daten umfassen drei Hauptsammlungen: die Dias, die während "
+"der TIB-Erhebungen von 1966 bis 2007/08 gemacht wurden (etwa 52.000); Tausende "
+"von Schwarz-Weiß-Fotos aus den 1960er und 1970er Jahren aus verschiedenen "
+"Forschungsbereichen; die veröffentlichten TIB-Bände 1-13 und 15."
+
+#: tib/templates/tib/digtib/digtib.html:41
+msgid ""
+"Since 2016 we are pursuing the aim to apply \"regressive engineering\" to these "
+"data sets through third-party funded projects. In this way we are, and we will "
+"be able to digitise and process them, to save them sustainably within the "
+"technical framework of the Austrian Academy of Sciences, to present them to the "
+"scholarly community and interested public and to preserve them for future "
+"generations."
+msgstr ""
+"Seit 2016 verfolgen wir im Rahmen von Drittmittelprojekten das Ziel, "
+"\"regressive engineering\" auf diese Datensätze anzuwenden. Auf diese Weise sind "
+"und werden wir in der Lage, sie zu digitalisieren und zu bearbeiten, sie im "
+"Rahmen der technischen Möglichkeiten der Österreichischen Akademie der "
+"Wissenschaften nachhaltig zu sichern, sie der wissenschaftlichen Gemeinschaft "
+"und der interessierten Öffentlichkeit zu präsentieren und für zukünftige "
+"Generationen zu bewahren."
+
+#: tib/templates/tib/digtib/digtib.html:44
+msgid ""
+"You may access the lists of the geographic registers of each published TIB "
+"volume (1-13 and 15) and a complete list via <a href=\"tib-register\">TIB "
+"register</a>."
+msgstr ""
+"Sie können die Listen der geografischen Register der einzelnen veröffentlichten "
+"TIB-Bände (1-13 und 15) sowie eine vollständige Liste über <a href=\"tib-register"
+"\">TIB-Register</a> abrufen."
+
+#: tib/templates/tib/digtib/digtib.html:47
+msgid ""
+"They allow you to search and compare the toponomastic evidence from all areas of "
+"research of the TIB since 1966. In all lists you may access the pdf files of the "
+"respective TIB volume by clicking on the page number, which is tagged to "
+"respective page in the pdf of the volume. Due to copyright regulations of the "
+"Austrian Academy of Sciences these functions are available for the TIB volumes "
+"1-7, 12 and 13."
+msgstr ""
+"Sie ermöglichen Ihnen die Suche und den Vergleich der toponomastischen Nachweise "
+"aus allen Forschungsbereichen der TIB seit 1966. In allen Listen können Sie auf "
+"die pdf-Dateien des jeweiligen TIB-Bandes zugreifen, indem Sie auf die "
+"Seitenzahl klicken, die mit der jeweiligen Seite im pdf des Bandes "
+"gekennzeichnet ist. Aufgrund der Urheberrechtsbestimmungen der Österreichischen "
+"Akademie der Wissenschaften stehen diese Funktionen nur für die TIB-Bände 1-7, "
+"12 und 13 zur Verfügung."
+
+#: tib/templates/tib/digtib/digtib.html:50
+msgid ""
+"Finally, a \"best practice\" has been created for the slides of the TIB. For the "
+"time being, 7,172 slides of the TIB volumes 5 (\"Cilicia and Isauria\", "
+"Friedrich Hild; 4,981 slides), 12 (\"Eastern Thrace (Eurōpē)\", Andreas Külzer; "
+"1,252 slides) and 16 (\"Macedonia, Northern Part\", Mihailo St. Popović; 939 "
+"slides) have been scanned and embedded with the respective metadata in the open-"
+"source software CollectiveAccess. You may access this data via"
+msgstr ""
+"Schließlich wurde eine \"Best Practice\" für die Dias der TIB erstellt. Derzeit "
+"sind 7.172 Dias der TIB-Bände 5 (\"Kilikien und Isaurien\", Friedrich Hild; "
+"4.981 Dias), 12 (\"Ostthrakien (Eurōpē)\", Andreas Külzer; 1.252 Dias) und 16 "
+"(\"Makedonien, nördlicher Teil\", Mihailo St. Popović; 939 Dias) gescannt und "
+"mit den jeweiligen Metadaten in die Open-Source-Software CollectiveAccess "
+"eingebettet. Sie können auf diese Daten zugreifen über"
+
+#: tib/templates/tib/digtib/digtib.html:53
+msgid ""
+"For the time being, you may search and compare these slides and view their "
+"metadata, but not download them for scholarly or private use due to copyright "
+"regulations of the Austrian Academy of Sciences."
+msgstr ""
+"Bis auf weiteres können Sie diese Dias durchsuchen und vergleichen sowie deren "
+"Metadaten einsehen, jedoch aufgrund der Urheberrechtsbestimmungen der "
+"Österreichischen Akademie der Wissenschaften nicht für den wissenschaftlichen "
+"oder privaten Gebrauch herunterladen."
+
+#: tib/templates/tib/digtib/digtib.html:58
+msgid ""
+"Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of "
+"Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
+msgstr ""
+"Der Skadar-See in Montenegro von der Insel Beška aus gesehen, Republik "
+"Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
+
+#: tib/templates/tib/digtib/digtib.html:62
+msgid ""
+"The third line of development is state of the art Geocommunication of current "
+"TIB content and results. Therefore, the TIB Balkans (Mihailo St. Popović) is "
+"creating, developing and upkeeping the online atlas \"Maps of Power: Historical "
+"Atlas of Places, Borderzones and Migration Dynamics in Byzantium\" since 2019"
+msgstr ""
+"Die dritte Entwicklungslinie ist die moderne Geokommunikation der aktuellen "
+"Inhalte und Ergebnisse der TIB. Daher erstellt, entwickelt und pflegt die TIB "
+"Balkan (Mihailo St. Popović) seit 2019 den Online-Atlas \"Maps of Power: "
+"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium\"."
+
+#: tib/templates/tib/digtib/digtib.html:65
+msgid "You may freely access this online atlas (web application) via"
+msgstr "Sie haben freien Zugang zu diesem Online-Atlas (Webanwendung) über"
+
+#: tib/templates/tib/digtib/digtib.html:69
+msgid ""
+"Scholarly results as well as digital photographs of the TIB Balkans, i.e. from "
+"the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) and 17 "
+"(\"Nea Epeiros and Praevalis\", Mihailo St. Popović), and of related <a href=\"/"
+"balkan/subprojekte\">sub-projects of the TIB Balkans</a> with a team of young "
+"scholarly co-workers are regularly embedded in English into a TIB Balkans "
+"OpenAtlas Database."
+msgstr ""
+"Wissenschaftliche Ergebnisse sowie digitale Fotografien der TIB Balkan, z.B. aus "
+"den TIB-Bänden 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) und 17 "
+"(\"Nea Epeiros and Praevalis\", Mihailo St. Popović), und von <a href=\"/balkan/"
+"subprojekte\">verwandten Teilprojekten der TIB Balkan</a> mit einem Team junger "
+"wissenschaftlicher Mitarbeiter werden regelmäßig in englischer Sprache in eine "
+"TIB Balkans OpenAtlas Database eingebettet."
+
+#: tib/templates/tib/digtib/digtib.html:72
+msgid ""
+"You may freely query the data embedded in the TIB Balkans OpenAtlas Database via"
+msgstr ""
+"Sie können die in der TIB Balkans OpenAtlas-Datenbank enthaltenen Daten frei "
+"abfragen über"
+
+#: tib/templates/tib/digtib/digtib.html:75
+msgid ""
+"All three main lines of development are intertwined and form a holistic approach."
+msgstr ""
+"Alle drei Hauptentwicklungslinien sind miteinander verflochten und bilden einen "
+"holistischen Ansatz."
+
+#: tib/templates/tib/digtib/digtib.html:78
+msgid ""
+"If you would like to read more about all three lines of development, please cf. "
+"the following two articles"
+msgstr ""
+"Wenn Sie mehr über alle drei Entwicklungslinien erfahren möchten, lesen Sie "
+"bitte die folgenden beiden Artikel"
+
+#: tib/templates/tib/digtib/digtib.html:104
+msgid "Contact"
+msgstr "Kontakt"
+
 #: tib/templates/tib/frontpage/frontpage.html:2
 #: tib/templates/tib/frontpage/frontpage.html:9
 msgid "TIB"
@@ -5417,6 +5587,7 @@ msgstr ""
 
 #: tib/templates/tib/publications/publications.html:2
 #: tib/templates/tib/publications/publications.html:6
+#: tib/templates/tib/subprojects/project.html:72
 msgid "Publications"
 msgstr "Publikationen"
 
@@ -5441,8 +5612,8 @@ msgstr "Mitarbeitende"
 msgid "Cooperation and External Employees"
 msgstr "Zusammenarbeit und externe Mitarbeiter"
 
-#: tib/templates/tib/subprojects/project.html:77
-msgid "presentations"
+#: tib/templates/tib/subprojects/project.html:76
+msgid "Presentations"
 msgstr "Präsentationen"
 
 #: tib/templates/tib/subprojects/subprojects.html:2
@@ -5453,7 +5624,137 @@ msgstr "Projekte"
 msgid "Subprojects of the"
 msgstr "Teilprojekte der TIB"
 
+#: tib/util/translations.py:3 tib/util/translations.py:7
+msgid "presenter"
+msgstr "Vortragende"
+
+#: tib/util/translations.py:4
+msgid "title"
+msgstr "titel"
+
+#: tib/util/translations.py:5
+msgid "conference"
+msgstr "Konferenz"
+
+#: tib/util/translations.py:6
+msgid "date"
+msgstr "Datum"
+
+#: tib/util/translations.py:8
+msgid "pages"
+msgstr "Seiten"
+
+#: tib/util/translations.py:9
+msgid "location"
+msgstr "Ort"
+
+#: tib/util/translations.py:10
+msgid "author"
+msgstr "Autor"
+
+#: tib/util/translations.py:11
+msgid "Volume Number"
+msgstr "Band Nummer"
+
+#: tib/util/translations.py:12
+msgid "vtib"
+msgstr "VTIB"
+
 #~ msgid "The scholarly work on current volumes is in different stages."
 #~ msgstr ""
 #~ "Die wissenschaftliche Arbeit an den aktuellen Bänden befindet sich in "
 #~ "verschiedenen Stadien."
+
+#~ msgid ""
+#~ "The year of 2018 marks 100 years from the end of one of the most disastrous "
+#~ "wars in human history. When the armistice between the Central Powers and the "
+#~ "Allied Powers (Entente) was concluded in November 1918, which ended the First "
+#~ "World War, millions of soldiers as well as civilians had met their death, "
+#~ "landscapes and infrastructure throughout the whole of Europe was devastated, "
+#~ "Empires had fallen apart and cultural monuments had been erased to the "
+#~ "ground. This project does not focus on the analysis of the armed conflict "
+#~ "itself, but will instead shed light on a very special aspect of international "
+#~ "and intercultural cooperation in times of war. Today’s Republic of Montenegro "
+#~ "(and here the National Museum of Montenegro / Narodni muzej Crne Gore in "
+#~ "Cetinje) is preserving a fascinating example of a European cultural monument, "
+#~ "which is the result of an Austro-Hungarian and Montenegrin cooperation from "
+#~ "1916 until 1918. In March 1916 the Austro-Hungarian army established its "
+#~ "military command in the former Montenegrin capital of Cetinje and here in the "
+#~ "palace of the Montenegrin kings called Biljarda. In the same year the Austro-"
+#~ "Hungarian General Staff ordered a 3D relief map of entire Montenegro to be "
+#~ "made at a scale of 1 : 10,000 in the courtyard of the Biljarda in Cetinje. "
+#~ "This relief map with 282 square metres, which was finished in 1917, displays "
+#~ "Montenegro itself as well as territories which belong to Bosnia and "
+#~ "Herzegovina, Croatia, Albania and Serbia. The relief map was made of concrete "
+#~ "on bedrock in accordance with Austro-Hungarian topographic maps of South-East "
+#~ "Europe."
+#~ msgstr ""
+#~ "2018 jährt sich zum 100. Mal das Ende eines der verheerendsten Kriege der "
+#~ "Menschheitsgeschichte. Als im November 1918 der Waffenstillstand zwischen den "
+#~ "Mittelmächten und den alliierten Mächten (Entente) geschlossen wurde, der den "
+#~ "Ersten Weltkrieg beendete, hatten Millionen von Soldaten und Zivilisten den "
+#~ "Tod gefunden, Landschaften und Infrastrukturen in ganz Europa waren "
+#~ "verwüstet, Imperien waren zerfallen und Kulturdenkmäler dem Erdboden "
+#~ "gleichgemacht worden. Im Mittelpunkt dieses Projekts steht nicht die Analyse "
+#~ "des bewaffneten Konflikts selbst, sondern es soll ein ganz besonderer Aspekt "
+#~ "der internationalen und interkulturellen Zusammenarbeit in Kriegszeiten "
+#~ "beleuchtet werden. Die heutige Republik Montenegro (und hier das "
+#~ "Nationalmuseum von Montenegro / Narodni muzej Crne Gore in Cetinje) bewahrt "
+#~ "ein faszinierendes Beispiel eines europäischen Kulturdenkmals, das das "
+#~ "Ergebnis einer österreichisch-ungarischen und montenegrinischen "
+#~ "Zusammenarbeit von 1916 bis 1918 ist. Im März 1916 errichtete die "
+#~ "österreichisch-ungarische Armee ihr Militärkommando in der ehemaligen "
+#~ "montenegrinischen Hauptstadt Cetinje und hier im Palast der montenegrinischen "
+#~ "Könige namens Biljarda. Im selben Jahr ließ der österreichisch-ungarische "
+#~ "Generalstab im Hof der Biljarda in Cetinje eine 3D-Reliefkarte von ganz "
+#~ "Montenegro im Maßstab 1 : 10.000 anfertigen. Diese Reliefkarte mit 282 "
+#~ "Quadratmetern, die 1917 fertiggestellt wurde, zeigt Montenegro selbst sowie "
+#~ "Gebiete, die zu Bosnien und Herzegowina, Kroatien, Albanien und Serbien "
+#~ "gehören. Die Reliefkarte wurde in Anlehnung an die österreichisch-ungarischen "
+#~ "topografischen Karten von Südosteuropa aus Beton auf Felsgestein hergestellt."
+
+#~ msgid ""
+#~ "Although this relief map is a remarkable cultural monument of its time, which "
+#~ "was even mentioned as a sight in the Austro-Hungarian newspapers of 1917, and "
+#~ "also nowadays, its exact history of production remains obscure. The relief "
+#~ "map of Montenegro was declared a monument of culture in 1948 and is "
+#~ "representing one of the most important local tourist sights in Cetinje and in "
+#~ "overall Montenegro today. That is why scholarly research on the relief map is "
+#~ "desperately needed. This project (No. ME 07/2019) between the Long-Term "
+#~ "Project Tabula Imperii Byzantini (TIB) at the Institute for Medieval "
+#~ "Research, Division of Byzantine Research (Austrian Academy of Sciences, "
+#~ "Vienna) and the Faculty for Culture and Tourism of the University of Donja "
+#~ "Gorica (Podgorica) is funded by the Federal Ministry of Education, Science "
+#~ "and Research (BMBWF) of the Republic of Austria via the Austrian Agency for "
+#~ "International Cooperation in Education and Research (OeAD) and envisages to "
+#~ "research archival data on the Austro-Hungarian cartographers and the "
+#~ "Montenegrin artists working on the aforesaid relief map, to collect relevant "
+#~ "secondary literature, to capture pictures of the relief map with a drone in "
+#~ "order to calculate a high resolution digital terrain model and to prepare a "
+#~ "joint scholarly article on the project’s results. All of these aspects will "
+#~ "be used for the outreach to academia and the interested public in order to "
+#~ "emphasise this vivid example of Cultural Heritage in times of war."
+#~ msgstr ""
+#~ "Obwohl diese Reliefkarte ein bemerkenswertes Kulturdenkmal ihrer Zeit ist, "
+#~ "das sogar in den österreichisch-ungarischen Zeitungen von 1917 als "
+#~ "Sehenswürdigkeit erwähnt wurde, und auch heute noch, bleibt ihre genaue "
+#~ "Entstehungsgeschichte unklar. Die Reliefkarte von Montenegro wurde 1948 zum "
+#~ "Kulturdenkmal erklärt und stellt heute eine der wichtigsten lokalen "
+#~ "touristischen Sehenswürdigkeiten in Cetinje und in ganz Montenegro dar. "
+#~ "Deshalb ist eine wissenschaftliche Erforschung der Reliefkarte dringend "
+#~ "erforderlich. Dieses Projekt (Nr. ME 07/2019) zwischen dem Langzeitprojekt "
+#~ "Tabula Imperii Byzantini (TIB) am Institut für Mittelalterforschung, "
+#~ "Abteilung für Byzantinistik (Österreichische Akademie der Wissenschaften, "
+#~ "Wien) und der Fakultät für Kultur und Tourismus der Universität Donja Gorica "
+#~ "(Podgorica) wird aus Mitteln des Bundesministeriums für Bildung, Wissenschaft "
+#~ "und Forschung (BMBWF) der Republik Österreich über die Österreichische "
+#~ "Agentur für Internationale Zusammenarbeit in Bildung und Forschung (OeAD) "
+#~ "gefördert und sieht vor, Archivdaten zu den österreichisch-ungarischen "
+#~ "Kartographen und den montenegrinischen Künstlern, die an der genannten "
+#~ "Reliefkarte gearbeitet haben, zu recherchieren, relevante Sekundärliteratur "
+#~ "zu sammeln, Bilder der Reliefkarte mit einer Drohne aufzunehmen, um ein "
+#~ "hochauflösendes digitales Geländemodell zu berechnen und einen gemeinsamen "
+#~ "wissenschaftlichen Artikel über die Ergebnisse des Projekts zu verfassen. All "
+#~ "diese Aspekte werden für die Vermittlung an die Wissenschaft und die "
+#~ "interessierte Öffentlichkeit genutzt, um dieses anschauliche Beispiel für "
+#~ "kulturelles Erbe in Zeiten des Krieges hervorzuheben."

@@ -5,17 +5,12 @@
   <img src="{{ url_for('static', filename='images/logo/digtib.png') }}"
        class="mx-auto d-block img-fluid">
   <div class="text-center top3">
-    {{ header('Digital Tabula Imperii Byzantini', False) }}
+    {{ header(_('Digital Tabula Imperii Byzantini'), False) }}
   </div>
 </div>
 <div class="container pt-3">
   <p class="lead text-center py-2 px-2">
-    The initiatives in the field of Digital Humanities at the Austrian
-    Academy of Sciences and also the related developments in Byzantine
-    Studies in the last couple of years have encouraged the TIB to step up
-    its efforts to provide a platform for the adequate presentation and
-    sustainable usage of its data, which was and is published in respective
-    TIB volumes.
+    {{ _(' The initiatives in the field of Digital Humanities at the Austrian Academy of Sciences and also the related developments in Byzantine Studies in the last couple of years have encouraged the TIB to step up its efforts to provide a platform for the adequate presentation and sustainable usage of its data, which was and is published in respective TIB volumes.')}}
   </p>
   <div class="row top7">
     {% for item in bar %}
@@ -35,103 +30,52 @@
 </div>
 <div class="container top7">
   <p>
-    As a Long-Term Project of the Austrian Academy of Sciences the
-    TIB is pursuing <b>three main lines of development</b>:
+    {{_('As a Long-Term Project of the Austrian Academy of Sciences the TIB is pursuing <b>three main lines of development</b>')}}:
   </p>
   <p>
-    1) The <b>first line of development</b> comprises the ongoing scholarly
-    work and
-    resulting printed publications, i.e. the TIB volumes with their maps
-    on a scale of 1 : 800,000, following the Long-Term Project scheme of
-    the Austrian Academy of Sciences until 2027. Cf. on the
-    <a href="{{ url_for('tib_current_status')}}">current status</a>
-    of the TIB volumes in detail.
+    1) {{_('The <b>first line of development</b> comprises the ongoing scholarly work and resulting printed publications, i.e. the TIB volumes with their maps on a scale of 1 : 800,000, following the Long-Term Project scheme of the Austrian Academy of Sciences until 2027. Cf. on the <a href="current_status">current status</a> of the TIB volumes in detail.')}}</p>
+  <p>
+    2) {{_('The <b>second line of development</b> is constituted by the scholarly, archival and digital (re)processing of published and unpublished data of the TIB, which has been collected from 1966 until 2016. The year 2016 is to be discerned as a marker, because the TIB is since then following a Long-Term Project scheme implemented at the Austrian Academy of Sciences. Our published and unpublished data comprises three main collections: the slides, which were made during TIB surveys from 1966 until 2007/08 (about 52,000); thousands of black-and-white photographs from the 1960s and 1970s from different areas of research; the published TIB volumes 1-13 and 15.')}}
   </p>
   <p>
-    2) The <b>second line of development</b> is constituted by the scholarly,
-    archival and digital (re)processing of published and unpublished data of
-    the TIB, which has been collected from 1966 until 2016. The year 2016 is
-    to be discerned as a marker, because the TIB is since then following a
-    Long-Term Project scheme implemented at the Austrian Academy of Sciences.
-    Our published and unpublished data comprises three main collections: the
-    slides, which were made during TIB surveys from 1966 until 2007/08
-    (about 52,000); thousands of black-and-white photographs from the
-    1960s and 1970s from different areas of research; the published TIB
-    volumes 1-13 and 15.
+    {{_('Since 2016 we are pursuing the aim to apply "regressive engineering" to these data sets through third-party funded projects. In this way we are, and we will be able to digitise and process them, to save them sustainably within the technical framework of the Austrian Academy of Sciences, to present them to the scholarly community and interested public and to preserve them for future generations.')}}
   </p>
   <p>
-    Since 2016 we are pursuing the aim to apply "regressive engineering" to
-    these data sets through third-party funded projects. In this way we are,
-    and we will be able to digitise and process them, to save them sustainably
-    within the technical framework of the Austrian Academy of Sciences, to
-    present them to the scholarly community and interested public and to
-    preserve them for future generations.
+    {{_('You may access the lists of the geographic registers of each published TIB volume (1-13 and 15) and a complete list via <a href="tib-register">TIB register</a>.')}}
   </p>
   <p>
-    You may access the lists of the geographic registers of each published TIB
-    volume (1-13 and 15) and a complete list via <a
-    href="{{ url_for('tib_register')}}">TIB register</a>.
+    {{_('They allow you to search and compare the toponomastic evidence from all areas of research of the TIB since 1966. In all lists you may access the pdf files of the respective TIB volume by clicking on the page number, which is tagged to respective page in the pdf of the volume. Due to copyright regulations of the Austrian Academy of Sciences these functions are available for the TIB volumes 1-7, 12 and 13.')}}
   </p>
   <p>
-    They allow you to search and compare the toponomastic evidence from all
-    areas of research of the TIB since 1966. In all lists you may access the
-    pdf files of the respective TIB volume by clicking on the page number,
-    which is tagged to respective page in the pdf of the volume. Due to
-    copyright regulations of the Austrian Academy of Sciences these functions
-    are available for the TIB volumes 1-7, 12 and 13.
+    {{_('Finally, a "best practice" has been created for the slides of the TIB. For the time being, 7,172 slides of the TIB volumes 5 ("Cilicia and Isauria", Friedrich Hild; 4,981 slides), 12 ("Eastern Thrace (Eurōpē)", Andreas Külzer; 1,252 slides) and 16 ("Macedonia, Northern Part", Mihailo St. Popović; 939 slides) have been scanned and embedded with the respective metadata in the open-source software CollectiveAccess. You may access this data via')}}: <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a>
   </p>
   <p>
-    Finally, a "best practice" has been created for the slides of the TIB. For
-    the time being, 7,172 slides of the TIB volumes 5 ("Cilicia and Isauria",
-    Friedrich Hild; 4,981 slides), 12 ("Eastern Thrace (Eurōpē)", Andreas
-    Külzer; 1,252 slides) and 16 ("Macedonia, Northern Part", Mihailo St.
-    Popović; 939 slides) have been scanned and embedded with the respective
-    metadata in the open-source software CollectiveAccess.
-    You may access this data via: <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a>
-  </p>
-  <p>
-    For the time being, you may search and compare these slides and view their
-    metadata, but not download them for scholarly or private use due to
-    copyright regulations of the Austrian Academy of Sciences.
+    {{_('For the time being, you may search and compare these slides and view their metadata, but not download them for scholarly or private use due to copyright regulations of the Austrian Academy of Sciences.')}}
   </p>
 
   <div>
-    {{ img_modal({'path': 'images/lake-skadar.jpg', 'description': 'Lake Skadar
-    in Montenegro as Viewed from the Island of Beška, Republic of Montenegro,
-    2022 (Bernhard Koschiček-Krombholz)'}, 1) }}
+    {{ img_modal({'path': 'images/lake-skadar.jpg',
+    'description': _('Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of Montenegro, 2022 (Bernhard Koschiček-Krombholz)')}, 1) }}
   </div>
 
   <p>
-    3) The third line of development is state of the art Geocommunication of
-    current TIB content and results. Therefore, the TIB Balkans (Mihailo St.
-    Popović) is creating, developing and upkeeping the online atlas "Maps of
-    Power: Historical Atlas of Places, Borderzones and Migration Dynamics in
-    Byzantium" since 2019.
+    3) {{_('The third line of development is state of the art Geocommunication of current TIB content and results. Therefore, the TIB Balkans (Mihailo St. Popović) is creating, developing and upkeeping the online atlas "Maps of Power: Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium" since 2019')}}.
   </p>
   <p>
-    You may freely access this online atlas (web application) via:
-    <a href="{{ url_for('tib_atlas') }}">https://tib.oeaw.ac.at/atlas</a>
+    {{_('You may freely access this online atlas (web application) via')}}: <a href="atlas">https://tib.oeaw.ac.at/atlas</a>
 
   </p>
   <p>
-    Scholarly results as well as digital photographs of the TIB Balkans, i.e.
-    from the TIB volumes 16 ("Macedonia, Northern Part", Mihailo St. Popović)
-    and 17 ("Nea Epeiros and Praevalis", Mihailo St. Popović), and of related
-    <a href="{{ url_for('balkan_subprojects') }}">sub-projects of the TIB
-      Balkans</a> with a team of young scholarly co-workers are regularly
-    embedded in English into a TIB Balkans OpenAtlas Database.
+    {{_('Scholarly results as well as digital photographs of the TIB Balkans, i.e. from the TIB volumes 16 ("Macedonia, Northern Part", Mihailo St. Popović) and 17 ("Nea Epeiros and Praevalis", Mihailo St. Popović), and of related <a href="/balkan/subprojekte">sub-projects of the TIB Balkans</a> with a team of young scholarly co-workers are regularly embedded in English into a TIB Balkans OpenAtlas Database.')}}
   </p>
   <p>
-    You may freely query the data embedded in the TIB Balkans OpenAtlas
-    Database via: <a href="{{ url_for('balkan_digital', category='explore')}}">https://tib.oeaw.ac.at/balkan/digital/explore</a>
+    {{_('You may freely query the data embedded in the TIB Balkans OpenAtlas Database via')}}: <a href="balkan/digital/explore">https://tib.oeaw.ac.at/balkan/digital/explore</a>
   </p>
   <p>
-    All three main lines of development are intertwined and form a holistic
-    approach.
+    {{_('All three main lines of development are intertwined and form a holistic approach.')}}
   </p>
   <p>
-    If you would like to read more about all three lines of development, please
-    cf. the following two articles:
+    {{_('If you would like to read more about all three lines of development, please cf. the following two articles')}}:
   </p>
   <ul>
     <li>
@@ -157,7 +101,7 @@
     </li>
   </ul>
   <p>
-    Contact: <a href="mailto:mihailo.popovic@oeaw.ac.at">Mihailo.Popovic[a]oeaw.ac.at</a>
+    {{_('Contact')}}: <a href="mailto:mihailo.popovic@oeaw.ac.at">Mihailo.Popovic[a]oeaw.ac.at</a>
   </p>
 
 </div>

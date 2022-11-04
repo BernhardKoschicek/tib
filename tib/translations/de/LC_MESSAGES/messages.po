@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 11:26+0100\n"
-"PO-Revision-Date: 2022-11-04 11:30+0100\n"
+"POT-Creation-Date: 2022-11-04 12:08+0100\n"
+"PO-Revision-Date: 2022-11-04 12:10+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -32,7 +32,6 @@ msgid "sub_projects"
 msgstr "Projekte"
 
 #: tib/data/navigation.py:9
-#, fuzzy
 msgid "publications"
 msgstr "Publikationen"
 
@@ -161,11 +160,50 @@ msgstr "Buchveröffentlichung"
 msgid "blogpost"
 msgstr "Blog Post"
 
-#: tib/data/outreach.py:62
+#: tib/data/outreach.py:40
+msgid "Promotion Event for TIB 11"
+msgstr "Buchpräsentation TIB 11"
+
+#: tib/data/outreach.py:42
+msgid ""
+"On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
+"11) will be officially promoted at the Department of Byzantine Research of the "
+"Institute for Medieval Research (IMAFO)."
+msgstr ""
+"Am Montag, den 14. November 2022, wird der TIB-Band \"Makedonien, südlicher Teil"
+"\" (TIB 11) in der Abteilung für Byzantinische Forschung des Instituts für "
+"Mittelalterforschung (IMAFO) offiziell vorgestellt."
+
+#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
+msgid "Date"
+msgstr "Datum"
+
+#: tib/data/outreach.py:47
+msgid "Begin"
+msgstr "Beginn"
+
+#: tib/data/outreach.py:48
+msgid "Venue"
+msgstr "Veranstalturnsort"
+
+#: tib/data/outreach.py:49
+msgid "1st Floor"
+msgstr "1er Stock"
+
+#: tib/data/outreach.py:49 tib/templates/footer.html:25
+#: tib/templates/tib/imprint.html:15
+msgid "Vienna"
+msgstr "Wien"
+
+#: tib/data/outreach.py:50
+msgid "Registration"
+msgstr "Anmeldung"
+
+#: tib/data/outreach.py:64
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24er Internationaler Kongress für Byzantinistik in Venedig und Padua"
 
-#: tib/data/outreach.py:66
+#: tib/data/outreach.py:68
 msgid "aieb_roundtable"
 msgstr ""
 "Die \"Kommission für die Historische Geographie und Raumanalyse von Byzanz\" der "
@@ -179,15 +217,15 @@ msgstr ""
 "The Impact of Contemporary Environmental and Demographic Change on the Research "
 "of the Historical Geography of Byzantium\" in Padua halten."
 
-#: tib/data/outreach.py:67
+#: tib/data/outreach.py:69
 msgid "For further information and the programme please cf."
 msgstr "Weitere Informationen und das Programm finden Sie hier"
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:79
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost zum Paper \"OpenAtlas und historische Geographie\""
 
-#: tib/data/outreach.py:80
+#: tib/data/outreach.py:82
 msgid "hypotheses_post"
 msgstr ""
 "Das Paper \"OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -195,41 +233,41 @@ msgstr ""
 "St. Popović wird in einem Blogpost von einem Studenten der Universität zu Köln "
 "vorgestellt und kommentiert:"
 
-#: tib/data/outreach.py:89
+#: tib/data/outreach.py:91
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB Band 11, Mazedonien, Südlicher Teil veröffentlicht"
 
-#: tib/data/outreach.py:91
+#: tib/data/outreach.py:93
 msgid "tib_11_release"
 msgstr ""
 "Mit großer Freude dürfen wir die Veröffentlichung des TIB-Bandes 11 "
 "(\"Mazedonien, südlicher Teil\") ankündigen, der von Peter Soustal (mit Andreas "
 "Pülz und Mihailo St. Popović als Co-Autoren) geschrieben wurde."
 
-#: tib/data/outreach.py:92
+#: tib/data/outreach.py:94
 msgid "Cf. in detail:"
 msgstr "Sehen Sie im Detail:"
 
-#: tib/data/outreach.py:106
+#: tib/data/outreach.py:108
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Vortrag auf dem Internationalen Mittelalterkongress (IMC) in Leeds"
 
-#: tib/data/outreach.py:109
+#: tib/data/outreach.py:111
 msgid "imc2022"
 msgstr ""
 "Während des Internationalen Mittelalterkongresses (IMC) in Leeds vom 4. bis 7. "
 "Juli 2022 hat das Team der TIB Balkan am Mittwoch, den 6. Juli, seine "
 "Forschungen in den Sitzungen Nr. 1034, 1134, 1234 und 1334 vorstellen."
 
-#: tib/data/outreach.py:110
+#: tib/data/outreach.py:112
 msgid "Cf. in detail"
 msgstr "Sehen sie im Detail"
 
-#: tib/data/outreach.py:119
+#: tib/data/outreach.py:121
 msgid "presentation at university of cologne, germany"
 msgstr "Präsentation an der Universität Köln, Deutschland"
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:123
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz und Mihailo St. Popović präsentieren einen Vortrag "
@@ -238,11 +276,11 @@ msgstr ""
 "einem <a href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities "
 "Kolloquium</a>."
 
-#: tib/data/outreach.py:130
+#: tib/data/outreach.py:132
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB bei der \"Langen Nacht der Forschung\" in Wien"
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:134
 msgid "lange_nacht_22_text"
 msgstr ""
 "Im Mai 2022 war die Österreichische Akademie der Wissenschaften "
@@ -257,7 +295,7 @@ msgstr ""
 "holdura\">Jenseits von Ost und West: Geokommunikation der heiligen Landschaften "
 "\"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)</a>. basiert."
 
-#: tib/data/outreach.py:141
+#: tib/data/outreach.py:143
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -265,7 +303,7 @@ msgstr ""
 "Presentation bei \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
 
-#: tib/data/outreach.py:144
+#: tib/data/outreach.py:146
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović hat auf der Konferenz <a href=\"https://www.oeaw.ac.at/en/global-"
@@ -274,7 +312,7 @@ msgstr ""
 "Agency, Networks and Transregional Contexts\"</a> am IMAFO (ÖAW) einen Vortrag "
 "über die TIB gehalten."
 
-#: tib/data/outreach.py:152
+#: tib/data/outreach.py:154
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -282,7 +320,7 @@ msgstr ""
 "Über den Nutzen und die Nützlichkeit der digitalen Geisteswissenschaften in der "
 "historischen Geographie von Byzanz"
 
-#: tib/data/outreach.py:155
+#: tib/data/outreach.py:157
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović hielt am 1. April 2022 einen Online-Vortrag mit dem Titel \"On "
@@ -353,7 +391,6 @@ msgid "The Core Areas of the Byzantine Empire according to Johannes Koder"
 msgstr "Die Kerngebiete des Byzantinischen Reiches nach Johannes Koder"
 
 #: tib/data/images/history.py:62
-#, fuzzy
 msgid "Johannes Koder receiving His PhD-Degree by Professor Herbert Hunger in 1965"
 msgstr ""
 "Johannes Koder bei der Verleihung des Doktortitels durch Professor Herbert "
@@ -646,7 +683,6 @@ msgid "Yoğurtçu Kale, 15 km West of Manisa, Asia"
 msgstr "Yoğurtçu Kale, 15 km westlich von Manisa, Asien"
 
 #: tib/data/images/volumes.py:62
-#, fuzzy
 msgid ""
 "The Ancient Theatre in Heraclea Lyncestis from the South, Republic of North "
 "Macedonia"
@@ -657,7 +693,6 @@ msgid "The Ottoman Bridge called Kadin Most in Nevestino, Bulgaria"
 msgstr "Die osmanische Brücke namens Kadin Most in Nevestino, Bulgarien"
 
 #: tib/data/images/volumes.py:72
-#, fuzzy
 msgid "Lake Dojran, Republic of North Macedonia"
 msgstr "Das alte Stadttor von Ohrid, Republik Nordmazedonien"
 
@@ -676,7 +711,6 @@ msgid "The Church of Prečista Krajinska, Montenegro"
 msgstr "Die Kirche von Prečista Krajinska, Montenegro"
 
 #: tib/data/images/volumes.py:94
-#, fuzzy
 msgid "The Old Town of Budva, Montenegro"
 msgstr "Die Bucht von Budva in Montenegro"
 
@@ -847,10 +881,6 @@ msgstr "Institut für Mittelalterforschung"
 #: tib/templates/footer.html:23
 msgid "Division of Byzantine Research"
 msgstr "Abteilung für Byzanzforschung"
-
-#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
-msgid "Vienna"
-msgstr "Wien"
 
 #: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
 msgid "Austria"
@@ -1224,10 +1254,6 @@ msgstr "E-Mail"
 #: tib/templates/tib/aieb/aieb.html:179
 msgid "Documents of the Commission"
 msgstr "Dokumente der Kommission"
-
-#: tib/templates/tib/aieb/aieb.html:184
-msgid "Date"
-msgstr "Datum"
 
 #: tib/templates/tib/aieb/aieb.html:185
 msgid "Titel"

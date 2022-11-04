@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 11:26+0100\n"
+"POT-Creation-Date: 2022-11-04 12:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,83 +155,119 @@ msgstr ""
 msgid "blogpost"
 msgstr ""
 
-#: tib/data/outreach.py:62
+#: tib/data/outreach.py:40
+msgid "Promotion Event for TIB 11"
+msgstr ""
+
+#: tib/data/outreach.py:42
+msgid ""
+"On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" "
+"(TIB 11) will be officially promoted at the Department of Byzantine "
+"Research of the Institute for Medieval Research (IMAFO)."
+msgstr ""
+
+#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
+msgid "Date"
+msgstr ""
+
+#: tib/data/outreach.py:47
+msgid "Begin"
+msgstr ""
+
+#: tib/data/outreach.py:48
+msgid "Venue"
+msgstr ""
+
+#: tib/data/outreach.py:49
+msgid "1st Floor"
+msgstr ""
+
+#: tib/data/outreach.py:49 tib/templates/footer.html:25
+#: tib/templates/tib/imprint.html:15
+msgid "Vienna"
+msgstr ""
+
+#: tib/data/outreach.py:50
+msgid "Registration"
+msgstr ""
+
+#: tib/data/outreach.py:64
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr ""
 
-#: tib/data/outreach.py:66
+#: tib/data/outreach.py:68
 msgid "aieb_roundtable"
 msgstr ""
 
-#: tib/data/outreach.py:67
+#: tib/data/outreach.py:69
 msgid "For further information and the programme please cf."
 msgstr ""
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:79
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr ""
 
-#: tib/data/outreach.py:80
+#: tib/data/outreach.py:82
 msgid "hypotheses_post"
 msgstr ""
 
-#: tib/data/outreach.py:89
+#: tib/data/outreach.py:91
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr ""
 
-#: tib/data/outreach.py:91
+#: tib/data/outreach.py:93
 msgid "tib_11_release"
 msgstr ""
 
-#: tib/data/outreach.py:92
+#: tib/data/outreach.py:94
 msgid "Cf. in detail:"
 msgstr ""
 
-#: tib/data/outreach.py:106
+#: tib/data/outreach.py:108
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr ""
 
-#: tib/data/outreach.py:109
+#: tib/data/outreach.py:111
 msgid "imc2022"
 msgstr ""
 
-#: tib/data/outreach.py:110
+#: tib/data/outreach.py:112
 msgid "Cf. in detail"
 msgstr ""
 
-#: tib/data/outreach.py:119
+#: tib/data/outreach.py:121
 msgid "presentation at university of cologne, germany"
 msgstr ""
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:123
 msgid "seminar_koeln"
 msgstr ""
 
-#: tib/data/outreach.py:130
+#: tib/data/outreach.py:132
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:134
 msgid "lange_nacht_22_text"
 msgstr ""
 
-#: tib/data/outreach.py:141
+#: tib/data/outreach.py:143
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: "
 "Agency, Networks and Transregional Contexts\""
 msgstr ""
 
-#: tib/data/outreach.py:144
+#: tib/data/outreach.py:146
 msgid "global_eurasia_5_12_22"
 msgstr ""
 
-#: tib/data/outreach.py:152
+#: tib/data/outreach.py:154
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical "
 "Geography of Byzantium"
 msgstr ""
 
-#: tib/data/outreach.py:155
+#: tib/data/outreach.py:157
 msgid "seminar_series_april"
 msgstr ""
 
@@ -737,10 +773,6 @@ msgid "Division of Byzantine Research"
 msgstr ""
 
 #: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
-msgid "Vienna"
-msgstr ""
-
-#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
 msgid "Austria"
 msgstr ""
 
@@ -1015,10 +1047,6 @@ msgstr ""
 
 #: tib/templates/tib/aieb/aieb.html:179
 msgid "Documents of the Commission"
-msgstr ""
-
-#: tib/templates/tib/aieb/aieb.html:184
-msgid "Date"
 msgstr ""
 
 #: tib/templates/tib/aieb/aieb.html:185

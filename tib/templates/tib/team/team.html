@@ -7,17 +7,17 @@
   <div class="container top3">
     <div class="row row-cols-2 align-self-center justify-content-center">
       {% for cat, members in categories.items() %}
-        <div class="{% if cat=='former_employees' %}col-12 {% else %} col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 {% endif %}">
+        <div class="{% if cat=='Former_Employees' %}col-12 {% else %} col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 {% endif %}">
           <div class="container-fluid align-self-center justify-content-center row">
             <div class="col-12">
-              <h4 class="text-center pt-3 py-3 rounded-3 bg-violet-light">{{ cat | replace('_', ' ') }}</h4>
+              <h4 class="text-center pt-3 py-3 rounded-3">{{ _(cat) }}</h4>
             </div>
           </div>
           <div class="row align-self-center justify-content-center pb-5 rounded-3">
             {% for member in members %}
-              <div class="{% if cat=='former_employees' %} col-3 {% else %} col-6 {% endif %} pt-3 mt-3 ">
+              <div class="{% if cat=='Former_Employees' %} col-3 {% else %} col-6 {% endif %} pt-3 mt-3 ">
                 {% with member=member %}
-                  <div class="row container-fluid btn btn-violet-light border-violet-light border-1 py-3"
+                  <div class="row container-fluid btn py-3"
                        data-bs-toggle="popover" data-bs-trigger="focus"
                        tabindex="0"
                        title="{{ member.name }}"
@@ -30,7 +30,7 @@
                     <div class="col-md-12 text-center">
                       <div class="pt-2">
                         <h4 class="mt-4 font-weight-medium mb-1">{{ member.name }}</h4>
-                        <h5 class="subtitle mb-3">{{ member.team | replace('_', ' ') | title }}</h5>
+                        <h5 class="subtitle mb-3">{{ _(member.team) | title }}</h5>
                       </div>
                     </div>
                     <div class="col-md-12 text-center">

@@ -114,7 +114,7 @@ def digtib_submenu(item: str) -> str:
 @blueprint.app_template_filter()
 def include_css(route: str) -> str:
     css = ''
-    for style in ['style', 'burger', 'navbar', 'parallax', 'footer',
+    for style in ['style', 'burger', 'navbar', 'parallax', 'footer', 'fonts',
                   'image_hover_effect', 'boxes_background', 'responsiv_grid']:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'

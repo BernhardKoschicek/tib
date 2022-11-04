@@ -17,10 +17,3 @@ home_images = {
                 'Konferenz in China beteiligt, 2011 (M. St. Popović)',
 }
 
-project_icons = {
-    'tib11': 'Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)',
-    'tib14': 'Sardis, West of Modern Salihli, Lydia (TIB 14, A. Külzer, 2013)',
-    'tib16': 'Traces of an Early Christian Basilica (5. Cent) on the Island of Golem Grad, Repbulic of North Macedonia (M. Popović, TIB 16, 2017)',
-    'tib17': 'Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. Popović, TIB 17, 2021)',
-    'tib18': 'Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)'
-}

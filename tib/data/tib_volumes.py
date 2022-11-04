@@ -1,5 +1,18 @@
 from flask_babel import lazy_gettext as _l
 
+comments = {
+    'tib11': _l(
+        'The volume "Macedonia, Southern Part" covers approximately the province of Macedonia prima as this administrative unit was established in the 5th century and corresponds to the area Makedonia of modern Greece. This area comprises the region from Epirus in the west to Thrace in the east and is bordered to the north by the Republic of North Macedonia, to a lesser extent by Bulgaria and Albania and to the south by Thessaly and the Aegean. Within the TIB series, the territory of volume 11 abuts by the regions of the published volumes TIB 1 (Hellas und Thessalia), TIB 3 (Nikopolis und Kephallēnia) and TIB 6 (Thrakien) as well as the region TIB 16 (Macedonia, Northern Part), which is in preparation. The immigration of Slavs in the 6th and 7th centuries has been a decisive influence on the medieval toponymy and the settlement history of Macedonia. In the Middle Ages, Macedonia was a region of contacts between Byzantine Greeks and Slavs (e. g. Bulgarians, Serbs). The metropolis of Thessalonica was of great importance in political, cultural and economic terms. In the 10th and 11th centuries, the peninsula of Mount Athos developed into a center of monasticism and extended its spiritual and economic influence far beyond its borders. As for the Late Byzantine period, extensive written sources (Greek documents for monasteries, Ottoman tax registers) provide important insights into toponymy, population, and economy.'),
+    'tib14': _l(
+        'Western Asia Minor was already an important landscape in ancient times, enriched by numerous settlements with enormous cultural potential and considerable economic power. In this region, the Romans established their first province in Anatolia, in the year 129 BC. Consequently, they called the region Asia. Some centuries later, in the time of Emperor Diocletian (284–305), the huge province with a size of more than 150,000 square kilometers was divided into several smaller units, which continued to exist in the early Byzantine period. One of them was Lydia, about 16,000 square kilometers in size, with its central places in Sardis (Sart), Thyateira (Akhisar) and Philadelphia (Alaşehir). The most important rivers were Hermos (Gediz çay) and Cogamus (Alaşehir çay). The new province of Asia owns only 19,100 square kilometers; it was considerably smaller than the former Roman one. Among its central market places, one has to mention Ephesus (Selçuk), Pergamum (Bergama), Smyrna (İzmir) and Magnesia (Manisa); its main river is the Meander (Büyük Menderes Nehri). The project “Western Asia Minor” is dedicated to this core region of the Byzantine Empire, the mentioned landscapes will be analysed by interpreting written sources, toponyms, archaeological remains, and the physical state of the landscape. The picture will be completed by using the results of settlement theories, digital humanities and similar methods of research.'),
+    'tib16': _l(
+        'The volume 16 of the TIB entitled "Macedonia, Northern Part" comprises the Early Byzantine province of Macedonia Secunda and parts of the provinces Macedonia Prima, Dardania, Epirus Nova, Praevalitana and Dacia Mediterranea. It is closely connected to the volume on "Macedonia, Southern Part" (TIB 11, Peter Soustal). Since the historical area of Macedonia is today divided between Greece, the Republic of North Macedonia and Bulgaria, the volume "Macedonia, Northern Part" (TIB 16) covers the whole territory of North Macedonia and two districts of Bulgaria (namely Kjustendil and Blagoevgrad). The volume on "Macedonia, Northern Part" thus bridges the gap between the volumes TIB 6 "Thrace" and TIB 11 "Macedonia, Southern Part". The research for this volume is based on written sources (mainly in Greek, Latin, Old Slavonic and Ottoman), monuments, archaeological reports and a vast variety of toponyms, as well as extensive secondary literature, mostly in the South Slavic languages. Research trips to the area are regularly conducted.'),
+    'tib17': _l(
+        'The volume 17 of the TIB entitled "Nea Epeiros and Praevalis" comprises the Early Byzantine provinces of the same name. It is a systematic continuation of the scholarly endeavour in accordance with the excellently evaluated working plan of the Long-Term-Project TIB of the Austrian Academy of Sciences towards the Adriatic Sea and, thus, closing the gap between the volumes TIB 16 "Macedonia, Northern Part" and TIB 3 "Nikopolis and Kephallēnia". The volume "Nea Epeiros and Praevalis" covers the whole territory of today’s Montenegro, the northern part of Albania and the district of Raška (Novi Pazar) in Serbia. The research for this volume is based on written sources (mainly in Greek, Latin, Old Slavonic and Ottoman), monuments, archaeological reports and a vast variety of toponyms, as well as extensive secondary literature, mostly in the South Slavic languages. A special emphasis is put on the Cultural Heritage in the area of research and especially on Austro-Hungarian archival material on the region kept in the Austrian State Archives. Research trips to the area are regularly conducted, during which applications deriving from geoinformatics (e.g. Historical Geographic Information Systems / HGIS) are used.'),
+    'tib18': _l(
+        'Caria in Southwestern Asia Minor with its center Aphrodisias (in Byzantine times Staurupolis) will be examined by using the established methods of Tabula Imperii Byzantini: the analysis of written sources, local toponyms, archaeological remains, and the physical landscape. The volume will constitute a link with TIB 8, Lycia and Pamphylia, by H. Hellenkemper and F. Hild, with TIB 7, Phrygia and Pisidia, by K. Belke and N. Mersich, and with TIB 14, Asia, by A. Külzer.')
+}
+
 descriptions = {
     'tib1': [
         _l('In accordance with the administrative structure of Greece, the area covered by TIB 1 was essentially divided into the following administrative districts: a) in Hellas, the Nomoi Eurytania, Phthiotis, Phokis and the island of Euboea, which have been assigned to the Sterea Ellada region since the 2011 administrative reform, as well as Attica and the mainland parts of Corinthia; b) in Thessalia, Larisa, Trikala, Karditsa and Magnesia.'),
@@ -139,3 +152,74 @@ descriptions = {
         _l('According to the relief, the processing area is a mountain and basin country. About 80% of the territory is hilly or mountainous, the remaining 20% plain. The TIB 16 study area is mainly characterised by rivers draining to the south, which lead to the partly marshy, fertile coastal plains of the Thermaic Gulf and the northern Aegean Sea. The rivers of northern Macedonia belong to three river basins. The Aegean river basin is the largest with a catchment area of 87% of the country\'s territory, followed by the Adriatic with about 12% and the small remainder accounted for by the Danube river basin. The longest and largest river in Northern Macedonia is the Vardar with a total length of 388 km. Of this, about 300 km are in Northern Macedonia. In southwestern Bulgaria, the Struma is the longest and largest river with about 415 km, of which 290 km are in Bulgaria. It rises on the slopes of the Vitoša Mountains at 2,180 m above sea level and flows first in a northerly, then westerly direction to the village of Pernik, before finally turning south to Greece and flowing into the Aegean Sea. From the point of view of limnology, the processing area is rich in findings. In the Republic of Northern Macedonia there are a total of 160 lakes, of which 50 are natural and 110 are artificial reservoirs. The largest natural lakes are Lake Ohrid (area 348.8 km2), Great Prespa Lake (area 274 km2) and Dojran Lake (area 43 km2).'),
         _l('Mihailo St. Popović'),
     ], }
+
+tib_icons = {
+    'tib11': 'Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)',
+    'tib14': 'Sardis, West of Modern Salihli, Lydia (TIB 14, A. Külzer, 2013)',
+    'tib16': 'Traces of an Early Christian Basilica (5. Cent) on the Island of Golem Grad, Repbulic of North Macedonia (M. Popović, TIB 16, 2017)',
+    'tib17': 'Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. Popović, TIB 17, 2021)',
+    'tib18': 'Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)'
+}
+
+tib_volumes_dict = {
+    'TIB_11': {
+        'title': _l('Macedonia, Southern Part'),
+        'author': 'Peter Soustal',
+        'icon_description': tib_icons['tib11'],
+        'icon': 'images/boxes_background/tib11_icon.jpg',
+        'description': descriptions['tib11'],
+        'comment': comments['tib11'],
+        'subprojects': [],
+        'part': 'balkan',
+        'finished': True,
+        'images': 'tib11'
+    },
+    'TIB_14': {
+        'title': _l('Western Asia Minor: Lydia and Asia'),
+        'author': 'Andreas Külzer',
+        'icon_description': tib_icons['tib14'],
+        'icon': 'images/boxes_background/tib14_icon.jpg',
+        'description': descriptions['tib14'],
+        'comment': comments['tib14'],
+        'subprojects': [],
+        'part': 'asia',
+        'finished': False,
+        'images': 'tib14'
+    },
+    'TIB_16': {
+        'title': _l('Macedonia, Northern Part'),
+        'author': 'Mihailo Popović',
+        'icon_description': tib_icons['tib16'],
+        'icon': 'images/boxes_background/tib16_icon.jpg',
+        'description': descriptions['tib16'],
+        'comment': comments['tib16'],
+        'subprojects': [],
+        'part': 'balkan',
+        'finished': False,
+        'images': 'tib16'
+    },
+    'TIB_17': {
+        'title': _l('Nea Epeiros and Praevalis'),
+        'author': 'Mihailo Popović',
+        'icon_description': tib_icons['tib17'],
+        'icon': 'images/boxes_background/tib17_icon.jpg',
+        'description': None,
+        'comment': comments['tib17'],
+        'subprojects': [],
+        'part': 'balkan',
+        'finished': False,
+        'images': 'tib17'
+    },
+    'TIB_18': {
+        'title': _l('Caria'),
+        'author': 'Friedrich Hild, Andreas Külzer',
+        'icon_description': tib_icons['tib18'],
+        'icon': 'images/boxes_background/tib18_icon.jpg',
+        'description': None,
+        'comment': comments['tib18'],
+        'subprojects': [],
+        'part': 'aisa',
+        'finished': False,
+        'images': 'tib18'
+    }
+}

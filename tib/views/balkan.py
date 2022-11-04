@@ -3,7 +3,6 @@ from typing import Any
 from flask import render_template
 
 from tib import app
-from tib.data.balkan.balkan_volumen import tib_volumen_dict
 from tib.data.outreach import outreach
 from tib.data.balkan.project_results import result_links, project_results
 from tib.data.balkan.subprojects_ger import subprojects_ger
@@ -19,7 +18,7 @@ from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.balkan.team import team_members
 from tib.data.tib.presentations import presentations
 from tib.data.tib.project_publications import project_publications
-from tib.data.tib.tib_volumen import tib_volumes_dict
+from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict
 
@@ -31,7 +30,7 @@ def home() -> str:
         'balkan/home/home.html',
         front_menu=balkan_jumbotron,
         img_description=home_images,
-        tib_volumen=tib_volumen_dict,
+        tib_volumes=tib_volumes_dict,
         subprojects=subprojects_ger,
         team=team_members,
         outreach=outreach,
@@ -51,18 +50,18 @@ def balkan_team() -> str:
 def balkan_volumes(band: str = None) -> str:
     if band:
         return render_template(
-            'balkan/tib_volumen/volume.html',
-            tib_volume=tib_volumen_dict[band],
+            'balkan/tib_volumes/volume.html',
+            tib_volume=tib_volumes_dict[band],
             navigation=get_prev_and_next_item_of_dict(
                 band,
-                tib_volumen_dict),
+                tib_volumes_dict),
             code=band,
             images=get_dict_entries_by_category(
                 tib_volumes_dict[band]['images'],
                 IMAGES_TIB))
     return render_template(
-        'balkan/tib_volumen/tib_volumes.html',
-        tib_volumen=tib_volumen_dict)
+        'balkan/tib_volumes/tib_volumes.html',
+        tib_volumes=tib_volumes_dict)
 
 
 @app.route('/balkan/subprojekte')
@@ -122,7 +121,7 @@ def balkan_long_term():
 def balkan_tib():
     return render_template(
         'balkan/tib_balkan/tib_balkan.html',
-        tib_volumen=tib_volumen_dict)
+        tib_volumes=tib_volumes_dict)
 
 
 @app.route('/balkan/historische-geographie')

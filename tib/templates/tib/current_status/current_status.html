@@ -15,26 +15,52 @@
           {{ _('From 1 January 2006 until 30 June 2012 the "Kommission für die Tabula Imperii Byzantini / Commission of the Tabula Imperii Byzantini" was incorporated into the then newly established Institute of Byzantine Studies of the Austrian Academy of Sciences. Since 1 July 2012 the TIB is an integral part of the Institute for Medieval Research, Division of Byzantine Research. It was accepted by the Union Académique Internationale in Brussels in 2015. At the same time (2015) the TIB was included into the scheme of Long-Term-Projects at the Austrian Academy of Sciences based on excellent international evaluations, recognising as two Project Leaders of the project Prof. Dr. Andreas Külzer (Asia Minor) and Doz. Mag. Dr. Mihailo Popović (Balkans).') }}
       </p>
     </div>
-    <h4 class="text-center">
-      {{ _('The scholarly work on current volumes is in different stages.') }}
-    </h4>
+    <h3 class="text-center top5">
+      {{ _('Current volumes in progress') }}
+    </h3>
     <div class="row justify-content-md-center top3">
       {% for tib, volume in tib_volumes.items() %}
-        <div class="col-md-12 col-xl-4 col-xxl-4 nopadding">
-          <div class="hover_effect">
-            <img src="{{ url_for('static', filename=volume['icon']) }}"
-                 class="img-fluid" alt="{{ tib }}Icon">
-            <div class="overlay">
-              <a href="{{ url_for('tib_current_status', volume=tib) }}">
-                <h1 class="text-white">{{ (tib.replace('_', ' ')) }}</h1>
-                <p>{{ volume['title'] }}</p>
-                <div class="pt-5">
-                  {{ box_description(volume['icon_description']) }}
-                </div>
-              </a>
+        {% if not volume['finished']  %}
+          <div class="col-md-12 col-xl-4 col-xxl-4 nopadding">
+            <div class="hover_effect">
+              <img src="{{ url_for('static', filename=volume['icon']) }}"
+                   class="img-fluid" alt="{{ tib }}Icon">
+              <div class="overlay">
+                <a href="{{ url_for('tib_current_status', volume=tib) }}">
+                  <h1 class="text-white">{{ (tib.replace('_', ' ')) }}</h1>
+                  <p>{{ volume['title'] }}</p>
+                  <div class="pt-5">
+                    {{ box_description(volume['icon_description']) }}
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
-        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <h3 class="text-center top5">
+      {{ _('Finished volumes') }}
+    </h3>
+    <div class="row justify-content-md-center top3">
+      {% for tib, volume in tib_volumes.items() %}
+        {% if volume['finished']  %}
+          <div class="col-md-12 col-xl-4 col-xxl-4 nopadding">
+            <div class="hover_effect">
+              <img src="{{ url_for('static', filename=volume['icon']) }}"
+                   class="img-fluid" alt="{{ tib }}Icon">
+              <div class="overlay">
+                <a href="{{ url_for('tib_current_status', volume=tib) }}">
+                  <h1 class="text-white">{{ (tib.replace('_', ' ')) }}</h1>
+                  <p>{{ volume['title'] }}</p>
+                  <div class="pt-5">
+                    {{ box_description(volume['icon_description']) }}
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>

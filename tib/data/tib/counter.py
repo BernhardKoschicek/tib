@@ -1,7 +1,7 @@
 from flask_babel import lazy_gettext as _l
 
 counter = {
-    'tib_volumen': {
+    'tib_volumes': {
         'count': 13,
         'description': _l('TIB Volumes Published'),
         'icon': 'bi-book-fill'

@@ -1,0 +1,1262 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-04 11:26+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: tib/data/navigation.py:6
+msgid "history"
+msgstr ""
+
+#: tib/data/navigation.py:7
+msgid "current_status"
+msgstr ""
+
+#: tib/data/navigation.py:8
+msgid "sub_projects"
+msgstr ""
+
+#: tib/data/navigation.py:9
+msgid "publications"
+msgstr ""
+
+#: tib/data/navigation.py:10 tib/data/navigation.py:36
+msgid "digtib"
+msgstr ""
+
+#: tib/data/navigation.py:11
+msgid "aieb"
+msgstr ""
+
+#: tib/data/navigation.py:12
+msgid "team"
+msgstr ""
+
+#: tib/data/navigation.py:25
+msgid "balkan_tib"
+msgstr ""
+
+#: tib/data/navigation.py:26
+msgid "balkan_long_term"
+msgstr ""
+
+#: tib/data/navigation.py:27
+msgid "balkan_historical_geographie"
+msgstr ""
+
+#: tib/data/navigation.py:28
+msgid "balkan_outreach"
+msgstr ""
+
+#: tib/data/navigation.py:29
+msgid "balkan_team"
+msgstr ""
+
+#: tib/data/navigation.py:30
+msgid "balkan_volumes"
+msgstr ""
+
+#: tib/data/navigation.py:31
+msgid "balkan_subprojects"
+msgstr ""
+
+#: tib/data/navigation.py:32
+msgid "balkan_digital"
+msgstr ""
+
+#: tib/data/navigation.py:33
+msgid "3dobjects"
+msgstr ""
+
+#: tib/data/navigation.py:34
+msgid "explore"
+msgstr ""
+
+#: tib/data/navigation.py:35
+msgid "holdura"
+msgstr ""
+
+#: tib/data/navigation.py:37
+msgid "borderzones"
+msgstr ""
+
+#: tib/data/navigation.py:38
+msgid "montenegro"
+msgstr ""
+
+#: tib/data/navigation.py:56
+msgid "toponym_register"
+msgstr ""
+
+#: tib/data/navigation.py:60
+msgid ""
+"A complete list of geographic registers of the published TIB volumes 1-13"
+" and 15"
+msgstr ""
+
+#: tib/data/navigation.py:63
+msgid "image_collection"
+msgstr ""
+
+#: tib/data/navigation.py:67
+msgid ""
+"Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
+" with metadata"
+msgstr ""
+
+#: tib/data/navigation.py:70 tib/templates/tib/frontpage/tib_map.html:5
+msgid "map_application"
+msgstr ""
+
+#: tib/data/navigation.py:74
+msgid ""
+"Graphical map application to access, browse and query data from TIB "
+"Balkans"
+msgstr ""
+
+#: tib/data/navigation.py:78
+msgid "browse_tib_balkans_data"
+msgstr ""
+
+#: tib/data/navigation.py:82
+msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
+msgstr ""
+
+#: tib/data/outreach.py:10 tib/data/outreach.py:14
+msgid "presentation"
+msgstr ""
+
+#: tib/data/outreach.py:18
+msgid "award"
+msgstr ""
+
+#: tib/data/outreach.py:22
+msgid "science_fair"
+msgstr ""
+
+#: tib/data/outreach.py:26
+msgid "book_release"
+msgstr ""
+
+#: tib/data/outreach.py:30
+msgid "blogpost"
+msgstr ""
+
+#: tib/data/outreach.py:62
+msgid "24th International Congress of Byzantine Studies in Venice and Padua"
+msgstr ""
+
+#: tib/data/outreach.py:66
+msgid "aieb_roundtable"
+msgstr ""
+
+#: tib/data/outreach.py:67
+msgid "For further information and the programme please cf."
+msgstr ""
+
+#: tib/data/outreach.py:77
+msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
+msgstr ""
+
+#: tib/data/outreach.py:80
+msgid "hypotheses_post"
+msgstr ""
+
+#: tib/data/outreach.py:89
+msgid "TIB volume 11, Macedonia, Southern Part published"
+msgstr ""
+
+#: tib/data/outreach.py:91
+msgid "tib_11_release"
+msgstr ""
+
+#: tib/data/outreach.py:92
+msgid "Cf. in detail:"
+msgstr ""
+
+#: tib/data/outreach.py:106
+msgid "presentation at International Medieval Congress (IMC) in Leeds"
+msgstr ""
+
+#: tib/data/outreach.py:109
+msgid "imc2022"
+msgstr ""
+
+#: tib/data/outreach.py:110
+msgid "Cf. in detail"
+msgstr ""
+
+#: tib/data/outreach.py:119
+msgid "presentation at university of cologne, germany"
+msgstr ""
+
+#: tib/data/outreach.py:121
+msgid "seminar_koeln"
+msgstr ""
+
+#: tib/data/outreach.py:130
+msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+msgstr ""
+
+#: tib/data/outreach.py:132
+msgid "lange_nacht_22_text"
+msgstr ""
+
+#: tib/data/outreach.py:141
+msgid ""
+"presentation at \"Global Eurasia – Comparison and Connectivity II: "
+"Agency, Networks and Transregional Contexts\""
+msgstr ""
+
+#: tib/data/outreach.py:144
+msgid "global_eurasia_5_12_22"
+msgstr ""
+
+#: tib/data/outreach.py:152
+msgid ""
+"On the Use and Usefulness of Digital Humanities in the Historical "
+"Geography of Byzantium"
+msgstr ""
+
+#: tib/data/outreach.py:155
+msgid "seminar_series_april"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:7
+msgid ""
+"The document for the Rila Monastery of the Bulgarian Tsar Ivan III. "
+"Šišman (1378)"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:13
+msgid "Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:19
+msgid ""
+"Peter Soustal with Kostantinos, a resident of the village of Daphni, "
+"Greece"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:25
+msgid "Documentation of an Old Way Relic in Northern Greece"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:31
+msgid "Enquiry with a Bulgarian farmer, Bulgaria"
+msgstr ""
+
+#: tib/data/images/hist_geo.py:37
+msgid "Documentation of an early Christian basilica in Bar, Montenegro"
+msgstr ""
+
+#: tib/data/images/history.py:8
+msgid "The State of the Project TIB in 1978"
+msgstr ""
+
+#: tib/data/images/history.py:14
+msgid "The State of the Project TIB in 1991"
+msgstr ""
+
+#: tib/data/images/history.py:20
+msgid "The State of the Project TIB in 1996"
+msgstr ""
+
+#: tib/data/images/history.py:26
+msgid "The State of the Project TIB in 2006"
+msgstr ""
+
+#: tib/data/images/history.py:32
+msgid "The State of the Project TIB in 2012"
+msgstr ""
+
+#: tib/data/images/history.py:38
+msgid "The State of the Project TIB in 2017"
+msgstr ""
+
+#: tib/data/images/history.py:44
+msgid "The State of the Project TIB in 2022"
+msgstr ""
+
+#: tib/data/images/history.py:56
+msgid "The Core Areas of the Byzantine Empire according to Johannes Koder"
+msgstr ""
+
+#: tib/data/images/history.py:62
+msgid ""
+"Johannes Koder receiving His PhD-Degree by Professor Herbert Hunger in "
+"1965"
+msgstr ""
+
+#: tib/data/images/history.py:68
+msgid ""
+"The Overview of the Entire Map of the TIB based on the Calculations by "
+"the Geographer and Cartographer Fritz Kelnhofer"
+msgstr ""
+
+#: tib/data/images/history.py:74
+msgid "On the Road for the TIB in Turkey in the 1960s"
+msgstr ""
+
+#: tib/data/images/history.py:80 tib/data/images/history.py:86
+msgid "Surveying in Cappadocia in the 1960s"
+msgstr ""
+
+#: tib/data/images/history.py:92
+msgid "Travelling in Albania in the 1960s"
+msgstr ""
+
+#: tib/data/images/history.py:98
+msgid "Surveying in Bulgaria in the 1970s"
+msgstr ""
+
+#: tib/data/images/history.py:104
+msgid "A Visit to the Monastery of Rila in Bulgaria in the 1970s"
+msgstr ""
+
+#: tib/data/images/long_term.py:7
+msgid ""
+"The division of the TIB Balkan working areas in the northern half of the "
+"Balkan Peninsula according to Herbert Hunger"
+msgstr ""
+
+#: tib/data/images/long_term.py:12
+msgid "General map of the TIB Balkans"
+msgstr ""
+
+#: tib/data/images/subprojects.py:8
+msgid ""
+"Detail of the Relief Map of Montenegro in the Courtyard of the Museum "
+"Biljarda (Cetinje)"
+msgstr ""
+
+#: tib/data/images/subprojects.py:13
+msgid ""
+"Pavilion of the Relief Map in the Courtyard of the Museum Biljarda "
+"(Cetinje)"
+msgstr ""
+
+#: tib/data/images/subprojects.py:18
+msgid "The Bay of Budva in Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:23
+msgid "Aerial Photo of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:29
+msgid ""
+"The pavilion where the relief map of Montenegro is now located, Cetinje, "
+"Republic of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:37
+msgid ""
+"The Bay of Kotor on the relief map of Montenegro, Cetinje, Republic of "
+"Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:45
+msgid ""
+"The relief map of Montenegro, in the foreground Lake Skadar, Cetinje, "
+"Republic of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:53
+msgid "The 3D model of the relief map of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:59
+msgid ""
+"The 3D model of the relief map of Montenegro as a layer in the \"Maps of "
+"Power\" web application"
+msgstr ""
+
+#: tib/data/images/subprojects.py:69
+msgid ""
+"Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from"
+" Different Authors"
+msgstr ""
+
+#: tib/data/images/subprojects.py:74
+msgid "Fortifications in the Northern Macedonian Region in the 13/14th century"
+msgstr ""
+
+#: tib/data/images/subprojects.py:79
+msgid "Road Model based on a k. u k. Marching Map"
+msgstr ""
+
+#: tib/data/images/subprojects.py:84
+msgid ""
+"Markovi Kuli Castle near Prilep from the south, Republic of Northern "
+"Macedonia"
+msgstr ""
+
+#: tib/data/images/subprojects.py:90
+msgid "The Kale elevation in Skopje, Republic of Northern Macedonia"
+msgstr ""
+
+#: tib/data/images/subprojects.py:96
+msgid "The old city gate of Ohrid, Republic of Northern Macedonia"
+msgstr ""
+
+#: tib/data/images/subprojects.py:102
+msgid "Ohrid and Samuilova tvrdina Castle, Republic of Northern Macedonia"
+msgstr ""
+
+#: tib/data/images/subprojects.py:110
+msgid ""
+"Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel "
+"1920/30. Cross-domed church with naos, narthex and exonarthex added in "
+"the 16th century"
+msgstr ""
+
+#: tib/data/images/subprojects.py:115
+msgid ""
+"Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 2010. "
+"cross-domed church with rebuilt exonarthex"
+msgstr ""
+
+#: tib/data/images/subprojects.py:120
+msgid ""
+"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the "
+"locals after the end of the Roman Empire due to executions of Christians "
+"by the Romans"
+msgstr ""
+
+#: tib/data/images/subprojects.py:125
+msgid ""
+"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the "
+"1980s onwards"
+msgstr ""
+
+#: tib/data/images/subprojects.py:130
+msgid ""
+"The Cilician Gate (Pylai Kilikias) as the most important connection "
+"between Cilicia and the highlands in Anatolia"
+msgstr ""
+
+#: tib/data/images/subprojects.py:135
+msgid ""
+"Pylai Kilikias 2016. From the 1970s onwards, massive damage to the "
+"Cilician Gate for the purpose of widening the roadway as part of road "
+"construction works"
+msgstr ""
+
+#: tib/data/images/subprojects.py:140
+msgid ""
+"Euboia, Panagia Monomeritissa 1967. Extension to the church of the "
+"monastery of Eria, which also served as a dwelling house"
+msgstr ""
+
+#: tib/data/images/subprojects.py:145
+msgid "Euboia, Panagia Monomeritissa 1972. Deconstruction of this annexe in 1972"
+msgstr ""
+
+#: tib/data/images/subprojects.py:151
+msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 1970"
+msgstr ""
+
+#: tib/data/images/subprojects.py:157
+msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 2010"
+msgstr ""
+
+#: tib/data/images/subprojects.py:163
+msgid "The monastery church of the Rila Monastery, Republic of Bulgaria, 1977"
+msgstr ""
+
+#: tib/data/images/subprojects.py:169
+msgid "The monastery church of the Rila Monastery, Republic of Bulgaria,2014"
+msgstr ""
+
+#: tib/data/images/subprojects.py:175
+msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 1968"
+msgstr ""
+
+#: tib/data/images/subprojects.py:181
+msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 2017"
+msgstr ""
+
+#: tib/data/images/subprojects.py:190
+msgid ""
+"Bird's eye view of the Doclea archaeological excavation, A: Basilica A, "
+"B: Basilica B and cruciform church, Republic of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:195
+msgid ""
+"Bird's eye view of the Doclea archaeological excavation, the western part"
+" of the city in the foreground, Republic of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:200
+msgid ""
+"The monastery of Sveti Nikola Vranjina (in the centre of the picture) on "
+"Lake Skadar, Republic of Montenegro"
+msgstr ""
+
+#: tib/data/images/subprojects.py:205
+msgid ""
+"The former Latin (Catholic) monastery of Ratac from the 12th/13th century"
+" near the town of Bar, Republic of Montenegro."
+msgstr ""
+
+#: tib/data/images/volumes.py:8
+msgid "The Late Roman Bridge near the Gulf of Thessalonica, Northern Greece"
+msgstr ""
+
+#: tib/data/images/volumes.py:13
+msgid "Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece"
+msgstr ""
+
+#: tib/data/images/volumes.py:18
+msgid "The Valley of the River Chabrias near Ormylia, Chalkidike, Northern Greece"
+msgstr ""
+
+#: tib/data/images/volumes.py:23
+msgid "Melenikitsi, the \"Small Melnik\" near Serres, Northern Greece"
+msgstr ""
+
+#: tib/data/images/volumes.py:30
+msgid "Şahan Kaya, 24 km East of Akhisar, Lydia"
+msgstr ""
+
+#: tib/data/images/volumes.py:35
+msgid "Koloē limnē, Modern Marmara Gölü, Lydia"
+msgstr ""
+
+#: tib/data/images/volumes.py:40
+msgid "Sardis, West of Modern Salihli, Lydia"
+msgstr ""
+
+#: tib/data/images/volumes.py:45
+msgid "Ephesos, Modern Selçuk, Asia"
+msgstr ""
+
+#: tib/data/images/volumes.py:50
+msgid "Hisar near Kiraz, Asia"
+msgstr ""
+
+#: tib/data/images/volumes.py:55
+msgid "Yoğurtçu Kale, 15 km West of Manisa, Asia"
+msgstr ""
+
+#: tib/data/images/volumes.py:62
+msgid ""
+"The Ancient Theatre in Heraclea Lyncestis from the South, Republic of "
+"North Macedonia"
+msgstr ""
+
+#: tib/data/images/volumes.py:67
+msgid "The Ottoman Bridge called Kadin Most in Nevestino, Bulgaria"
+msgstr ""
+
+#: tib/data/images/volumes.py:72
+msgid "Lake Dojran, Republic of North Macedonia"
+msgstr ""
+
+#: tib/data/images/volumes.py:77
+msgid ""
+"The Monastery of St. George Pološki, Reservoir of Tikveš, Republic of "
+"North Macedonia"
+msgstr ""
+
+#: tib/data/images/volumes.py:84
+msgid "The Old Town of Bar (Stari Bar), Montenegro"
+msgstr ""
+
+#: tib/data/images/volumes.py:89
+msgid "The Church of Prečista Krajinska, Montenegro"
+msgstr ""
+
+#: tib/data/images/volumes.py:94
+msgid "The Old Town of Budva, Montenegro"
+msgstr ""
+
+#: tib/data/images/volumes.py:99
+msgid "On the Shores of Lake Skadar, Montenegro"
+msgstr ""
+
+#: tib/data/images/volumes.py:106
+msgid "Kaunos and its Marshy Harbour"
+msgstr ""
+
+#: tib/data/images/volumes.py:111
+msgid "A Chapel made of Spolia in the Hekate-Sanctuary of Lagina"
+msgstr ""
+
+#: tib/data/images/volumes.py:116
+msgid "Byzantine Fortress in the Theatre of Milet"
+msgstr ""
+
+#: tib/data/tib/counter.py:6
+msgid "TIB Volumes Published"
+msgstr ""
+
+#: tib/data/tib/counter.py:11
+msgid "TIB Volumes in Progress"
+msgstr ""
+
+#: tib/data/tib/counter.py:16
+msgid "Articles published since 2004"
+msgstr ""
+
+#: tib/data/tib/counter.py:21
+msgid "Presentations held since 2006"
+msgstr ""
+
+#: tib/data/tib/counter.py:26
+msgid "Books published since 2006"
+msgstr ""
+
+#: tib/data/tib/counter.py:31
+msgid "and more pictures shot since 1966"
+msgstr ""
+
+#: tib/data/tib/counter.py:36
+msgid "and more travels accomplished"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:5
+msgid "The TIB in a Digital Age"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:6
+msgid "A repository of TIB resources is digitally available"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:10
+msgid "TIB Publications in the Making"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:11
+msgid ""
+"The TIB Team is currently working on five new TIB volumes in Asia Minor "
+"and the Balkans"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:15
+msgid "Sub Projects of the TIB"
+msgstr ""
+
+#: tib/data/tib/jumbotron.py:16
+msgid "The TIB Team works in several sub projects on groundbreaking research"
+msgstr ""
+
+#: tib/data/tib/publications.py:2349
+msgid "TIB_Volumes"
+msgstr ""
+
+#: tib/data/tib/publications.py:2352
+msgid ""
+"The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian "
+"Academy of Sciences are the main scholarly result of the project TIB and "
+"have been published since 1976."
+msgstr ""
+
+#: tib/data/tib/publications.py:2359
+msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
+msgstr ""
+
+#: tib/data/tib/publications.py:2362
+msgid ""
+"In addition to the main series Tabula Imperii Byzantini (TIB) an "
+"accompanying series entitled Veröffentlichungen der Kommission für die "
+"Tabula Imperii Byzantini (VTIB) of the Austrian Academy of Sciences had "
+"been published since 1973 and has been replaced by the series "
+"Veröffentlichungen zur Byzanzforschung since 2006."
+msgstr ""
+
+#: tib/data/tib/publications.py:2371
+msgid "Historical Geography and Cultural Heritage"
+msgstr ""
+
+#: tib/data/tib/publications.py:2373
+msgid ""
+"The series <a href=\"https://histgeo.oeaw.ac.at/\" "
+"target=\"_blank\">Studies in Historical Geography and Cultural "
+"Heritage</a> was founded by Mihailo St. Popović in the spring of 2016 and"
+" is edited by him and Andreas Külzer in order to innovate the historical-"
+"geographical research in  Byzantine Studies."
+msgstr ""
+
+#: tib/data/tib/publications.py:2381 tib/data/tib/publications.py:2382
+msgid "Monographs"
+msgstr ""
+
+#: tib/data/tib/publications.py:2383
+msgid ""
+"The project leaders and scholarly co-workers of the Tabula Imperii "
+"Byzantini (TIB) are continuously publishing scholarly monographs and "
+"edited volumes on various topics of the Historical Geography of "
+"Byzantium."
+msgstr ""
+
+#: tib/data/tib/publications.py:2389 tib/data/tib/publications.py:2390
+msgid "Articles"
+msgstr ""
+
+#: tib/data/tib/publications.py:2391
+msgid ""
+"The project leaders and scholarly co-workers of the Tabula Imperii "
+"Byzantini (TIB) are continuously publishing scholarly articles on various"
+" topics of the Historical Geography of Byzantium."
+msgstr ""
+
+#: tib/templates/404.html:4
+msgid "File Not Found"
+msgstr ""
+
+#: tib/templates/footer.html:18
+msgid "contact"
+msgstr ""
+
+#: tib/templates/footer.html:21 tib/templates/tib/imprint.html:11
+msgid "Austrian Academy of Sciences"
+msgstr ""
+
+#: tib/templates/footer.html:22
+msgid "Institute for Medieval Research"
+msgstr ""
+
+#: tib/templates/footer.html:23
+msgid "Division of Byzantine Research"
+msgstr ""
+
+#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
+msgid "Vienna"
+msgstr ""
+
+#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
+msgid "Austria"
+msgstr ""
+
+#: tib/templates/footer.html:25
+msgid "Europe"
+msgstr ""
+
+#: tib/templates/footer.html:46 tib/templates/tib/imprint.html:2
+#: tib/templates/tib/imprint.html:6
+msgid "imprint"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:9
+msgid ""
+"Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
+"(MedienG) as well as information according to § 5 E-Commerce Act (ECG)"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:10
+msgid "Media owner"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:13
+msgid ""
+"Corporate body under public law (Federal Law Gazette (BGBl) 569/1921 as "
+"amended by Federal Law Gazette (BGBl) I 31/2018)"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:23
+msgid "VAT Identification Number"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:25
+msgid "Object of the company"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:26
+msgid ""
+"The Österreichische Akademie der Wissenschaften (Austrian Academy of "
+"Sciences) has the statutory mission to promote science in every way. As a"
+" learned society the OeAW cultivates the discourse and cooperation of "
+"science with the public, politics and business. As the largest "
+"institution of non-university basic research in the country, the OeAW "
+"conducts application-open basic research at the highest international "
+"level at its 28 institutes."
+msgstr ""
+
+#: tib/templates/tib/imprint.html:27
+msgid "Executive body"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:29
+msgid "President"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:31
+msgid "Vice President"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:33 tib/templates/tib/imprint.html:35
+msgid "Class President"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:37
+msgid "The Academy Council exists as supervisory body. For more information see"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:39
+msgid "Basic line"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:40
+msgid ""
+"This website serves to inform the public on the scientific activities of "
+"the Long-Term Project Tabula Imperii Byzantini of the Austrian Academy of"
+" Sciences."
+msgstr ""
+
+#: tib/templates/tib/imprint.html:41
+msgid "Disclaimer"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:43
+msgid ""
+"The Austrian Academy of Sciences gives no warranty as to the topicality, "
+"correctness, completeness or quality of the information provided. In the "
+"case of links to websites of other media owners, for which the OeAW is "
+"not directly or indirectly responsible, the OeAW assumes no liability for"
+" their contents and excludes any liability therefor."
+msgstr ""
+
+#: tib/templates/tib/imprint.html:45
+msgid "Copyright notice"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:47 tib/templates/tib/imprint.html:50
+msgid ""
+"The contents and works created by the Austrian Academy of Sciences on "
+"these pages are subject to Austrian copyright law. The duplication, "
+"editing, distribution and any kind of utilization outside the scope of "
+"copyright law require the written consent of the respective author or "
+"creator. Downloads and copies of these pages are only permitted for "
+"private, non-commercial use. Insofar as the content on this site was not "
+"created by the operator, the copyrights of third parties are respected. "
+"In particular, third-party content is identified as such. In the event "
+"that you should nevertheless become aware of a copyright infringement, we"
+" ask that you inform us accordingly. If we become aware of any "
+"infringements, we will remove such contents immediately."
+msgstr ""
+
+#: tib/templates/tib/imprint.html:49
+msgid "Data privacy notice"
+msgstr ""
+
+#: tib/templates/tib/imprint.html:51
+msgid ""
+"The contact data published within the scope of the imprint obligation may"
+" not be used by third parties for the transmission of advertising and "
+"information material not expressly requested. Any such use is hereby "
+"expressly contradicted."
+msgstr ""
+
+#: tib/templates/tib/imprint.html:52
+msgid "Further information on data protection on websites of the OeAW."
+msgstr ""
+
+#: tib/templates/tib/layout.html:63
+msgid "Read more..."
+msgstr ""
+
+#: tib/templates/tib/layout.html:66
+msgid "Show less..."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:6
+msgid "Commission for the"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:7
+msgid "Historical Geography and Spatial Analysis of Byzantium"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:14
+msgid ""
+"The proposal for the foundation of a \"Commission for the Historical "
+"Geography and Spatial Analysis of Byzantium\" was submitted officially "
+"with a letter to the Presidency of the AIEB on 16 December 2015 by the "
+"Austrian Society for Byzantine Studies through its President Prof. Dr. "
+"Claudia Rapp based on the initiative of Prof. Dr. Andreas Külzer and Doz."
+" Dr. Mihailo Popović (both Project-Leaders of the Tabula Imperii "
+"Byzantini of the Austrian Academy of Sciences). As stated in the "
+"aforesaid letter, twelve international experts in the fields of the "
+"Historical Geography and Spatial Analysis of Byzantium were named as "
+"members for the formation of the respective Commission."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:17
+msgid ""
+"At the session of the AIEB in Belgrade Mihailo Popović was nominated by "
+"the Austrian Society for Byzantine Studies to present the proposal to the"
+" present delegates. He outlined that the envisaged Commission will have "
+"the aim to observe the vibrant scholarly developments in the respective "
+"fields, to compare ongoing projects and to address related methodological"
+" questions. It will focus on the \"classic\" Historical Geography as well"
+" as on emerging tools coming from the field of GeoSciences. Therefore, "
+"Cartography will play an important role in its future discourse. Although"
+" related academic fields (e.g. Archaeology, Digital Humanities etc.) will"
+" be included in the discussions of the Commission, it has to be stressed "
+"that the Commission is eager to strengthen the overall picture of "
+"Historical Geography and to coordinate dispersed scholarly initiatives. "
+"Following a short discussion, in which the submitted list of members was "
+"augmented by the names of Leah di Segni (Israel), Joseph Patrich "
+"(Israel), Toni Filiposki (North Macedonia), Anastasia G. Yangaki (Greece)"
+" and Georgi Nikolov (Bulgaria), the aforesaid Commission was accepted "
+"unanimously by the present delegates."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:20
+msgid ""
+"In accordance with its aims the chair of the “Commission for the "
+"Historical Geography and Spatial Analysis of Byzantium”, Mihailo Popović,"
+" is coordinating a new quarterly Newsletter starting with the year 2019. "
+"The Long-Term Project “Tabula Imperii Byzantini (TIB)” of the Austrian "
+"Academy of Sciences (Institute for Medieval Research, Division of "
+"Byzantine Research) will succeed the DPP Newsletter and launch its "
+"successor, namely a Newsletter called the “HistGeo-Newsletter”, with its "
+"first issue due in March 2019. This “HistGeo-Newsletter” will include "
+"news and reports from the fields of Mapping, Digital Mapping, Historical "
+"Atlases and of Historical Geography of the Byzantine Commonwealth. "
+"Contributors will be – apart from the TIB – especially members of the "
+"Commission for the Historical Geography and Spatial Analysis of Byzantium"
+" at the Association Internationale des Etudes Byzantines (AIEB)."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:23
+msgid ""
+"If you have registered for the DPP Newsletter, you will continue to "
+"receive the new HistGeo-Newsletter in 2019. Please feel free to consult "
+"also our DPP homepage in order to subscribe or unsubscribe to the DPP "
+"Newsletter and its successor, which is in accordance with the Privacy "
+"Policy of the Austrian Academy of Sciences."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:27
+msgid "Mission Statement"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:29
+msgid ""
+"The Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium was founded by unanimous vote of the General Assembly of the "
+"AIEB in 2016 and has a long-standing tradition in the former Commission "
+"Internationale pour la Géographie historique du monde byzantin (under the"
+" Presidency of Hélène Ahrweiler, 1973-1992). Its aim is to monitor and "
+"coordinate scholarly initiatives within the field of Historical Geography"
+" in Byzantine Studies worldwide."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:32
+msgid ""
+"In order to fulfil its tasks in the most efficient and appropriate way "
+"the Commission unites scholarly members from various countries and "
+"academic disciplines, who are doing research on the former “Byzantine "
+"Commonwealth”. The expertise of the Commission’s members covers amongst "
+"others Byzantine Studies, Historical Geography, Geography, Archaeology, "
+"Cartography and Geographical Information (GI)-Science. Its mission "
+"follows two main lines:"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:37
+msgid ""
+"The coverage, documentation and coordination of relevant scholarly "
+"initiatives / projects within Historical Geography."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:43
+msgid "The fostering of respective digital innovation in a digital age."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:48
+msgid ""
+"The role of coordination is achieved on the one hand through meetings, "
+"workshops and congresses, and on the other hand through information "
+"published in an external HistGeo-Newsletter. Thus, the Commission reaches"
+" out to other Commissions of the AIEB, to the colleagues working "
+"worldwide in the field of Byzantine Studies and to the interested public."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:51
+msgid ""
+"The Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium is strongly committed to innovation by strengthening and "
+"developing the field of Historical Geography through scholarly "
+"discussions and evaluation of conventional as well as digital methods."
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:54
+msgid "Members"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:61
+msgid "Name"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:62
+msgid "Country"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:63
+msgid "E-Mail"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:179
+msgid "Documents of the Commission"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:184
+msgid "Date"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:185
+msgid "Titel"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:186
+msgid "Download"
+msgstr ""
+
+#: tib/templates/tib/aieb/aieb.html:192
+msgid "Complete Report AIEB 2016-2022"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:2
+#: tib/templates/tib/frontpage/frontpage.html:9
+msgid "TIB"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:8
+msgid "Long-Term Project"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:12
+msgid "tib_frontpage_research_on_the_historical"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:29
+msgid "tib_frontpage_individual_regions"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:35
+msgid "tib_frontpage_since_1986_new_methods"
+msgstr ""
+
+#: tib/templates/tib/frontpage/frontpage.html:44
+msgid "activities"
+msgstr ""
+
+#: tib/templates/tib/frontpage/jumbotron.html:24
+msgid "Learn more"
+msgstr ""
+
+#: tib/templates/tib/frontpage/tib_map.html:7
+msgid "map_application_text"
+msgstr ""
+
+#: tib/templates/tib/frontpage/tib_map.html:16
+msgid "try it out now"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:2
+msgid "History"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:6
+msgid "Brief History of the"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:7
+msgid "Tabula Imperii Byzantini"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:11
+msgid "The Beginning in 1966"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:13
+msgid ""
+"When Prof. Dr. Herbert Hunger (1914-2000) announced the foundation of the"
+" project Tabula Imperii Byzantini (hereafter TIB) of the Austrian Academy"
+" of Sciences at the XIIIth International Congress of Byzantine Studies in"
+" Oxford in the year 1966, he indicated at the same time preliminary "
+"studies, which had served as a model for the new project:"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:52
+msgid ""
+"Although some similarities exist, it needs to be stressed that there are "
+"nevertheless substantial differences between the two projects. While the "
+"Tabula Imperii Romani puts a strong emphasis on archaeological data with "
+"little information on the history of localities and with references to "
+"the most important literature, the TIB combines aspects of history, "
+"archaeology, bibliography and field research / surveys in equal shares."
+msgstr ""
+
+#: tib/templates/tib/history/history.html:55
+msgid ""
+"Initially, the project Tabula Imperii Romani (TIR) served as a model for "
+"the TIB. According to the website of the Union Académique Internationale,"
+" the Tabula Imperii Romani was founded in 1928. After the Second World "
+"War it was placed under the supervision of the Union Académique "
+"Internationale. Its aim consists in publishing an atlas of the Roman "
+"Empire on the scale of 1:1,000,000 with accompanying volumes containing "
+"historical and bibliographical data for each locality shown on the maps. "
+"Fifteen sheets were published between 1932 and the Second World War. "
+"After 1945 more than a dozen sheets were accomplished."
+msgstr ""
+
+#: tib/templates/tib/history/history.html:78
+msgid ""
+"In the period between the announcement of the project TIB by Herbert "
+"Hunger in 1966 and the publication of its first volume in 1976 the TIB "
+"evolved significantly. Progress reports were presented by Herbert Hunger "
+"in 1966 and in 1972/73 and by Johannes Koder in 1975/76."
+msgstr ""
+
+#: tib/templates/tib/history/history.html:86
+msgid "The First Volume of the Project in 1976"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:88
+msgid ""
+"The first volume of the TIB (TIB 1) entitled \"Hellas und Thessalia\" was"
+" completed by Johannes Koder and Friedrich Hild in the year 1976 and was "
+"referred to at the XVth International Congress of Byzantine Studies in "
+"Athens in the same year. Since 1976 the aforesaid volume has served as a "
+"model for all future volumes of the TIB. Moreover, it helped to define "
+"the working method of the overall project, which can be summarised as "
+"follows. After the publication of the first volume and on the basis of "
+"the experience gathered during its writing Johannes Koder described the "
+"aim of the project in the following manner:"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:128
+msgid ""
+"Thus, the TIB carries out systematic research of the historical geography"
+" of the Byzantine Empire, which existed from the beginning of the 4th "
+"century AD until the 15th century AD, that is from Late Antiquity to the "
+"Ottoman conquest, in order to create an atlas of the aforesaid empire. "
+"The results of each TIB volume are presented to the reader on a map on "
+"the scale of 1:800,000 with the headwords marked onto it. Special symbols"
+" and combinations of colours indicate the nature of the monument and its "
+"dating. The maps also include historical places for whose existence there"
+" is only archaeological evidence without knowledge of their ancient "
+"(Byzantine) names."
+msgstr ""
+
+#: tib/templates/tib/history/history.html:151
+msgid ""
+"The original plan to produce maps on the scale of 1:1,000,000 in the "
+"style of the Tabula Imperii Romani (see above) had soon been abandoned "
+"and the former Institute of Cartography of the Austrian Academy of "
+"Sciences designed a map for the whole Mediterranean on the above-"
+"mentioned larger scale. This enabled a more thorough topographic approach"
+" and facilitated the entry of headwords. If necessary, even a larger "
+"scale is applied for some regions (e.g. 1:400,000). The scholarly work of"
+" the TIB focuses on the regions / provinces of the Byzantine Empire. "
+"Therefore, borders had to be drawn for each volume at the beginning of "
+"the project in accordance with the sources on Byzantine administration "
+"and the natural borders of landscapes. This classification was undertaken"
+" by Johannes Koder."
+msgstr ""
+
+#: tib/templates/tib/history/history.html:159
+msgid "The Core Regions of Research"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:161
+msgid ""
+"Initially, the main focus of research was put on the Balkan Peninsula "
+"(Hellas, Thessaly) and on Asia Minor (Cappadocia). The first volume of "
+"the TIB (TIB 1), published in 1976, is entitled \"Hellas und Thessalia2, "
+"the second (TIB 2) on \"Kappadokien\" was completed by Friedrich Hild and"
+" Marcell Restle in 1981. The third volume (TIB 3) on \"Nikopolis und "
+"Kephallēnia\" was also published in 1981. The last two volumes were "
+"subsequently presented to a wider audience at the XVIth International "
+"Congress of Byzantine Studies in Vienna in October 1981. The regions upon"
+" which research was to be conducted were initially chosen as follows:"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:189
+msgid "and"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:198
+msgid ""
+"Volume 4 of the TIB (TIB 4) entitled \"Galatien und Lykaonien\" was "
+"printed in 1984 and included black-and-white photographs of monuments for"
+" the first time. The same year witnessed the publication of a book on the"
+" historical geography of the eastern Mediterranean by Johannes Koder (Der"
+" Lebensraum der Byzantiner. Historisch-geographischer Abriß ihres "
+"mittelalterlichen Staates im östlichen Mittelmeerraum), which marked the "
+"beginning of a new perception of the geographical characteristics of the "
+"Byzantine Empire. Due to its impact on the scholarly community in general"
+" and on the TIB in particular it was reprinted with an augmented "
+"bibliography in 2001 and translated into Modern Greek in 2005 as well as "
+"into Serbian in 2011. In this book Johannes Koder has defined three core "
+"regions of the Byzantine Empire (the so-called \"Kerngebiete\"), which "
+"were: 1. the eastern Mediterranean, 2. Asia Minor and 3. the Balkan "
+"Peninsula. Vital for the existence of the Byzantine state and therefore "
+"of great importance were:"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:200
+msgid ""
+"the Aegean Sea, the Sea of Marmora, the Bosphorus and the access to the "
+"Black Sea"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:201
+msgid ""
+"the western part of Asia Minor, the northern and southern shores of Asia "
+"Minor"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:202
+msgid "Thrace, the shores of the Aegean Sea and the Peloponnesus"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:211
+msgid "The TIB in the 1990s"
+msgstr ""
+
+#: tib/templates/tib/history/history.html:213
+msgid ""
+"On the basis of this approach the scholarly work of the TIB shifted "
+"towards those core regions (\"Kerngebiete\") in the 1990s. Consequently, "
+"the fifth volume on \"Kilikien und Isaurien\" (TIB 5) was printed in "
+"1990. Volume 7 entitled \"Phrygien und Pisidien\" (TIB 7) was published "
+"in the same year. One year later, Peter Soustal completed the sixth "
+"volume of the TIB (TIB 6) on \"Thrakien (Thrakē, Rodopē und "
+"Haimimontos)\". All three volumes were presented to a wider audience at "
+"the XVIIIth International Congress of Byzantine Studies in Moscow in "
+"August 1991. In 1995 Prof. Dr. Johannes Koder became chairman of the "
+"overall project of the TIB (following Prof. Dr. Herbert Hunger). Since "
+"1995 the ninth volume (TIB 9) on \"Paphlagonien und Honorias\", the tenth"
+" (TIB 10) on \"Aigaion Pelagos (Die nördliche Ägäis)\" and the eighth "
+"volume (TIB 8) on \"Lykien und Pamphylien\" have been accomplished. In "
+"2008 Andreas Külzer published the twelfth volume (TIB 12) on "
+"\"Ostthrakien (Eurōpē)\", while in 2014 TIB 15 (Syria) covering the "
+"provinces \"Syria Prōtē, Syria Deutera and Syria Euphratēsia\" was edited"
+" (by the external cooperation partners K.-P. Todt and B. A. Vest, from "
+"the University of Mainz)."
+msgstr ""
+
+#: tib/templates/tib/publications/publications.html:2
+#: tib/templates/tib/publications/publications.html:6
+msgid "Publications"
+msgstr ""
+

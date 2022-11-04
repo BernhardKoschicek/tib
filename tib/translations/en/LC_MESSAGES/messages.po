@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 19:04+0100\n"
-"PO-Revision-Date: 2022-11-04 19:05+0100\n"
+"POT-Creation-Date: 2022-11-04 19:49+0100\n"
+"PO-Revision-Date: 2022-11-04 20:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -29,7 +29,7 @@ msgstr "Current Status"
 
 #: tib/data/navigation.py:8
 msgid "sub_projects"
-msgstr "Sub Projects"
+msgstr "Subprojects"
 
 #: tib/data/navigation.py:9
 msgid "publications"
@@ -73,7 +73,7 @@ msgstr "Volumes"
 
 #: tib/data/navigation.py:31
 msgid "balkan_subprojects"
-msgstr "Sub Projects"
+msgstr "Subprojects"
 
 #: tib/data/navigation.py:32
 msgid "balkan_digital"
@@ -599,7 +599,7 @@ msgstr ""
 "Kultur Leipzig, here Professor Dr. Johannes Tripps).Moreover, it is closely "
 "connected to the ongoing scholarly work of Mihailo Popović on <a href=\"/"
 "current_status/TIB_17\">TIB volume 17 “Nea Epeiros and Praevalis”</a> and on the "
-"TIB Sub Project <a href=\"sub_projects/montenegro\">“Cultural Heritage in Times "
+"TIB Subproject <a href=\"sub_projects/montenegro\">“Cultural Heritage in Times "
 "of World War I: The Case of the Austro-Hungarian Relief Map of Montenegro "
 "(1916-1918)”</a>."
 
@@ -4616,11 +4616,11 @@ msgstr ""
 
 #: tib/data/tib/jumbotron.py:15
 msgid "Sub Projects of the TIB"
-msgstr "Sub Projects of the TIB"
+msgstr "Subprojects of the TIB"
 
 #: tib/data/tib/jumbotron.py:16
 msgid "The TIB Team works in several sub projects on groundbreaking research"
-msgstr "The TIB Team works in several sub projects on groundbreaking research"
+msgstr "The TIB Team works in several subprojects on groundbreaking research"
 
 #: tib/data/tib/team.py:11
 msgid ""
@@ -4921,6 +4921,195 @@ msgstr "Europe"
 msgid "imprint"
 msgstr "Imprint"
 
+#: tib/templates/balkan/digital/digital_intro.html:4
+msgid "in the digital era"
+msgstr "in the digital era"
+
+#: tib/templates/balkan/digital/digital_intro.html:8
+msgid "balkan_digital_intro"
+msgstr ""
+"Our sub-projects mentioned above have brought the TIB Balkan into the digital "
+"era with their new methods and capacities. Thus, we are not exclusively writing "
+"TIB volumes on the Balkan Peninsula, but we are also making a valuable and "
+"lasting contribution to the Digital Humanities in Byzantine Studies and "
+"Historical Geography. For this reason we have put online a <a href=\"tib-register"
+"\">complete register of place names (toponyms) from all TIB volumes</a> with "
+"links to the page of the respective TIB volumes and their pdf files (as far as "
+"allowed due to copyright). We have described a part of our rich <a href="
+"\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank\">slide Holdings</a> and "
+"made them accessible online as scans as well. Finally, we have built up a "
+"database system for the TIB Balkans (an <a href=\"https://openatlas.eu/\" target="
+"\"_blank\">OpenAtlas</a> database, into which all results of the subprojects TIB "
+"Balkans as well as selected aspects from the TIB volumes 16 and 17 are "
+"continuously incorporated and can be accessed at any time via a web application. "
+"We call this web application <a href=\"tib-atlas\">\"Maps of Power: Historical "
+"Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
+"Balkans)\"</a>."
+
+#: tib/templates/balkan/digital/digital_intro.html:48
+msgid "View 3D Objects"
+msgstr "View 3D Objects"
+
+#: tib/templates/balkan/digital/digital_intro.html:55
+msgid "Browse project database"
+msgstr "Browse project database"
+
+#: tib/templates/balkan/home/cartography.html:3
+msgid "Cartography"
+msgstr "Cartography"
+
+#: tib/templates/balkan/home/cartography.html:8
+msgid "balkan_cartography_intro"
+msgstr ""
+"The mentioned travels help us to make exact localizations of monuments and to "
+"check the persistence of old place names (toponyms). Both aspects cannot be "
+"successfully realized by means of freely accessible satellite images. In the "
+"first case, dense vegetation on site often prevents accurate localization from "
+"the air; in the second case, only conversation with the local population can "
+"provide clarity. We take a GPS point for each monument, which helps us a lot in "
+"creating and editing both our TIB volumes and our TIB map at a scale of 1 : "
+"800,000 with the present settlement structure as a basis. This allows the "
+"readers of our volumes to match the data on the medieval settlement of the "
+"respective area with the present settlement pattern and to locate written "
+"content."
+
+#: tib/templates/balkan/home/cartography.html:27
+msgid ""
+"Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, 1960s, "
+"TIB Archiv)"
+msgstr ""
+"Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, 1960s, "
+"TIB Archiv)"
+
+#: tib/templates/balkan/home/home.html:2
+msgid "Tabula Imperii Byzantini Balkan"
+msgstr "Tabula Imperii Byzantini Balkans"
+
+#: tib/templates/balkan/home/tib_intro.html:3
+msgid "Making past landscapes tangible"
+msgstr "Making past landscapes tangible"
+
+#: tib/templates/balkan/home/tib_intro.html:10
+msgid "balkan_intro_1"
+msgstr ""
+"In the 21st century, we are witnessing rapid technological progress and a "
+"dynamic change in our living environments. Mankind's return to the environment "
+"and people's awareness of global climatic changes stimulate the question of how "
+"our ancestors lived in the Middle Ages and how they shaped and perceived their "
+"environment."
+
+#: tib/templates/balkan/home/tib_intro.html:17
+msgid "balkan_intro_2"
+msgstr ""
+"What were the landscapes like at that time? What settlements were there? What "
+"did they look like? Were they documented in written sources (e.g. charters), and "
+"if so, in what way? What role did rivers, lakes and mountains play in the "
+"perception of space in the Middle Ages? Why were churches, monasteries and "
+"castles built in certain places? Where did roads lead to and what were they "
+"like? These are all questions that historical geography deals with."
+
+#: tib/templates/balkan/home/tib_intro.html:23 tib/templates/tib/layout.html:63
+msgid "Read more..."
+msgstr "Read more..."
+
+#: tib/templates/balkan/home/travel.html:3
+msgid "Surveys"
+msgstr "Surveys"
+
+#: tib/templates/balkan/home/travel.html:8
+msgid "balkan_travel_intro"
+msgstr ""
+"An indispensable part of our work at the TIB Balkan are the trips to the areas "
+"of the Balkan Peninsula on which we research and write. Our preparations for "
+"such trips are based on the reading of late antique and medieval written sources "
+"as well as secondary literature, the recording of medieval place names "
+"(toponyms) and their comparison with maps of the 19th and 20th centuries, and "
+"the identification of relevant cultural monuments on site (churches, "
+"monasteries, castles, etc.). This leads to further questions, which can only be "
+"answered during the travel in the working area itself, often only in "
+"conversation with the local population. When the manuscript of a TIB volume has "
+"reached a certain size and a large number of questions have been collected by "
+"us, we plan the route of our tour very precisely and start our research task as "
+"a team of two. Vital in this process is our cooperation with the relevant "
+"authorities, research institutions and professional colleagues on site."
+
+#: tib/templates/balkan/outreach/outreach_intro.html:3
+msgid "Public Relations"
+msgstr "Public Relations"
+
+#: tib/templates/balkan/outreach/outreach_intro.html:8
+msgid "balkan_outreach_intro"
+msgstr ""
+"The TIB Balkan team approaches the national and international public to "
+"comprehensively present its research work and results, to explain them and to "
+"open them up for questions as well as discussions. Our \n"
+"public relations work takes place at scientific congresses and workshops, it "
+"includes lectures at Austrian and international universities, presentations in "
+"schools (Junior Science Club, Vienna Science Lectures), adult education centers, "
+"parishes and at exhibitions (Schallaburg, Lower Austria), is regularly presented "
+"to the public at the \"Long Night of Research\" in Austria and at children's "
+"universities and is represented in the Austrian online and print media. In the "
+"dissemination of knowledge and results, both a dedicated book series (in "
+"addition to the TIB volumes) and a digital newsletter come into play. For "
+"example, Mihailo St. Popović founded the book series <a href=\"https://histgeo."
+"oeaw.ac.at/\" target=\"_blank\">\"Studies in Historical Geography and Cultural "
+"Heritage\"</a> and, together with his team, publishes the digital <a href="
+"\"https://histgeo.oeaw.ac.at/newsletter/\" target=\"_blank\">\"HistGeo Newsletter"
+"\"</a> on a semi-annual basis.</p>"
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:3
+msgid "Projects of the TIB Balkan"
+msgstr "Projects of the TIB Balkan"
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:8
+msgid "balkan_projects_intro"
+msgstr ""
+"TIB Balkan is actively shaping Byzantine Studies, Historical Geography and "
+"Digital Humanities both as a long-term project and through its sub-projects "
+"across Europe and worldwide. With the help of the subprojects, current questions "
+"are formulated and researched, new methods are tested and digital resources are "
+"built up that are made accessible to a broad public. These sub-projects are "
+"competitively acquired as third-party funded projects by the TIB Balkan project "
+"manager, Mihailo St. Popović, and his young team of researchers through "
+"applications to domestic and foreign research funding agencies. Since 2006, M. "
+"Popović has successfully applied for funding in the amount of 1,908,593 Euros "
+"and has employed numerous promising scientists in his projects with this amount "
+"in order to jointly research forward-looking topics in the historical geography "
+"of the Balkan Peninsula for the Austrian Academy of Sciences."
+
+#: tib/templates/balkan/team/team_intro.html:3
+msgid "Our team"
+msgstr "Our team"
+
+#: tib/templates/balkan/team/team_intro.html:6
+msgid "balkan_team_intro"
+msgstr ""
+"Scientific work at TIB Balkan is based on teamwork. We unite different "
+"disciplines, without which a forward-looking development of our research would "
+"not be possible. These disciplines are: Byzantine Studies, Historical Geography, "
+"History, Southeast European Studies, Classical Philology, Archaeology, Software "
+"Development and Database Management. Only in the interaction of all these fields "
+"can the established methodology of the long-term project TIB be successfully "
+"guided through the 21st century. Our team and its head Mihailo St. Popović "
+"attach great importance to scientific qualification and enthusiasm for the TIB "
+"Balkans and its subprojects, collegiality, discussion, academic development and "
+"promotion of young scientists, which is reflected in the biographies of the "
+"acting persons."
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:3
+msgid "TIB Balkan volumes in progress"
+msgstr "TIB Balkan volumes in progress"
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:8
+msgid "balkan_volumes_intro"
+msgstr ""
+"Within the TIB Balkans we are currently working on three volumes. These are TIB "
+"11 (\"Macedonia, southern part\"), TIB 16 (\"Macedonia, northern part\") and TIB "
+"17 (\"Nea Epeiros and Praevalis\"). Geographically, these volumes cover parts of "
+"the southern Balkan Peninsula and the eastern coast of the Adriatic Sea. We "
+"expect each volume to contain about 1,200 pages. In this way, we comprehensively "
+"document the respective historical landscapes and make them comprehensible."
+
 #: tib/templates/tib/imprint.html:9
 msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
@@ -5060,10 +5249,6 @@ msgstr ""
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Further information on data protection on websites of the OeAW."
-
-#: tib/templates/tib/layout.html:63
-msgid "Read more..."
-msgstr "Read more..."
 
 #: tib/templates/tib/layout.html:66
 msgid "Show less..."
@@ -5557,9 +5742,9 @@ msgstr ""
 "Research on the Historical Geography of the Byzantine Empire at the Austrian "
 "Academy of Sciences in Vienna is conducted by the Tabula Imperii Byzantini "
 "(TIB). This renowned project was accepted by the <a href=\"http://www.uai-iua."
-"org/en/projects/104/tabula-imperii-byzantini\" target=\"_blank\"Union Académique "
-"Internationale</a> in Brussels in 2015 (Project 87), and at the same time "
-"included into the scheme of Long-Term-Projects at the Austrian Academy of "
+"org/en/projects/104/tabula-imperii-byzantini\" target=\"_blank\">Union "
+"Académique Internationale</a> in Brussels in 2015 (Project 87), and at the same "
+"time included into the scheme of Long-Term-Projects at the Austrian Academy of "
 "Sciences, based on independent excellent international evaluations. The TIB "
 "carries out systematic research in the historical geography of the Byzantine "
 "Empire, from the beginning of the 4th century to the mid-15th century. The aim "

@@ -1,31 +1,18 @@
 <div class="container-fluid">
     <div class="text-center">
-      {{ header_balkan('Kartographie') }}
+      {{ header_balkan(_('Cartography')) }}
     </div>
   <div class="row justify-content-center text-center pt-3">
     <div class="col-8">
-      <p>Die erwähnten Bereisungen helfen uns, genaue Lokalisierungen von
-        Denkmälern zu machen und das Fortbestehen alter Ortsnamen (Toponyme) zu
-        überprüfen. Beide Aspekte lassen sich nicht über frei zugängliche
-        Satellitenaufnahmen erfolgreich verwirklichen. Im ersten Fall verhindert
-        oft der dichte Bewuchs vor Ort eine genaue Lokalisierung aus der Luft,
-        im zweiten Fall kann nur das Gespräch mit der lokalen Bevölkerung
-        Klarheit bringen. Wir nehmen für jedes Denkmal einen GPS Punkt, was uns
-        bei der Erstellung und Bearbeitung sowohl unserer TIB Bände als auch
-        unserer TIB Karte im Maßstab 1 : 800.000 mit der jetzigen
-        Siedlungsstruktur als Grundlage sehr hilft. Dadurch können die
-        LeserInnen unserer Bände die Daten zur mittelalterlichen Besiedlung des
-        jeweiligen Gebietes mit dem jetzigen Siedlungsbild abgleichen und
-        schriftliche Inhalte verorten.</p>
+      <p>
+        {{ _('balkan_cartography_intro') }}
+      </p>
     </div>
   </div>
   <div class="row justify-content-center text-center pt-3">
   <div class="col-4">
-    {{ image_description('Bearbeitungsplan für die Bände der TIB Balkan (Johannes Koder, 1960er Jahre, TIB Archiv)') }}
+    {{ image_description(_('Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, 1960s, TIB Archiv)')) }}
     <img src="{{ url_for('static', filename='images/balkan_cartographie.png') }}">
-
   </div>
-
   </div>
-
 </div>

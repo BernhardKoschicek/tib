@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 19:04+0100\n"
-"PO-Revision-Date: 2022-11-04 19:07+0100\n"
+"POT-Creation-Date: 2022-11-04 19:49+0100\n"
+"PO-Revision-Date: 2022-11-04 20:11+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -4981,6 +4981,200 @@ msgstr "Europa"
 msgid "imprint"
 msgstr "Impressum"
 
+#: tib/templates/balkan/digital/digital_intro.html:4
+msgid "in the digital era"
+msgstr "im digitalen Zeitalter"
+
+#: tib/templates/balkan/digital/digital_intro.html:8
+msgid "balkan_digital_intro"
+msgstr ""
+" Unsere oben genannten Teilprojekte haben die TIB Balkan mit ihren neuen "
+"Methoden und Kapazitäten in die digitale Ära gebracht. Wir schreiben also nicht "
+"ausschließlich an TIB Bänden über die Balkanhalbinsel, sondern wir leisten auch "
+"einen wertvollen und nachhaltigen Beitrag zu den Digitalen Geisteswissenschaften "
+"in der Byzantinistik und Historischen Geographie. Aus diesem Grund haben wir ein "
+"<a href=\"tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
+"TIB Bänden</a> mit Verlinkungen auf die Seite der jeweiligen TIB Bände und ihre "
+"pdf Dateien (soweit aufgrund des Copyrights erlaubt) online gestellt. Einen Teil "
+"unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank"
+"\">Diabestände</a> haben wir beschrieben und als Scans ebenfalls online "
+"zugänglich gemacht. Schließlich haben wir ein Datenbanksystem für die TIB Balkan "
+"aufgebaut (eine <a href=\"https://openatlas.eu/\" target=\"_blank\"> OpenAtlas</"
+"a> Datenbank, in die alle Resultate der Teilprojekte TIB Balkan sowie "
+"ausgewählte Aspekte aus den TIB Bänden 16 und 17 laufend einfließen und "
+"jederzeit aktuell über ein Web Applikation abgerufen werden können. Diese "
+"Webapplikation nennen wir <a href=\"tib-atlas\">„Maps of Power: Historical Atlas "
+"of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans)“</a>."
+
+#: tib/templates/balkan/digital/digital_intro.html:48
+msgid "View 3D Objects"
+msgstr "3D-Objekte anzeigen"
+
+#: tib/templates/balkan/digital/digital_intro.html:55
+msgid "Browse project database"
+msgstr "Projektdatenbank durchsuchen"
+
+#: tib/templates/balkan/home/cartography.html:3
+msgid "Cartography"
+msgstr "Kartographie"
+
+#: tib/templates/balkan/home/cartography.html:8
+msgid "balkan_cartography_intro"
+msgstr ""
+"Die erwähnten Bereisungen helfen uns, genaue Lokalisierungen von Denkmälern zu "
+"machen und das Fortbestehen alter Ortsnamen (Toponyme) zu überprüfen. Beide "
+"Aspekte lassen sich nicht über frei zugängliche Satellitenaufnahmen erfolgreich "
+"verwirklichen. Im ersten Fall verhindert oft der dichte Bewuchs vor Ort eine "
+"genaue Lokalisierung aus der Luft, im zweiten Fall kann nur das Gespräch mit der "
+"lokalen Bevölkerung Klarheit bringen. Wir nehmen für jedes Denkmal einen GPS "
+"Punkt, was uns bei der Erstellung und Bearbeitung sowohl unserer TIB Bände als "
+"auch unserer TIB Karte im Maßstab 1 : 800.000 mit der jetzigen Siedlungsstruktur "
+"als Grundlage sehr hilft. Dadurch können die LeserInnen unserer Bände die Daten "
+"zur mittelalterlichen Besiedlung des jeweiligen Gebietes mit dem jetzigen "
+"Siedlungsbild abgleichen und schriftliche Inhalte verorten."
+
+#: tib/templates/balkan/home/cartography.html:27
+msgid ""
+"Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, 1960s, "
+"TIB Archiv)"
+msgstr ""
+"Bearbeitungszeitplan für die Bände der TIB Balkan (Johannes Koder, 1960er Jahre, "
+"TIB Archiv)"
+
+#: tib/templates/balkan/home/home.html:2
+msgid "Tabula Imperii Byzantini Balkan"
+msgstr "Tabula Imperii Byzantini Balkan"
+
+#: tib/templates/balkan/home/tib_intro.html:3
+msgid "Making past landscapes tangible"
+msgstr "Vergangene Landschaften erlebbar machen"
+
+#: tib/templates/balkan/home/tib_intro.html:10
+msgid "balkan_intro_1"
+msgstr ""
+"Im 21. Jahrhundert sind wir Zeugen eines rasanten technischen Fortschritts und "
+"einer dynamischen Veränderung unserer Lebenswelten. Die Rückbesinnung der "
+"Menschheit auf die Umwelt und das Bewusstsein der Menschen über globale "
+"klimatische Veränderungen regen die Frage an, wie unsere Vorfahren im "
+"Mittelalter gelebt haben und wie sie ihre Umwelt gestaltet und wahrgenommen "
+"haben."
+
+#: tib/templates/balkan/home/tib_intro.html:17
+msgid "balkan_intro_2"
+msgstr ""
+"Wie waren damalige Landschaften beschaffen? Welche Siedlungen gab es? Wie sahen "
+"diese aus? Wurden sie in schriftlichen Quellen (z. B. Urkunden) dokumentiert, "
+"und wenn ja, auf welche Weise? Welche Rolle spielten Flüsse, Seen und Gebirge in "
+"der Raumwahrnehmung des Mittelalters? Warum wurden Kirchen, Klöster und Burgen "
+"an bestimmten Orten errichtet? Wohin führten Straßen und wie waren sie "
+"beschaffen? All dies sind Fragen, mit denen sich die historische Geographie "
+"befasst."
+
+#: tib/templates/balkan/home/tib_intro.html:23 tib/templates/tib/layout.html:63
+msgid "Read more..."
+msgstr "Mehr lesen..."
+
+#: tib/templates/balkan/home/travel.html:3
+msgid "Surveys"
+msgstr "Bereisungen"
+
+#: tib/templates/balkan/home/travel.html:8
+msgid "balkan_travel_intro"
+msgstr ""
+"Ein nicht wegzudenkender Bestandteil unserer Arbeit in der TIB Balkan sind "
+"Bereisungen in jene Gebiete der Balkanhalbinsel, über die wir forschen und "
+"schreiben. Unsere Vorbereitungen auf solche Bereisungen fußen auf dem Lesen von "
+"spätantiken und mittelalterlichen schriftlichen Quellen sowie der "
+"Sekundärliteratur, der Erfassung von mittelalterlichen Ortsnamen (Toponymen) und "
+"ihrem Abgleich mit Karten des 19. und 20. Jahrhunderts und der Identifizierung "
+"von relevanten Kulturdenkmälern vor Ort (Kirchen, Klöstern, Burgen, etc.). "
+"Daraus entstehen weiterführende Fragen, die nur bei der Bereisung im "
+"Arbeitsgebiet selbst, oft nur im Gespräch mit der lokalen Bevölkerung, "
+"beantwortet werden können. Wenn das Manuskript eines TIB Bandes einen gewissen "
+"Umfang erreicht hat und eine große Anzahl von Fragen von uns gesammelt wurde, "
+"planen wir die Route unserer Bereisung sehr genau und treten unsere "
+"Forschungsaufgabe als Zweierteam an. Vital ist dabei unsere Zusammenarbeit mit "
+"den zuständigen Behörden, Forschungseinrichtungen und FachkollegInnen vor Ort."
+
+#: tib/templates/balkan/outreach/outreach_intro.html:3
+msgid "Public Relations"
+msgstr "Öffentlichkeitsarbeit"
+
+#: tib/templates/balkan/outreach/outreach_intro.html:8
+msgid "balkan_outreach_intro"
+msgstr ""
+"Das Team der TIB Balkan tritt aktiv an die nationale und internationale "
+"Öffentlichkeit, um seine Forschungsarbeit und Resultate umfassend vorzustellen, "
+"sie zu erklären und sie für Fragen sowie Diskussionen zu öffnen. Unsere "
+"Öffentlichkeitsarbeit findet auf wissenschaftlichen Kongressen und Workshops "
+"statt, sie umfasst Lehrveranstaltungen auf österreichischen und internationalen "
+"Universitäten, Vorträge in Schulen (Junior Science Club, Wiener Science "
+"Lectures), Volkshochschulen, Pfarren und bei Ausstellungen (Schallaburg, NÖ), "
+"wird regelmäßig in der „Langen Nacht der Forschung“ in Österreich und bei "
+"Kinderuniversitäten publikumsgerecht vorgestellt und ist in den österreichischen "
+"Online- und Printmedien vertreten. In der Verbreitung von Wissen und Resultaten "
+"kommen sowohl eine eigene Buchreihe (zusätzlich zu den TIB Bänden) als auch ein "
+"digitaler Newsletter zum Tragen. So hat Mihailo St. Popović die Buchreihe <a "
+"href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">„Studies in Historical "
+"Geography and Cultural Heritage“</a> begründet und gibt mit seinem Team "
+"halbjährlich den digitalen <a href=\"https://histgeo.oeaw.ac.at/newsletter/\" "
+"target=\"_blank\"> „HistGeo Newsletter“</a> heraus.</p>"
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:3
+msgid "Projects of the TIB Balkan"
+msgstr "Projekte der TIB Balkan"
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:8
+msgid "balkan_projects_intro"
+msgstr ""
+"Die TIB Balkan gestaltet die Byzantinistik, Historische Geographie und Digitalen "
+"Geisteswissenschaften sowohl als Langzeitprojekt als auch durch ihre "
+"Teilprojekte europa- und weltweit aktiv mit. Mit Hilfe der Teilprojekte werden "
+"aktuelle Fragen formuliert und erforscht, neue Methoden erprobt und digitale "
+"Ressourcen aufgebaut, die einer breiten Öffentlichkeit zugänglich gemacht "
+"werden. Diese Teilprojekte werden vom Projektleiter TIB Balkan, Mihailo St. "
+"Popović, und seinem jungen Forscherteam kompetitiv als Drittmittelprojekte durch "
+"Anträge bei in- und ausländischen Forschungsförderungsgesellschaften "
+"eingeworben. Seit 2006 hat M. Popović Fördermittel in der Höhe von 1.908.593 "
+"Euro erfolgreich beantragt und mit diesem Betrag zahlreiche vielversprechende "
+"WissenschaflterInnen in seinen Projekten angestellt, um gemeinsam "
+"zukunftsweisende Themen der Historischen Geographie der Balkanhalbinsel für die "
+"Österreichische Akademie der Wissenschaften zu erforschen."
+
+#: tib/templates/balkan/team/team_intro.html:3
+msgid "Our team"
+msgstr "Unser Team"
+
+#: tib/templates/balkan/team/team_intro.html:6
+msgid "balkan_team_intro"
+msgstr ""
+"Die wissenschaftliche Arbeit in der TIB Balkan basiert auf Teamarbeit. Bei uns "
+"sind verschiedene Fachrichtungen vereint, ohne die eine zukunftsweisende "
+"Entwicklung unserer Forschung nicht möglich wäre. Diese Fachrichtungen sind: "
+"Byzantinistik, Historische Geographie, Geschichte, Südosteuropaforschung, "
+"Klassische Philologie, Archäologie, Softwareentwicklung und Datenbankmanagement. "
+"Nur im Zusammenspiel all dieser Bereiche lässt sich die etablierte Methodologie "
+"des Langzeitprojektes TIB erfolgreich durch das 21. Jahrhundert leiten. Unser "
+"Team und sein Leiter Mihailo St. Popović legen großen Wert auf wissenschaftliche "
+"Qualifikation und Begeisterung für die TIB Balkan und ihre Teilprojekte, "
+"Kollegialität, Diskussion, akademische Entfaltung und Förderung von "
+"wissenschaftlichem Nachwuchs, was sich in den Biografien der handelnden Personen "
+"widerspiegelt."
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:3
+msgid "TIB Balkan volumes in progress"
+msgstr "TIB Balkan Bände in Bearbeitung"
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:8
+msgid "balkan_volumes_intro"
+msgstr ""
+"Im Rahmen der TIB Balkan arbeiten wir derzeit an drei Bänden. Diese sind TIB 11 "
+"(„Makedonien, südlicher Teil“), TIB 16 („Makedonien, nördlicher Teil“) und TIB "
+"17 („Nea Epeiros und Praevalis“). Geographisch umfassen diese Bände Teile der "
+"südlichen Balkanhalbinsel und die Ostküste der Adria. Pro Band rechnen wir mit "
+"einem Umfang von rund 1.200 Seiten. Dadurch dokumentieren wir die jeweiligen "
+"historischen Landschaften umfassend und machen sie begreifbar."
+
 #: tib/templates/tib/imprint.html:9
 msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
@@ -5123,10 +5317,6 @@ msgstr ""
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Weitere Informationen zum Datenschutz auf Internetseiten der ÖAW."
-
-#: tib/templates/tib/layout.html:63
-msgid "Read more..."
-msgstr "Mehr lesen..."
 
 #: tib/templates/tib/layout.html:66
 msgid "Show less..."

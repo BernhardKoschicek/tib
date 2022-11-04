@@ -1,33 +1,10 @@
 <div class="container top7 text-center">
     <div class="text-center">
-      {{ header_balkan('Öffentlichkeitsarbeit') }}
+      {{ header_balkan(_('Public Relations')) }}
     </div>
     <div class="col-md-12 ">
       <p class="p-2 text-center">
-        Das Team der TIB Balkan tritt aktiv an die nationale und internationale
-        Öffentlichkeit, um seine Forschungsarbeit und Resultate umfassend
-        vorzustellen, sie zu erklären und sie für Fragen sowie Diskussionen zu
-        öffnen. Unsere Öffentlichkeitsarbeit findet auf wissenschaftlichen
-        Kongressen und Workshops statt, sie umfasst Lehrveranstaltungen auf
-        österreichischen und internationalen Universitäten, Vorträge in Schulen
-        (Junior Science Club, Wiener Science Lectures), Volkshochschulen,
-        Pfarren und bei Ausstellungen (Schallaburg, NÖ), wird regelmäßig in der
-        „Langen Nacht der Forschung“ in Österreich und bei Kinderuniversitäten
-        publikumsgerecht vorgestellt und ist in den österreichischen Online-
-        und
-        Printmedien vertreten. Eine Auswahl unserer Aktivitäten in diesen
-        Bereichen finden Sie unter folgendem Link. [hier dann bitte einen Link
-        zu einer Subseite Öffentlichkeitsarbeit] In der Verbreitung von Wissen
-        und Resultaten kommen sowohl eine eigene Buchreihe (zusätzlich zu den
-        TIB Bänden) als auch ein digitaler Newsletter zum Tragen. So hat
-        Mihailo
-        St. Popović die Buchreihe <a href="https://histgeo.oeaw.ac.at/"
-                                     target="_blank">„Studies in Historical
-        Geography and Cultural
-        Heritage“</a>
-        begründet und gibt mit seinem Team vierteljährlich den digitalen
-        <a href="https://histgeo.oeaw.ac.at/newsletter/" target="_blank">
-          „HistGeo Newsletter“</a> heraus.</p>
+         {{ _('balkan_outreach_intro') }}
     </div>
     <div class="row">
       {% for item in outreach %}

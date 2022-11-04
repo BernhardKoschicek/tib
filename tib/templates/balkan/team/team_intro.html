@@ -1,36 +1,18 @@
-  <div class="container top7 text-center">
+<div class="container top7 text-center">
     <div class="text-center">
-      {{ header_balkan('Unser Team') }}
+        {{ header_balkan(_('Our team')) }}
     </div>
-
-        <p>Die wissenschaftliche Arbeit in der TIB Balkan basiert auf
-          Teamarbeit.
-          Bei uns sind verschiedene Fachrichtungen vereint, ohne die eine
-          zukunftsweisende Entwicklung unserer Forschung nicht möglich wäre.
-          Diese
-          Fachrichtungen sind: Byzantinistik, Historische Geographie,
-          Geschichte,
-          Südosteuropaforschung, Klassische Philologie, Archäologie,
-          Softwareentwicklung und Datenbankmanagement. Nur im Zusammenspiel all
-          dieser Bereiche lässt sich die etablierte Methodologie des
-          Langzeitprojektes TIB erfolgreich durch das 21. Jahrhundert leiten.
-          Unser Team und sein Leiter Mihailo St. Popović legen großen Wert auf
-          wissenschaftliche Qualifikation und Begeisterung für die TIB Balkan
-          und
-          ihre Teilprojekte, Kollegialität, Diskussion, akademische Entfaltung
-          und
-          Förderung von wissenschaftlichem Nachwuchs, was sich in den
-          Biografien
-          der handelnden Personen widerspiegelt.</p>
-
-      <div class="row justify-content-center pt-5">
+    <p>
+        {{ _('balkan_team_intro') }}
+    </p>
+    <div class="row justify-content-center pt-5">
         {% for member in team.values() %}
-          <div class="col-lg-3 mb-4">
+        <div class="col-lg-3 mb-4">
             {% with member=member %}
-              {% include 'balkan/team/member.html' %}
+            {% include 'balkan/team/member.html' %}
             {% endwith %}
-          </div>
+        </div>
         {% endfor %}
-      </div>
-
     </div>
+
+</div>

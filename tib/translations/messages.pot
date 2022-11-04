@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 19:04+0100\n"
+"POT-Creation-Date: 2022-11-04 19:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3307,6 +3307,96 @@ msgstr ""
 msgid "imprint"
 msgstr ""
 
+#: tib/templates/balkan/digital/digital_intro.html:4
+msgid "in the digital era"
+msgstr ""
+
+#: tib/templates/balkan/digital/digital_intro.html:8
+msgid "balkan_digital_intro"
+msgstr ""
+
+#: tib/templates/balkan/digital/digital_intro.html:48
+msgid "View 3D Objects"
+msgstr ""
+
+#: tib/templates/balkan/digital/digital_intro.html:55
+msgid "Browse project database"
+msgstr ""
+
+#: tib/templates/balkan/home/cartography.html:3
+msgid "Cartography"
+msgstr ""
+
+#: tib/templates/balkan/home/cartography.html:8
+msgid "balkan_cartography_intro"
+msgstr ""
+
+#: tib/templates/balkan/home/cartography.html:27
+msgid ""
+"Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, "
+"1960s, TIB Archiv)"
+msgstr ""
+
+#: tib/templates/balkan/home/home.html:2
+msgid "Tabula Imperii Byzantini Balkan"
+msgstr ""
+
+#: tib/templates/balkan/home/tib_intro.html:3
+msgid "Making past landscapes tangible"
+msgstr ""
+
+#: tib/templates/balkan/home/tib_intro.html:10
+msgid "balkan_intro_1"
+msgstr ""
+
+#: tib/templates/balkan/home/tib_intro.html:17
+msgid "balkan_intro_2"
+msgstr ""
+
+#: tib/templates/balkan/home/tib_intro.html:23 tib/templates/tib/layout.html:63
+msgid "Read more..."
+msgstr ""
+
+#: tib/templates/balkan/home/travel.html:3
+msgid "Surveys"
+msgstr ""
+
+#: tib/templates/balkan/home/travel.html:8
+msgid "balkan_travel_intro"
+msgstr ""
+
+#: tib/templates/balkan/outreach/outreach_intro.html:3
+msgid "Public Relations"
+msgstr ""
+
+#: tib/templates/balkan/outreach/outreach_intro.html:8
+msgid "balkan_outreach_intro"
+msgstr ""
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:3
+msgid "Projects of the TIB Balkan"
+msgstr ""
+
+#: tib/templates/balkan/subprojects/subproject_intro.html:8
+msgid "balkan_projects_intro"
+msgstr ""
+
+#: tib/templates/balkan/team/team_intro.html:3
+msgid "Our team"
+msgstr ""
+
+#: tib/templates/balkan/team/team_intro.html:6
+msgid "balkan_team_intro"
+msgstr ""
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:3
+msgid "TIB Balkan volumes in progress"
+msgstr ""
+
+#: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:8
+msgid "balkan_volumes_intro"
+msgstr ""
+
 #: tib/templates/tib/imprint.html:9
 msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
@@ -3419,10 +3509,6 @@ msgstr ""
 
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
-msgstr ""
-
-#: tib/templates/tib/layout.html:63
-msgid "Read more..."
 msgstr ""
 
 #: tib/templates/tib/layout.html:66

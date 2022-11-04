@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-10 16:04+0200\n"
-"PO-Revision-Date: 2022-10-10 16:05+0200\n"
+"POT-Creation-Date: 2022-11-04 11:26+0100\n"
+"PO-Revision-Date: 2022-11-04 11:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.1.1\n"
+"Generated-By: Babel 2.10.3\n"
+"X-Generator: Poedit 3.2\n"
 
 #: tib/data/navigation.py:6
 msgid "history"
@@ -159,107 +159,11 @@ msgstr "book release"
 msgid "blogpost"
 msgstr "blogpost"
 
-#: tib/data/outreach.py:40
-msgid "TIB volume 11, Macedonia, Southern Part published"
-msgstr "TIB volume 11, Macedonia, Southern Part published"
-
-#: tib/data/outreach.py:42
-msgid "tib_11_release"
-msgstr ""
-"It is with great pleasure that we may announce the publication of the TIB Volume "
-"11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
-"and Mihailo St. Popović as co-authors)."
-
-#: tib/data/outreach.py:43
-msgid "Cf. in detail:"
-msgstr "Cf. in detail:"
-
-#: tib/data/outreach.py:56
-msgid ""
-"On the Use and Usefulness of Digital Humanities in the Historical Geography of "
-"Byzantium"
-msgstr ""
-"On the Use and Usefulness of Digital Humanities in the Historical Geography of "
-"Byzantium"
-
-#: tib/data/outreach.py:59
-msgid "seminar_series_april"
-msgstr ""
-"Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "
-"Digital Humanities in the Historical Geography of Byzantium” on 1 April 2022 in "
-"front of students and colleagues of the Aristotle University in Thessalonica and "
-"the Ibn Haldun University in Istanbul. This paper is part of a seminar series "
-"with the title “The Balkans Between Empires”. After the paper the audience asked "
-"manifold questions on the Historical Geography of the Byzantine Empire and "
-"Digital Humanities."
-
-#: tib/data/outreach.py:69
-msgid ""
-"presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
-"Networks and Transregional Contexts\""
-msgstr ""
-"Presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
-"Networks and Transregional Contexts\""
-
-#: tib/data/outreach.py:72
-msgid "global_eurasia_5_12_22"
-msgstr ""
-"Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
-"www.oeaw.ac.at/en/global-eurasia/detail/news-detail/handlungsspielraeume-"
-"netzwerke-und- transregionale-kontexte\" target=\"_blank\">“Global Eurasia – "
-"Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
-"at the IMAFO (ÖAW)."
-
-#: tib/data/outreach.py:80
-msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
-msgstr "TIB at the \"Lange Nacht der Forschung\" in Vienna"
-
-#: tib/data/outreach.py:82
-msgid "lange_nacht_22_text"
-msgstr ""
-"In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
-"Austrian nationwide event \"Lange Nacht der Forschung 2022\" (Science Night "
-"2022). This provided another excellent opportunity for the Long-Term Project "
-"Tabula Imperii Byzantini (TIB) to communicate its newest research output to the "
-"public. At the stand of the academy's Institute for Medieval Research, the TIB-"
-"team organized fun discovery activities such as the Historical Geographer's Quiz "
-"for all ages and presented the everyday work of a TIB researcher in a custom-"
-"made short film, here based on the sub-project <a href=\"/subprojects/holdura"
-"\">Beyond East and West: Geocommunicating the Sacred Landscapes of \"Duklja\" "
-"and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
-
-#: tib/data/outreach.py:91
-msgid "presentation at university of cologne, germany"
-msgstr "Presentation at university of cologne, germany"
-
-#: tib/data/outreach.py:93
-msgid "seminar_koeln"
-msgstr ""
-"Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
-"“OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini (Balkan) im "
-"digitalen Zeitalter” at the University of Cologne, Germany at an <a href="
-"\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</a>."
-
-#: tib/data/outreach.py:103
-msgid "presentation at International Medieval Congress (IMC) in Leeds"
-msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
-
-#: tib/data/outreach.py:106
-msgid "imc2022"
-msgstr ""
-"During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
-"the team of the TIB Balkans will present its research in the sessions No. 1034, "
-"1134, 1234 and 1334 on Wednesday, 6 July."
-
-#: tib/data/outreach.py:107
-msgid "Cf. in detail"
-msgstr "Cf. in detail"
-
-#: tib/data/outreach.py:117
+#: tib/data/outreach.py:62
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24th International Congress of Byzantine Studies in Venice and Padua"
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:66
 msgid "aieb_roundtable"
 msgstr ""
 "The “Commission for the Historical Geography and Spatial Analysis of Byzantium” "
@@ -273,21 +177,144 @@ msgstr ""
 "Interdisciplinary Gaps: New Ways of Making Connections” in Padua, which will be "
 "chaired by Professor Judith Herrin."
 
-#: tib/data/outreach.py:122
+#: tib/data/outreach.py:67
 msgid "For further information and the programme please cf."
 msgstr "For further information and the programme please cf."
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:77
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 
-#: tib/data/outreach.py:135
+#: tib/data/outreach.py:80
 msgid "hypotheses_post"
 msgstr ""
 "The paper “OpenAtlas und historische Geographie: Die Tabula Imperii  Byzantini "
 "(Balkan) im digitalen Zeitalter” by Bernhard  Koschiček-Krombholz and Mihailo "
 "St. Popović is presented and  commented in a blogpost by a student of the "
 "University of Cologne:"
+
+#: tib/data/outreach.py:89
+msgid "TIB volume 11, Macedonia, Southern Part published"
+msgstr "TIB volume 11, Macedonia, Southern Part published"
+
+#: tib/data/outreach.py:91
+msgid "tib_11_release"
+msgstr ""
+"It is with great pleasure that we may announce the publication of the TIB Volume "
+"11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
+"and Mihailo St. Popović as co-authors)."
+
+#: tib/data/outreach.py:92
+msgid "Cf. in detail:"
+msgstr "Cf. in detail:"
+
+#: tib/data/outreach.py:106
+msgid "presentation at International Medieval Congress (IMC) in Leeds"
+msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
+
+#: tib/data/outreach.py:109
+msgid "imc2022"
+msgstr ""
+"During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
+"the team of the TIB Balkans will present its research in the sessions No. 1034, "
+"1134, 1234 and 1334 on Wednesday, 6 July."
+
+#: tib/data/outreach.py:110
+msgid "Cf. in detail"
+msgstr "Cf. in detail"
+
+#: tib/data/outreach.py:119
+msgid "presentation at university of cologne, germany"
+msgstr "Presentation at university of cologne, germany"
+
+#: tib/data/outreach.py:121
+msgid "seminar_koeln"
+msgstr ""
+"Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
+"“OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini (Balkan) im "
+"digitalen Zeitalter” at the University of Cologne, Germany at an <a href="
+"\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</a>."
+
+#: tib/data/outreach.py:130
+msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+msgstr "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+
+#: tib/data/outreach.py:132
+msgid "lange_nacht_22_text"
+msgstr ""
+"In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
+"Austrian nationwide event \"Lange Nacht der Forschung 2022\" (Science Night "
+"2022). This provided another excellent opportunity for the Long-Term Project "
+"Tabula Imperii Byzantini (TIB) to communicate its newest research output to the "
+"public. At the stand of the academy's Institute for Medieval Research, the TIB-"
+"team organized fun discovery activities such as the Historical Geographer's Quiz "
+"for all ages and presented the everyday work of a TIB researcher in a custom-"
+"made short film, here based on the sub-project <a href=\"/subprojects/holdura"
+"\">Beyond East and West: Geocommunicating the Sacred Landscapes of \"Duklja\" "
+"and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
+
+#: tib/data/outreach.py:141
+msgid ""
+"presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts\""
+msgstr ""
+"Presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts\""
+
+#: tib/data/outreach.py:144
+msgid "global_eurasia_5_12_22"
+msgstr ""
+"Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
+"www.oeaw.ac.at/en/global-eurasia/detail/news-detail/handlungsspielraeume-"
+"netzwerke-und- transregionale-kontexte\" target=\"_blank\">“Global Eurasia – "
+"Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
+"at the IMAFO (ÖAW)."
+
+#: tib/data/outreach.py:152
+msgid ""
+"On the Use and Usefulness of Digital Humanities in the Historical Geography of "
+"Byzantium"
+msgstr ""
+"On the Use and Usefulness of Digital Humanities in the Historical Geography of "
+"Byzantium"
+
+#: tib/data/outreach.py:155
+msgid "seminar_series_april"
+msgstr ""
+"Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "
+"Digital Humanities in the Historical Geography of Byzantium” on 1 April 2022 in "
+"front of students and colleagues of the Aristotle University in Thessalonica and "
+"the Ibn Haldun University in Istanbul. This paper is part of a seminar series "
+"with the title “The Balkans Between Empires”. After the paper the audience asked "
+"manifold questions on the Historical Geography of the Byzantine Empire and "
+"Digital Humanities."
+
+#: tib/data/images/hist_geo.py:7
+msgid ""
+"The document for the Rila Monastery of the Bulgarian Tsar Ivan III. Šišman (1378)"
+msgstr ""
+"The document for the Rila Monastery of the Bulgarian Tsar Ivan III. Šišman (1378)"
+
+#: tib/data/images/hist_geo.py:13
+msgid "Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien"
+msgstr "Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien"
+
+#: tib/data/images/hist_geo.py:19
+msgid "Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
+msgstr ""
+"Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
+
+#: tib/data/images/hist_geo.py:25
+msgid "Documentation of an Old Way Relic in Northern Greece"
+msgstr "Documentation of an Old Way Relic in Northern Greece"
+
+#: tib/data/images/hist_geo.py:31
+msgid "Enquiry with a Bulgarian farmer, Bulgaria"
+msgstr "Enquiry with a Bulgarian farmer, Bulgaria"
+
+#: tib/data/images/hist_geo.py:37
+msgid "Documentation of an early Christian basilica in Bar, Montenegro"
+msgstr "Documentation of an early Christian basilica in Bar, Montenegro"
 
 #: tib/data/images/history.py:8
 msgid "The State of the Project TIB in 1978"
@@ -355,7 +382,7 @@ msgstr "Surveying in Bulgaria in the 1970s"
 msgid "A Visit to the Monastery of Rila in Bulgaria in the 1970s"
 msgstr "A Visit to the Monastery of Rila in Bulgaria in the 1970s"
 
-#: tib/data/images/images.py:6
+#: tib/data/images/long_term.py:7
 msgid ""
 "The division of the TIB Balkan working areas in the northern half of the Balkan "
 "Peninsula according to Herbert Hunger"
@@ -363,36 +390,9 @@ msgstr ""
 "The division of the TIB Balkan working areas in the northern half of the Balkan "
 "Peninsula according to Herbert Hunger"
 
-#: tib/data/images/images.py:12
+#: tib/data/images/long_term.py:12
 msgid "General map of the TIB Balkans"
 msgstr "General map of the TIB Balkans"
-
-#: tib/data/images/images.py:20
-msgid ""
-"The document for the Rila Monastery of the Bulgarian Tsar Ivan III. Šišman (1378)"
-msgstr ""
-"The document for the Rila Monastery of the Bulgarian Tsar Ivan III. Šišman (1378)"
-
-#: tib/data/images/images.py:27
-msgid "Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien"
-msgstr "Die verlassene Kirche Vlaška cărkva in Popovi livadi, SW-Bulgarien"
-
-#: tib/data/images/images.py:34
-msgid "Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
-msgstr ""
-"Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
-
-#: tib/data/images/images.py:41
-msgid "Documentation of an Old Way Relic in Northern Greece"
-msgstr "Documentation of an Old Way Relic in Northern Greece"
-
-#: tib/data/images/images.py:48
-msgid "Enquiry with a Bulgarian farmer, Bulgaria"
-msgstr "Enquiry with a Bulgarian farmer, Bulgaria"
-
-#: tib/data/images/images.py:55
-msgid "Documentation of an early Christian basilica in Bar, Montenegro"
-msgstr "Documentation of an early Christian basilica in Bar, Montenegro"
 
 #: tib/data/images/subprojects.py:8
 msgid ""
@@ -1004,11 +1004,11 @@ msgstr ""
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Further information on data protection on websites of the OeAW."
 
-#: tib/templates/tib/layout.html:67
+#: tib/templates/tib/layout.html:63
 msgid "Read more..."
 msgstr "Read more..."
 
-#: tib/templates/tib/layout.html:70
+#: tib/templates/tib/layout.html:66
 msgid "Show less..."
 msgstr "Show less..."
 

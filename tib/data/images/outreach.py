@@ -33,7 +33,7 @@ gallery_outreach = [
 
 icons_outreach = {
     'tib11_promotion': {
-        'path': f'{icon_path}tib11_promotion.jpg',
+        'path': f'{icon_path_outreach}tib11_promotion.jpg',
         'license': '',
         'author': '',
         'url': '',

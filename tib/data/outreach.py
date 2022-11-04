@@ -53,82 +53,6 @@ Department of Byzantine Research of the Institute for Medieval Research (IMAFO).
     'attachment': [{
         'path': f'{attach_path}ABF_Buchpraesentation_TIB_11.pdf',
         'type': 'pdf'}]
-},{
-    'id': 'tib11_release',
-    'type': types['book_release'],
-    'date': get_dates_formatted(2022, 7, 26),
-    'who': [team['psoustal'], team['mpopovic']],
-    'title': _l('TIB volume 11, Macedonia, Southern Part published'),
-    'description': [
-        _l('tib_11_release'),
-        _l('Cf. in detail:'),
-        format_link(
-            'https://verlag.oeaw.ac.at/en/product/makedonien-suedlicher-teil'
-            '/99200596')],
-    'category': ['tib', 'balkan'],
-    'attachment': [{
-        'path': f'{attach_path}TIB_11_macedonia_southern_part.pdf',
-        'type': 'pdf'}]
-}, {
-    'id': 'seminar_series_april',
-    'type': types['online_presentation'],
-    'date': get_dates_formatted(2022, 4, 1),
-    'who': [team['mpopovic']],
-    'title': _l(
-        'On the Use and Usefulness of Digital Humanities in the Historical '
-        'Geography of Byzantium'),
-    'description': [_l('seminar_series_april')],
-    'category': ['tib', 'balkan'],
-    'attachment': [{
-        'path': f'{attach_path}Seminar-Poster-Popovic.pdf',
-        'type': 'pdf'}]
-}, {
-    'id': 'global_eurasia_5_12_22',
-    'type': types['presentation'],
-    'date': get_dates_formatted(2022, 5, 12),
-    'who': [team['mpopovic']],
-    'title': _l(
-        'presentation at "Global Eurasia – Comparison and Connectivity II: '
-        'Agency, Networks and Transregional Contexts"'),
-    'description': [_l('global_eurasia_5_12_22')],
-    'category': ['tib', 'balkan'],
-    'attachment': []
-}, {
-    'id': 'lange_nacht_22',
-    'type': types['science_fair'],
-    'date': get_dates_formatted(2022, 5, 20),
-    'who': [team['dvargova']],
-    'title': _l('TIB at the "Lange Nacht der Forschung" in Vienna'),
-    'description': [
-        _l('lange_nacht_22_text'),
-        format_video_tag('EW_Lange_Nacht_der_Forschung_2022.mp4')],
-    'category': ['tib', 'balkan'],
-    'attachment': []
-}, {
-    'id': 'seminar_koeln',
-    'type': types['online_presentation'],
-    'date': get_dates_formatted(2022, 6, 23),
-    'who': [team['bkoschicek'], team['mpopovic']],
-    'title': _l('presentation at university of cologne, germany'),
-    'description': [
-        _l('seminar_koeln'),
-        youtube_iframe('https://www.youtube.com/embed/cmJo9N05WY4')],
-    'category': ['tib', 'balkan'],
-    'attachment': []
-}, {
-    'id': 'imc2022',
-    'type': types['online_presentation'],
-    'date': get_dates_formatted(2022, 7, 6),
-    'who': [team['mhernandez'], team['bkoschicek'], team['vpolloczek'],
-            team['mpopovic'], team['dvargova'], team['vzervan']],
-    'title': _l(
-        'presentation at International Medieval Congress (IMC) in Leeds'),
-    'description': [
-        _l('imc2022'),
-        _l('Cf. in detail'),
-        format_link('https://www.imc.leeds.ac.uk/imc-2022/programme/')],
-    'category': ['tib', 'balkan'],
-    'attachment': []
 }, {
     'id': 'aieb_roundtable',
     'type': types['online_presentation'],
@@ -157,6 +81,81 @@ Department of Byzantine Research of the Institute for Medieval Research (IMAFO).
         format_link('https://dhc.hypotheses.org/2053')],
     'category': ['tib', 'balkan'],
     'attachment': []
+}, {
+    'id': 'tib11_release',
+    'type': types['book_release'],
+    'date': get_dates_formatted(2022, 7, 26),
+    'who': [team['psoustal'], team['mpopovic']],
+    'title': _l('TIB volume 11, Macedonia, Southern Part published'),
+    'description': [
+        _l('tib_11_release'),
+        _l('Cf. in detail:'),
+        format_link(
+            'https://verlag.oeaw.ac.at/en/product/makedonien-suedlicher-teil'
+            '/99200596')],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}TIB_11_macedonia_southern_part.pdf',
+        'type': 'pdf'}]
+}, {
+    'id': 'imc2022',
+    'type': types['online_presentation'],
+    'date': get_dates_formatted(2022, 7, 6),
+    'who': [team['mhernandez'], team['bkoschicek'], team['vpolloczek'],
+            team['mpopovic'], team['dvargova'], team['vzervan']],
+    'title': _l(
+        'presentation at International Medieval Congress (IMC) in Leeds'),
+    'description': [
+        _l('imc2022'),
+        _l('Cf. in detail'),
+        format_link('https://www.imc.leeds.ac.uk/imc-2022/programme/')],
+    'category': ['tib', 'balkan'],
+    'attachment': []
+}, {
+    'id': 'seminar_koeln',
+    'type': types['online_presentation'],
+    'date': get_dates_formatted(2022, 6, 23),
+    'who': [team['bkoschicek'], team['mpopovic']],
+    'title': _l('presentation at university of cologne, germany'),
+    'description': [
+        _l('seminar_koeln'),
+        youtube_iframe('https://www.youtube.com/embed/cmJo9N05WY4')],
+    'category': ['tib', 'balkan'],
+    'attachment': []
+}, {
+    'id': 'lange_nacht_22',
+    'type': types['science_fair'],
+    'date': get_dates_formatted(2022, 5, 20),
+    'who': [team['dvargova']],
+    'title': _l('TIB at the "Lange Nacht der Forschung" in Vienna'),
+    'description': [
+        _l('lange_nacht_22_text'),
+        format_video_tag('EW_Lange_Nacht_der_Forschung_2022.mp4')],
+    'category': ['tib', 'balkan'],
+    'attachment': []
+}, {
+    'id': 'global_eurasia_5_12_22',
+    'type': types['presentation'],
+    'date': get_dates_formatted(2022, 5, 12),
+    'who': [team['mpopovic']],
+    'title': _l(
+        'presentation at "Global Eurasia – Comparison and Connectivity II: '
+        'Agency, Networks and Transregional Contexts"'),
+    'description': [_l('global_eurasia_5_12_22')],
+    'category': ['tib', 'balkan'],
+    'attachment': []
+}, {
+    'id': 'seminar_series_april',
+    'type': types['online_presentation'],
+    'date': get_dates_formatted(2022, 4, 1),
+    'who': [team['mpopovic']],
+    'title': _l(
+        'On the Use and Usefulness of Digital Humanities in the Historical '
+        'Geography of Byzantium'),
+    'description': [_l('seminar_series_april')],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}Seminar-Poster-Popovic.pdf',
+        'type': 'pdf'}]
 },
 ]
-

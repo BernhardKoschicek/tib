@@ -1,10 +1,23 @@
 <nav role="navigation" class="navigation fixed-top ">
-  <div class="text-center float-end m-3 col-2 brand">
-    <a href="{{ url_for('home') }}">
+  <div class="text-center float-end m-3 brand">
+    <a href="{{ url_for('home') }}" class="text-decoration-none">
       <img class="brand-image"
            src="{{ url_for('static', filename='images/logo/brand-small.png') }}"
            alt="Logo">
     </a>
+    <div class="btn-group-vertical px-3" role="group">
+      {% for language in AVAILABLE_LANGUAGES.items() %}
+        {% if CURRENT_LANGUAGE == language[0] %}
+            <button type="button" class="btn btn-violet bg-violet btn-sm w-100">{{ language[1] }}</button>
+        {% else %}
+          <a type="button" href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none w-100">
+            <button class="btn btn-outline-violet btn-sm w-100">
+              {{ language[1] }}
+            </button>
+          </a>
+        {%  endif %}
+      {% endfor %}
+    </div>
   </div>
   <div id="menuToggle">
     <input type="checkbox"/>
@@ -13,7 +26,7 @@
     <span></span>
     <div class="vh-100 min-vw-100" id="menu">
       <div class="row justify-content-center">
-        {{ request.path |balkan_nav()|safe }}
+        {{ request.path | balkan_nav() |safe }}
       </div>
     </div>
   </div>

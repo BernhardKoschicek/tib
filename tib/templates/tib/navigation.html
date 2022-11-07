@@ -23,10 +23,10 @@
         <div class="btn-group" role="group">
         {% for language in AVAILABLE_LANGUAGES.items() %}
           {% if CURRENT_LANGUAGE == language[0] %}
-              <button type="button" class="btn btn-violet bg-violet">{{ language[1] }}</button>
+              <button type="button" class="btn btn-violet bg-violet btn-sm">{{ language[1] }}</button>
           {% else %}
             <a type="button" href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none">
-              <button  class="btn btn-outline-violet">
+              <button  class="btn btn-outline-violet btn-sm">
                 {{ language[1] }}
               </button>
             </a>

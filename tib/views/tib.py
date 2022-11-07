@@ -1,4 +1,5 @@
-from flask import Response, redirect, render_template
+from flask import Response, redirect, render_template, session, url_for, \
+    request
 
 from tib import app
 from tib.data.images.history import tib_history_images
@@ -142,3 +143,7 @@ def tib_discover() -> str:
         view_classes=view_classes)
 
 
+@app.route('/language=<language>')
+def set_language(language=None):
+    session['language'] = language
+    return redirect(request.referrer)

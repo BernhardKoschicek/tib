@@ -45,6 +45,8 @@ def balkan_team() -> str:
 
 @app.route('/balkan/bände')
 @app.route('/balkan/bände/<band>')
+@app.route('/balkan/volumes')
+@app.route('/balkan/volumes/<band>')
 def balkan_volumes(band: str = None) -> str:
     if band:
         return render_template(
@@ -64,6 +66,8 @@ def balkan_volumes(band: str = None) -> str:
 
 @app.route('/balkan/subprojekte')
 @app.route('/balkan/subprojekte/<project>')
+@app.route('/balkan/subprojects')
+@app.route('/balkan/subprojects/<project>')
 def balkan_subprojects(project: str = None) -> str:
     if project:
         return render_template(
@@ -83,6 +87,7 @@ def balkan_subprojects(project: str = None) -> str:
         subprojects=subprojects)
 
 
+@app.route('/balkan/public-relations')
 @app.route('/balkan/öffentlichskeitsarbeit')
 def balkan_outreach() -> str:
     return render_template(
@@ -108,6 +113,7 @@ def balkan_digital(category: str = None) -> str:
         view_classes=view_classes)
 
 
+@app.route('/balkan/long-term-project')
 @app.route('/balkan/langzeitprojekt')
 def balkan_long_term():
     return render_template(
@@ -122,10 +128,11 @@ def balkan_tib():
         tib_volumes=tib_volumes_dict)
 
 
+@app.route('/balkan/historical-geography')
 @app.route('/balkan/historische-geographie')
 def balkan_historical_geographie():
     return render_template(
-        'balkan/geography/historically_geography.html',
+        'balkan/geography/historical_geography.html',
         images=balkan_hist_geo)
 
 

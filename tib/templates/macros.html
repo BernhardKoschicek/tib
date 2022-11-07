@@ -42,11 +42,11 @@
 
 {% macro read_more(target) %}
 <p>
-  <button type="button" data-bs-toggle="collapse"
-          href="#{{ target }}" role="button" data-read-more="True"
-          aria-expanded="false" aria-controls="collapseExample"
-          class="text-decoration-none btn-violet-light rounded-pill px-5 py-1">
-    Read more...
+  <button class="text-decoration-none btn-violet-light rounded-pill px-5 py-1"
+          data-bs-toggle="collapse" aria-controls="{{ target }}"
+          href="#{{ target }}" role="button" aria-expanded="false">
+          <i class="bi bi-caret-down-fill" onclick="readMoreFunction(this)">
+            {{_('Read more')}}...</i>
   </button>
 </p>
 {% endmacro %}

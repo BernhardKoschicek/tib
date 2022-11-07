@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 15:47+0100\n"
-"PO-Revision-Date: 2022-11-07 15:48+0100\n"
+"POT-Creation-Date: 2022-11-07 16:28+0100\n"
+"PO-Revision-Date: 2022-11-07 16:28+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -611,9 +611,9 @@ msgstr ""
 "Wirtschaft und Kultur Leipzig, hier Professor Dr. Johannes Tripps). Darüber "
 "hinaus steht es in engem Zusammenhang mit den laufenden wissenschaftlichen "
 "Arbeiten von Mihailo Popović zum <a href=\"/current_status/TIB_17\">TIB-Band 17 "
-"\"Nea Epeiros und Praevalis\"</a> und zum TIB-Teilprojekt <a href=\"sub_projects/"
-"montenegro\">\"Cultural Heritage in Times of World War I: Der Fall der "
-"österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)\"</a>."
+"\"Nea Epeiros und Praevalis\"</a> und zum TIB-Teilprojekt <a href=\"montenegro\">"
+"\"Cultural Heritage in Times of World War I: Der Fall der österreichisch-"
+"ungarischen Reliefkarte von Montenegro (1916-1918)\"</a>."
 
 #: tib/data/subprojects.py:23
 msgid ""
@@ -5341,6 +5341,10 @@ msgstr "Europa"
 msgid "imprint"
 msgstr "Impressum"
 
+#: tib/templates/macros.html:49
+msgid "Read more"
+msgstr "Weiterlesen"
+
 #: tib/templates/balkan/digital/3dobjects.html:9
 msgid ""
 "The following objects were created within the project <a href=\"balkan/"
@@ -5364,7 +5368,7 @@ msgstr ""
 "ausschließlich an TIB Bänden über die Balkanhalbinsel, sondern wir leisten auch "
 "einen wertvollen und nachhaltigen Beitrag zu den Digitalen Geisteswissenschaften "
 "in der Byzantinistik und Historischen Geographie. Aus diesem Grund haben wir ein "
-"<a href=\"tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
+"<a href=\"/tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
 "TIB Bänden</a> mit Verlinkungen auf die Seite der jeweiligen TIB Bände und ihre "
 "pdf Dateien (soweit aufgrund des Copyrights erlaubt) online gestellt. Einen Teil "
 "unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank"
@@ -5374,8 +5378,9 @@ msgstr ""
 "a> Datenbank, in die alle Resultate der Teilprojekte TIB Balkan sowie "
 "ausgewählte Aspekte aus den TIB Bänden 16 und 17 laufend einfließen und "
 "jederzeit aktuell über ein Web Applikation abgerufen werden können. Diese "
-"Webapplikation nennen wir <a href=\"tib-atlas\">„Maps of Power: Historical Atlas "
-"of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans)“</a>."
+"Webapplikation nennen wir <a href=\"/tib-atlas\">„Maps of Power: Historical "
+"Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans)“</"
+"a>."
 
 #: tib/templates/balkan/digital/digital_intro.html:17
 msgid "View 3D Objects"
@@ -5405,12 +5410,12 @@ msgstr ""
 "by/4.0/\">\n"
 "          https://creativecommons.org/licenses/by/4.0/</a>)."
 
-#: tib/templates/balkan/geography/historically_geography.html:6
+#: tib/templates/balkan/geography/historical_geography.html:6
 #: tib/templates/balkan/home/tib_intro.html:3
 msgid "Making past landscapes tangible"
 msgstr "Vergangene Landschaften erlebbar machen"
 
-#: tib/templates/balkan/geography/historically_geography.html:17
+#: tib/templates/balkan/geography/historical_geography.html:17
 msgid ""
 "On the road with a Lada Niva on the old road between Podmol and Bonče, Republic "
 "of Northern Macedonia, 2016 (M. St. Popović, TIB 16)."
@@ -5418,7 +5423,7 @@ msgstr ""
 "Unterwegs mit einer Lada Niva auf der alten Straße zwischen Podmol und Bonče, "
 "Republik Nordmazedonien, 2016 (M. St. Popović, TIB 16)"
 
-#: tib/templates/balkan/geography/historically_geography.html:22
+#: tib/templates/balkan/geography/historical_geography.html:22
 #: tib/templates/balkan/home/tib_intro.html:10
 msgid "balkan_intro_1"
 msgstr ""
@@ -5429,23 +5434,23 @@ msgstr ""
 "Mittelalter gelebt haben und wie sie ihre Umwelt gestaltet und wahrgenommen "
 "haben."
 
-#: tib/templates/balkan/geography/historically_geography.html:32
+#: tib/templates/balkan/geography/historical_geography.html:32
 msgid "Questions of historical geography"
 msgstr "Fragen der historischen Geographie"
 
-#: tib/templates/balkan/geography/historically_geography.html:38
+#: tib/templates/balkan/geography/historical_geography.html:38
 msgid "What were landscapes like at that time?"
 msgstr "Wie waren damalige Landschaften beschaffen?"
 
-#: tib/templates/balkan/geography/historically_geography.html:39
+#: tib/templates/balkan/geography/historical_geography.html:39
 msgid "What were the settlements? What did they look like?"
 msgstr "Welche Siedlungen gab es? Wie sahen diese aus?"
 
-#: tib/templates/balkan/geography/historically_geography.html:40
+#: tib/templates/balkan/geography/historical_geography.html:40
 msgid "Were they documented in written sources (e.g., charters)?"
 msgstr "Wurden sie in schriftlichen Quellen (z. B. Urkunden) dokumentiert?"
 
-#: tib/templates/balkan/geography/historically_geography.html:41
+#: tib/templates/balkan/geography/historical_geography.html:41
 msgid ""
 "What role did rivers, lakes and mountains play in the perception of space in the "
 "Middle Ages?"
@@ -5453,19 +5458,19 @@ msgstr ""
 "Welche Rolle spielten Flüsse, Seen und Gebirge in der Raumwahrnehmung des "
 "Mittelalters?"
 
-#: tib/templates/balkan/geography/historically_geography.html:42
+#: tib/templates/balkan/geography/historical_geography.html:42
 msgid "Why were churches, monasteries and castles built in certain places?"
 msgstr "Warum wurden Kirchen, Klöster und Burgen an bestimmten Orten errichtet?"
 
-#: tib/templates/balkan/geography/historically_geography.html:43
+#: tib/templates/balkan/geography/historical_geography.html:43
 msgid "Where did roads lead to and what were they like?"
 msgstr "Wohin führten Straßen und wie waren sie beschaffen?"
 
-#: tib/templates/balkan/geography/historically_geography.html:55
+#: tib/templates/balkan/geography/historical_geography.html:55
 msgid "Our way of working"
 msgstr "Unsere Arbeitsweise"
 
-#: tib/templates/balkan/geography/historically_geography.html:57
+#: tib/templates/balkan/geography/historical_geography.html:57
 msgid ""
 "We read the written sources of the period from the 4th to the 15th century, "
 "written in different languages (e.g. Greek, Latin, Old Slavonic, etc.), and "
@@ -5475,13 +5480,13 @@ msgstr ""
 "verschiedenen Sprachen verfasst sind (z. B. griechisch, lateinisch, altslawisch, "
 "etc.), und filtern alle Informationen zu den oben genannten Fragen heraus."
 
-#: tib/templates/balkan/geography/historically_geography.html:60
+#: tib/templates/balkan/geography/historical_geography.html:60
 msgid ""
 "We collect data on field names from the sources, modern maps and encyclopedias."
 msgstr ""
 "Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten und Lexika."
 
-#: tib/templates/balkan/geography/historically_geography.html:64
+#: tib/templates/balkan/geography/historical_geography.html:64
 msgid ""
 "We get an overview of archaeological excavations and existing monuments "
 "(churches, monasteries, castles, etc.) on site."
@@ -5489,7 +5494,7 @@ msgstr ""
 "Wir verschaffen uns einen Überblick über archäologische Grabungen und bestehende "
 "Denkmäler (Kirchen, Klöster, Burgen, etc.) vor Ort."
 
-#: tib/templates/balkan/geography/historically_geography.html:67
+#: tib/templates/balkan/geography/historical_geography.html:67
 msgid ""
 "And we travel to the respective areas to collect and document data in the field "
 "that we have previously read and summarized. To do this, we rely on the help of "
@@ -5512,7 +5517,7 @@ msgstr ""
 "unsere Erkenntnisse auch in einer beigelegten, gedruckten Karte ein. Auf diese "
 "Weise werden längst vergangene Landschaften für jeden/jede begreifbar"
 
-#: tib/templates/balkan/geography/historically_geography.html:72
+#: tib/templates/balkan/geography/historical_geography.html:72
 msgid ""
 "If you would like to read about the TIB project, the TIB Balkans and future "
 "plans in the light of political, cultural and demographic developments in "
@@ -5564,7 +5569,7 @@ msgstr ""
 "beschaffen? All dies sind Fragen, mit denen sich die historische Geographie "
 "befasst."
 
-#: tib/templates/balkan/home/tib_intro.html:14 tib/templates/tib/layout.html:63
+#: tib/templates/balkan/home/tib_intro.html:14
 msgid "Read more..."
 msgstr "Mehr lesen..."
 
@@ -5985,10 +5990,6 @@ msgstr ""
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Weitere Informationen zum Datenschutz auf Internetseiten der ÖAW."
-
-#: tib/templates/tib/layout.html:66
-msgid "Show less..."
-msgstr "Weniger anzeigen..."
 
 #: tib/templates/tib/aieb/aieb.html:6
 msgid "Commission for the"
@@ -6471,6 +6472,12 @@ msgstr ""
 msgid "Contact"
 msgstr "Kontakt"
 
+#: tib/templates/tib/digtib/register.html:2
+#: tib/templates/tib/digtib/register.html:6
+#, fuzzy
+msgid "Toponym Register"
+msgstr "Toponymregister"
+
 #: tib/templates/tib/frontpage/frontpage.html:2
 #: tib/templates/tib/frontpage/frontpage.html:9
 msgid "TIB"
@@ -6536,12 +6543,11 @@ msgstr "Mehr erfahren"
 #: tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href="
-"\"{{ url_for('tib_atlas') }}\">ausprobieren und testen</a>. Er enthält "
-"ausgewählte Daten aus den <a href="
-"\"{{ url_for('tib_sub_projects') }}\">Teilprojekten</a> der <a href="
-"\"{{ url_for('home') }}\">TIB Balkan</a> und ist noch in Arbeit. Wenn Sie Fragen "
-"oder Kommentare haben, wenden Sie sich bitte an"
+"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href=\"/atlas"
+"\">ausprobieren und testen</a>. Er enthält ausgewählte Daten aus den <a href="
+"\"balkan/subprojects\">Teilprojekten</a> der <a href=\"balkan\">TIB Balkan</a> "
+"und ist noch in Arbeit. Wenn Sie Fragen oder Kommentare haben, wenden Sie sich "
+"bitte an"
 
 #: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"
@@ -7159,3 +7165,6 @@ msgstr "Ehemalige Mitarbeiter"
 #~ "Projektleiter der TIB Balkan und möchte Ihnen gemeinsam mit seinem Team auf "
 #~ "dieser Homepage die Aufgaben, Ziele, Abläufe, Resultate und Visionen dieses "
 #~ "Bereiches näherbringen."
+
+#~ msgid "Show less..."
+#~ msgstr "Weniger anzeigen..."

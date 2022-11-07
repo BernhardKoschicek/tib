@@ -57,18 +57,6 @@
 
 <script>
     AOS.init();
-
-    [...document.querySelectorAll('[data-read-more="True"]')].forEach(function (item) {
-        item.addEventListener('click', function handleClick() {
-            const initialText = {{ _('Read more...') }};
-
-            if (item.textContent.toLowerCase().includes(initialText.toLowerCase())) {
-                item.textContent =  {{ _('Show less...') }};
-            } else {
-                item.textContent = initialText;
-            }
-        });
-    });
 </script>
 
 </body>

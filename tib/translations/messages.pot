@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 15:47+0100\n"
+"POT-Creation-Date: 2022-11-07 16:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3597,6 +3597,10 @@ msgstr ""
 msgid "imprint"
 msgstr ""
 
+#: tib/templates/macros.html:49
+msgid "Read more"
+msgstr ""
+
 #: tib/templates/balkan/digital/3dobjects.html:9
 msgid ""
 "The following objects were created within the project <a "
@@ -3637,57 +3641,57 @@ msgid ""
 "href=\"https://creativecommons.org/licenses/by/4.0/\">https://creativecommons.org/licenses/by/4.0/</a>)."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:6
+#: tib/templates/balkan/geography/historical_geography.html:6
 #: tib/templates/balkan/home/tib_intro.html:3
 msgid "Making past landscapes tangible"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:17
+#: tib/templates/balkan/geography/historical_geography.html:17
 msgid ""
 "On the road with a Lada Niva on the old road between Podmol and Bonče, "
 "Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16)."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:22
+#: tib/templates/balkan/geography/historical_geography.html:22
 #: tib/templates/balkan/home/tib_intro.html:10
 msgid "balkan_intro_1"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:32
+#: tib/templates/balkan/geography/historical_geography.html:32
 msgid "Questions of historical geography"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:38
+#: tib/templates/balkan/geography/historical_geography.html:38
 msgid "What were landscapes like at that time?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:39
+#: tib/templates/balkan/geography/historical_geography.html:39
 msgid "What were the settlements? What did they look like?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:40
+#: tib/templates/balkan/geography/historical_geography.html:40
 msgid "Were they documented in written sources (e.g., charters)?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:41
+#: tib/templates/balkan/geography/historical_geography.html:41
 msgid ""
 "What role did rivers, lakes and mountains play in the perception of space"
 " in the Middle Ages?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:42
+#: tib/templates/balkan/geography/historical_geography.html:42
 msgid "Why were churches, monasteries and castles built in certain places?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:43
+#: tib/templates/balkan/geography/historical_geography.html:43
 msgid "Where did roads lead to and what were they like?"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:55
+#: tib/templates/balkan/geography/historical_geography.html:55
 msgid "Our way of working"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:57
+#: tib/templates/balkan/geography/historical_geography.html:57
 msgid ""
 "We read the written sources of the period from the 4th to the 15th "
 "century, written in different languages (e.g. Greek, Latin, Old Slavonic,"
@@ -3695,19 +3699,19 @@ msgid ""
 "questions."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:60
+#: tib/templates/balkan/geography/historical_geography.html:60
 msgid ""
 "We collect data on field names from the sources, modern maps and "
 "encyclopedias."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:64
+#: tib/templates/balkan/geography/historical_geography.html:64
 msgid ""
 "We get an overview of archaeological excavations and existing monuments "
 "(churches, monasteries, castles, etc.) on site."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:67
+#: tib/templates/balkan/geography/historical_geography.html:67
 msgid ""
 "And we travel to the respective areas to collect and document data in the"
 " field that we have previously read and summarized. To do this, we rely "
@@ -3720,7 +3724,7 @@ msgid ""
 " In this way, landscapes long gone become comprehensible to everyone."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:72
+#: tib/templates/balkan/geography/historical_geography.html:72
 msgid ""
 "If you would like to read about the TIB project, the TIB Balkans and "
 "future plans in the light of political, cultural and demographic "
@@ -3749,7 +3753,7 @@ msgstr ""
 msgid "balkan_intro_2"
 msgstr ""
 
-#: tib/templates/balkan/home/tib_intro.html:14 tib/templates/tib/layout.html:63
+#: tib/templates/balkan/home/tib_intro.html:14
 msgid "Read more..."
 msgstr ""
 
@@ -4030,10 +4034,6 @@ msgstr ""
 
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
-msgstr ""
-
-#: tib/templates/tib/layout.html:66
-msgid "Show less..."
 msgstr ""
 
 #: tib/templates/tib/aieb/aieb.html:6
@@ -4370,6 +4370,11 @@ msgstr ""
 
 #: tib/templates/tib/digtib/digtib.html:104
 msgid "Contact"
+msgstr ""
+
+#: tib/templates/tib/digtib/register.html:2
+#: tib/templates/tib/digtib/register.html:6
+msgid "Toponym Register"
 msgstr ""
 
 #: tib/templates/tib/frontpage/frontpage.html:2

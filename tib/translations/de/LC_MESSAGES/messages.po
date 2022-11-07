@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:43+0100\n"
-"PO-Revision-Date: 2022-11-07 13:45+0100\n"
+"POT-Creation-Date: 2022-11-07 13:50+0100\n"
+"PO-Revision-Date: 2022-11-07 13:52+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -4747,6 +4747,62 @@ msgstr "TIB 17 Nea Epeiros und Praevalis"
 #: tib/data/toponym_register.py:116
 msgid "TIB 18 Caria"
 msgstr "TIB 18 Karien"
+
+#: tib/data/images/balkan_home.py:4
+msgid ""
+"Southern shore of Lake Ohrid near the monastery of Sveti Naum, Republic of "
+"Northern Macedonia, 2017 (M. St. Popović, TIB 16)."
+msgstr ""
+"Südufer des Ohrid-Sees beim Kloster Sveti Naum, Republik Nordmazedonien, 2017 "
+"(M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:5
+msgid ""
+"The plain of Prilep from the west, Republic of Northern Macedonia, 2017 (M. St. "
+"Popović, TIB 16)."
+msgstr ""
+"Die Ebene von Prilep von Westen, Republik Nordmazedonien, 2017 (M. St. Popović, "
+"TIB 16)"
+
+#: tib/data/images/balkan_home.py:6
+msgid ""
+"The Church of St. George in Staro Nagoričane from the southeast, Republic of "
+"North Macedonia, 2007 (M. St. Popović, TIB 16)."
+msgstr ""
+"Die Kirche des Heiligen Georg in Staro Nagoričane von Südosten, Republik "
+"Nordmazedonien, 2007 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:7
+msgid ""
+"The headwaters of the Crni Drim River near the monastery of Sveti Naum on Lake "
+"Ohrid, Republic of Northern Macedonia, 2008 (M. St. Popović, TIB 16)."
+msgstr ""
+"Das Quellgebiet des Flusses Crni Drim beim Kloster Sveti Naum am Ohrid-See, "
+"Republik Nordmazedonien, 2008 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:8
+msgid ""
+"With archaeologist Prof. Dr. Viktor Lilčikj and his Lada Niva on the way to the "
+"site of Bonče, Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16)."
+msgstr ""
+"Mit dem Archäologen Prof. Dr. Viktor Lilčikj und seiner Lada Niva auf der Fahrt "
+"zum Ort Bonče, Republik Nordmazedonien, 2016 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:9
+msgid "Map 1 : 800,000 from TIB Volume 6, 1991 (P. Soustal, TIB 6)."
+msgstr "Karte 1 : 800.000 aus dem TIB Band 6, 1991 (P. Soustal, TIB 6)"
+
+#: tib/data/images/balkan_home.py:10
+msgid "Screen capture of the TIB Balkan web application, 2022."
+msgstr "Bildschirmaufnahme der TIB Balkan Web Applikation, 2022"
+
+#: tib/data/images/balkan_home.py:11
+msgid ""
+"In 2011, for example, the TIB Balkans was significantly involved in a conference "
+"in China, 2011 (M. St. Popović)."
+msgstr ""
+"2011 war die TIB Balkan zum Beispiel maßgeblich an einer Konferenz in China "
+"beteiligt, 2011 (M. St. Popović)"
 
 #: tib/data/images/hist_geo.py:7
 msgid ""

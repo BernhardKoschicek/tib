@@ -5,7 +5,7 @@ from flask import render_template
 from tib import app
 from tib.data.outreach import outreach
 from tib.data.digital import objects3d
-from tib.data.image_descriptions import home_images
+from tib.data.images.balkan_home import home_images
 from tib.data.images.hist_geo import balkan_hist_geo
 from tib.data.images.long_term import tib_balkan_long_term
 from tib.data.images.util import IMAGES_SUB, IMAGES_TIB

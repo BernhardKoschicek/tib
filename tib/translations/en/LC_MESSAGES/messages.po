@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:43+0100\n"
-"PO-Revision-Date: 2022-11-07 13:45+0100\n"
+"POT-Creation-Date: 2022-11-07 13:50+0100\n"
+"PO-Revision-Date: 2022-11-07 13:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -4681,6 +4681,62 @@ msgstr "TIB 17 Nea Epeiros and Praevalis"
 #: tib/data/toponym_register.py:116
 msgid "TIB 18 Caria"
 msgstr "TIB 18 Caria"
+
+#: tib/data/images/balkan_home.py:4
+msgid ""
+"Southern shore of Lake Ohrid near the monastery of Sveti Naum, Republic of "
+"Northern Macedonia, 2017 (M. St. Popović, TIB 16)."
+msgstr ""
+"Southern shore of Lake Ohrid near the monastery of Sveti Naum, Republic of "
+"Northern Macedonia, 2017 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:5
+msgid ""
+"The plain of Prilep from the west, Republic of Northern Macedonia, 2017 (M. St. "
+"Popović, TIB 16)."
+msgstr ""
+"The plain of Prilep from the west, Republic of Northern Macedonia, 2017 (M. St. "
+"Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:6
+msgid ""
+"The Church of St. George in Staro Nagoričane from the southeast, Republic of "
+"North Macedonia, 2007 (M. St. Popović, TIB 16)."
+msgstr ""
+"The Church of St. George in Staro Nagoričane from the southeast, Republic of "
+"North Macedonia, 2007 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:7
+msgid ""
+"The headwaters of the Crni Drim River near the monastery of Sveti Naum on Lake "
+"Ohrid, Republic of Northern Macedonia, 2008 (M. St. Popović, TIB 16)."
+msgstr ""
+"The headwaters of the Crni Drim River near the monastery of Sveti Naum on Lake "
+"Ohrid, Republic of Northern Macedonia, 2008 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:8
+msgid ""
+"With archaeologist Prof. Dr. Viktor Lilčikj and his Lada Niva on the way to the "
+"site of Bonče, Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16)."
+msgstr ""
+"With archaeologist Prof. Dr. Viktor Lilčikj and his Lada Niva on the way to the "
+"site of Bonče, Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16)"
+
+#: tib/data/images/balkan_home.py:9
+msgid "Map 1 : 800,000 from TIB Volume 6, 1991 (P. Soustal, TIB 6)."
+msgstr "Map 1 : 800,000 from TIB Volume 6, 1991 (P. Soustal, TIB 6)"
+
+#: tib/data/images/balkan_home.py:10
+msgid "Screen capture of the TIB Balkan web application, 2022."
+msgstr "Screen capture of the TIB Balkan web application, 2022"
+
+#: tib/data/images/balkan_home.py:11
+msgid ""
+"In 2011, for example, the TIB Balkans was significantly involved in a conference "
+"in China, 2011 (M. St. Popović)."
+msgstr ""
+"In 2011, for example, the TIB Balkans was significantly involved in a conference "
+"in China, 2011 (M. St. Popović)"
 
 #: tib/data/images/hist_geo.py:7
 msgid ""

@@ -230,38 +230,36 @@
 
 {% macro create_table(list_, id, order_column) %}
 {% set not_shown = ['category', 'download', 'external_link'] %}
-<table id="table-{{ id }}"
-       class="row-border order-column stripe hover">
+<table id="table-{{ id }}" class="row-border order-column stripe hover">
   <thead>
-  <tr>
-    {% for header in list_[0] if not header in not_shown %}
-    <th>{{ _(header) | title }}</th>
-    {% endfor %}
-    <th></th>
-  </tr>
+    <tr>
+      {% for header in list_[0] if not header in not_shown %}
+      <th>{{ _(header) | title }}</th>
+      {% endfor %}
+      <th></th>
+    </tr>
   </thead>
   <tbody>
   {% for item in list_ %}
   <tr>
     {% for key, value in item.items() if not key in not_shown %}
-    <td>
-      {{ value }}
-    </td>
+      <td>
+        {{ value }}
+      </td>
     {% endfor %}
     <td>
       {% if item.external_link %}
-      <a href="{{ item.external_link }}" class="text-decoration-none"
-         target="_blank">
-        <i class="bi bi-box-arrow-up-right lead"></i>
-        {% endif %}
-        {% if item.download %}
-        <a
-          href="{{ url_for('static', filename='repository/publications/' + item.download ) }}"
-          class="text-decoration-none">
-          <i class="bi bi-file-earmark-arrow-down lead"></i>
-          {% endif %}
-
+        <a href="{{ item.external_link }}" class="text-decoration-none"
+           target="_blank">
+          <i class="bi bi-box-arrow-up-right lead"></i>
         </a>
+      {% endif %}
+      {% if item.download %}
+        <a href="{{ url_for('static', filename='repository/publications/' + item.download ) }}"
+            class="text-decoration-none">
+        <i class="bi bi-file-earmark-arrow-down lead"></i>
+        </a>
+      {% endif %}
     </td>
   </tr>
   {% endfor %}

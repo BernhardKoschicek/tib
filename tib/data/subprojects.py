@@ -212,6 +212,8 @@ project_results = {
     },
     'holdura': '',
     'borderzones': '',
+    'mesmy': '',
+    'inventory': '',
     'digtib': {
         'text': [
             _l('The total number of slides to be scanned and processed in the project by the research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides). Their processing and description was carried out by Veronika Polloczek, the (partly already retired) scientists of the TIB and student employees.'),

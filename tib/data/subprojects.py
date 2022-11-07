@@ -24,8 +24,8 @@ project_descriptions = {
     'montenegro': [
         _l('A famous example of a relief map of the Balkan Peninsula in the former Yugoslavia is the map of Montenegro and adjacent territories, which was made in 1916/17 by order of the Austro-Hungarian military administration and is now located in the courtyard of the former royal residence "Biljarda" (now the National Museum of Montenegro) in Cetinje in the Republic of Montenegro. The National Museum of Montenegro in Cetinje reports about the relief map on its homepage on the Internet as follows: "After the Austro-Hungarian army made the breakthrough of the Lovćen front and occupied Cetinje in 1916, a glazed object with a relief map of Montenegro at a scale of 1:10,000 was erected on two levels in the south wing of the "Biljarda" residence, where the headquarters of the occupation troops was also located. The relief, which shows parts of Bosnia and Herzegovina, Croatia, Albania and Serbia, among others, consists of a concrete mass on a stone base and was prepared on the basis of precise Austrian topographic maps and land surveys, which in turn had been prepared using the most modern means. To determine the elevations on the map, a network of thin metal rods was used, around which the space in between was filled manually to match the landscape characteristics. The surface was then painted in detail so that it contained all the relevant information about the road network of that time, water areas, forests and populated places. For a better overview of the map, a bridge was built over its central part, from which every single detail was visible. In addition to Austro-Hungarian military cartographers, Montenegrin prisoners of war were also involved in the production of the relief map, including our famous sculptor Marko Brežanin. The old protective superstructure was demolished in the early 1980s and replaced by a glazed metal structure, which is still in use now. The relief map of Montenegro was declared a cultural monument (cultural property) by Decision No. 1794/1 of September 14, 1948. Apart from the undoubtedly military-strategic purposes it had during the war years, this unique object has gained importance over time due to its aesthetic and historical value, so that it now forms an inevitable tourist attraction." (Translation by M. Popović)'),
         _l('In the description of the National Museum of Montenegro, the statement "In addition to Austro-Hungarian military cartographers, Montenegrin prisoners of war were also involved in the production of the relief map, including our famous sculptor Marko Brežanin" is of particular interest. Surprisingly, the relief map is not mentioned in Austrian scientific literature, but only finds brief mention as a tourist attraction in modern Austrian or German travel guides about Montenegro.'),
-        _l('The aim of the project is to investigate the circumstances and general conditions of the production of the relief map by the Austro-Hungarian army and to search for the Austro-Hungarian artists who worked on the relief map of Montenegro in 1916. Among the participants were the Austrian sergeant and sculptor Schugar, the sculptor Brežanin and the painter Grabwinkler.'),],
-       'digtib': [
+        _l('The aim of the project is to investigate the circumstances and general conditions of the production of the relief map by the Austro-Hungarian army and to search for the Austro-Hungarian artists who worked on the relief map of Montenegro in 1916. Among the participants were the Austrian sergeant and sculptor Schugar, the sculptor Brežanin and the painter Grabwinkler.'), ],
+    'digtib': [
         _l('The devastating impact of wars on world cultural heritage has been widely discussed after 1945. Scholarly projects at the Austrian Academy of Sciences (ÖAW) have a long tradition of contributing to the study of the world\'s cultural heritage. Among them is the Long-Term Project "Tabula Imperii Byzantini" (TIB) of the Austrian Academy of Sciences, which is publishing a historical atlas of the Byzantine Empire with special attention to the Balkan Peninsula and Asia Minor. Since 1966 (until now), monuments and their (then) current state have been documented by means of slides during field trips. This unique collection of Byzantine monuments (around 52,000 slides) is a rich cultural asset and a pivotal point of the present project "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s Cultural Heritage" as well as future research work.'),
         _l('The initiatives in the field of Digital Humanities and Byzantine Studies in recent years have prompted the scholarly team of the TIB at the ÖAW to intensify the efforts not only to scan and preserve slides of the rich TIB archive, but also to enable a platform for the adequate presentation and sustainable use of the data.'),
         _l('The aim of the project is not to limit itself to digitisation / preservation in general, but to specifically embed the respective monuments and their subsequent fates in the past decades into the world cultural heritage in three different case studies. These case studies - "Cilicia and Isauria" (TIB 5, Friedrich Hild), "Eastern Thrace (Eurōpē)" (TIB 12, Andreas Külzer) and "Macedonia, Northern Part" (TIB 16, Mihailo Popovic) - were chosen because of the complex politico-military situation in the Middle East with its impact on the monuments in situ (TIB 5) and because they include areas whose infrastructures are developing rapidly with lasting consequences for the landscapes of the past and for the respective monuments (TIB 12 and TIB 16).'), ],
@@ -162,4 +162,81 @@ subprojects = {
         'outreach': [],
         'part': 'balkan',
     }
+}
+
+project_results = {
+    'montenegro': {
+        'text': [],
+        'list': [
+            _l('Establishment of contacts with scientists, archives and museums in Montenegro'),
+            _l('Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro (1916-1918)'),
+            _l('Raising awareness among the Austrian public by publishing the first results in the blog of the newspaper "Der Standard" at: <a href="https://www.derstandard.at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk" target=_blank">"Montenegro in Relief: Terra incognita in the Balkans")</a>'),
+            _l('3D scan of the relief in the National Museum of Montenegro in Cetinje by our project team'),
+            _l('Georeferencing the 3D model and inserting it as a layer in the web application <a href="https://data1.geo.univie.ac.at/projects/tibapp/">"Maps of Power: Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans).'),
+            _l('Cooperation with the TIB subproject <a href="holdura">„Beyond East and West: Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and Time (11th-14th Cent.)/HOLDURA“</a>'),
+            _l('Joint scientific article of the Austrian and Montenegrin project teams entitled "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today\'s Montenegro - First Project Results" published in the Austrian online journal <a href="https://memo.imareal.sbg.ac.at/2021/04/30/neue-reihe-memo_quer/">MEMO_quer</a> during 2022.'),
+            _l('Presentation of the 3D model of the relief map to the National Museum of Montenegro in Cetinje for the purpose of museum exhibitions and digital presentations.'),
+        ],
+        'icons': [
+            {
+                'label': _l('Final project report'),
+                'link': None,
+                'file': 'montenegro/MPopovic_WTZ_Detailed_Presentation_ME07_2019.pdf',
+                'icon': 'bi bi-journals',
+            },
+            {
+                'label': 'Maps of Power',
+                'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+                'file': None,
+                'icon': 'bi bi-map-fill',
+            },
+            {
+                'label': 'HOLDURA' + _l('Project'),
+                'link': 'holdura',
+                'file': None,
+                'icon': 'bi bi-box-arrow-up-right',
+            },
+            {
+                'label': _l('Relief Map'),
+                'link': '/static/3dhop/relief.html',
+                'file': None,
+                'icon': 'bi bi-image-alt',
+            },
+        ]
+    },
+    'holdura': '',
+    'borderzones': '',
+    'digtib': {
+        'text': [
+            _l('The total number of slides to be scanned and processed in the project by the research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides). Their processing and description was carried out by Veronika Polloczek, the (partly already retired) scientists of the TIB and student employees.'),
+            _l('The project "The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution to World Heritage" has addressed the three above-mentioned case studies with their monuments and captured or digitized the respective slide collections in order to carefully view them through the prism of cultural heritage (before - after state). This created a structured and efficient workflow and best practice in this field of Historical Geography and Digital Humanities.'),
+            _l('Furthermore, Veronika Polloczek has successfully applied for and defended a dissertation topic at the University of Vienna with the working title "From the Past into the Future - Digital Archiving using the Example of the Historical Atlas Tabula Imperii Byzantini and its Diathek", which was officially approved by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović as a private lecturer at the University of Vienna.'),
+            _l('During the term of the research project, the following results were obtained:'),
+        ],
+        'list': [
+            _l('Transparent presentation and publication of project results as part of TIB\'s online resources at <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a>.'),
+            _l('The geographical registers of TIB volumes 1 to 15 have been placed online as <a href="/tib-register">lists of all toponyms with volume and page references</a>.<br>.Both scientists and the interested public are provided with a freely accessible tool that makes it possible to retrieve the data compiled by the TIB over the past fifty years in the form of toponyms, to sift through them specifically using a search function in each list, and to compare them regionally per volume or collectively in all volumes, thus identifying previously overlooked connections and stimulating new research questions.<br>.Users can not only call up the lists themselves and see the page references at a glance. They can also freely jump to the relevant page of the volume in the PDF by clicking on the respective page number of TIB volumes 1 to 7, 12 and 13, which opens in a viewer, thereby providing them with context. In addition, those pages in the list that lead to a lemma in the respective volume are highlighted in bold.'),
+            _l('The CollectiveAccess portal (frontend) is online at: <a href="https://catalogue.tib.oeaw.ac.at/">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: 4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks.'),
+        ],
+        'icons': [
+            {
+                'label': _l('Final project report'),
+                'link': None,
+                'file': 'digtib/MPopovic_Abschlußbericht_OENB17771.pdf',
+                'icon': 'bi bi-journals',
+            },
+            {
+                'label': 'TIB Register',
+                'link': '../../tib-register',
+                'file': None,
+                'icon': 'bi bi-list-columns-reverse',
+            },
+            {
+                'label': _l('Image Collection'),
+                'link': 'https://catalogue.tib.oeaw.ac.at/',
+                'file': None,
+                'icon': 'bi bi-images',
+            }
+        ]
+    },
 }

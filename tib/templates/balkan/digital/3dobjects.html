@@ -1,16 +1,13 @@
 {% extends "balkan/layout.html" %}
-{% block title %}3D Objekte{% endblock %}
+{% block title %}_('3dobjects')){% endblock %}
 {% block content %}
   <div class="container">
     <div class="text-center top7">
-      {{ header_balkan('3D Objekte') }}
+      {{ header_balkan(_('3dobjects')) }}
     </div>
     <p class="text-center">
-      Folgende Objekte sind im Rahmen des Projekt <a
-            href="{{ url_for('balkan_subprojects', project='montenegro') }}">"Kulturerbe
-      in der Zeit des Ersten Weltkriegs: der Fall der
-      österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)"</a>
-      entstanden.
+      {{_('The following objects were created within the project <a href="{{ url_for('balkan_subprojects', project='montenegro') }}">"Cultural heritage in the period of the First World War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)"</a>.')}}
+      Folgende Objekte sind im Rahmen des Projekt <a href="{{ url_for('balkan_subprojects', project='montenegro') }}">"Kulturerbe in der Zeit des Ersten Weltkriegs: der Fall der österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)"</a> entstanden.
     </p>
     <div class="row justify-content-md-center">
       {% for object, values in objects3d.items() %}
@@ -21,19 +18,6 @@
             <img src="{{ url_for('static', filename=values['icon']) }}"
                  class="img-fluid top5" alt="{{ object }}Icon">
           </a>
-          {#          <div class="hover_effect">#}
-          {#            <img src="{{ url_for('static', filename=values['icon']) }}"#}
-          {#                 class="img-fluid" alt="{{ object }}Icon">#}
-          {#            <div class="overlay">#}
-          {#              <a href="{{ url_for('static', filename=values['path']) }}">#}
-          {#                <h1 class="display-1 text-white">{{ (object.replace('_', ' ')) }}</h1>#}
-          {#                <p>{{ values['title'] }}</p>#}
-          {#                <div class="pt-5">#}
-          {#                  {{ box_description(values['icon_description']) }}#}
-          {#                </div>#}
-          {#              </a>#}
-          {#            </div>#}
-          {#          </div>#}
         </div>
       {% endfor %}
     </div>

@@ -4,7 +4,6 @@ from flask import render_template
 
 from tib import app
 from tib.data.outreach import outreach
-from tib.data.balkan.project_results import result_links, project_results
 from tib.data.digital import objects3d
 from tib.data.image_descriptions import home_images
 from tib.data.images.hist_geo import balkan_hist_geo
@@ -16,7 +15,7 @@ from tib.data.openatlas.oa_access import view_classes
 from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
-from tib.data.subprojects import subprojects
+from tib.data.subprojects import subprojects, project_results
 from tib.data.tib.team import tib_team_data
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
@@ -69,7 +68,7 @@ def balkan_volumes(band: str = None) -> str:
 def balkan_subprojects(project: str = None) -> str:
     if project:
         return render_template(
-            'balkan/subprojects/project.html',
+            'tib/subprojects/project.html',
             project=subprojects[project],
             presentations=get_dict_entries_by_category(
                 project,
@@ -79,7 +78,7 @@ def balkan_subprojects(project: str = None) -> str:
                 project_publications),
             images=get_dict_entries_by_category(project, IMAGES_SUB),
             results=project_results[project],
-            result_links=result_links[project])
+            layout='balkan')
     return render_template(
         'balkan/subprojects/subproject_overview.html',
         subprojects=subprojects)

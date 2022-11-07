@@ -13,7 +13,7 @@ from tib.data.tib.jumbotron import front_jumbotron
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
 from tib.data.publications import tib_publications_data
-from tib.data.subprojects import subprojects
+from tib.data.subprojects import subprojects, project_results
 from tib.data.tib.team import team_categories
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.data.toponym_register import register_volume
@@ -76,7 +76,9 @@ def tib_sub_projects(project: str = None) -> str:
             publications=get_dict_entries_by_category(
                 project,
                 project_publications),
-            images=get_dict_entries_by_category(project, IMAGES_SUB))
+            results=project_results[project],
+            images=get_dict_entries_by_category(project, IMAGES_SUB),
+            layout='tib')
     return render_template(
         'tib/subprojects/subprojects.html',
         projects=subprojects)

@@ -1,10 +1,10 @@
 {% extends "balkan/layout.html" %}
 {% set show = ['holdura', 'borderzones'] %}
-{% block title %}Projektdaten{% endblock %}
+{% block title %}{{_('Project data')}}{% endblock %}
 {% block content %}
   <div class="container">
     <div class="text-center top7">
-      {{ header_balkan('Projektdaten durchsuchen') }}
+      {{ header_balkan(_('Browse project data')) }}
     </div>
 
     <div class="row top5">
@@ -55,8 +55,8 @@
 
     </div>
         <p class="small">
-          Das Abrufen und Nutzen unserer Daten unterliegt der Creative Commons
-          License CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">
-          https://creativecommons.org/licenses/by/4.0/</a>).</p>
+          {{_('The access and use of our data is subject to the Creative Commons License CC BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>).')}}
+
+        </p>
   </div>
 {% endblock %}

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 10:55+0100\n"
+"POT-Creation-Date: 2022-11-07 12:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -725,6 +725,155 @@ msgstr ""
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien "
 "während des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
+msgstr ""
+
+#: tib/data/subprojects.py:171
+msgid ""
+"Establishment of contacts with scientists, archives and museums in "
+"Montenegro"
+msgstr ""
+
+#: tib/data/subprojects.py:172
+msgid ""
+"Research and Contextualization of the Austro-Hungarian Relief Map of "
+"Montenegro (1916-1918)"
+msgstr ""
+
+#: tib/data/subprojects.py:173
+msgid ""
+"Raising awareness among the Austrian public by publishing the first "
+"results in the blog of the newspaper \"Der Standard\" at: <a "
+"href=\"https://www.derstandard.at/story/2000117505690/montenegro-im-"
+"relief-terra-incognita-auf-dem-balkan?fbclid=IwAR2blOQJUHrKWrQrAycc-"
+"3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" target=_blank\">\"Montenegro in "
+"Relief: Terra incognita in the Balkans\")</a>"
+msgstr ""
+
+#: tib/data/subprojects.py:174
+msgid ""
+"3D scan of the relief in the National Museum of Montenegro in Cetinje by "
+"our project team"
+msgstr ""
+
+#: tib/data/subprojects.py:175
+msgid ""
+"Georeferencing the 3D model and inserting it as a layer in the web "
+"application <a "
+"href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power:"
+" Historical Atlas of Places, Borderzones and Migration Dynamics in "
+"Byzantium (TIB Balkans)."
+msgstr ""
+
+#: tib/data/subprojects.py:176
+msgid ""
+"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and "
+"West: Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ "
+"through Space and Time (11th-14th Cent.)/HOLDURA“</a>"
+msgstr ""
+
+#: tib/data/subprojects.py:177
+msgid ""
+"Joint scientific article of the Austrian and Montenegrin project teams "
+"entitled \"On the Crossroads between East and West: Geocommunicating "
+"Medieval Sacred Landscapes in Today's Montenegro - First Project "
+"Results\" published in the Austrian online journal <a "
+"href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-reihe-"
+"memo_quer/\">MEMO_quer</a> during 2022."
+msgstr ""
+
+#: tib/data/subprojects.py:178
+msgid ""
+"Presentation of the 3D model of the relief map to the National Museum of "
+"Montenegro in Cetinje for the purpose of museum exhibitions and digital "
+"presentations."
+msgstr ""
+
+#: tib/data/subprojects.py:182 tib/data/subprojects.py:223
+msgid "Final project report"
+msgstr ""
+
+#: tib/data/subprojects.py:194
+msgid "Project"
+msgstr ""
+
+#: tib/data/subprojects.py:200
+msgid "Relief Map"
+msgstr ""
+
+#: tib/data/subprojects.py:211
+msgid ""
+"The total number of slides to be scanned and processed in the project by "
+"the research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides,"
+" TIB 12: 1,252 slides, TIB 16: 939 slides). Their processing and "
+"description was carried out by Veronika Polloczek, the (partly already "
+"retired) scientists of the TIB and student employees."
+msgstr ""
+
+#: tib/data/subprojects.py:212
+msgid ""
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a "
+"Contribution to World Heritage\" has addressed the three above-mentioned "
+"case studies with their monuments and captured or digitized the "
+"respective slide collections in order to carefully view them through the "
+"prism of cultural heritage (before - after state). This created a "
+"structured and efficient workflow and best practice in this field of "
+"Historical Geography and Digital Humanities."
+msgstr ""
+
+#: tib/data/subprojects.py:213
+msgid ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended"
+" a dissertation topic at the University of Vienna with the working title "
+"\"From the Past into the Future - Digital Archiving using the Example of "
+"the Historical Atlas Tabula Imperii Byzantini and its Diathek\", which "
+"was officially approved by the University of Vienna on May 17, 2019 and "
+"is supervised by Mihailo Popović as a private lecturer at the University "
+"of Vienna."
+msgstr ""
+
+#: tib/data/subprojects.py:214
+msgid ""
+"During the term of the research project, the following results were "
+"obtained:"
+msgstr ""
+
+#: tib/data/subprojects.py:217
+msgid ""
+"Transparent presentation and publication of project results as part of "
+"TIB's online resources at <a "
+"href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>."
+msgstr ""
+
+#: tib/data/subprojects.py:218
+msgid ""
+"The geographical registers of TIB volumes 1 to 15 have been placed online"
+" as <a href=\"/tib-register\">lists of all toponyms with volume and page "
+"references</a>.<br>.Both scientists and the interested public are "
+"provided with a freely accessible tool that makes it possible to retrieve"
+" the data compiled by the TIB over the past fifty years in the form of "
+"toponyms, to sift through them specifically using a search function in "
+"each list, and to compare them regionally per volume or collectively in "
+"all volumes, thus identifying previously overlooked connections and "
+"stimulating new research questions.<br>.Users can not only call up the "
+"lists themselves and see the page references at a glance. They can also "
+"freely jump to the relevant page of the volume in the PDF by clicking on "
+"the respective page number of TIB volumes 1 to 7, 12 and 13, which opens "
+"in a viewer, thereby providing them with context. In addition, those "
+"pages in the list that lead to a lemma in the respective volume are "
+"highlighted in bold."
+msgstr ""
+
+#: tib/data/subprojects.py:219
+msgid ""
+"The CollectiveAccess portal (frontend) is online at: <a "
+"href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users"
+" can freely view, search, compare, view metadata, and cite the processed "
+"7,172 slides (TIB 5: 4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 "
+"slides) with permalinks."
+msgstr ""
+
+#: tib/data/subprojects.py:235
+msgid "Image Collection"
 msgstr ""
 
 #: tib/data/tib_volumes.py:4
@@ -3106,6 +3255,14 @@ msgstr ""
 msgid "The TIB Team works in several sub projects on groundbreaking research"
 msgstr ""
 
+#: tib/data/tib/team.py:8 tib/data/tib/team.py:18
+msgid "asia_minor"
+msgstr ""
+
+#: tib/data/tib/team.py:9 tib/data/tib/team.py:29
+msgid "project_leader"
+msgstr ""
+
 #: tib/data/tib/team.py:11
 msgid ""
 "Univ.-Prof. Mag. Dr. phil. 1990: Magister Artium, 1993: Dr. phil. (summa "
@@ -3118,6 +3275,12 @@ msgid ""
 "and maritime networks in the Eastern Mediterranean – Historical Geography"
 " of Asia Minor and the Balkans – Late Antique and Medieval Pilgrimages – "
 "Late Antiquity – Ephesus."
+msgstr ""
+
+#: tib/data/tib/team.py:19 tib/data/tib/team.py:49 tib/data/tib/team.py:59
+#: tib/data/tib/team.py:79 tib/data/tib/team.py:99 tib/data/tib/team.py:109
+#: tib/data/tib/team.py:119 tib/data/tib/team.py:129
+msgid "scientific_employee"
 msgstr ""
 
 #: tib/data/tib/team.py:21
@@ -3135,6 +3298,10 @@ msgid ""
 "(Prostitutes, actors and tavern- keepers) – Gender Studies."
 msgstr ""
 
+#: tib/data/tib/team.py:28 tib/data/tib/team.py:38 tib/data/tib/team.py:48
+msgid "balkans"
+msgstr ""
+
 #: tib/data/tib/team.py:31
 msgid ""
 "Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction "
@@ -3148,6 +3315,10 @@ msgid ""
 "Centuries), Late Byzantine History (1204-1453), Gender Studies, "
 "Historical Geography and Cartography of the Mediterranean, Digital "
 "Humanities and Historical Geographic Information Systems (HGIS)"
+msgstr ""
+
+#: tib/data/tib/team.py:39
+msgid "software_developer"
 msgstr ""
 
 #: tib/data/tib/team.py:41
@@ -3167,6 +3338,10 @@ msgid ""
 "and late antiquity."
 msgstr ""
 
+#: tib/data/tib/team.py:58 tib/data/tib/team.py:78
+msgid "associated_scholars"
+msgstr ""
+
 #: tib/data/tib/team.py:61
 msgid ""
 "MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master "
@@ -3174,6 +3349,14 @@ msgid ""
 "Bratislava); 2014: PhD in General History (Faculty of Arts, Comenius "
 "University, Bratislava); Research Interests: Byzantine History; Byzantine"
 " and Slavonic Literature; Archaeology; Historical Geography; Lexicography"
+msgstr ""
+
+#: tib/data/tib/team.py:68
+msgid "tib_editor"
+msgstr ""
+
+#: tib/data/tib/team.py:69
+msgid "editor_of_tib"
 msgstr ""
 
 #: tib/data/tib/team.py:71
@@ -3214,6 +3397,10 @@ msgid ""
 "Digitalization of Sources, Heraldry."
 msgstr ""
 
+#: tib/data/tib/team.py:89
+msgid "spatial_analyst"
+msgstr ""
+
 #: tib/data/tib/team.py:91
 msgid ""
 "Degree History 2007 Universidad Autonónoma de Madrid (UAM) MSc, 2011: "
@@ -3224,11 +3411,19 @@ msgid ""
 "Learning for Cultural research."
 msgstr ""
 
+#: tib/data/tib/team.py:98
+msgid "former_employee"
+msgstr ""
+
 #: tib/data/tib/team.py:101
 msgid ""
 "BA in History, student of medieval history at the University of Vienna. "
 "Research interests include historical geography, GIS, late antique and "
 "medieval and military history."
+msgstr ""
+
+#: tib/data/tib/team.py:108 tib/data/tib/team.py:118 tib/data/tib/team.py:128
+msgid "emeritus_scholar"
 msgstr ""
 
 #: tib/data/tib/team.py:111
@@ -3323,6 +3518,21 @@ msgstr ""
 msgid "Browse project database"
 msgstr ""
 
+#: tib/templates/balkan/digital/explore.html:3
+msgid "Project data"
+msgstr ""
+
+#: tib/templates/balkan/digital/explore.html:7
+msgid "Browse project data"
+msgstr ""
+
+#: tib/templates/balkan/digital/explore.html:58
+msgid ""
+"The access and use of our data is subject to the Creative Commons License"
+" CC BY 4.0 (<a "
+"href=\"https://creativecommons.org/licenses/by/4.0/\">https://creativecommons.org/licenses/by/4.0/</a>)."
+msgstr ""
+
 #: tib/templates/balkan/geography/historically_geography.html:6
 #: tib/templates/balkan/home/tib_intro.html:3
 msgid "Making past landscapes tangible"
@@ -3373,7 +3583,7 @@ msgstr ""
 msgid "Our way of working"
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:58
+#: tib/templates/balkan/geography/historically_geography.html:57
 msgid ""
 "We read the written sources of the period from the 4th to the 15th "
 "century, written in different languages (e.g. Greek, Latin, Old Slavonic,"
@@ -3381,19 +3591,19 @@ msgid ""
 "questions."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:61
+#: tib/templates/balkan/geography/historically_geography.html:60
 msgid ""
 "We collect data on field names from the sources, modern maps and "
 "encyclopedias."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:65
+#: tib/templates/balkan/geography/historically_geography.html:64
 msgid ""
 "We get an overview of archaeological excavations and existing monuments "
 "(churches, monasteries, castles, etc.) on site."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:68
+#: tib/templates/balkan/geography/historically_geography.html:67
 msgid ""
 "And we travel to the respective areas to collect and document data in the"
 " field that we have previously read and summarized. To do this, we rely "
@@ -3406,7 +3616,7 @@ msgid ""
 " In this way, landscapes long gone become comprehensible to everyone."
 msgstr ""
 
-#: tib/templates/balkan/geography/historically_geography.html:73
+#: tib/templates/balkan/geography/historically_geography.html:72
 msgid ""
 "If you would like to read about the TIB project, the TIB Balkans and "
 "future plans in the light of political, cultural and demographic "
@@ -3467,13 +3677,13 @@ msgid ""
 " an atlas of the Byzantine Empire accompany us until now."
 msgstr ""
 
-#: tib/templates/balkan/longterm/longterm.html:14
+#: tib/templates/balkan/longterm/longterm.html:13
 msgid ""
 "At the 13th International Congress of Byzantine Studies in Oxford in "
 "1966, Herbert Hunger set the following as the goal of the TIB project."
 msgstr ""
 
-#: tib/templates/balkan/longterm/longterm.html:44
+#: tib/templates/balkan/longterm/longterm.html:43
 msgid ""
 "Within the framework of the TIB, the historical geography of the "
 "Byzantine Empire, which lasted from the beginning of the 4th century AD "
@@ -3490,7 +3700,7 @@ msgid ""
 "landscapes."
 msgstr ""
 
-#: tib/templates/balkan/longterm/longterm.html:48
+#: tib/templates/balkan/longterm/longterm.html:46
 msgid ""
 "Despite some organizational changes in recent decades, we remain "
 "committed to Herbert Hunger's scientific legacy and true to his vision. "
@@ -3500,7 +3710,7 @@ msgid ""
 "byzantini\">Union Académique Internationale</a> in Brussels in 2015."
 msgstr ""
 
-#: tib/templates/balkan/longterm/longterm.html:52
+#: tib/templates/balkan/longterm/longterm.html:49
 msgid ""
 "According to the long-term project plan, TIB consists of two project "
 "areas: TIB Asia Minor and TIB Balkans. Since January 1, 2016, Mihailo St."
@@ -3541,7 +3751,7 @@ msgstr ""
 msgid "The Tabula Imperii Byzantini - Balkans"
 msgstr ""
 
-#: tib/templates/balkan/tib_balkan/tib_balkan.html:12
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:11
 msgid ""
 " Since 1976 TIB volumes on the Byzantine provinces and regions in the "
 "Balkans have been published in regular succession. In 1976 the volume on "
@@ -3554,13 +3764,13 @@ msgid ""
 "processing of the corresponding regions."
 msgstr ""
 
-#: tib/templates/balkan/tib_balkan/tib_balkan.html:22
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:20
 msgid ""
 "Currently, one volume is in print, another is in the process of "
 "completion, and a third is in preparation."
 msgstr ""
 
-#: tib/templates/balkan/tib_balkan/tib_balkan.html:33
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:30
 msgid ""
 "In the course of his work, the respective author of the TIB volume merges"
 " with the region in which he works. He travels his processing area at "
@@ -3575,7 +3785,7 @@ msgid ""
 "future generations."
 msgstr ""
 
-#: tib/templates/balkan/tib_balkan/tib_balkan.html:41
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:37
 msgid "Lakes Vegoritis and Petron, Greece, 2014 (M. St. Popović"
 msgstr ""
 
@@ -4269,7 +4479,7 @@ msgstr ""
 
 #: tib/templates/tib/publications/publications.html:2
 #: tib/templates/tib/publications/publications.html:6
-#: tib/templates/tib/subprojects/project.html:72
+#: tib/templates/tib/subprojects/project.html:103
 msgid "Publications"
 msgstr ""
 
@@ -4294,7 +4504,11 @@ msgstr ""
 msgid "Cooperation and External Employees"
 msgstr ""
 
-#: tib/templates/tib/subprojects/project.html:76
+#: tib/templates/tib/subprojects/project.html:72
+msgid "Results"
+msgstr ""
+
+#: tib/templates/tib/subprojects/project.html:107
 msgid "Presentations"
 msgstr ""
 
@@ -4360,33 +4574,5 @@ msgstr ""
 
 #: tib/util/translations.py:19
 msgid "Former_Employees"
-msgstr ""
-
-#: tib/util/translations.py:20
-msgid "asia_minor"
-msgstr ""
-
-#: tib/util/translations.py:21
-msgid "balkans"
-msgstr ""
-
-#: tib/util/translations.py:22
-msgid "associated_scholars"
-msgstr ""
-
-#: tib/util/translations.py:23
-msgid "tib_editor"
-msgstr ""
-
-#: tib/util/translations.py:24
-msgid "former_employee"
-msgstr ""
-
-#: tib/util/translations.py:25
-msgid "emeritus_scholar"
-msgstr ""
-
-#: tib/util/translations.py:26
-msgid "scientific_employee"
 msgstr ""
 

@@ -1,4 +1,4 @@
-{% extends "tib/layout.html" %}
+{% extends layout+"/layout.html" %}
 {% block title %}{{ project.title }}{% endblock %}
 {% block content %}
   <div class="container">
@@ -68,6 +68,37 @@
         </div>
       {% endfor %}
     </div>
+    {% if results %}
+      <h4 id="resultate" class="pt-5 text-center"><a href="#resultate" class="text-decoration-none">{{_('Results')}}</a></h4>
+      {% for text in results['text'] %}
+        <p>{{ text | safe }}</p>
+      {% endfor %}
+      {% if results['list'] %}
+        <ul>
+        {% for list in results['list'] %}
+          <li>{{ list | safe }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+      {% if results['icons'] %}
+        <div class="row align-content-center justify-content-center text-center pt-5">
+          {% for link in results['icons'] %}
+            <div class="col-3 ">
+              {% if link.link %}
+                <a href="{{ link.link }}" class="text-decoration-none" target="_blank">
+              {% endif %}
+              {% if link.file %}
+                <a href="{{ url_for('static', filename='repository/projects/' + link.file)}}" class="text-decoration-none">
+              {% endif %}
+                <i class="{{ link.icon }} display-4"></i>
+                <p>{{ link.label }}</p>
+              </a>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endif %}
+
     {% if publications %}
       <h4 id="publications" class="pt-5 text-center"><a href="#publications" class="text-decoration-none">{{_('Publications')}}</a></h4>
       {{ create_table(publications, 'publications', 3) }}

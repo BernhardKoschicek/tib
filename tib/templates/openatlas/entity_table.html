@@ -1,5 +1,5 @@
 {% extends "balkan/layout.html" %}
-{% block title %}TIB OpenAtlas Access{% endblock %}
+{% block title %}TIB OpenAtlas {{_('Access')}}{% endblock %}
 {% block content %}
   <div class="container top7 text-center">
     <h1 class="display-6">{{ project['title'] }}</h1>
@@ -10,7 +10,7 @@
       <div class="col-md-12 ">
       {% if not data %}
         <div class="text-center top10 display-6">
-        Zur Zeit keine Daten zur Klasse "{{ view_classes['display_name'] }}" vorhanden.
+          <p>"{{ view_classes['display_name'] }}" {{_('is currently unavailable')}}</p>
         </div>
       {% else %}
         <table id="entity_table" class="table table-striped hover order-column"
@@ -19,8 +19,8 @@
           <tr>
             <th>ID</th>
             <th>Name</th>
-            <th>Class</th>
-            <th>Description</th>
+            <th>{{_('Class')}}</th>
+            <th>{{_('Description')}}</th>
           </tr>
           </thead>
           <tbody>

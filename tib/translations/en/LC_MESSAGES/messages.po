@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:50+0100\n"
-"PO-Revision-Date: 2022-11-07 13:54+0100\n"
+"POT-Creation-Date: 2022-11-07 15:47+0100\n"
+"PO-Revision-Date: 2022-11-07 15:48+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -5320,6 +5320,7 @@ msgid "Browse project database"
 msgstr "Browse project database"
 
 #: tib/templates/balkan/digital/explore.html:3
+#: tib/templates/openatlas/explore.html:3
 msgid "Project data"
 msgstr "Project data"
 
@@ -5750,6 +5751,23 @@ msgstr ""
 "expect each volume to contain about 1,200 pages. In this way, we comprehensively "
 "document the respective historical landscapes and make them comprehensible."
 
+#: tib/templates/openatlas/entity_table.html:2
+msgid "Access"
+msgstr "Access"
+
+#: tib/templates/openatlas/entity_table.html:13
+msgid "is currently unavailable"
+msgstr "is currently unavailable"
+
+#: tib/templates/openatlas/entity_table.html:22
+msgid "Class"
+msgstr "Class"
+
+#: tib/templates/openatlas/entity_table.html:23
+#: tib/templates/tib/current_status/volume.html:57
+msgid "Description"
+msgstr "Description"
+
 #: tib/templates/tib/imprint.html:9
 msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
@@ -6169,10 +6187,6 @@ msgstr "Current volumes in progress"
 msgid "Finished volumes"
 msgstr "Finished volumes"
 
-#: tib/templates/tib/current_status/volume.html:57
-msgid "Description"
-msgstr "Description"
-
 #: tib/templates/tib/digtib/digtib.html:8
 msgid "Digital Tabula Imperii Byzantini"
 msgstr "Tabula Imperii ByzantiniDigital Tabula Imperii Byzantini"
@@ -6391,7 +6405,7 @@ msgstr ""
 "of the project is to create a historical atlas of the Byzantine space from Late "
 "Antiquity to the Early Modern period."
 
-#: tib/templates/tib/frontpage/frontpage.html:29
+#: tib/templates/tib/frontpage/frontpage.html:28
 msgid "tib_frontpage_individual_regions"
 msgstr ""
 "Individual regions are represented on maps on a scale of 1 : 800,000. A separate "
@@ -6409,7 +6423,7 @@ msgstr ""
 "aforesaid results are enriched by systematic field research in order to verify, "
 "modify or complete the information of the sources."
 
-#: tib/templates/tib/frontpage/frontpage.html:35
+#: tib/templates/tib/frontpage/frontpage.html:34
 msgid "tib_frontpage_since_1986_new_methods"
 msgstr ""
 "Since 1986 new methods have been included into the scholarly work of the TIB, "
@@ -6419,7 +6433,7 @@ msgstr ""
 "e.g. in the form of Historical Geographical Information Systems (HGIS), further "
 "contribute to the analysis and interpretation of the research data."
 
-#: tib/templates/tib/frontpage/frontpage.html:44
+#: tib/templates/tib/frontpage/frontpage.html:43
 msgid "activities"
 msgstr "Activities"
 

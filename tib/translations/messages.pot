@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:50+0100\n"
+"POT-Creation-Date: 2022-11-07 15:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3622,6 +3622,7 @@ msgid "Browse project database"
 msgstr ""
 
 #: tib/templates/balkan/digital/explore.html:3
+#: tib/templates/openatlas/explore.html:3
 msgid "Project data"
 msgstr ""
 
@@ -3898,6 +3899,23 @@ msgstr ""
 
 #: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:8
 msgid "balkan_volumes_intro"
+msgstr ""
+
+#: tib/templates/openatlas/entity_table.html:2
+msgid "Access"
+msgstr ""
+
+#: tib/templates/openatlas/entity_table.html:13
+msgid "is currently unavailable"
+msgstr ""
+
+#: tib/templates/openatlas/entity_table.html:22
+msgid "Class"
+msgstr ""
+
+#: tib/templates/openatlas/entity_table.html:23
+#: tib/templates/tib/current_status/volume.html:57
+msgid "Description"
 msgstr ""
 
 #: tib/templates/tib/imprint.html:9
@@ -4215,10 +4233,6 @@ msgstr ""
 msgid "Finished volumes"
 msgstr ""
 
-#: tib/templates/tib/current_status/volume.html:57
-msgid "Description"
-msgstr ""
-
 #: tib/templates/tib/digtib/digtib.html:8
 msgid "Digital Tabula Imperii Byzantini"
 msgstr ""
@@ -4371,15 +4385,15 @@ msgstr ""
 msgid "tib_frontpage_research_on_the_historical"
 msgstr ""
 
-#: tib/templates/tib/frontpage/frontpage.html:29
+#: tib/templates/tib/frontpage/frontpage.html:28
 msgid "tib_frontpage_individual_regions"
 msgstr ""
 
-#: tib/templates/tib/frontpage/frontpage.html:35
+#: tib/templates/tib/frontpage/frontpage.html:34
 msgid "tib_frontpage_since_1986_new_methods"
 msgstr ""
 
-#: tib/templates/tib/frontpage/frontpage.html:44
+#: tib/templates/tib/frontpage/frontpage.html:43
 msgid "activities"
 msgstr ""
 

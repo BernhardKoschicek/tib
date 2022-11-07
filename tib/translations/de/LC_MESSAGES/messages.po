@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:50+0100\n"
-"PO-Revision-Date: 2022-11-07 13:52+0100\n"
+"POT-Creation-Date: 2022-11-07 15:47+0100\n"
+"PO-Revision-Date: 2022-11-07 15:48+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -5386,6 +5386,7 @@ msgid "Browse project database"
 msgstr "Projektdatenbank durchsuchen"
 
 #: tib/templates/balkan/digital/explore.html:3
+#: tib/templates/openatlas/explore.html:3
 msgid "Project data"
 msgstr "Projektdaten"
 
@@ -5825,6 +5826,23 @@ msgstr ""
 "einem Umfang von rund 1.200 Seiten. Dadurch dokumentieren wir die jeweiligen "
 "historischen Landschaften umfassend und machen sie begreifbar."
 
+#: tib/templates/openatlas/entity_table.html:2
+msgid "Access"
+msgstr "Zugang"
+
+#: tib/templates/openatlas/entity_table.html:13
+msgid "is currently unavailable"
+msgstr "ist derzeit nicht verfügbar"
+
+#: tib/templates/openatlas/entity_table.html:22
+msgid "Class"
+msgstr "Klasse"
+
+#: tib/templates/openatlas/entity_table.html:23
+#: tib/templates/tib/current_status/volume.html:57
+msgid "Description"
+msgstr "Beschreibung"
+
 #: tib/templates/tib/imprint.html:9
 msgid ""
 "Imprint and disclosure according to §§ 24, 25 of the Austrian Media Act "
@@ -6253,10 +6271,6 @@ msgstr "TIB-Bände in Bearbeitung"
 msgid "Finished volumes"
 msgstr "Fertige Bände"
 
-#: tib/templates/tib/current_status/volume.html:57
-msgid "Description"
-msgstr "Beschreibung"
-
 #: tib/templates/tib/digtib/digtib.html:8
 msgid "Digital Tabula Imperii Byzantini"
 msgstr "Digitale Tabula Imperii Byzantini"
@@ -6482,7 +6496,7 @@ msgstr ""
 "historischen Atlas des byzantinischen Raumes von der Spätantike bis zur Frühen "
 "Neuzeit zu erstellen."
 
-#: tib/templates/tib/frontpage/frontpage.html:29
+#: tib/templates/tib/frontpage/frontpage.html:28
 msgid "tib_frontpage_individual_regions"
 msgstr ""
 "Die einzelnen Regionen sind auf Karten im Maßstab 1 : 800.000 dargestellt. Ein "
@@ -6501,7 +6515,7 @@ msgstr ""
 "sind. Diese Ergebnisse werden durch systematische Feldforschung ergänzt, um die "
 "Informationen der Quellen zu überprüfen, zu ändern oder zu ergänzen."
 
-#: tib/templates/tib/frontpage/frontpage.html:35
+#: tib/templates/tib/frontpage/frontpage.html:34
 msgid "tib_frontpage_since_1986_new_methods"
 msgstr ""
 "Seit 1986 sind neue Methoden in die wissenschaftliche Arbeit der TIB "
@@ -6511,7 +6525,7 @@ msgstr ""
 "Humanities, z.B. in Form von Historischen Geographischen Informationssystemen "
 "(HGIS), tragen ebenfalls zur Analyse und Interpretation der Forschungsdaten bei."
 
-#: tib/templates/tib/frontpage/frontpage.html:44
+#: tib/templates/tib/frontpage/frontpage.html:43
 msgid "activities"
 msgstr "Aktivitäten"
 

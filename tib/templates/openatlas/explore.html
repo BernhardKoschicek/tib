@@ -1,12 +1,11 @@
 {% extends "balkan/layout.html" %}
 {% set show = ['holdura', 'borderzones'] %}
-{% block title %}Projektdaten{% endblock %}
+{% block title %}{{_('Project data')}}{% endblock %}
 {% block content %}
   <div class="container">
     <div class="text-center top7">
       {{ header('Explore Project Data') }}
     </div>
-
     <div class="row top5">
       <ul class="nav justify-content-center mb-3 top3"
           id="tab-project-discovery"
@@ -24,7 +23,6 @@
           </li>
         {% endfor %}
       </ul>
-
       <div class="tab-content" id="tabContent-project-discovery">
         {% for object, values in subprojects_dict.items() if object in show %}
           <div class="tab-pane fade {% if loop.first %}active show{% endif %}"
@@ -52,7 +50,6 @@
           </div>
         {% endfor %}
       </div>
-
     </div>
   </div>
 {% endblock %}

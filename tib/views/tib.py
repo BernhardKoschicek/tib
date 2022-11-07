@@ -6,7 +6,6 @@ from tib.data.images.util import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.outreach import outreach
-from tib.data.openatlas.subprojects import subprojects_en_discover
 from tib.data.tib.counter import counter
 from tib.data.navigation import tib_digtib_submenu_items
 from tib.data.tib.jumbotron import front_jumbotron
@@ -139,7 +138,7 @@ def tib_atlas() -> Response:
 def tib_discover() -> str:
     return render_template(
         'openatlas/explore.html',
-        subprojects_dict=subprojects_en_discover,
+        subprojects_dict=subprojects,
         view_classes=view_classes)
 
 

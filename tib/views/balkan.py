@@ -12,7 +12,6 @@ from tib.data.images.util import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.navigation import balkan_jumbotron
 from tib.data.openatlas.oa_access import view_classes
-from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
 from tib.data.subprojects import subprojects, project_results
@@ -100,12 +99,12 @@ def balkan_digital(category: str = None) -> str:
         return render_template(
             f'balkan/digital/{category}.html',
             objects3d=objects3d,
-            subprojects_dict=subprojects_ger_discover,
+            subprojects_dict=subprojects,
             view_classes=view_classes)
     return render_template(
         'balkan/digital/digital.html',
         objects3d=objects3d,
-        subprojects_dict=subprojects_ger_discover,
+        subprojects_dict=subprojects,
         view_classes=view_classes)
 
 

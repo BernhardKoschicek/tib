@@ -55,6 +55,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'asia',
+        'oaID': 0,
     },
     'holdura': {
         'title': _l(
@@ -78,6 +79,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'balkan',
+        'oaID': 117730,
     },
     'inventory': {
         'title': _l(
@@ -97,6 +99,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'asia',
+        'oaID': 0,
     },
     'montenegro': {
         'title': _l(
@@ -122,6 +125,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'balkan',
+        'oaID': 0,
     },
     'digtib': {
         'title': _l(
@@ -142,6 +146,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'balkan',
+        'oaID': 124483,
     },
     'borderzones': {
         'title': _l(
@@ -161,6 +166,7 @@ subprojects = {
         'publications': [],
         'outreach': [],
         'part': 'balkan',
+        'oaID': 9962,
     }
 }
 

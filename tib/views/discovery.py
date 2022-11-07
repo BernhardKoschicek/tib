@@ -4,7 +4,7 @@ from flask import render_template
 import numpy
 from tib import app
 from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
-from tib.data.openatlas.subprojects import subprojects_ger_discover
+from tib.data.subprojects import subprojects
 from tib.model.entity import Entity, Relation
 from tib.model.types import Types
 from tib.util.api_calls import get_entities_linked_to_entity
@@ -87,11 +87,11 @@ def digital_oa_access(project: str, view: str) -> str:
     try:
         data = get_oa_by_view_class(
                 view,
-                subprojects_ger_discover[project]['oaID'])
+                subprojects[project]['oaID'])
     except:
         pass
     return render_template(
             'openatlas/entity_table.html',
             data=data,
-            project=subprojects_ger_discover[project],
+            project=subprojects[project],
             view_classes=view_classes[view])

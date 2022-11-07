@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:23+0100\n"
+"POT-Creation-Date: 2022-11-07 13:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -658,89 +658,89 @@ msgstr ""
 msgid "Dr. Myrto Veikou, Uppsala University"
 msgstr ""
 
-#: tib/data/subprojects.py:60
+#: tib/data/subprojects.py:61
 msgid ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” "
 "and “Raška” through Space and Time (11th-14th Cent.)"
 msgstr ""
 
-#: tib/data/subprojects.py:75
+#: tib/data/subprojects.py:76
 msgid ""
 "Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ aus "
 "mittelalterlichen Kirchen und Klöstern rekonstruieren?"
 msgstr ""
 
-#: tib/data/subprojects.py:83
+#: tib/data/subprojects.py:85
 msgid "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 msgstr ""
 
-#: tib/data/subprojects.py:102
+#: tib/data/subprojects.py:105
 msgid ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-"
 "Hungarian Relief Map of Montenegro (1916-1918)"
 msgstr ""
 
-#: tib/data/subprojects.py:109
+#: tib/data/subprojects.py:112
 msgid ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
 msgstr ""
 
-#: tib/data/subprojects.py:110
+#: tib/data/subprojects.py:113
 msgid ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of "
 "Sciences (Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 msgstr ""
 
-#: tib/data/subprojects.py:111
+#: tib/data/subprojects.py:114
 msgid ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, "
 "Montenegro)"
 msgstr ""
 
-#: tib/data/subprojects.py:118
+#: tib/data/subprojects.py:121
 msgid ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im "
 "Ersten Weltkrieg?"
 msgstr ""
 
-#: tib/data/subprojects.py:127
+#: tib/data/subprojects.py:131
 msgid ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the "
 "World’s Cultural Heritage"
 msgstr ""
 
-#: tib/data/subprojects.py:138
+#: tib/data/subprojects.py:142
 msgid ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung "
 "von Kulturdenkmälern auf der Balkanhalbinsel?"
 msgstr ""
 
-#: tib/data/subprojects.py:147
+#: tib/data/subprojects.py:152
 msgid ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change "
 "in pre-Ottoman Macedonia (1282–1355)"
 msgstr ""
 
-#: tib/data/subprojects.py:157
+#: tib/data/subprojects.py:162
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien "
 "während des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
 msgstr ""
 
-#: tib/data/subprojects.py:171
+#: tib/data/subprojects.py:177
 msgid ""
 "Establishment of contacts with scientists, archives and museums in "
 "Montenegro"
 msgstr ""
 
-#: tib/data/subprojects.py:172
+#: tib/data/subprojects.py:178
 msgid ""
 "Research and Contextualization of the Austro-Hungarian Relief Map of "
 "Montenegro (1916-1918)"
 msgstr ""
 
-#: tib/data/subprojects.py:173
+#: tib/data/subprojects.py:179
 msgid ""
 "Raising awareness among the Austrian public by publishing the first "
 "results in the blog of the newspaper \"Der Standard\" at: <a "
@@ -750,13 +750,13 @@ msgid ""
 "Relief: Terra incognita in the Balkans\")</a>"
 msgstr ""
 
-#: tib/data/subprojects.py:174
+#: tib/data/subprojects.py:180
 msgid ""
 "3D scan of the relief in the National Museum of Montenegro in Cetinje by "
 "our project team"
 msgstr ""
 
-#: tib/data/subprojects.py:175
+#: tib/data/subprojects.py:181
 msgid ""
 "Georeferencing the 3D model and inserting it as a layer in the web "
 "application <a "
@@ -765,14 +765,14 @@ msgid ""
 "Byzantium (TIB Balkans)."
 msgstr ""
 
-#: tib/data/subprojects.py:176
+#: tib/data/subprojects.py:182
 msgid ""
 "Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and "
 "West: Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ "
 "through Space and Time (11th-14th Cent.)/HOLDURA“</a>"
 msgstr ""
 
-#: tib/data/subprojects.py:177
+#: tib/data/subprojects.py:183
 msgid ""
 "Joint scientific article of the Austrian and Montenegrin project teams "
 "entitled \"On the Crossroads between East and West: Geocommunicating "
@@ -782,26 +782,26 @@ msgid ""
 "memo_quer/\">MEMO_quer</a> during 2022."
 msgstr ""
 
-#: tib/data/subprojects.py:178
+#: tib/data/subprojects.py:184
 msgid ""
 "Presentation of the 3D model of the relief map to the National Museum of "
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 msgstr ""
 
-#: tib/data/subprojects.py:182 tib/data/subprojects.py:223
+#: tib/data/subprojects.py:188 tib/data/subprojects.py:229
 msgid "Final project report"
 msgstr ""
 
-#: tib/data/subprojects.py:194
+#: tib/data/subprojects.py:200
 msgid "Project"
 msgstr ""
 
-#: tib/data/subprojects.py:200
+#: tib/data/subprojects.py:206
 msgid "Relief Map"
 msgstr ""
 
-#: tib/data/subprojects.py:211
+#: tib/data/subprojects.py:217
 msgid ""
 "The total number of slides to be scanned and processed in the project by "
 "the research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides,"
@@ -810,7 +810,7 @@ msgid ""
 "retired) scientists of the TIB and student employees."
 msgstr ""
 
-#: tib/data/subprojects.py:212
+#: tib/data/subprojects.py:218
 msgid ""
 "The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a "
 "Contribution to World Heritage\" has addressed the three above-mentioned "
@@ -821,7 +821,7 @@ msgid ""
 "Historical Geography and Digital Humanities."
 msgstr ""
 
-#: tib/data/subprojects.py:213
+#: tib/data/subprojects.py:219
 msgid ""
 "Furthermore, Veronika Polloczek has successfully applied for and defended"
 " a dissertation topic at the University of Vienna with the working title "
@@ -832,20 +832,20 @@ msgid ""
 "of Vienna."
 msgstr ""
 
-#: tib/data/subprojects.py:214
+#: tib/data/subprojects.py:220
 msgid ""
 "During the term of the research project, the following results were "
 "obtained:"
 msgstr ""
 
-#: tib/data/subprojects.py:217
+#: tib/data/subprojects.py:223
 msgid ""
 "Transparent presentation and publication of project results as part of "
 "TIB's online resources at <a "
 "href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>."
 msgstr ""
 
-#: tib/data/subprojects.py:218
+#: tib/data/subprojects.py:224
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online"
 " as <a href=\"/tib-register\">lists of all toponyms with volume and page "
@@ -864,7 +864,7 @@ msgid ""
 "highlighted in bold."
 msgstr ""
 
-#: tib/data/subprojects.py:219
+#: tib/data/subprojects.py:225
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a "
 "href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users"
@@ -873,7 +873,7 @@ msgid ""
 "slides) with permalinks."
 msgstr ""
 
-#: tib/data/subprojects.py:235
+#: tib/data/subprojects.py:241
 msgid "Image Collection"
 msgstr ""
 
@@ -3055,25 +3055,25 @@ msgid ""
 "Šišman (1378)"
 msgstr ""
 
-#: tib/data/images/hist_geo.py:13
+#: tib/data/images/hist_geo.py:14
 msgid "The abandoned church Vlaška cărkva in Popovi livadi, SW Bulgaria"
 msgstr ""
 
-#: tib/data/images/hist_geo.py:19
+#: tib/data/images/hist_geo.py:21
 msgid ""
 "Peter Soustal with Kostantinos, a resident of the village of Daphni, "
 "Greece"
 msgstr ""
 
-#: tib/data/images/hist_geo.py:25
+#: tib/data/images/hist_geo.py:28
 msgid "Documentation of an Old Way Relic in Northern Greece"
 msgstr ""
 
-#: tib/data/images/hist_geo.py:31
+#: tib/data/images/hist_geo.py:34
 msgid "Enquiry with a Bulgarian farmer, Bulgaria"
 msgstr ""
 
-#: tib/data/images/hist_geo.py:37
+#: tib/data/images/hist_geo.py:40
 msgid "Documentation of an early Christian basilica in Bar, Montenegro"
 msgstr ""
 
@@ -3414,6 +3414,54 @@ msgstr ""
 
 #: tib/data/images/volumes.py:116
 msgid "Byzantine Fortress in the Theatre of Milet"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:10
+msgid "Actors"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:11
+msgid "Persons and Groups"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:13
+msgid "Places"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:14
+msgid "Physical places and their locations"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:16
+msgid "Events"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:17
+msgid "Linking places and actors"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:19
+msgid "Sources"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:20
+msgid "Documents, manuscripts, etc."
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:22
+msgid "References"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:23
+msgid "Research literature"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:25
+msgid "Artefacts"
+msgstr ""
+
+#: tib/data/openatlas/oa_access.py:26
+msgid "Physical objects"
 msgstr ""
 
 #: tib/data/tib/counter.py:6

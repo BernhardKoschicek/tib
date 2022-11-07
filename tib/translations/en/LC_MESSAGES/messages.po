@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 13:23+0100\n"
-"PO-Revision-Date: 2022-11-07 13:24+0100\n"
+"POT-Creation-Date: 2022-11-07 13:43+0100\n"
+"PO-Revision-Date: 2022-11-07 13:45+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -916,7 +916,7 @@ msgstr "Univ. Prof. Dr. Alexander Beihammer, University of Notre Dame"
 msgid "Dr. Myrto Veikou, Uppsala University"
 msgstr "Dr. Myrto Veikou, Uppsala University"
 
-#: tib/data/subprojects.py:60
+#: tib/data/subprojects.py:61
 msgid ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and "
 "“Raška” through Space and Time (11th-14th Cent.)"
@@ -924,7 +924,7 @@ msgstr ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and "
 "“Raška” through Space and Time (11th-14th Cent.)"
 
-#: tib/data/subprojects.py:75
+#: tib/data/subprojects.py:76
 msgid ""
 "Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ aus mittelalterlichen "
 "Kirchen und Klöstern rekonstruieren?"
@@ -932,11 +932,11 @@ msgstr ""
 "Can a \"sacred landscape\" of medieval churches and monasteries be reconstructed "
 "in the present Montenegro?"
 
-#: tib/data/subprojects.py:83
+#: tib/data/subprojects.py:85
 msgid "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 msgstr "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 
-#: tib/data/subprojects.py:102
+#: tib/data/subprojects.py:105
 msgid ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
@@ -944,7 +944,7 @@ msgstr ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
 
-#: tib/data/subprojects.py:109
+#: tib/data/subprojects.py:112
 msgid ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
@@ -952,7 +952,7 @@ msgstr ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
 
-#: tib/data/subprojects.py:110
+#: tib/data/subprojects.py:113
 msgid ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
@@ -960,13 +960,13 @@ msgstr ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 
-#: tib/data/subprojects.py:111
+#: tib/data/subprojects.py:114
 msgid ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 msgstr ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 
-#: tib/data/subprojects.py:118
+#: tib/data/subprojects.py:121
 msgid ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im Ersten "
 "Weltkrieg?"
@@ -974,7 +974,7 @@ msgstr ""
 "What remained of the Austro-Hungarian occupation of Montenegro during the First "
 "World War?"
 
-#: tib/data/subprojects.py:127
+#: tib/data/subprojects.py:131
 msgid ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
@@ -982,7 +982,7 @@ msgstr ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
 
-#: tib/data/subprojects.py:138
+#: tib/data/subprojects.py:142
 msgid ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung von "
 "Kulturdenkmälern auf der Balkanhalbinsel?"
@@ -990,7 +990,7 @@ msgstr ""
 "What contribution does the TIB Balkan make to the documentation and preservation "
 "of cultural monuments on the Balkan Peninsula?"
 
-#: tib/data/subprojects.py:147
+#: tib/data/subprojects.py:152
 msgid ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
@@ -998,7 +998,7 @@ msgstr ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
 
-#: tib/data/subprojects.py:157
+#: tib/data/subprojects.py:162
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien während "
 "des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
@@ -1006,80 +1006,80 @@ msgstr ""
 "Where and how did people live in the historical landscape of Macedonia during "
 "the Byzantine-Serbian conflict in the 14th century?"
 
-#: tib/data/subprojects.py:171
-msgid ""
-"Establishment of contacts with scientists, archives and museums in Montenegro"
-msgstr ""
-"Establishment of contacts with scientists, archives and museums in Montenegro"
-
-#: tib/data/subprojects.py:172
-msgid ""
-"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
-"(1916-1918)"
-msgstr ""
-"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
-"(1916-1918)"
-
-#: tib/data/subprojects.py:173
-msgid ""
-"Raising awareness among the Austrian public by publishing the first results in "
-"the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
-"at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?"
-"fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
-"target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
-msgstr ""
-"Raising awareness among the Austrian public by publishing the first results in "
-"the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
-"at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?"
-"fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
-"target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
-
-#: tib/data/subprojects.py:174
-msgid ""
-"3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
-"project team"
-msgstr ""
-"3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
-"project team"
-
-#: tib/data/subprojects.py:175
-msgid ""
-"Georeferencing the 3D model and inserting it as a layer in the web application "
-"<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
-"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
-"Balkans)."
-msgstr ""
-"Georeferencing the 3D model and inserting it as a layer in the web application "
-"<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
-"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
-"Balkans)."
-
-#: tib/data/subprojects.py:176
-msgid ""
-"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
-"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
-"Time (11th-14th Cent.)/HOLDURA“</a>"
-msgstr ""
-"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
-"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
-"Time (11th-14th Cent.)/HOLDURA“</a>"
-
 #: tib/data/subprojects.py:177
 msgid ""
-"Joint scientific article of the Austrian and Montenegrin project teams entitled "
-"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
-"Landscapes in Today's Montenegro - First Project Results\" published in the "
-"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
-"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+"Establishment of contacts with scientists, archives and museums in Montenegro"
 msgstr ""
-"Joint scientific article of the Austrian and Montenegrin project teams entitled "
-"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
-"Landscapes in Today's Montenegro - First Project Results\" published in the "
-"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
-"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+"Establishment of contacts with scientists, archives and museums in Montenegro"
 
 #: tib/data/subprojects.py:178
 msgid ""
+"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
+"(1916-1918)"
+msgstr ""
+"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
+"(1916-1918)"
+
+#: tib/data/subprojects.py:179
+msgid ""
+"Raising awareness among the Austrian public by publishing the first results in "
+"the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
+"at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?"
+"fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
+"target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
+msgstr ""
+"Raising awareness among the Austrian public by publishing the first results in "
+"the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
+"at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?"
+"fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
+"target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
+
+#: tib/data/subprojects.py:180
+msgid ""
+"3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
+"project team"
+msgstr ""
+"3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
+"project team"
+
+#: tib/data/subprojects.py:181
+msgid ""
+"Georeferencing the 3D model and inserting it as a layer in the web application "
+"<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
+"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
+"Balkans)."
+msgstr ""
+"Georeferencing the 3D model and inserting it as a layer in the web application "
+"<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
+"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
+"Balkans)."
+
+#: tib/data/subprojects.py:182
+msgid ""
+"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
+"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
+"Time (11th-14th Cent.)/HOLDURA“</a>"
+msgstr ""
+"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
+"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
+"Time (11th-14th Cent.)/HOLDURA“</a>"
+
+#: tib/data/subprojects.py:183
+msgid ""
+"Joint scientific article of the Austrian and Montenegrin project teams entitled "
+"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
+"Landscapes in Today's Montenegro - First Project Results\" published in the "
+"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
+"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+msgstr ""
+"Joint scientific article of the Austrian and Montenegrin project teams entitled "
+"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
+"Landscapes in Today's Montenegro - First Project Results\" published in the "
+"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
+"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+
+#: tib/data/subprojects.py:184
+msgid ""
 "Presentation of the 3D model of the relief map to the National Museum of "
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
@@ -1088,72 +1088,72 @@ msgstr ""
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 
-#: tib/data/subprojects.py:182 tib/data/subprojects.py:223
+#: tib/data/subprojects.py:188 tib/data/subprojects.py:229
 msgid "Final project report"
 msgstr "Final project report"
 
-#: tib/data/subprojects.py:194
+#: tib/data/subprojects.py:200
 msgid "Project"
 msgstr "Project"
 
-#: tib/data/subprojects.py:200
+#: tib/data/subprojects.py:206
 msgid "Relief Map"
 msgstr "Relief Map"
 
-#: tib/data/subprojects.py:211
-msgid ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
-msgstr ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
-
-#: tib/data/subprojects.py:212
-msgid ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
-msgstr ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
-
-#: tib/data/subprojects.py:213
-msgid ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
-msgstr ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
-
-#: tib/data/subprojects.py:214
-msgid ""
-"During the term of the research project, the following results were obtained:"
-msgstr ""
-"During the term of the research project, the following results were obtained:"
-
 #: tib/data/subprojects.py:217
 msgid ""
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
+msgstr ""
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
+
+#: tib/data/subprojects.py:218
+msgid ""
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
+msgstr ""
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
+
+#: tib/data/subprojects.py:219
+msgid ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+msgstr ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+
+#: tib/data/subprojects.py:220
+msgid ""
+"During the term of the research project, the following results were obtained:"
+msgstr ""
+"During the term of the research project, the following results were obtained:"
+
+#: tib/data/subprojects.py:223
+msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
@@ -1162,7 +1162,7 @@ msgstr ""
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
 
-#: tib/data/subprojects.py:218
+#: tib/data/subprojects.py:224
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1194,7 +1194,7 @@ msgstr ""
 "pages in the list that lead to a lemma in the respective volume are highlighted "
 "in bold."
 
-#: tib/data/subprojects.py:219
+#: tib/data/subprojects.py:225
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1206,7 +1206,7 @@ msgstr ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 
-#: tib/data/subprojects.py:235
+#: tib/data/subprojects.py:241
 msgid "Image Collection"
 msgstr "Image Collection"
 
@@ -4688,24 +4688,24 @@ msgid ""
 msgstr ""
 "The document for the Rila Monastery of the Bulgarian Tsar Ivan III. Šišman (1378)"
 
-#: tib/data/images/hist_geo.py:13
+#: tib/data/images/hist_geo.py:14
 msgid "The abandoned church Vlaška cărkva in Popovi livadi, SW Bulgaria"
 msgstr "The abandoned church Vlaška cărkva in Popovi livadi, SW Bulgaria"
 
-#: tib/data/images/hist_geo.py:19
+#: tib/data/images/hist_geo.py:21
 msgid "Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
 msgstr ""
 "Peter Soustal with Kostantinos, a resident of the village of Daphni, Greece"
 
-#: tib/data/images/hist_geo.py:25
+#: tib/data/images/hist_geo.py:28
 msgid "Documentation of an Old Way Relic in Northern Greece"
 msgstr "Documentation of an Old Way Relic in Northern Greece"
 
-#: tib/data/images/hist_geo.py:31
+#: tib/data/images/hist_geo.py:34
 msgid "Enquiry with a Bulgarian farmer, Bulgaria"
 msgstr "Enquiry with a Bulgarian farmer, Bulgaria"
 
-#: tib/data/images/hist_geo.py:37
+#: tib/data/images/hist_geo.py:40
 msgid "Documentation of an early Christian basilica in Bar, Montenegro"
 msgstr "Documentation of an early Christian basilica in Bar, Montenegro"
 
@@ -5082,6 +5082,54 @@ msgstr "A Chapel made of Spolia in the Hekate-Sanctuary of Lagina"
 #: tib/data/images/volumes.py:116
 msgid "Byzantine Fortress in the Theatre of Milet"
 msgstr "Byzantine Fortress in the Theatre of Milet"
+
+#: tib/data/openatlas/oa_access.py:10
+msgid "Actors"
+msgstr "Actors"
+
+#: tib/data/openatlas/oa_access.py:11
+msgid "Persons and Groups"
+msgstr "Persons and Groups"
+
+#: tib/data/openatlas/oa_access.py:13
+msgid "Places"
+msgstr "Places"
+
+#: tib/data/openatlas/oa_access.py:14
+msgid "Physical places and their locations"
+msgstr "Physical places and their locations"
+
+#: tib/data/openatlas/oa_access.py:16
+msgid "Events"
+msgstr "Events"
+
+#: tib/data/openatlas/oa_access.py:17
+msgid "Linking places and actors"
+msgstr "Linking places and actors"
+
+#: tib/data/openatlas/oa_access.py:19
+msgid "Sources"
+msgstr "Sources"
+
+#: tib/data/openatlas/oa_access.py:20
+msgid "Documents, manuscripts, etc."
+msgstr "Documents, manuscripts, etc."
+
+#: tib/data/openatlas/oa_access.py:22
+msgid "References"
+msgstr "References"
+
+#: tib/data/openatlas/oa_access.py:23
+msgid "Research literature"
+msgstr "Research literature"
+
+#: tib/data/openatlas/oa_access.py:25
+msgid "Artefacts"
+msgstr "Artefacts"
+
+#: tib/data/openatlas/oa_access.py:26
+msgid "Physical objects"
+msgstr "Physical objects"
 
 #: tib/data/tib/counter.py:6
 msgid "TIB Volumes Published"

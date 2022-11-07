@@ -1,38 +1,23 @@
 {% extends "balkan/layout.html" %}
-{% block title %}Die TIB Balkan{% endblock %}
+{% block title %}{{_('TIB Balkans')}}{% endblock %}
 {% block content %}
   <div class="container top7 text-center">
     <div class="text-center">
-      {{ header_balkan('Die Tabula Imperii Byzantini - Balkan') }}
+      {{ header_balkan(_('The Tabula Imperii Byzantini - Balkans')) }}
     </div>
     <div class="row justify-content-center align-items-center pt-5">
       <div class="col-6 text-end " >
         <p>
-          Seit 1976 erscheinen TIB Bände zu den byzantinischen Provinzen und
-          Regionen auf dem Balkan in regelmäßiger Abfolge. 1976 wurde der Band
-          über
-          „Hellas und Thessalien“ veröffentlicht, 1981 über „Nikopolis und
-          Kephallēnia“, 1991 über „Thrakien (Thrakē, Rodopē und Haimimontos)“,
-          1998
-          über „Aigaion Pelagos (Die nördliche Ägäis)“ und 2008 über
-          „Ostthrakien
-          (Eurōpē)“. Das Ziel im Bereich der TIB Balkan bestand und besteht mit
-          dem
-          Einrichten des Projektes darin, die Donaugrenze als nördliche Grenze
-          des
-          Byzantinischen Reiches durch die wissenschaftliche Aufarbeitung der
-          entsprechenden Regionen zu erreichen.
-        </p>
+          {{_(' Since 1976 TIB volumes on the Byzantine provinces and regions in the Balkans have been published in regular succession. In 1976 the volume on "Hellas and Thessaly" was published, in 1981 on "Nicopolis and Kephallēnia", in 1991 on "Thrace (Thrakē, Rodopē and Haimimontos)", in 1998 on "Aigaion Pelagos (The Northern Aegean)" and in 2008 on "Eastern Thrace (Eurōpē)". The aim in the field of TIB Balkans was and is, with the establishment of the project, to reach the Danube border as the northern border of the Byzantine Empire through the scientific processing of the corresponding regions.')}}
+          </p>
       </div>
       <div class="col-4">
         <img src="{{ url_for('static', filename='images/gallery/tib_balkan_overview.jpg') }}"
              class="img-fluid d-flex mx-auto" alt="tib balkan overview">
       </div>
     </div>
-
     <p class="pt-5">
-      Derzeit ist ein Band in Druck, ein weiterer Band ist in der Phase der
-      Fertigstellung und ein dritter in Vorbereitung.
+      {{_('Currently, one volume is in print, another is in the process of completion, and a third is in preparation.')}}
     </p>
   </div>
   <div class="container-fluid">
@@ -42,26 +27,13 @@
   </div>
   <div class="container text-center justify-content-center">
     <p>
-      Der jeweilige Autor des TIB Bandes verschmilzt im Laufe seiner Arbeit
-      mit der Region, in der er arbeitet. Er bereist sein Bearbeitungsgebiet in
-      regelmäßigen Abständen und wird eins mit der Landschaft, die seine
-      Forschung am Schreibtisch und am Computer bereichert und ihr eine
-      ungeahnte Tiefe gibt. Diese Tiefe kann durch ausschließlich theoretische
-      Überlegungen und die Nutzung digitaler Satellitenaufnahmen nicht erreicht
-      werden. Nur vor Ort lassen sich Zusammenhänge erkennen und beschreiben.
-      Zahllos sind die Beispiele atemberaubender Naturräume, in denen Menschen
-      seit Jahrhunderten lebten und leben. Somit leistet die TIB einen
-      unschätzbaren Beitrag zur Dokumentation der Vergangenheit und Gegenwart,
-      die den zukünftigen Generationen erhalten bleiben soll.
-    </p>
+      {{_('In the course of his work, the respective author of the TIB volume merges with the region in which he works. He travels his processing area at regular intervals and becomes one with the landscape, which enriches his research at the desk and at the computer and gives it an undreamed-of depth. This depth cannot be achieved by exclusively theoretical considerations and the use of digital satellite images. Only on site can connections be recognized and described. Countless are the examples of breathtaking natural spaces in which people have lived and continue to live for centuries. Thus, the TIB makes an invaluable contribution to the documentation of the past and present, which should be preserved for future generations.')}}
+     </p>
     <video loop autoplay muted class="img-fluid pt-5">
       <source src="{{ url_for('static', filename='/video/vegoritis_petron_august_2014.mp4') }}"
               type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p class="fw-light">Die Seen Vegoritis und Petron, Griechenland, 2014 (M.
-      St. Popović)</p>
+    <p class="fw-light">{{_('Lakes Vegoritis and Petron, Greece, 2014 (M. St. Popović')}}</p>
   </div>
-
-
 {% endblock %}

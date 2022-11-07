@@ -1,26 +1,17 @@
 {% extends "balkan/layout.html" %}
-{% block title %}Langzeitprojekt{% endblock %}
+{% block title %}{{_('Long-term project')}}{% endblock %}
 {% block content %}
   <div class="container top7 text-center">
     <div class="text-center">
-      {{ header_balkan('Langzeitprojekt') }}
-      {{ header_balkan('Tabula Imperii Byzantini - Balkan') }}
+      {{ header_balkan(_('Long-term project')) }}
+      {{ header_balkan(_('Tabula Imperii Byzantini - Balkans')) }}
     </div>
     <p class="top5">
-      Das historisch-geographische Projekt Tabula Imperii Byzantini (TIB) wurde
-      auf Initiative des Begründers der österreichischen Byzantinistik und
-      Akademiemitglieds <a
-            href="https://www.geschichtewiki.wien.gv.at/Herbert_Hunger">
-      Prof. Dr. Herbert Hunger (1914-2000)</a>
-      im Jahre 1966 als Kommission der Österreichischen Akademie der
-      Wissenschaften (ÖAW) ins Leben gerufen. Seine Vision der
-      historisch-geographischen Forschung im Rahmen der Byzantinistik an der
-      ÖAW und der Erstellung eines Atlas des Byzantinischen Reiches begleiten
-      uns bis jetzt.
-    </p>
+      {{_('The historical-geographical project Tabula Imperii Byzantini (TIB) was initiated by the founder of Austrian Byzantine Studies and academician <a href="https://www.geschichtewiki.wien.gv.at/Herbert_Hunger"> Prof. Dr. Herbert Hunger (1914-2000)</a> in 1966 as a commission of the Austrian Academy of Sciences (ÖAW). His vision of historical-geographical research within the framework of Byzantine studies at the ÖAW and the creation of an atlas of the Byzantine Empire accompany us until now.')}}
+      </p>
     <p>
-      Als Ziel des Projektes TIB hat Herbert Hunger auf dem 13. Internationalen
-      Kongreß für Byzantinistik in Oxford im Jahre 1966 folgendes vorgegeben:
+      {{_('At the 13th International Congress of Byzantine Studies in Oxford in 1966, Herbert Hunger set the following as the goal of the TIB project.')}}:
+
     </p>
     <div class="row d-flex justify-content-center align-items-center">
       <figure class="bg-violet p-3 quotes row">
@@ -47,41 +38,16 @@
                class="img-fluid img-thumbnail d-flex" alt="Herbert Hunger">
         </div>
       </figure>
-
     </div>
     <p>
-      Im Rahmen der TIB wird die historische Geographie des Byzantinischen
-      Reiches systematisch erforscht, das vom Beginn des 4. Jahrhunderts n.
-      Chr. bis zur Mitte des 15. Jahrhunderts Bestand hatte – d. h. von der
-      Spätantike bis zur osmanischen Eroberung, um einen Atlas dieses Reiches
-      zu erstellen. Der Hauptteil jeden Bandes der TIB umfasst einen Katalog
-      der
-      byzantinischen Toponyme (d. h. der Namen von Städten, Siedlungen,
-      Festungen, Kirchen, Klöstern, Feldern, Gebirgen, Flüssen und Seen) in
-      alphabetischer Reihenfolge, die für jede Region / Provinz des
-      Byzantinischen Reiches aus vier Kategorien von Quellen gewonnen werden.
-      Diese Kategorien sind die schriftlichen Quellen aus dem obenerwähnten
-      Zeitraum (z. B. die Geschichtsschreibung, Urkunden, usw.), archäologische
-      Erkenntnisse (Denkmäler und deren Überreste), die historischen und
-      jetzigen Toponyme und die naturräumlichen Gegebenheiten von Landschaften.
-    </p>
-
+      {{_('Within the framework of the TIB, the historical geography of the Byzantine Empire, which lasted from the beginning of the 4th century AD to the middle of the 15th century - i.e. from Late Antiquity to the Ottoman conquest, is systematically researched in order to create an atlas of this empire. The main part of each volume of the TIB includes a catalog of Byzantine toponyms (i.e., the names of cities, settlements, fortresses, churches, monasteries, fields, mountains, rivers, and lakes) in alphabetical order, obtained for each region/province of the Byzantine Empire from four categories of sources. These categories are the written sources from the above mentioned period (e.g. the historiography, documents, etc.), archaeological findings (monuments and their remains), the historical and present toponyms and the natural features of landscapes.')}}
+     </p>
     <p>
-      Trotz einiger organisatorischer Veränderungen in den letzten Jahrzehnten
-      bleiben wir dem wissenschaftlichen Erbe Herbert Hungers verpflichtet und
-      seiner Vision treu. Seit 2016 ist die TIB ein Langzeitprojekt der ÖAW und
-      wurde zudem 2015 als Projekt mit der Nummer 87 bei der
-      <a href="http://www.unionacademique.org/en/projects/104/tabula-imperii-byzantini">Union
-        Académique
-        Internationale</a> in Brüssel aufgenommen.
-    </p>
+      {{_('Despite some organizational changes in recent decades, we remain committed to Herbert Hunger\'s scientific legacy and true to his vision. Since 2016, the TIB has been a long-term project of the ÖAW and was also accepted as project number 87 at the <a href="http://www.unionacademique.org/en/projects/104/tabula-imperii-byzantini">Union Académique Internationale</a> in Brussels in 2015.')}}
+     </p>
     <p>
-      Laut Langzeitprojektplan besteht die TIB aus zwei Projektbereichen: TIB
-      Kleinasien und TIB Balkan. Seit 1. Jänner 2016 ist Mihailo St. Popović
-      Projektleiter der TIB Balkan und möchte Ihnen gemeinsam mit seinem Team
-      auf dieser Homepage die Aufgaben, Ziele, Abläufe, Resultate und Visionen
-      dieses Bereiches näherbringen.
-    </p>
+      {{_('According to the long-term project plan, TIB consists of two project areas: TIB Asia Minor and TIB Balkans. Since January 1, 2016, Mihailo St. Popović has been the project manager of TIB Balkans and, together with his team, would like to introduce you to the tasks, goals, processes, results and visions of this area on this homepage.')}}
+      </p>
     <div class="row justify-content-center">
       {% for img in images %}
         <div class="col-4">
@@ -90,8 +56,5 @@
       {% endfor %}
     </div>
   </div>
-
-
-
 {% endblock %}
 

@@ -14,10 +14,10 @@ from tib.data.images.outreach import gallery_outreach, icons_outreach
 from tib.data.navigation import balkan_jumbotron
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.openatlas.subprojects import subprojects_ger_discover
-from tib.data.balkan.team import team_members
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
 from tib.data.subprojects import subprojects
+from tib.data.tib.team import tib_team_data
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict
@@ -32,7 +32,7 @@ def home() -> str:
         img_description=home_images,
         tib_volumes=tib_volumes_dict,
         subprojects=subprojects,
-        team=team_members,
+        team=tib_team_data,
         outreach=outreach,
         images=gallery_outreach,
         outreach_icons=icons_outreach)
@@ -42,7 +42,7 @@ def home() -> str:
 def balkan_team() -> str:
     return render_template(
         'balkan/team/team.html',
-        team=team_members)
+        team=tib_team_data)
 
 
 @app.route('/balkan/bände')

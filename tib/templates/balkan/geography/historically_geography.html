@@ -3,7 +3,7 @@
 {% block content %}
   <div class="container top10">
     <div class="row ">
-      <h1 class="display-1">Vergangene Landschaften begreifbar machen …</h1>
+      <h1 class="display-1">{{_('Making past landscapes tangible')}} …</h1>
     </div>
 
     <div class="row top7">
@@ -14,25 +14,12 @@
                     type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          <p class="small text-center">Unterwegs mit einer Lada Niva auf der alten Straße zwischen Podmol und Bonče, Republik Nordmazedonien, 2016 (M. St. Popović, TIB 16)</p>
+          <p class="small text-center">{{_('On the road with a Lada Niva on the old road between Podmol and Bonče, Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16).')}}</p>
         </div>
       </div>
       <div class="col-6 ">
         <p>
-          Im 21. Jahrhundert sind wir Zeugen eines rasanten technischen
-          Fortschritts und
-          einer dynamischen
-          Veränderung unserer Lebenswelten. Die Rückbesinnung der Menschheit
-          auf
-          die
-          Umwelt und das
-          Bewusstsein der Menschen über globale klimatische Veränderungen regen
-          die Frage
-          an, wie unsere
-          Vorfahren im Mittelalter gelebt haben und wie sie ihre Umwelt
-          gestaltet
-          und
-          wahrgenommen haben.
+          {{ _('balkan_intro_1') }}
         </p>
       </div>
     </div>
@@ -42,21 +29,18 @@
            data-aos-duration="300">
         <h2 class=" text-center">
           <span class="bg-violet-light p-3 rounded-pill">
-            Fragen der historischen Geographie
+            {{_('Questions of historical geography')}}
+
           </span>
         </h2>
       </div>
       {% set questions = [
-      'Wie waren damalige Landschaften beschaffen?',
-      'Welche Siedlungen gab es? Wie sahen diese aus?',
-      'Wurden sie in schriftlichen Quellen (z. B. Urkunden)
-            dokumentiert?',
-      'Welche Rolle spielten Flüsse, Seen und Gebirge in der
-            Raumwahrnehmung des
-            Mittelalters?',
-      'Warum wurden Kirchen, Klöster und Burgen an bestimmten Orten
-            errichtet?',
-                 'Wohin führten Straßen und wie waren sie beschaffen?',
+      _('What were landscapes like at that time?'),
+      _('What were the settlements? What did they look like?'),
+      _('Were they documented in written sources (e.g., charters)?'),
+      _('What role did rivers, lakes and mountains play in the perception of space in the Middle Ages?'),
+      _('Why were churches, monasteries and castles built in certain places?'),
+      _('Where did roads lead to and what were they like?'),
       ] %}
       {% for question in questions %}
         <div data-aos="{{ loop.cycle('fade-right', 'fade-left') }}"
@@ -68,54 +52,25 @@
 
       {% endfor %}
       <div class="row text-center top5">
-        <h3>Unsere Arbeitsweise</h3>
+        <h3>{{_('Our way of working')}}</h3>
         <p class="pt-3">
-          Wir lesen die schriftlichen Quellen der Zeit
-          des 4. bis 15. Jahrhunderts, die in verschiedenen Sprachen verfasst
-          sind
-          (z. B. griechisch,
-          lateinisch, altslawisch, etc.), und filtern alle Informationen zu den
-          oben genannten Fragen
-          heraus.
+          {{_('We read the written sources of the period from the 4th to the 15th century, written in different languages (e.g. Greek, Latin, Old Slavonic, etc.), and filter out all the information related to the above questions.')}}
+          </p>
+        <p>
+          {{_('We collect data on field names from the sources, modern maps and encyclopedias.')}}
+
         </p>
         <p>
-          Wir sammeln Daten zu Flurnamen aus den Quellen, neuzeitlichen Karten
-          und
-          Lexika.
+          {{_('We get an overview of archaeological excavations and existing monuments (churches, monasteries, castles, etc.) on site.')}}
         </p>
         <p>
-          Wir
-          verschaffen uns einen Überblick über archäologische Grabungen und
-          bestehende Denkmäler (Kirchen,
-          Klöster, Burgen, etc.) vor Ort.
-        </p>
-        <p>
-          Und wir reisen in die jeweiligen Gebiete, um vor Ort im Gelände Daten
-          zu
-          sammeln und zu dokumentieren, die wir vorher gelesen und
-          zusammengefaßt
-          haben. Dazu sind wir auf die Hilfe der einheimischen Bevölkerung
-          angewiesen. Wir sprechen mit den Menschen in ihrer Sprache – sei es
-          auf
-          Griechisch, Serbisch, Bulgarisch, Mazedonisch, Türkisch, etc. – und
-          blicken mit ihnen auf ihre lokale Vergangenheit zurück. Es kommt zu
-          wunderschönen Begegnungen über alle Grenzen hinweg. Aus all den
-          gewonnenen Daten schreiben wir zu jeder historischen Region des
-          Byzantinischen Reiches einen Band der Tabula Imperii Byzantini und
-          tragen
-          unsere Erkenntnisse auch in einer beigelegten, gedruckten Karte ein.
-          Auf
-          diese Weise werden längst vergangene Landschaften für jeden/jede
-          begreifbar …
+          {{_('And we travel to the respective areas to collect and document data in the field that we have previously read and summarized. To do this, we rely on the help of the local population. We talk to the people in their language - be it Greek, Serbian, Bulgarian, Macedonian, Turkish, etc. - and look back with them on their local past. Wonderful encounters take place across all borders. From all the data obtained, we write a volume of the Tabula Imperii Byzantini for each historical region of the Byzantine Empire and also record our findings in an enclosed printed map. In this way, landscapes long gone become comprehensible to everyone.')}}
+          …
         </p>
 
         <p>
-          Wenn Sie über das Projekt TIB, die TIB Balkan und zukünftige
-          Planungen
-          im Spiegel der politischen, kulturpolitischen und demographischen
-          Entwicklungen in Europa lesen möchten, können Sie im folgenden
-          Beitrag
-          mehr darüber erfahren …
+          {{_('If you would like to read about the TIB project, the TIB Balkans and future plans in the light of political, cultural and demographic developments in Europe, you can find out more in the following article')}}
+           …
         </p>
 
       </div>

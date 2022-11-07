@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-04 19:49+0100\n"
+"POT-Creation-Date: 2022-11-07 10:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3315,12 +3315,102 @@ msgstr ""
 msgid "balkan_digital_intro"
 msgstr ""
 
-#: tib/templates/balkan/digital/digital_intro.html:48
+#: tib/templates/balkan/digital/digital_intro.html:17
 msgid "View 3D Objects"
 msgstr ""
 
-#: tib/templates/balkan/digital/digital_intro.html:55
+#: tib/templates/balkan/digital/digital_intro.html:24
 msgid "Browse project database"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:6
+#: tib/templates/balkan/home/tib_intro.html:3
+msgid "Making past landscapes tangible"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:17
+msgid ""
+"On the road with a Lada Niva on the old road between Podmol and Bonče, "
+"Republic of Northern Macedonia, 2016 (M. St. Popović, TIB 16)."
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:22
+#: tib/templates/balkan/home/tib_intro.html:10
+msgid "balkan_intro_1"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:32
+msgid "Questions of historical geography"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:38
+msgid "What were landscapes like at that time?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:39
+msgid "What were the settlements? What did they look like?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:40
+msgid "Were they documented in written sources (e.g., charters)?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:41
+msgid ""
+"What role did rivers, lakes and mountains play in the perception of space"
+" in the Middle Ages?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:42
+msgid "Why were churches, monasteries and castles built in certain places?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:43
+msgid "Where did roads lead to and what were they like?"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:55
+msgid "Our way of working"
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:58
+msgid ""
+"We read the written sources of the period from the 4th to the 15th "
+"century, written in different languages (e.g. Greek, Latin, Old Slavonic,"
+" etc.), and filter out all the information related to the above "
+"questions."
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:61
+msgid ""
+"We collect data on field names from the sources, modern maps and "
+"encyclopedias."
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:65
+msgid ""
+"We get an overview of archaeological excavations and existing monuments "
+"(churches, monasteries, castles, etc.) on site."
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:68
+msgid ""
+"And we travel to the respective areas to collect and document data in the"
+" field that we have previously read and summarized. To do this, we rely "
+"on the help of the local population. We talk to the people in their "
+"language - be it Greek, Serbian, Bulgarian, Macedonian, Turkish, etc. - "
+"and look back with them on their local past. Wonderful encounters take "
+"place across all borders. From all the data obtained, we write a volume "
+"of the Tabula Imperii Byzantini for each historical region of the "
+"Byzantine Empire and also record our findings in an enclosed printed map."
+" In this way, landscapes long gone become comprehensible to everyone."
+msgstr ""
+
+#: tib/templates/balkan/geography/historically_geography.html:73
+msgid ""
+"If you would like to read about the TIB project, the TIB Balkans and "
+"future plans in the light of political, cultural and demographic "
+"developments in Europe, you can find out more in the following article"
 msgstr ""
 
 #: tib/templates/balkan/home/cartography.html:3
@@ -3331,7 +3421,7 @@ msgstr ""
 msgid "balkan_cartography_intro"
 msgstr ""
 
-#: tib/templates/balkan/home/cartography.html:27
+#: tib/templates/balkan/home/cartography.html:14
 msgid ""
 "Processing schedule for the volumes of the TIB Balkan  (Johannes Koder, "
 "1960s, TIB Archiv)"
@@ -3341,19 +3431,11 @@ msgstr ""
 msgid "Tabula Imperii Byzantini Balkan"
 msgstr ""
 
-#: tib/templates/balkan/home/tib_intro.html:3
-msgid "Making past landscapes tangible"
-msgstr ""
-
-#: tib/templates/balkan/home/tib_intro.html:10
-msgid "balkan_intro_1"
-msgstr ""
-
-#: tib/templates/balkan/home/tib_intro.html:17
+#: tib/templates/balkan/home/tib_intro.html:13
 msgid "balkan_intro_2"
 msgstr ""
 
-#: tib/templates/balkan/home/tib_intro.html:23 tib/templates/tib/layout.html:63
+#: tib/templates/balkan/home/tib_intro.html:14 tib/templates/tib/layout.html:63
 msgid "Read more..."
 msgstr ""
 
@@ -3365,11 +3447,73 @@ msgstr ""
 msgid "balkan_travel_intro"
 msgstr ""
 
+#: tib/templates/balkan/longterm/longterm.html:2
+#: tib/templates/balkan/longterm/longterm.html:6
+msgid "Long-term project"
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:7
+msgid "Tabula Imperii Byzantini - Balkans"
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:10
+msgid ""
+"The historical-geographical project Tabula Imperii Byzantini (TIB) was "
+"initiated by the founder of Austrian Byzantine Studies and academician <a"
+" href=\"https://www.geschichtewiki.wien.gv.at/Herbert_Hunger\"> Prof. Dr."
+" Herbert Hunger (1914-2000)</a> in 1966 as a commission of the Austrian "
+"Academy of Sciences (ÖAW). His vision of historical-geographical research"
+" within the framework of Byzantine studies at the ÖAW and the creation of"
+" an atlas of the Byzantine Empire accompany us until now."
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:14
+msgid ""
+"At the 13th International Congress of Byzantine Studies in Oxford in "
+"1966, Herbert Hunger set the following as the goal of the TIB project."
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:44
+msgid ""
+"Within the framework of the TIB, the historical geography of the "
+"Byzantine Empire, which lasted from the beginning of the 4th century AD "
+"to the middle of the 15th century - i.e. from Late Antiquity to the "
+"Ottoman conquest, is systematically researched in order to create an "
+"atlas of this empire. The main part of each volume of the TIB includes a "
+"catalog of Byzantine toponyms (i.e., the names of cities, settlements, "
+"fortresses, churches, monasteries, fields, mountains, rivers, and lakes) "
+"in alphabetical order, obtained for each region/province of the Byzantine"
+" Empire from four categories of sources. These categories are the written"
+" sources from the above mentioned period (e.g. the historiography, "
+"documents, etc.), archaeological findings (monuments and their remains), "
+"the historical and present toponyms and the natural features of "
+"landscapes."
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:48
+msgid ""
+"Despite some organizational changes in recent decades, we remain "
+"committed to Herbert Hunger's scientific legacy and true to his vision. "
+"Since 2016, the TIB has been a long-term project of the ÖAW and was also "
+"accepted as project number 87 at the <a "
+"href=\"http://www.unionacademique.org/en/projects/104/tabula-imperii-"
+"byzantini\">Union Académique Internationale</a> in Brussels in 2015."
+msgstr ""
+
+#: tib/templates/balkan/longterm/longterm.html:52
+msgid ""
+"According to the long-term project plan, TIB consists of two project "
+"areas: TIB Asia Minor and TIB Balkans. Since January 1, 2016, Mihailo St."
+" Popović has been the project manager of TIB Balkans and, together with "
+"his team, would like to introduce you to the tasks, goals, processes, "
+"results and visions of this area on this homepage."
+msgstr ""
+
 #: tib/templates/balkan/outreach/outreach_intro.html:3
 msgid "Public Relations"
 msgstr ""
 
-#: tib/templates/balkan/outreach/outreach_intro.html:8
+#: tib/templates/balkan/outreach/outreach_intro.html:7
 msgid "balkan_outreach_intro"
 msgstr ""
 
@@ -3387,6 +3531,52 @@ msgstr ""
 
 #: tib/templates/balkan/team/team_intro.html:6
 msgid "balkan_team_intro"
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:2
+msgid "TIB Balkans"
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:6
+msgid "The Tabula Imperii Byzantini - Balkans"
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:12
+msgid ""
+" Since 1976 TIB volumes on the Byzantine provinces and regions in the "
+"Balkans have been published in regular succession. In 1976 the volume on "
+"\"Hellas and Thessaly\" was published, in 1981 on \"Nicopolis and "
+"Kephallēnia\", in 1991 on \"Thrace (Thrakē, Rodopē and Haimimontos)\", in"
+" 1998 on \"Aigaion Pelagos (The Northern Aegean)\" and in 2008 on "
+"\"Eastern Thrace (Eurōpē)\". The aim in the field of TIB Balkans was and "
+"is, with the establishment of the project, to reach the Danube border as "
+"the northern border of the Byzantine Empire through the scientific "
+"processing of the corresponding regions."
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:22
+msgid ""
+"Currently, one volume is in print, another is in the process of "
+"completion, and a third is in preparation."
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:33
+msgid ""
+"In the course of his work, the respective author of the TIB volume merges"
+" with the region in which he works. He travels his processing area at "
+"regular intervals and becomes one with the landscape, which enriches his "
+"research at the desk and at the computer and gives it an undreamed-of "
+"depth. This depth cannot be achieved by exclusively theoretical "
+"considerations and the use of digital satellite images. Only on site can "
+"connections be recognized and described. Countless are the examples of "
+"breathtaking natural spaces in which people have lived and continue to "
+"live for centuries. Thus, the TIB makes an invaluable contribution to the"
+" documentation of the past and present, which should be preserved for "
+"future generations."
+msgstr ""
+
+#: tib/templates/balkan/tib_balkan/tib_balkan.html:41
+msgid "Lakes Vegoritis and Petron, Greece, 2014 (M. St. Popović"
 msgstr ""
 
 #: tib/templates/balkan/tib_volumes/tib_volumes_intro.html:3

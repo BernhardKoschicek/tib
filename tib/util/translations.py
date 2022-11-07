@@ -17,10 +17,5 @@ _l('Scientific_Employees')
 _l('Associated_Scholars')
 _l('Technical_Specialists')
 _l('Former_Employees')
-_l('asia_minor')
-_l('balkans')
-_l('associated_scholars')
-_l('tib_editor')
-_l('former_employee')
-_l('emeritus_scholar')
-_l('scientific_employee')
+
+

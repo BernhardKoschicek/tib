@@ -6,12 +6,14 @@
         {{ _('balkan_team_intro') }}
     </p>
     <div class="row justify-content-center pt-5">
-        {% for member in team.values() %}
+        {% for name, member in team.items() %}
+        {% if name in ['mpopovic', 'dvargova', 'bkoschicek'] %}
         <div class="col-lg-3 mb-4">
             {% with member=member %}
             {% include 'balkan/team/member.html' %}
             {% endwith %}
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 

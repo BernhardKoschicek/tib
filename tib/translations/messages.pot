@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 12:54+0100\n"
+"POT-Creation-Date: 2022-11-07 12:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,7 +77,7 @@ msgstr ""
 msgid "balkan_digital"
 msgstr ""
 
-#: tib/data/navigation.py:33
+#: tib/data/navigation.py:33 tib/templates/balkan/digital/3dobjects.html:6
 msgid "3dobjects"
 msgstr ""
 
@@ -3500,6 +3500,14 @@ msgstr ""
 #: tib/templates/footer.html:46 tib/templates/tib/imprint.html:2
 #: tib/templates/tib/imprint.html:6
 msgid "imprint"
+msgstr ""
+
+#: tib/templates/balkan/digital/3dobjects.html:9
+msgid ""
+"The following objects were created within the project <a "
+"href=\"balkan/subprojekte/montenegro\">\"Cultural heritage in the period "
+"of the First World War: the case of the Austro-Hungarian relief map of "
+"Montenegro (1916-1918)\"</a>."
 msgstr ""
 
 #: tib/templates/balkan/digital/digital_intro.html:4

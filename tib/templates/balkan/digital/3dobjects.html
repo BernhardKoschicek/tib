@@ -1,14 +1,13 @@
 {% extends "balkan/layout.html" %}
-{% block title %}_('3dobjects')){% endblock %}
+{% block title %}{{_('3dobjects')}}{% endblock %}
 {% block content %}
   <div class="container">
     <div class="text-center top7">
       {{ header_balkan(_('3dobjects')) }}
     </div>
     <p class="text-center">
-      {{_('The following objects were created within the project <a href="{{ url_for('balkan_subprojects', project='montenegro') }}">"Cultural heritage in the period of the First World War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)"</a>.')}}
-      Folgende Objekte sind im Rahmen des Projekt <a href="{{ url_for('balkan_subprojects', project='montenegro') }}">"Kulturerbe in der Zeit des Ersten Weltkriegs: der Fall der österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)"</a> entstanden.
-    </p>
+      {{_('The following objects were created within the project <a href="balkan/subprojekte/montenegro">"Cultural heritage in the period of the First World War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)"</a>.')}}
+     </p>
     <div class="row justify-content-md-center">
       {% for object, values in objects3d.items() %}
         <div class="col-md-8 col-xl-6 col-xxl-4 px-5 py-5"

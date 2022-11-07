@@ -16,7 +16,7 @@ from tib.data.openatlas.subprojects import subprojects_ger_discover
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
 from tib.data.subprojects import subprojects, project_results
-from tib.data.tib.team import tib_team_data
+from tib.data.team import tib_team_data
 from tib.data.tib_volumes import tib_volumes_dict
 from tib.util.util import get_dict_entries_by_category, \
     get_prev_and_next_item_of_dict

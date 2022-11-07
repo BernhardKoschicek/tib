@@ -1,4 +1,4 @@
-from tib.data.tib.team import tib_team_data as team
+from tib.data.team import tib_team_data as team
 from tib.util.util import format_link, format_video_tag, \
     get_dates_formatted, youtube_iframe
 from flask_babel import lazy_gettext as _l

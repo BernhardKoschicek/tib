@@ -1,5 +1,5 @@
 from tib.data.institutes import institutes
-from tib.data.tib.team import tib_team_data
+from tib.data.team import tib_team_data
 from tib.util.util import get_dates_formatted
 
 from flask_babel import lazy_gettext as _l

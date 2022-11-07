@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 12:54+0100\n"
-"PO-Revision-Date: 2022-11-07 12:57+0100\n"
+"POT-Creation-Date: 2022-11-07 12:59+0100\n"
+"PO-Revision-Date: 2022-11-07 13:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -79,7 +79,7 @@ msgstr "Projekte"
 msgid "balkan_digital"
 msgstr "Digitale Ära"
 
-#: tib/data/navigation.py:33
+#: tib/data/navigation.py:33 tib/templates/balkan/digital/3dobjects.html:6
 msgid "3dobjects"
 msgstr "3D Objekte"
 
@@ -5235,6 +5235,17 @@ msgstr "Europa"
 #: tib/templates/tib/imprint.html:6
 msgid "imprint"
 msgstr "Impressum"
+
+#: tib/templates/balkan/digital/3dobjects.html:9
+msgid ""
+"The following objects were created within the project <a href=\"balkan/"
+"subprojekte/montenegro\">\"Cultural heritage in the period of the First World "
+"War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)\"</a>."
+msgstr ""
+" Folgende Objekte sind im Rahmen des Projekt <a href=\"balkan/subprojekte/"
+"montenegro\">\"Kulturerbe in der Zeit des Ersten Weltkriegs: der Fall der "
+"österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)\"</a> "
+"entstanden."
 
 #: tib/templates/balkan/digital/digital_intro.html:4
 msgid "in the digital era"

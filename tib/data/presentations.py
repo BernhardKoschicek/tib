@@ -3,6 +3,15 @@ from tib.util.util import get_table_dates_formatted
 
 presentations = [{
     "presenter": "Mihailo St. Popović",
+    "title": "Doing Historical Geography in A Digital Age: The Case of The Tabula Imperii Byzantini Balkans and Its Public Outreach",
+    "conference": "2022 Byzantine Studies Conference",
+    'location': 'Los Angeles',
+    "date": get_table_dates_formatted(2022, 11, 6),
+    "external_link": 'https://bsana.net/annual-conference/',
+    "download": '',
+    "category": ["holdura"]
+},{
+    "presenter": "Mihailo St. Popović",
     "title": "Historical Geography, Digital Humanities and Database Systems: an Approach to reconstruct “Sacred Landscapes” – the Case of Medieval Duklja and Raška (today’s Montenegro and Serbia)",
     "conference": "Global Eurasia, Workshop II: Handlungsspielräume, Netzwerke und transregionale Kontexte",
     'location': 'Wien',

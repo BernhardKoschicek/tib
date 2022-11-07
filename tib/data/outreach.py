@@ -56,6 +56,19 @@ outreach = [{
         'path': f'{attach_path}ABF_Buchpraesentation_TIB_11.pdf',
         'type': 'pdf'}]
 }, {
+    'id': 'histgeo_leipzig_22',
+    'type': types['presentation'],
+    'date': f"{get_dates_formatted(2022, 11, 10)}",
+    'who': [team['mpopovic']],
+    'title': _l('Presentation in Leipzig'),
+    'description': [
+        _l('On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den Wert der digitalen Kartographie und Geokommunikation in der Vermittlung historischer Inhalte am Beispiel des Projektes ‚Jenseits von Ost und West‘” and is based on scholarly results from the project <a href="subprojects/holdura>“Beyond East and West (HOLDURA)”</a>'),
+    ],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}Popovic_11_22.pdf',
+        'type': 'pdf'}]
+},{
     'id': 'aieb_roundtable',
     'type': types['online_presentation'],
     'date': f"{get_dates_formatted(2022, 8, 22)}-"

@@ -32,6 +32,12 @@ gallery_outreach = [
     }, ]
 
 icons_outreach = {
+    'histgeo_leipzig_22': {
+        'path': f'{icon_path_outreach}histgeo_leipzig_22.jpg',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'tib11_promotion': {
         'path': f'{icon_path_outreach}tib11_promotion.jpg',
         'license': '',

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 16:28+0100\n"
+"POT-Creation-Date: 2022-11-07 17:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -192,83 +192,98 @@ msgstr ""
 msgid "Registration"
 msgstr ""
 
-#: tib/data/outreach.py:64
+#: tib/data/outreach.py:63
+msgid "Presentation in Leipzig"
+msgstr ""
+
+#: tib/data/outreach.py:65
+msgid ""
+"On Thursday, 10 November 2022, Mihailo Popović will present a paper in "
+"Leipzig, which is entitled “Die historische Geographie von Byzanz neu "
+"gedacht – Über den Wert der digitalen Kartographie und Geokommunikation "
+"in der Vermittlung historischer Inhalte am Beispiel des Projektes "
+"‚Jenseits von Ost und West‘” and is based on scholarly results from the "
+"project <a href=\"subprojects/holdura>“Beyond East and West "
+"(HOLDURA)”</a>"
+msgstr ""
+
+#: tib/data/outreach.py:77
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr ""
 
-#: tib/data/outreach.py:68
+#: tib/data/outreach.py:81
 msgid "aieb_roundtable"
 msgstr ""
 
-#: tib/data/outreach.py:69
+#: tib/data/outreach.py:82
 msgid "For further information and the programme please cf."
 msgstr ""
 
-#: tib/data/outreach.py:79
+#: tib/data/outreach.py:92
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr ""
 
-#: tib/data/outreach.py:82
+#: tib/data/outreach.py:95
 msgid "hypotheses_post"
 msgstr ""
 
-#: tib/data/outreach.py:91
+#: tib/data/outreach.py:104
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr ""
 
-#: tib/data/outreach.py:93
+#: tib/data/outreach.py:106
 msgid "tib_11_release"
 msgstr ""
 
-#: tib/data/outreach.py:94
+#: tib/data/outreach.py:107
 msgid "Cf. in detail:"
 msgstr ""
 
-#: tib/data/outreach.py:108
+#: tib/data/outreach.py:121
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr ""
 
-#: tib/data/outreach.py:111
+#: tib/data/outreach.py:124
 msgid "imc2022"
 msgstr ""
 
-#: tib/data/outreach.py:112
+#: tib/data/outreach.py:125
 msgid "Cf. in detail"
 msgstr ""
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:134
 msgid "presentation at university of cologne, germany"
 msgstr ""
 
-#: tib/data/outreach.py:123
+#: tib/data/outreach.py:136
 msgid "seminar_koeln"
 msgstr ""
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:145
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:134
+#: tib/data/outreach.py:147
 msgid "lange_nacht_22_text"
 msgstr ""
 
-#: tib/data/outreach.py:143
+#: tib/data/outreach.py:156
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: "
 "Agency, Networks and Transregional Contexts\""
 msgstr ""
 
-#: tib/data/outreach.py:146
+#: tib/data/outreach.py:159
 msgid "global_eurasia_5_12_22"
 msgstr ""
 
-#: tib/data/outreach.py:154
+#: tib/data/outreach.py:167
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical "
 "Geography of Byzantium"
 msgstr ""
 
-#: tib/data/outreach.py:157
+#: tib/data/outreach.py:170
 msgid "seminar_series_april"
 msgstr ""
 
@@ -789,7 +804,7 @@ msgid ""
 "presentations."
 msgstr ""
 
-#: tib/data/subprojects.py:188 tib/data/subprojects.py:229
+#: tib/data/subprojects.py:188 tib/data/subprojects.py:231
 msgid "Final project report"
 msgstr ""
 
@@ -801,7 +816,7 @@ msgstr ""
 msgid "Relief Map"
 msgstr ""
 
-#: tib/data/subprojects.py:217
+#: tib/data/subprojects.py:219
 msgid ""
 "The total number of slides to be scanned and processed in the project by "
 "the research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides,"
@@ -810,7 +825,7 @@ msgid ""
 "retired) scientists of the TIB and student employees."
 msgstr ""
 
-#: tib/data/subprojects.py:218
+#: tib/data/subprojects.py:220
 msgid ""
 "The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a "
 "Contribution to World Heritage\" has addressed the three above-mentioned "
@@ -821,7 +836,7 @@ msgid ""
 "Historical Geography and Digital Humanities."
 msgstr ""
 
-#: tib/data/subprojects.py:219
+#: tib/data/subprojects.py:221
 msgid ""
 "Furthermore, Veronika Polloczek has successfully applied for and defended"
 " a dissertation topic at the University of Vienna with the working title "
@@ -832,20 +847,20 @@ msgid ""
 "of Vienna."
 msgstr ""
 
-#: tib/data/subprojects.py:220
+#: tib/data/subprojects.py:222
 msgid ""
 "During the term of the research project, the following results were "
 "obtained:"
 msgstr ""
 
-#: tib/data/subprojects.py:223
+#: tib/data/subprojects.py:225
 msgid ""
 "Transparent presentation and publication of project results as part of "
 "TIB's online resources at <a "
 "href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>."
 msgstr ""
 
-#: tib/data/subprojects.py:224
+#: tib/data/subprojects.py:226
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online"
 " as <a href=\"/tib-register\">lists of all toponyms with volume and page "
@@ -864,7 +879,7 @@ msgid ""
 "highlighted in bold."
 msgstr ""
 
-#: tib/data/subprojects.py:225
+#: tib/data/subprojects.py:227
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a "
 "href=\"https://catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users"
@@ -873,7 +888,7 @@ msgid ""
 "slides) with permalinks."
 msgstr ""
 
-#: tib/data/subprojects.py:241
+#: tib/data/subprojects.py:243
 msgid "Image Collection"
 msgstr ""
 

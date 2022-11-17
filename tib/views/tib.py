@@ -93,7 +93,9 @@ def tib_publications() -> str:
 
 @app.route('/digtib')
 def tib_digtib() -> str:
-    return render_template('tib/digtib/digtib.html', bar=tib_digtib_submenu_items)
+    return render_template(
+        'tib/digtib/digtib.html',
+        bar=tib_digtib_submenu_items)
 
 
 @app.route('/tib-register')

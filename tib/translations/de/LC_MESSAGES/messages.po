@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-07 17:43+0100\n"
-"PO-Revision-Date: 2022-11-07 17:44+0100\n"
+"POT-Creation-Date: 2022-11-17 12:10+0100\n"
+"PO-Revision-Date: 2022-11-17 12:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -122,24 +122,33 @@ msgstr ""
 "Zugang zu mehr als 7.000 Dias der TIB-Bände 5, 12 und 16, angereichert mit "
 "Metadaten"
 
-#: tib/data/navigation.py:70 tib/templates/tib/frontpage/tib_map.html:5
+#: tib/data/navigation.py:70 tib/data/navigation.py:87
+#: tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
 msgstr "Kartenapplikation"
 
-#: tib/data/navigation.py:74
+#: tib/data/navigation.py:74 tib/data/navigation.py:91
 msgid "Graphical map application to access, browse and query data from TIB Balkans"
 msgstr ""
 "Digitale Kartenanwendung um die Daten der TIB Balkan zu durchsuchen und "
 "abzufragen"
 
-#: tib/data/navigation.py:78
+#: tib/data/navigation.py:78 tib/data/navigation.py:95
 msgid "browse_tib_balkans_data"
 msgstr "TIB Balkan Daten erkunden"
 
-#: tib/data/navigation.py:82
+#: tib/data/navigation.py:82 tib/data/navigation.py:99
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr ""
 "Durchsuchen Sie die Daten von TIB Balkans direkt in der OpenAtlas-Datenbank"
+
+#: tib/data/navigation.py:102
+msgid "View 3D Objects"
+msgstr "3D-Objekte anzeigen"
+
+#: tib/data/navigation.py:106
+msgid "Examine different 3D objects"
+msgstr "Untersuchen Sie unterschiedliche 3D-Objekte"
 
 #: tib/data/outreach.py:10 tib/data/outreach.py:14
 msgid "presentation"
@@ -5402,14 +5411,6 @@ msgstr ""
 "Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans)“</"
 "a>."
 
-#: tib/templates/balkan/digital/digital_intro.html:17
-msgid "View 3D Objects"
-msgstr "3D-Objekte anzeigen"
-
-#: tib/templates/balkan/digital/digital_intro.html:24
-msgid "Browse project database"
-msgstr "Projektdatenbank durchsuchen"
-
 #: tib/templates/balkan/digital/explore.html:3
 #: tib/templates/openatlas/explore.html:3
 msgid "Project data"
@@ -6292,7 +6293,7 @@ msgstr "TIB-Bände in Bearbeitung"
 msgid "Finished volumes"
 msgstr "Fertige Bände"
 
-#: tib/templates/tib/digtib/digtib.html:8
+#: tib/templates/tib/digtib/digtib.html:2 tib/templates/tib/digtib/digtib.html:8
 msgid "Digital Tabula Imperii Byzantini"
 msgstr "Digitale Tabula Imperii Byzantini"
 
@@ -6311,7 +6312,7 @@ msgstr ""
 "ihrer Daten zu bieten, die in entsprechenden TIB-Bänden veröffentlicht wurden "
 "und werden."
 
-#: tib/templates/tib/digtib/digtib.html:33
+#: tib/templates/tib/digtib/digtib.html:19
 msgid ""
 "As a Long-Term Project of the Austrian Academy of Sciences the TIB is pursuing "
 "<b>three main lines of development</b>"
@@ -6319,7 +6320,7 @@ msgstr ""
 "Als Langzeitprojekt der Österreichischen Akademie der Wissenschaften verfolgt "
 "die TIB <b>drei wesentliche Entwicklungslinien</b>"
 
-#: tib/templates/tib/digtib/digtib.html:36
+#: tib/templates/tib/digtib/digtib.html:22
 msgid ""
 "The <b>first line of development</b> comprises the ongoing scholarly work and "
 "resulting printed publications, i.e. the TIB volumes with their maps on a scale "
@@ -6333,7 +6334,7 @@ msgstr ""
 "der Österreichischen Akademie der Wissenschaften bis 2027 folgen. Vgl. zum <a "
 "href=\"current_status\">aktuellen Stand</a> der TIB-Bände im Detail."
 
-#: tib/templates/tib/digtib/digtib.html:38
+#: tib/templates/tib/digtib/digtib.html:24
 msgid ""
 "The <b>second line of development</b> is constituted by the scholarly, archival "
 "and digital (re)processing of published and unpublished data of the TIB, which "
@@ -6355,7 +6356,7 @@ msgstr ""
 "von Schwarz-Weiß-Fotos aus den 1960er und 1970er Jahren aus verschiedenen "
 "Forschungsbereichen; die veröffentlichten TIB-Bände 1-13 und 15."
 
-#: tib/templates/tib/digtib/digtib.html:41
+#: tib/templates/tib/digtib/digtib.html:27
 msgid ""
 "Since 2016 we are pursuing the aim to apply \"regressive engineering\" to these "
 "data sets through third-party funded projects. In this way we are, and we will "
@@ -6372,7 +6373,7 @@ msgstr ""
 "und der interessierten Öffentlichkeit zu präsentieren und für zukünftige "
 "Generationen zu bewahren."
 
-#: tib/templates/tib/digtib/digtib.html:44
+#: tib/templates/tib/digtib/digtib.html:30
 msgid ""
 "You may access the lists of the geographic registers of each published TIB "
 "volume (1-13 and 15) and a complete list via <a href=\"tib-register\">TIB "
@@ -6382,7 +6383,7 @@ msgstr ""
 "TIB-Bände (1-13 und 15) sowie eine vollständige Liste über <a href=\"tib-register"
 "\">TIB-Register</a> abrufen."
 
-#: tib/templates/tib/digtib/digtib.html:47
+#: tib/templates/tib/digtib/digtib.html:33
 msgid ""
 "They allow you to search and compare the toponomastic evidence from all areas of "
 "research of the TIB since 1966. In all lists you may access the pdf files of the "
@@ -6399,7 +6400,7 @@ msgstr ""
 "Akademie der Wissenschaften stehen diese Funktionen nur für die TIB-Bände 1-7, "
 "12 und 13 zur Verfügung."
 
-#: tib/templates/tib/digtib/digtib.html:50
+#: tib/templates/tib/digtib/digtib.html:36
 msgid ""
 "Finally, a \"best practice\" has been created for the slides of the TIB. For the "
 "time being, 7,172 slides of the TIB volumes 5 (\"Cilicia and Isauria\", "
@@ -6415,7 +6416,7 @@ msgstr ""
 "mit den jeweiligen Metadaten in die Open-Source-Software CollectiveAccess "
 "eingebettet. Sie können auf diese Daten zugreifen über"
 
-#: tib/templates/tib/digtib/digtib.html:53
+#: tib/templates/tib/digtib/digtib.html:39
 msgid ""
 "For the time being, you may search and compare these slides and view their "
 "metadata, but not download them for scholarly or private use due to copyright "
@@ -6426,7 +6427,7 @@ msgstr ""
 "Österreichischen Akademie der Wissenschaften nicht für den wissenschaftlichen "
 "oder privaten Gebrauch herunterladen."
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:44
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
@@ -6434,7 +6435,7 @@ msgstr ""
 "Der Skadar-See in Montenegro von der Insel Beška aus gesehen, Republik "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 
-#: tib/templates/tib/digtib/digtib.html:62
+#: tib/templates/tib/digtib/digtib.html:48
 msgid ""
 "The third line of development is state of the art Geocommunication of current "
 "TIB content and results. Therefore, the TIB Balkans (Mihailo St. Popović) is "
@@ -6446,11 +6447,11 @@ msgstr ""
 "Balkan (Mihailo St. Popović) seit 2019 den Online-Atlas \"Maps of Power: "
 "Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium\"."
 
-#: tib/templates/tib/digtib/digtib.html:65
+#: tib/templates/tib/digtib/digtib.html:51
 msgid "You may freely access this online atlas (web application) via"
 msgstr "Sie haben freien Zugang zu diesem Online-Atlas (Webanwendung) über"
 
-#: tib/templates/tib/digtib/digtib.html:69
+#: tib/templates/tib/digtib/digtib.html:55
 msgid ""
 "Scholarly results as well as digital photographs of the TIB Balkans, i.e. from "
 "the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) and 17 "
@@ -6466,21 +6467,21 @@ msgstr ""
 "wissenschaftlicher Mitarbeiter werden regelmäßig in englischer Sprache in eine "
 "TIB Balkans OpenAtlas Database eingebettet."
 
-#: tib/templates/tib/digtib/digtib.html:72
+#: tib/templates/tib/digtib/digtib.html:58
 msgid ""
 "You may freely query the data embedded in the TIB Balkans OpenAtlas Database via"
 msgstr ""
 "Sie können die in der TIB Balkans OpenAtlas-Datenbank enthaltenen Daten frei "
 "abfragen über"
 
-#: tib/templates/tib/digtib/digtib.html:75
+#: tib/templates/tib/digtib/digtib.html:61
 msgid ""
 "All three main lines of development are intertwined and form a holistic approach."
 msgstr ""
 "Alle drei Hauptentwicklungslinien sind miteinander verflochten und bilden einen "
 "holistischen Ansatz."
 
-#: tib/templates/tib/digtib/digtib.html:78
+#: tib/templates/tib/digtib/digtib.html:64
 msgid ""
 "If you would like to read more about all three lines of development, please cf. "
 "the following two articles"
@@ -6488,7 +6489,7 @@ msgstr ""
 "Wenn Sie mehr über alle drei Entwicklungslinien erfahren möchten, lesen Sie "
 "bitte die folgenden beiden Artikel"
 
-#: tib/templates/tib/digtib/digtib.html:104
+#: tib/templates/tib/digtib/digtib.html:90
 msgid "Contact"
 msgstr "Kontakt"
 
@@ -7187,3 +7188,6 @@ msgstr "Ehemalige Mitarbeiter"
 
 #~ msgid "Show less..."
 #~ msgstr "Weniger anzeigen..."
+
+#~ msgid "Browse project database"
+#~ msgstr "Projektdatenbank durchsuchen"

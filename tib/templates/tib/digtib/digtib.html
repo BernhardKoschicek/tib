@@ -12,7 +12,21 @@
   <p class="lead text-center py-2 px-2">
     {{ _(' The initiatives in the field of Digital Humanities at the Austrian Academy of Sciences and also the related developments in Byzantine Studies in the last couple of years have encouraged the TIB to step up its efforts to provide a platform for the adequate presentation and sustainable usage of its data, which was and is published in respective TIB volumes.')}}
   </p>
-
+  <div class="row top7">
+    {% for item in bar %}
+    <div class="col-3 text-center">
+      <a href="{{ item.link }}" class="text-decoration-none"
+         data-bs-toggle="tooltip" title="{{ item.tooltip }}">
+        <p class="lead">
+          <i class="bi {{ item.icon }} display-4"></i>
+        </p>
+        <h4>
+          {{ item.title }}
+        </h4>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
 </div>
 <div class="container top7">
   <p>

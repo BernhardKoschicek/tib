@@ -9,20 +9,19 @@
     </p>
 
   </div>
-  <div class="row justify-content-center text-center top5">
-    <div class="col-3">
-      <a href="{{ url_for("balkan_digital", category='3dobjects') }}"
-         class="text-decoration-none">
-        <i class="bi bi-badge-3d-fill" style="font-size: 5rem"></i><br>
-        <h3>{{ _('View 3D Objects') }}</h3>
+  <div class="row top7 justify-content-center">
+    {% for item in bar %}
+    <div class="col-3 text-center">
+      <a href="{{ item.link }}" class="text-decoration-none"
+         data-bs-toggle="tooltip" title="{{ item.tooltip }}">
+        <p class="lead">
+          <i class="bi {{ item.icon }} display-4"></i>
+        </p>
+        <h4>
+          {{ item.title }}
+        </h4>
       </a>
     </div>
-    <div class="col-3">
-      <a href="{{ url_for("balkan_digital", category='explore') }}"
-         class="text-decoration-none">
-        <i class="bi bi-search" style="font-size: 5rem"></i><br>
-        <h3>{{ _('Browse project database') }}</h3>
-      </a>
-    </div>
+    {% endfor %}
   </div>
 </div>

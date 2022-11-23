@@ -10,7 +10,7 @@ from tib.data.images.hist_geo import balkan_hist_geo
 from tib.data.images.long_term import tib_balkan_long_term
 from tib.data.images.util import IMAGES_SUB, IMAGES_TIB
 from tib.data.images.outreach import gallery_outreach, icons_outreach
-from tib.data.navigation import balkan_jumbotron
+from tib.data.navigation import balkan_jumbotron, balkan_digital_submenu_items
 from tib.data.openatlas.oa_access import view_classes
 from tib.data.presentations import presentations
 from tib.data.project_publications import project_publications
@@ -33,7 +33,8 @@ def home() -> str:
         team=tib_team_data,
         outreach=outreach,
         images=gallery_outreach,
-        outreach_icons=icons_outreach)
+        outreach_icons=icons_outreach,
+        bar=balkan_digital_submenu_items)
 
 
 @app.route('/balkan/team')
@@ -105,12 +106,14 @@ def balkan_digital(category: str = None) -> str:
             f'balkan/digital/{category}.html',
             objects3d=objects3d,
             subprojects_dict=subprojects,
-            view_classes=view_classes)
+            view_classes=view_classes,
+            bar=balkan_digital_submenu_items)
     return render_template(
         'balkan/digital/digital.html',
         objects3d=objects3d,
         subprojects_dict=subprojects,
-        view_classes=view_classes)
+        view_classes=view_classes,
+        bar=balkan_digital_submenu_items)
 
 
 @app.route('/balkan/long-term-project')

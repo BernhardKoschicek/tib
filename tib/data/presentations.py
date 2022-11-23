@@ -214,7 +214,7 @@ presentations = [{
     "conference": "Académie des Inscriptions et Belles-Lettres",
     "location": "Paris",
     "date": get_table_dates_formatted(2021, 5, 28),
-    "external_link": 'https://www.aibl.fr/seances-et-manifestations/les-seances-du-vendredi/seances-2021/mai-2021/article/seance-du-28-mai-2021?lang=fr',
+    "external_link": 'https://aibl.fr/seances/seance-du-28-mai-2021/',
     "download": '',
     "category": ["borderzones"]
 }, {

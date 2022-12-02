@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-17 12:10+0100\n"
+"POT-Creation-Date: 2022-12-02 14:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,131 +17,211 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: tib/data/navigation.py:6
-msgid "history"
+#: tib/data/digital.py:5
+msgid ""
+"The following objects were created within the project <a "
+"href=\"../subprojekte/montenegro\">\"Cultural heritage in the period of "
+"the First World War: the case of the Austro-Hungarian relief map of "
+"Montenegro (1916-1918)\"</a>."
+msgstr ""
+
+#: tib/data/digital.py:11
+msgid ""
+"The Austro-Hungarian Relief Map of Montenegro (1917/18, M. Hernández "
+"Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:16
+msgid "Icon of the Holy Mother"
+msgstr ""
+
+#: tib/data/digital.py:18
+msgid ""
+"Icon of the Holy Mother of God (20th Century, Metropolis of Austria and "
+"M. Hernández Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:23
+msgid "Orthodox Bishop's Mitra"
+msgstr ""
+
+#: tib/data/digital.py:25
+msgid ""
+"Orthodox Bishop's Mitra (20th Century, Metropolis of Austria and M. "
+"Hernández Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:30
+msgid ""
+"The following objects were created within the project <a "
+"href=\"../subprojekte/holdura\">\"Beyond East and West: Geocommunicating "
+"the Sacred Landscapes of “Duklja” and “Raška” through Space and Time "
+"(11th-14th Cent.)\"</a>."
+msgstr ""
+
+#: tib/data/digital.py:34
+msgid "Church of St. John"
+msgstr ""
+
+#: tib/data/digital.py:36
+msgid ""
+"The Church of St. John the Baptist in Zaton, Montenegro (9th/10th Cent., "
+"Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:41
+msgid "Monastery of the Most Pure Mother of God"
+msgstr ""
+
+#: tib/data/digital.py:43
+msgid ""
+"The Monastery of the Most Pure Mother of God of Krajina, Montenegro "
+"(10th/11th Cent., Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:48
+msgid "Monastery of Morača"
+msgstr ""
+
+#: tib/data/digital.py:50
+msgid "The Monastery of Morača, Montenegro (13th Cent., Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:55
+msgid "Monastery of Bogorodica Ratačka"
+msgstr ""
+
+#: tib/data/digital.py:57
+msgid ""
+"The Monastery of Bogorodica Ratačka, Church C, Montenegro (11th Cent., "
+"Lukas Neugebauer, 2022)"
 msgstr ""
 
 #: tib/data/navigation.py:7
-msgid "current_status"
+msgid "history"
 msgstr ""
 
 #: tib/data/navigation.py:8
-msgid "sub_projects"
+msgid "current_status"
 msgstr ""
 
 #: tib/data/navigation.py:9
+msgid "sub_projects"
+msgstr ""
+
+#: tib/data/navigation.py:10
 msgid "publications"
 msgstr ""
 
-#: tib/data/navigation.py:10 tib/data/navigation.py:36
+#: tib/data/navigation.py:11 tib/data/navigation.py:37
 msgid "digtib"
 msgstr ""
 
-#: tib/data/navigation.py:11
+#: tib/data/navigation.py:12
 msgid "aieb"
 msgstr ""
 
-#: tib/data/navigation.py:12
+#: tib/data/navigation.py:13
 msgid "team"
 msgstr ""
 
-#: tib/data/navigation.py:25
+#: tib/data/navigation.py:26
 msgid "balkan_tib"
 msgstr ""
 
-#: tib/data/navigation.py:26
+#: tib/data/navigation.py:27
 msgid "balkan_long_term"
 msgstr ""
 
-#: tib/data/navigation.py:27
+#: tib/data/navigation.py:28
 msgid "balkan_historical_geographie"
 msgstr ""
 
-#: tib/data/navigation.py:28
+#: tib/data/navigation.py:29
 msgid "balkan_outreach"
 msgstr ""
 
-#: tib/data/navigation.py:29
+#: tib/data/navigation.py:30
 msgid "balkan_team"
 msgstr ""
 
-#: tib/data/navigation.py:30
+#: tib/data/navigation.py:31
 msgid "balkan_volumes"
 msgstr ""
 
-#: tib/data/navigation.py:31
+#: tib/data/navigation.py:32
 msgid "balkan_subprojects"
 msgstr ""
 
-#: tib/data/navigation.py:32
+#: tib/data/navigation.py:33
 msgid "balkan_digital"
 msgstr ""
 
-#: tib/data/navigation.py:33 tib/templates/balkan/digital/3dobjects.html:2
+#: tib/data/navigation.py:34 tib/templates/balkan/digital/3dobjects.html:2
 #: tib/templates/balkan/digital/3dobjects.html:6
 msgid "3dobjects"
 msgstr ""
 
-#: tib/data/navigation.py:34
+#: tib/data/navigation.py:35
 msgid "explore"
 msgstr ""
 
-#: tib/data/navigation.py:35
+#: tib/data/navigation.py:36
 msgid "holdura"
 msgstr ""
 
-#: tib/data/navigation.py:37
+#: tib/data/navigation.py:38
 msgid "borderzones"
 msgstr ""
 
-#: tib/data/navigation.py:38
+#: tib/data/navigation.py:39
 msgid "montenegro"
 msgstr ""
 
-#: tib/data/navigation.py:56
+#: tib/data/navigation.py:57
 msgid "toponym_register"
 msgstr ""
 
-#: tib/data/navigation.py:60
+#: tib/data/navigation.py:61
 msgid ""
 "A complete list of geographic registers of the published TIB volumes 1-13"
 " and 15"
 msgstr ""
 
-#: tib/data/navigation.py:63
+#: tib/data/navigation.py:64
 msgid "image_collection"
 msgstr ""
 
-#: tib/data/navigation.py:67
+#: tib/data/navigation.py:68
 msgid ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
 " with metadata"
 msgstr ""
 
-#: tib/data/navigation.py:70 tib/data/navigation.py:87
+#: tib/data/navigation.py:71 tib/data/navigation.py:88
 #: tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
 msgstr ""
 
-#: tib/data/navigation.py:74 tib/data/navigation.py:91
+#: tib/data/navigation.py:75 tib/data/navigation.py:92
 msgid ""
 "Graphical map application to access, browse and query data from TIB "
 "Balkans"
 msgstr ""
 
-#: tib/data/navigation.py:78 tib/data/navigation.py:95
+#: tib/data/navigation.py:79 tib/data/navigation.py:96
 msgid "browse_tib_balkans_data"
 msgstr ""
 
-#: tib/data/navigation.py:82 tib/data/navigation.py:99
+#: tib/data/navigation.py:83 tib/data/navigation.py:100
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr ""
 
-#: tib/data/navigation.py:102
+#: tib/data/navigation.py:103
 msgid "View 3D Objects"
 msgstr ""
 
-#: tib/data/navigation.py:106
+#: tib/data/navigation.py:107
 msgid "Examine different 3D objects"
 msgstr ""
 
@@ -3625,14 +3705,6 @@ msgstr ""
 msgid "Read more"
 msgstr ""
 
-#: tib/templates/balkan/digital/3dobjects.html:9
-msgid ""
-"The following objects were created within the project <a "
-"href=\"balkan/subprojekte/montenegro\">\"Cultural heritage in the period "
-"of the First World War: the case of the Austro-Hungarian relief map of "
-"Montenegro (1916-1918)\"</a>."
-msgstr ""
-
 #: tib/templates/balkan/digital/digital_intro.html:4
 msgid "in the digital era"
 msgstr ""
@@ -4264,13 +4336,13 @@ msgid ""
 "TIB volumes."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:19
+#: tib/templates/tib/digtib/digtib.html:33
 msgid ""
 "As a Long-Term Project of the Austrian Academy of Sciences the TIB is "
 "pursuing <b>three main lines of development</b>"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:22
+#: tib/templates/tib/digtib/digtib.html:36
 msgid ""
 "The <b>first line of development</b> comprises the ongoing scholarly work"
 " and resulting printed publications, i.e. the TIB volumes with their maps"
@@ -4279,7 +4351,7 @@ msgid ""
 "href=\"current_status\">current status</a> of the TIB volumes in detail."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:24
+#: tib/templates/tib/digtib/digtib.html:38
 msgid ""
 "The <b>second line of development</b> is constituted by the scholarly, "
 "archival and digital (re)processing of published and unpublished data of "
@@ -4293,7 +4365,7 @@ msgid ""
 "1-13 and 15."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:27
+#: tib/templates/tib/digtib/digtib.html:41
 msgid ""
 "Since 2016 we are pursuing the aim to apply \"regressive engineering\" to"
 " these data sets through third-party funded projects. In this way we are,"
@@ -4303,14 +4375,14 @@ msgid ""
 "public and to preserve them for future generations."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:30
+#: tib/templates/tib/digtib/digtib.html:44
 msgid ""
 "You may access the lists of the geographic registers of each published "
 "TIB volume (1-13 and 15) and a complete list via <a href=\"tib-"
 "register\">TIB register</a>."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:33
+#: tib/templates/tib/digtib/digtib.html:47
 msgid ""
 "They allow you to search and compare the toponomastic evidence from all "
 "areas of research of the TIB since 1966. In all lists you may access the "
@@ -4320,7 +4392,7 @@ msgid ""
 " are available for the TIB volumes 1-7, 12 and 13."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:36
+#: tib/templates/tib/digtib/digtib.html:50
 msgid ""
 "Finally, a \"best practice\" has been created for the slides of the TIB. "
 "For the time being, 7,172 slides of the TIB volumes 5 (\"Cilicia and "
@@ -4331,20 +4403,20 @@ msgid ""
 "CollectiveAccess. You may access this data via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:39
+#: tib/templates/tib/digtib/digtib.html:53
 msgid ""
 "For the time being, you may search and compare these slides and view "
 "their metadata, but not download them for scholarly or private use due to"
 " copyright regulations of the Austrian Academy of Sciences."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:44
+#: tib/templates/tib/digtib/digtib.html:58
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of"
 " Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:48
+#: tib/templates/tib/digtib/digtib.html:62
 msgid ""
 "The third line of development is state of the art Geocommunication of "
 "current TIB content and results. Therefore, the TIB Balkans (Mihailo St. "
@@ -4353,11 +4425,11 @@ msgid ""
 " Byzantium\" since 2019"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:51
+#: tib/templates/tib/digtib/digtib.html:65
 msgid "You may freely access this online atlas (web application) via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:55
+#: tib/templates/tib/digtib/digtib.html:69
 msgid ""
 "Scholarly results as well as digital photographs of the TIB Balkans, i.e."
 " from the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. "
@@ -4367,25 +4439,25 @@ msgid ""
 "embedded in English into a TIB Balkans OpenAtlas Database."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:72
 msgid ""
 "You may freely query the data embedded in the TIB Balkans OpenAtlas "
 "Database via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:61
+#: tib/templates/tib/digtib/digtib.html:75
 msgid ""
 "All three main lines of development are intertwined and form a holistic "
 "approach."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:64
+#: tib/templates/tib/digtib/digtib.html:78
 msgid ""
 "If you would like to read more about all three lines of development, "
 "please cf. the following two articles"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:90
+#: tib/templates/tib/digtib/digtib.html:104
 msgid "Contact"
 msgstr ""
 

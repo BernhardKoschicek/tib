@@ -1,21 +1,21 @@
 # Translations template for PROJECT.
-# Copyright (C) 2022 ORGANIZATION
+# Copyright (C) 2023 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-17 12:10+0100\n"
+"POT-Creation-Date: 2023-01-03 15:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: tib/data/navigation.py:6
 msgid "history"
@@ -166,46 +166,59 @@ msgid "blogpost"
 msgstr ""
 
 #: tib/data/outreach.py:40
-msgid "Promotion Event for TIB 11"
+msgid "Presentation in Barcelona"
 msgstr ""
 
 #: tib/data/outreach.py:42
+msgid ""
+"Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality "
+"and Mirage in the Eastern Mediterranean. The Long Term Project Tabula "
+"Imperii Byzantini and its Reconstruction Work of Late Antique and "
+"Medieval  Settlements\" at the conference “Les ciutats mediterrànies. "
+"Realitat i miratge” in Barcelona, Spain, on 15 December 2022."
+msgstr ""
+
+#: tib/data/outreach.py:58
+msgid "Promotion Event for TIB 11"
+msgstr ""
+
+#: tib/data/outreach.py:60
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" "
 "(TIB 11) will be officially promoted at the Department of Byzantine "
 "Research of the Institute for Medieval Research (IMAFO)."
 msgstr ""
 
-#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr ""
 
-#: tib/data/outreach.py:47
+#: tib/data/outreach.py:65
 msgid "Begin"
 msgstr ""
 
-#: tib/data/outreach.py:48
+#: tib/data/outreach.py:66
 msgid "Venue"
 msgstr ""
 
-#: tib/data/outreach.py:49
+#: tib/data/outreach.py:67
 msgid "1st Floor"
 msgstr ""
 
-#: tib/data/outreach.py:49 tib/templates/footer.html:25
+#: tib/data/outreach.py:67 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:50
+#: tib/data/outreach.py:68
 msgid "Registration"
 msgstr ""
 
-#: tib/data/outreach.py:63
+#: tib/data/outreach.py:81
 msgid "Presentation in Leipzig"
 msgstr ""
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:83
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in "
 "Leipzig, which is entitled “Die historische Geographie von Byzanz neu "
@@ -216,83 +229,83 @@ msgid ""
 "(HOLDURA)”</a>"
 msgstr ""
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:95
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr ""
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:99
 msgid "aieb_roundtable"
 msgstr ""
 
-#: tib/data/outreach.py:82
+#: tib/data/outreach.py:100
 msgid "For further information and the programme please cf."
 msgstr ""
 
-#: tib/data/outreach.py:92
+#: tib/data/outreach.py:110
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr ""
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:113
 msgid "hypotheses_post"
 msgstr ""
 
-#: tib/data/outreach.py:104
+#: tib/data/outreach.py:122
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr ""
 
-#: tib/data/outreach.py:106
+#: tib/data/outreach.py:124
 msgid "tib_11_release"
 msgstr ""
 
-#: tib/data/outreach.py:107
+#: tib/data/outreach.py:125
 msgid "Cf. in detail:"
 msgstr ""
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:139
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr ""
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:142
 msgid "imc2022"
 msgstr ""
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:143
 msgid "Cf. in detail"
 msgstr ""
 
-#: tib/data/outreach.py:134
+#: tib/data/outreach.py:152
 msgid "presentation at university of cologne, germany"
 msgstr ""
 
-#: tib/data/outreach.py:136
+#: tib/data/outreach.py:154
 msgid "seminar_koeln"
 msgstr ""
 
-#: tib/data/outreach.py:145
+#: tib/data/outreach.py:163
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:147
+#: tib/data/outreach.py:165
 msgid "lange_nacht_22_text"
 msgstr ""
 
-#: tib/data/outreach.py:156
+#: tib/data/outreach.py:174
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: "
 "Agency, Networks and Transregional Contexts\""
 msgstr ""
 
-#: tib/data/outreach.py:159
+#: tib/data/outreach.py:177
 msgid "global_eurasia_5_12_22"
 msgstr ""
 
-#: tib/data/outreach.py:167
+#: tib/data/outreach.py:185
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical "
 "Geography of Byzantium"
 msgstr ""
 
-#: tib/data/outreach.py:170
+#: tib/data/outreach.py:188
 msgid "seminar_series_april"
 msgstr ""
 
@@ -4264,13 +4277,13 @@ msgid ""
 "TIB volumes."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:19
+#: tib/templates/tib/digtib/digtib.html:33
 msgid ""
 "As a Long-Term Project of the Austrian Academy of Sciences the TIB is "
 "pursuing <b>three main lines of development</b>"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:22
+#: tib/templates/tib/digtib/digtib.html:36
 msgid ""
 "The <b>first line of development</b> comprises the ongoing scholarly work"
 " and resulting printed publications, i.e. the TIB volumes with their maps"
@@ -4279,7 +4292,7 @@ msgid ""
 "href=\"current_status\">current status</a> of the TIB volumes in detail."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:24
+#: tib/templates/tib/digtib/digtib.html:38
 msgid ""
 "The <b>second line of development</b> is constituted by the scholarly, "
 "archival and digital (re)processing of published and unpublished data of "
@@ -4293,7 +4306,7 @@ msgid ""
 "1-13 and 15."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:27
+#: tib/templates/tib/digtib/digtib.html:41
 msgid ""
 "Since 2016 we are pursuing the aim to apply \"regressive engineering\" to"
 " these data sets through third-party funded projects. In this way we are,"
@@ -4303,14 +4316,14 @@ msgid ""
 "public and to preserve them for future generations."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:30
+#: tib/templates/tib/digtib/digtib.html:44
 msgid ""
 "You may access the lists of the geographic registers of each published "
 "TIB volume (1-13 and 15) and a complete list via <a href=\"tib-"
 "register\">TIB register</a>."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:33
+#: tib/templates/tib/digtib/digtib.html:47
 msgid ""
 "They allow you to search and compare the toponomastic evidence from all "
 "areas of research of the TIB since 1966. In all lists you may access the "
@@ -4320,7 +4333,7 @@ msgid ""
 " are available for the TIB volumes 1-7, 12 and 13."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:36
+#: tib/templates/tib/digtib/digtib.html:50
 msgid ""
 "Finally, a \"best practice\" has been created for the slides of the TIB. "
 "For the time being, 7,172 slides of the TIB volumes 5 (\"Cilicia and "
@@ -4331,20 +4344,20 @@ msgid ""
 "CollectiveAccess. You may access this data via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:39
+#: tib/templates/tib/digtib/digtib.html:53
 msgid ""
 "For the time being, you may search and compare these slides and view "
 "their metadata, but not download them for scholarly or private use due to"
 " copyright regulations of the Austrian Academy of Sciences."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:44
+#: tib/templates/tib/digtib/digtib.html:58
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of"
 " Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:48
+#: tib/templates/tib/digtib/digtib.html:62
 msgid ""
 "The third line of development is state of the art Geocommunication of "
 "current TIB content and results. Therefore, the TIB Balkans (Mihailo St. "
@@ -4353,11 +4366,11 @@ msgid ""
 " Byzantium\" since 2019"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:51
+#: tib/templates/tib/digtib/digtib.html:65
 msgid "You may freely access this online atlas (web application) via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:55
+#: tib/templates/tib/digtib/digtib.html:69
 msgid ""
 "Scholarly results as well as digital photographs of the TIB Balkans, i.e."
 " from the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. "
@@ -4367,25 +4380,25 @@ msgid ""
 "embedded in English into a TIB Balkans OpenAtlas Database."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:72
 msgid ""
 "You may freely query the data embedded in the TIB Balkans OpenAtlas "
 "Database via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:61
+#: tib/templates/tib/digtib/digtib.html:75
 msgid ""
 "All three main lines of development are intertwined and form a holistic "
 "approach."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:64
+#: tib/templates/tib/digtib/digtib.html:78
 msgid ""
 "If you would like to read more about all three lines of development, "
 "please cf. the following two articles"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:90
+#: tib/templates/tib/digtib/digtib.html:104
 msgid "Contact"
 msgstr ""
 

@@ -33,6 +33,24 @@ types = {
 }
 
 outreach = [{
+    'id': 'les_ciutats_mediterranies',
+    'type': types['presentation'],
+    'date': f"{get_dates_formatted(2022, 12, 15)}",
+    'who': [team['akulzer'], team['mpopovic']],
+    'title': _l('Presentation in Barcelona'),
+    'description': [
+        _l('Andreas Külzer and Mihailo Popović gave a joint paper entitled '
+           '"Reality and Mirage in the Eastern Mediterranean. The Long Term '
+           'Project Tabula Imperii Byzantini and its Reconstruction Work of '
+           'Late Antique and Medieval  Settlements" at the conference “Les '
+           'ciutats mediterrànies. Realitat i miratge” in Barcelona, Spain, '
+           'on 15 December 2022.')
+    ],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}Prog_Ciutats_Mediterranies_2022.pdf',
+        'type': 'pdf'}]
+},{
     'id': 'tib11_promotion',
     'type': types['award'],
     'date': f"{get_dates_formatted(2022, 11, 14)}",

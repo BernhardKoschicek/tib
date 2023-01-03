@@ -12,7 +12,13 @@
   <div class="row top7 justify-content-center">
     {% for item in bar %}
     <div class="col-3 text-center">
-      <a href="{{ item.link }}" class="text-decoration-none"
+      <a href="
+      {% if item.link_type == 'ext' %}
+         {{item.link}}
+      {% else %}
+         {{ url_for('balkan_digital', category=item.link) }}
+      {% endif %}
+        " class="text-decoration-none"
          data-bs-toggle="tooltip" title="{{ item.tooltip }}">
         <p class="lead">
           <i class="bi {{ item.icon }} display-4"></i>

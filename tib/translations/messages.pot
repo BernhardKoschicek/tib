@@ -1,147 +1,227 @@
 # Translations template for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
+# Copyright (C) 2022 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-03 15:54+0100\n"
+"POT-Creation-Date: 2022-12-02 14:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
-#: tib/data/navigation.py:6
-msgid "history"
+#: tib/data/digital.py:5
+msgid ""
+"The following objects were created within the project <a "
+"href=\"../subprojekte/montenegro\">\"Cultural heritage in the period of "
+"the First World War: the case of the Austro-Hungarian relief map of "
+"Montenegro (1916-1918)\"</a>."
+msgstr ""
+
+#: tib/data/digital.py:11
+msgid ""
+"The Austro-Hungarian Relief Map of Montenegro (1917/18, M. Hernández "
+"Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:16
+msgid "Icon of the Holy Mother"
+msgstr ""
+
+#: tib/data/digital.py:18
+msgid ""
+"Icon of the Holy Mother of God (20th Century, Metropolis of Austria and "
+"M. Hernández Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:23
+msgid "Orthodox Bishop's Mitra"
+msgstr ""
+
+#: tib/data/digital.py:25
+msgid ""
+"Orthodox Bishop's Mitra (20th Century, Metropolis of Austria and M. "
+"Hernández Cordero, 2021)"
+msgstr ""
+
+#: tib/data/digital.py:30
+msgid ""
+"The following objects were created within the project <a "
+"href=\"../subprojekte/holdura\">\"Beyond East and West: Geocommunicating "
+"the Sacred Landscapes of “Duklja” and “Raška” through Space and Time "
+"(11th-14th Cent.)\"</a>."
+msgstr ""
+
+#: tib/data/digital.py:34
+msgid "Church of St. John"
+msgstr ""
+
+#: tib/data/digital.py:36
+msgid ""
+"The Church of St. John the Baptist in Zaton, Montenegro (9th/10th Cent., "
+"Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:41
+msgid "Monastery of the Most Pure Mother of God"
+msgstr ""
+
+#: tib/data/digital.py:43
+msgid ""
+"The Monastery of the Most Pure Mother of God of Krajina, Montenegro "
+"(10th/11th Cent., Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:48
+msgid "Monastery of Morača"
+msgstr ""
+
+#: tib/data/digital.py:50
+msgid "The Monastery of Morača, Montenegro (13th Cent., Lukas Neugebauer, 2022)"
+msgstr ""
+
+#: tib/data/digital.py:55
+msgid "Monastery of Bogorodica Ratačka"
+msgstr ""
+
+#: tib/data/digital.py:57
+msgid ""
+"The Monastery of Bogorodica Ratačka, Church C, Montenegro (11th Cent., "
+"Lukas Neugebauer, 2022)"
 msgstr ""
 
 #: tib/data/navigation.py:7
-msgid "current_status"
+msgid "history"
 msgstr ""
 
 #: tib/data/navigation.py:8
-msgid "sub_projects"
+msgid "current_status"
 msgstr ""
 
 #: tib/data/navigation.py:9
+msgid "sub_projects"
+msgstr ""
+
+#: tib/data/navigation.py:10
 msgid "publications"
 msgstr ""
 
-#: tib/data/navigation.py:10 tib/data/navigation.py:36
+#: tib/data/navigation.py:11 tib/data/navigation.py:37
 msgid "digtib"
 msgstr ""
 
-#: tib/data/navigation.py:11
+#: tib/data/navigation.py:12
 msgid "aieb"
 msgstr ""
 
-#: tib/data/navigation.py:12
+#: tib/data/navigation.py:13
 msgid "team"
 msgstr ""
 
-#: tib/data/navigation.py:25
+#: tib/data/navigation.py:26
 msgid "balkan_tib"
 msgstr ""
 
-#: tib/data/navigation.py:26
+#: tib/data/navigation.py:27
 msgid "balkan_long_term"
 msgstr ""
 
-#: tib/data/navigation.py:27
+#: tib/data/navigation.py:28
 msgid "balkan_historical_geographie"
 msgstr ""
 
-#: tib/data/navigation.py:28
+#: tib/data/navigation.py:29
 msgid "balkan_outreach"
 msgstr ""
 
-#: tib/data/navigation.py:29
+#: tib/data/navigation.py:30
 msgid "balkan_team"
 msgstr ""
 
-#: tib/data/navigation.py:30
+#: tib/data/navigation.py:31
 msgid "balkan_volumes"
 msgstr ""
 
-#: tib/data/navigation.py:31
+#: tib/data/navigation.py:32
 msgid "balkan_subprojects"
 msgstr ""
 
-#: tib/data/navigation.py:32
+#: tib/data/navigation.py:33
 msgid "balkan_digital"
 msgstr ""
 
-#: tib/data/navigation.py:33 tib/templates/balkan/digital/3dobjects.html:2
+#: tib/data/navigation.py:34 tib/templates/balkan/digital/3dobjects.html:2
 #: tib/templates/balkan/digital/3dobjects.html:6
 msgid "3dobjects"
 msgstr ""
 
-#: tib/data/navigation.py:34
+#: tib/data/navigation.py:35
 msgid "explore"
 msgstr ""
 
-#: tib/data/navigation.py:35
+#: tib/data/navigation.py:36
 msgid "holdura"
 msgstr ""
 
-#: tib/data/navigation.py:37
+#: tib/data/navigation.py:38
 msgid "borderzones"
 msgstr ""
 
-#: tib/data/navigation.py:38
+#: tib/data/navigation.py:39
 msgid "montenegro"
 msgstr ""
 
-#: tib/data/navigation.py:56
+#: tib/data/navigation.py:57
 msgid "toponym_register"
 msgstr ""
 
-#: tib/data/navigation.py:60
+#: tib/data/navigation.py:61
 msgid ""
 "A complete list of geographic registers of the published TIB volumes 1-13"
 " and 15"
 msgstr ""
 
-#: tib/data/navigation.py:63
+#: tib/data/navigation.py:64
 msgid "image_collection"
 msgstr ""
 
-#: tib/data/navigation.py:67
+#: tib/data/navigation.py:68
 msgid ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
 " with metadata"
 msgstr ""
 
-#: tib/data/navigation.py:70 tib/data/navigation.py:87
+#: tib/data/navigation.py:71 tib/data/navigation.py:88
 #: tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
 msgstr ""
 
-#: tib/data/navigation.py:74 tib/data/navigation.py:91
+#: tib/data/navigation.py:75 tib/data/navigation.py:92
 msgid ""
 "Graphical map application to access, browse and query data from TIB "
 "Balkans"
 msgstr ""
 
-#: tib/data/navigation.py:78 tib/data/navigation.py:95
+#: tib/data/navigation.py:79 tib/data/navigation.py:96
 msgid "browse_tib_balkans_data"
 msgstr ""
 
-#: tib/data/navigation.py:82 tib/data/navigation.py:99
+#: tib/data/navigation.py:83 tib/data/navigation.py:100
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr ""
 
-#: tib/data/navigation.py:102
+#: tib/data/navigation.py:103
 msgid "View 3D Objects"
 msgstr ""
 
-#: tib/data/navigation.py:106
+#: tib/data/navigation.py:107
 msgid "Examine different 3D objects"
 msgstr ""
 
@@ -166,59 +246,46 @@ msgid "blogpost"
 msgstr ""
 
 #: tib/data/outreach.py:40
-msgid "Presentation in Barcelona"
-msgstr ""
-
-#: tib/data/outreach.py:42
-msgid ""
-"Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality "
-"and Mirage in the Eastern Mediterranean. The Long Term Project Tabula "
-"Imperii Byzantini and its Reconstruction Work of Late Antique and "
-"Medieval  Settlements\" at the conference “Les ciutats mediterrànies. "
-"Realitat i miratge” in Barcelona, Spain, on 15 December 2022."
-msgstr ""
-
-#: tib/data/outreach.py:58
 msgid "Promotion Event for TIB 11"
 msgstr ""
 
-#: tib/data/outreach.py:60
+#: tib/data/outreach.py:42
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" "
 "(TIB 11) will be officially promoted at the Department of Byzantine "
 "Research of the Institute for Medieval Research (IMAFO)."
 msgstr ""
 
-#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr ""
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:47
 msgid "Begin"
 msgstr ""
 
-#: tib/data/outreach.py:66
+#: tib/data/outreach.py:48
 msgid "Venue"
 msgstr ""
 
-#: tib/data/outreach.py:67
+#: tib/data/outreach.py:49
 msgid "1st Floor"
 msgstr ""
 
-#: tib/data/outreach.py:67 tib/templates/footer.html:25
+#: tib/data/outreach.py:49 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:68
+#: tib/data/outreach.py:50
 msgid "Registration"
 msgstr ""
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:63
 msgid "Presentation in Leipzig"
 msgstr ""
 
-#: tib/data/outreach.py:83
+#: tib/data/outreach.py:65
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in "
 "Leipzig, which is entitled “Die historische Geographie von Byzanz neu "
@@ -229,83 +296,83 @@ msgid ""
 "(HOLDURA)”</a>"
 msgstr ""
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:77
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr ""
 
-#: tib/data/outreach.py:99
+#: tib/data/outreach.py:81
 msgid "aieb_roundtable"
 msgstr ""
 
-#: tib/data/outreach.py:100
+#: tib/data/outreach.py:82
 msgid "For further information and the programme please cf."
 msgstr ""
 
-#: tib/data/outreach.py:110
+#: tib/data/outreach.py:92
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr ""
 
-#: tib/data/outreach.py:113
+#: tib/data/outreach.py:95
 msgid "hypotheses_post"
 msgstr ""
 
-#: tib/data/outreach.py:122
+#: tib/data/outreach.py:104
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr ""
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:106
 msgid "tib_11_release"
 msgstr ""
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:107
 msgid "Cf. in detail:"
 msgstr ""
 
-#: tib/data/outreach.py:139
+#: tib/data/outreach.py:121
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr ""
 
-#: tib/data/outreach.py:142
+#: tib/data/outreach.py:124
 msgid "imc2022"
 msgstr ""
 
-#: tib/data/outreach.py:143
+#: tib/data/outreach.py:125
 msgid "Cf. in detail"
 msgstr ""
 
-#: tib/data/outreach.py:152
+#: tib/data/outreach.py:134
 msgid "presentation at university of cologne, germany"
 msgstr ""
 
-#: tib/data/outreach.py:154
+#: tib/data/outreach.py:136
 msgid "seminar_koeln"
 msgstr ""
 
-#: tib/data/outreach.py:163
+#: tib/data/outreach.py:145
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr ""
 
-#: tib/data/outreach.py:165
+#: tib/data/outreach.py:147
 msgid "lange_nacht_22_text"
 msgstr ""
 
-#: tib/data/outreach.py:174
+#: tib/data/outreach.py:156
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: "
 "Agency, Networks and Transregional Contexts\""
 msgstr ""
 
-#: tib/data/outreach.py:177
+#: tib/data/outreach.py:159
 msgid "global_eurasia_5_12_22"
 msgstr ""
 
-#: tib/data/outreach.py:185
+#: tib/data/outreach.py:167
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical "
 "Geography of Byzantium"
 msgstr ""
 
-#: tib/data/outreach.py:188
+#: tib/data/outreach.py:170
 msgid "seminar_series_april"
 msgstr ""
 
@@ -3636,14 +3703,6 @@ msgstr ""
 
 #: tib/templates/macros.html:49
 msgid "Read more"
-msgstr ""
-
-#: tib/templates/balkan/digital/3dobjects.html:9
-msgid ""
-"The following objects were created within the project <a "
-"href=\"balkan/subprojekte/montenegro\">\"Cultural heritage in the period "
-"of the First World War: the case of the Austro-Hungarian relief map of "
-"Montenegro (1916-1918)\"</a>."
 msgstr ""
 
 #: tib/templates/balkan/digital/digital_intro.html:4

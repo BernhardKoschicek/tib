@@ -1,24 +1,31 @@
 {% extends "balkan/layout.html" %}
 {% block title %}{{_('3dobjects')}}{% endblock %}
 {% block content %}
-  <div class="container">
+<div class="container">
     <div class="text-center top7">
-      {{ header_balkan(_('3dobjects')) }}
+        {{ header_balkan(_('3dobjects')) }}
     </div>
+    {% for project in objects3d.values() %}
     <p class="text-center">
-      {{_('The following objects were created within the project <a href="balkan/subprojekte/montenegro">"Cultural heritage in the period of the First World War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)"</a>.')}}
-     </p>
+        {{ project['description'] }}
+    </p>
     <div class="row justify-content-md-center">
-      {% for object, values in objects3d.items() %}
+        {% for object, values in project['models'].items() %}
         <div class="col-md-8 col-xl-6 col-xxl-4 px-5 py-5"
              data-aos="zoom-in-up">
-          <h4 class="text-center">{{ values.title }}</h4>
-          <a href="{{ url_for('static', filename=values['path']) }}">
-            <img src="{{ url_for('static', filename=values['icon']) }}"
-                 class="img-fluid top5" alt="{{ object }}Icon">
-          </a>
+            <h4 class="text-center">{{ values.title }}</h4>
+            <a href="{{ url_for('static', filename=values['path']) }}">
+                <img src="{{ url_for('static', filename=values['icon']) }}"
+                     class="img-fluid top5" alt="{{ object }}Icon">
+            </a>
+            <figcaption class="figure-caption">{{ values['icon_description']
+                }}
+            </figcaption>
         </div>
-      {% endfor %}
+        {% endfor %}
     </div>
-  </div>
+    {% endfor %}
+
+
+</div>
 {% endblock %}

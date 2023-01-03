@@ -1,3 +1,4 @@
+from flask import url_for
 from flask_babel import lazy_gettext as _l
 
 from tib.data.subprojects import subprojects
@@ -86,22 +87,22 @@ balkan_digital_submenu_items = [
     {
         'title': _l('map_application'),
         'icon': 'bi-map-fill',
-        'link_type': 'ext',
         'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+        'link_type': 'ext',
         'tooltip': _l('Graphical map application to access, browse and query data from TIB Balkans')
 
     },
     {
         'title': _l('browse_tib_balkans_data'),
         'icon': 'bi-stack',
-        'link': 'balkan/digital/explore',
+        'link': 'explore',
         'link_type': 'int',
         'tooltip': _l('Browse data from TIB Balkans directly from the OpenAtlas database')
     },
     {
         'title': _l('View 3D Objects'),
         'icon': 'bi-badge-3d-fill',
-        'link': 'balkan/digital/3dobjects',
+        'link': '3dobjects',
         'link_type': 'int',
         'tooltip': _l('Examine different 3D objects')
     },

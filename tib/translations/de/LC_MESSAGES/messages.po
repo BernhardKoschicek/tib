@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-02 14:58+0100\n"
-"PO-Revision-Date: 2022-12-02 15:04+0100\n"
+"POT-Creation-Date: 2023-01-03 15:59+0100\n"
+"PO-Revision-Date: 2023-01-03 16:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.2\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -25,9 +25,10 @@ msgid ""
 "montenegro\">\"Cultural heritage in the period of the First World War: the case "
 "of the Austro-Hungarian relief map of Montenegro (1916-1918)\"</a>."
 msgstr ""
-"Folgende Objekte sind im Rahmen des Projekt <a href=\"../subprojekte/montenegro"
-"\">\"Kulturerbe in der Zeit des Ersten Weltkriegs: der Fall der österreichisch-"
-"ungarischen Reliefkarte von Montenegro (1916-1918)\"</a> entstanden."
+"Folgende Objekte sind im Rahmen des Projekt <a href=\"../subprojekte/"
+"montenegro\">\"Kulturerbe in der Zeit des Ersten Weltkriegs: der Fall der "
+"österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)\"</a> "
+"entstanden."
 
 #: tib/data/digital.py:11
 msgid ""
@@ -67,9 +68,10 @@ msgid ""
 "holdura\">\"Beyond East and West: Geocommunicating the Sacred Landscapes of "
 "“Duklja” and “Raška” through Space and Time (11th-14th Cent.)\"</a>."
 msgstr ""
-"Folgende Objekte sind im Rahmen des Projekt <a href=\"../subprojekte/holdura\">"
-"\"Jenseits von Ost und West: Geokommunikation der heiligen Landschaften \"Duklja"
-"\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)\"</a> entstanden."
+"Folgende Objekte sind im Rahmen des Projekt <a href=\"../subprojekte/"
+"holdura\">\"Jenseits von Ost und West: Geokommunikation der heiligen "
+"Landschaften \"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)\"</a> "
+"entstanden."
 
 #: tib/data/digital.py:34
 msgid "Church of St. John"
@@ -267,49 +269,67 @@ msgid "blogpost"
 msgstr "Blog Post"
 
 #: tib/data/outreach.py:40
+msgid "Presentation in Barcelona"
+msgstr "Präsentation in Barcelona"
+
+#: tib/data/outreach.py:42
+msgid ""
+"Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
+"Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
+"Byzantini and its Reconstruction Work of Late Antique and Medieval  "
+"Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
+"in Barcelona, Spain, on 15 December 2022."
+msgstr ""
+"Andreas Külzer und Mihailo Popović haben einen gemeinsamen Vortrag mit dem Titel "
+"„Reality and Mirage in the Eastern Mediterranean. The Long Term Project Tabula "
+"Imperii Byzantini and its Reconstruction Work of Late Antique and Medieval "
+"Settlements“ bei der Konferenz „Les ciutats mediterrànies. Realitat i miratge“ "
+"in Barcelona, Spanien, am 15. Dezember 2022 gehalten."
+
+#: tib/data/outreach.py:58
 msgid "Promotion Event for TIB 11"
 msgstr "Buchpräsentation TIB 11"
 
-#: tib/data/outreach.py:42
+#: tib/data/outreach.py:60
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 msgstr ""
-"Am Montag, den 14. November 2022, wird der TIB-Band \"Makedonien, südlicher Teil"
-"\" (TIB 11) in der Abteilung für Byzantinische Forschung des Instituts für "
+"Am Montag, den 14. November 2022, wird der TIB-Band \"Makedonien, südlicher "
+"Teil\" (TIB 11) in der Abteilung für Byzantinische Forschung des Instituts für "
 "Mittelalterforschung (IMAFO) offiziell vorgestellt."
 
-#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr "Datum"
 
-#: tib/data/outreach.py:47
+#: tib/data/outreach.py:65
 msgid "Begin"
 msgstr "Beginn"
 
-#: tib/data/outreach.py:48
+#: tib/data/outreach.py:66
 msgid "Venue"
 msgstr "Veranstalturnsort"
 
-#: tib/data/outreach.py:49
+#: tib/data/outreach.py:67
 msgid "1st Floor"
 msgstr "1er Stock"
 
-#: tib/data/outreach.py:49 tib/templates/footer.html:25
+#: tib/data/outreach.py:67 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Wien"
 
-#: tib/data/outreach.py:50
+#: tib/data/outreach.py:68
 msgid "Registration"
 msgstr "Anmeldung"
 
-#: tib/data/outreach.py:63
+#: tib/data/outreach.py:81
 msgid "Presentation in Leipzig"
 msgstr "Präsentation in Leipzig"
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:83
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -322,14 +342,14 @@ msgstr ""
 "Vortrag halten, der den Titel “Die historische Geographie von Byzanz neu gedacht "
 "– Über den Wert der digitalen Kartographie und Geokommunikation in der "
 "Vermittlung historischer Inhalte am Beispiel des Projektes ‚Jenseits von Ost und "
-"West‘” trägt und auf wissenschaftlichen Ergebnissen aus dem Projekt <a href="
-"\"subprojects/holdura\">\"Beyond East and West (HOLDURA)\"</a> basiert."
+"West‘” trägt und auf wissenschaftlichen Ergebnissen aus dem Projekt <a "
+"href=\"subprojects/holdura\">\"Beyond East and West (HOLDURA)\"</a> basiert."
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:95
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24er Internationaler Kongress für Byzantinistik in Venedig und Padua"
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:99
 msgid "aieb_roundtable"
 msgstr ""
 "Die \"Kommission für die Historische Geographie und Raumanalyse von Byzanz\" der "
@@ -343,15 +363,15 @@ msgstr ""
 "The Impact of Contemporary Environmental and Demographic Change on the Research "
 "of the Historical Geography of Byzantium\" in Padua halten."
 
-#: tib/data/outreach.py:82
+#: tib/data/outreach.py:100
 msgid "For further information and the programme please cf."
 msgstr "Weitere Informationen und das Programm finden Sie hier"
 
-#: tib/data/outreach.py:92
+#: tib/data/outreach.py:110
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost zum Paper \"OpenAtlas und historische Geographie\""
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:113
 msgid "hypotheses_post"
 msgstr ""
 "Das Paper \"OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -359,41 +379,41 @@ msgstr ""
 "St. Popović wird in einem Blogpost von einem Studenten der Universität zu Köln "
 "vorgestellt und kommentiert:"
 
-#: tib/data/outreach.py:104
+#: tib/data/outreach.py:122
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB Band 11, Mazedonien, Südlicher Teil veröffentlicht"
 
-#: tib/data/outreach.py:106
+#: tib/data/outreach.py:124
 msgid "tib_11_release"
 msgstr ""
 "Mit großer Freude dürfen wir die Veröffentlichung des TIB-Bandes 11 "
 "(\"Mazedonien, südlicher Teil\") ankündigen, der von Peter Soustal (mit Andreas "
 "Pülz und Mihailo St. Popović als Co-Autoren) geschrieben wurde."
 
-#: tib/data/outreach.py:107
+#: tib/data/outreach.py:125
 msgid "Cf. in detail:"
 msgstr "Sehen Sie im Detail:"
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:139
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Vortrag auf dem Internationalen Mittelalterkongress (IMC) in Leeds"
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:142
 msgid "imc2022"
 msgstr ""
 "Während des Internationalen Mittelalterkongresses (IMC) in Leeds vom 4. bis 7. "
 "Juli 2022 hat das Team der TIB Balkan am Mittwoch, den 6. Juli, seine "
 "Forschungen in den Sitzungen Nr. 1034, 1134, 1234 und 1334 vorstellen."
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:143
 msgid "Cf. in detail"
 msgstr "Sehen sie im Detail"
 
-#: tib/data/outreach.py:134
+#: tib/data/outreach.py:152
 msgid "presentation at university of cologne, germany"
 msgstr "Präsentation an der Universität Köln, Deutschland"
 
-#: tib/data/outreach.py:136
+#: tib/data/outreach.py:154
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz und Mihailo St. Popović präsentieren einen Vortrag "
@@ -402,11 +422,11 @@ msgstr ""
 "einem <a href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities "
 "Kolloquium</a>."
 
-#: tib/data/outreach.py:145
+#: tib/data/outreach.py:163
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB bei der \"Langen Nacht der Forschung\" in Wien"
 
-#: tib/data/outreach.py:147
+#: tib/data/outreach.py:165
 msgid "lange_nacht_22_text"
 msgstr ""
 "Im Mai 2022 war die Österreichische Akademie der Wissenschaften "
@@ -421,7 +441,7 @@ msgstr ""
 "holdura\">Jenseits von Ost und West: Geokommunikation der heiligen Landschaften "
 "\"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)</a>. basiert."
 
-#: tib/data/outreach.py:156
+#: tib/data/outreach.py:174
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -429,7 +449,7 @@ msgstr ""
 "Presentation bei \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
 
-#: tib/data/outreach.py:159
+#: tib/data/outreach.py:177
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović hat auf der Konferenz <a href=\"https://www.oeaw.ac.at/en/global-"
@@ -438,7 +458,7 @@ msgstr ""
 "Agency, Networks and Transregional Contexts\"</a> am IMAFO (ÖAW) einen Vortrag "
 "über die TIB gehalten."
 
-#: tib/data/outreach.py:167
+#: tib/data/outreach.py:185
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -446,7 +466,7 @@ msgstr ""
 "Über den Nutzen und die Nützlichkeit der digitalen Geisteswissenschaften in der "
 "historischen Geographie von Byzanz"
 
-#: tib/data/outreach.py:170
+#: tib/data/outreach.py:188
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović hielt am 1. April 2022 einen Online-Vortrag mit dem Titel \"On "
@@ -649,12 +669,12 @@ msgstr ""
 "Das Projekt basiert auf einer wissenschaftlichen Zusammenarbeit zwischen den "
 "akademischen Bereichen Byzantinistik, Mittelalterliche Geschichte, Historische "
 "Geographie, Kunstgeschichte, Geographie und Geokommunikation (GIScience und "
-"Kartographie) und konzentriert sich auf die beiden historischen Regionen \"Duklja"
-"\" und \"Raška\", die Teil des Illyricum sind. Die Forschungshypothese ist, dass "
-"beide historischen Regionen eine \"Heilige Landschaft\" bildeten, die wir "
-"entschlüsseln und mit den gemeinsamen Mitteln der Historischen Geographie, der "
-"Kunstgeschichte und der Geokommunikation sowohl der Wissenschaft als auch der "
-"interessierten Öffentlichkeit vermitteln wollen."
+"Kartographie) und konzentriert sich auf die beiden historischen Regionen "
+"\"Duklja\" und \"Raška\", die Teil des Illyricum sind. Die Forschungshypothese "
+"ist, dass beide historischen Regionen eine \"Heilige Landschaft\" bildeten, die "
+"wir entschlüsseln und mit den gemeinsamen Mitteln der Historischen Geographie, "
+"der Kunstgeschichte und der Geokommunikation sowohl der Wissenschaft als auch "
+"der interessierten Öffentlichkeit vermitteln wollen."
 
 #: tib/data/subprojects.py:17
 msgid ""
@@ -699,8 +719,8 @@ msgid ""
 "huge potential to offer data suitable for visualisations as well as "
 "formalisation by GIScience. The integration and presentation of the research "
 "data (i.e. on the written sources, monuments and objects of art) of the project "
-"will be achieved through an already existing database and an online <a hrf="
-"\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
+"will be achieved through an already existing database and an online <a "
+"hrf=\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
 msgstr ""
 "Lässt sich der religiöse und kulturelle Einfluss des lateinischen und "
 "byzantinischen (orthodoxen) Glaubens anhand kleiner lateinischer (d. h. "
@@ -736,9 +756,9 @@ msgstr ""
 "Wirtschaft und Kultur Leipzig, hier Professor Dr. Johannes Tripps). Darüber "
 "hinaus steht es in engem Zusammenhang mit den laufenden wissenschaftlichen "
 "Arbeiten von Mihailo Popović zum <a href=\"/current_status/TIB_17\">TIB-Band 17 "
-"\"Nea Epeiros und Praevalis\"</a> und zum TIB-Teilprojekt <a href=\"montenegro\">"
-"\"Cultural Heritage in Times of World War I: Der Fall der österreichisch-"
-"ungarischen Reliefkarte von Montenegro (1916-1918)\"</a>."
+"\"Nea Epeiros und Praevalis\"</a> und zum TIB-Teilprojekt <a "
+"href=\"montenegro\">\"Cultural Heritage in Times of World War I: Der Fall der "
+"österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)\"</a>."
 
 #: tib/data/subprojects.py:23
 msgid ""
@@ -1227,9 +1247,9 @@ msgstr ""
 "Gemeinsamer wissenschaftlicher Artikel des österreichischen und "
 "montenegrinischen Projektteams mit dem Titel „On the Crossroads between East and "
 "West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First "
-"Project Results“, der in der österreichischen Online Zeitschrift <a href="
-"\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-reihe-memo_quer/\">MEMO_quer</"
-"a> im Laufe des Jahres 2022 erschienen ist."
+"Project Results“, der in der österreichischen Online Zeitschrift <a "
+"href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-reihe-memo_quer/"
+"\">MEMO_quer</a> im Laufe des Jahres 2022 erschienen ist."
 
 #: tib/data/subprojects.py:184
 msgid ""
@@ -1533,8 +1553,8 @@ msgid ""
 "Ioannina (2011), University of Thrake (2016); Full member, Austrian "
 "Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
 "Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
-"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and Art"
-"\", 1st class, Republic of Austria (2010)."
+"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
+"Art\", 1st class, Republic of Austria (2010)."
 msgstr ""
 "w.M., Prof. Dr.; 1960-1965 Byzantinistik, Arabistik und Klassische Philologie an "
 "der Universität Wien; 1965 Dr. phil. (Herbert Hunger); Habilitation in Athen und "
@@ -2112,11 +2132,11 @@ msgstr ""
 #: tib/data/tib_volumes.py:31
 msgid ""
 "The area between Kaisareia and Melitēnē, whose settlements had been largely "
-"abandoned in the defensive battles against the Arabs, became a \"desert"
-"\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late antique "
-"settlement surrounded by a defensive wall. Further southwest, the fortress of "
-"Tzamandos was built on a prominent, steep rock cone as a bulwark against the "
-"Arabs."
+"abandoned in the defensive battles against the Arabs, became a "
+"\"desert\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late "
+"antique settlement surrounded by a defensive wall. Further southwest, the "
+"fortress of Tzamandos was built on a prominent, steep rock cone as a bulwark "
+"against the Arabs."
 msgstr ""
 "Das Gebiet zwischen Kaisareia und Melitēnē, dessen Siedlungen in den "
 "Verteidigungskämpfen gegen die Araber weitgehend aufgegeben worden waren, wurde "
@@ -2666,8 +2686,9 @@ msgstr ""
 "Kappadokien und Kilikien und zugleich der Beginn des östlichen Taurus, der durch "
 "die von Nordosten nach Südwesten verlaufenden Gebirgszüge, die in der Antike "
 "Antitauros genannt wurden, geprägt ist. Im Osten schließt der Amanos (Nur "
-"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das \"Schweinekap"
-"\" (Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien trennt."
+"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das "
+"\"Schweinekap\" (Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien "
+"trennt."
 
 #: tib/data/tib_volumes.py:57
 msgid ""
@@ -2682,8 +2703,8 @@ msgstr ""
 "Seleukeia (Saleph) starb, entspringt im Plateautauros mit zwei Quellflüssen, die "
 "sich südlich von Klaudiupolis (Mut) vereinigen. Er fließt größtenteils durch "
 "tiefe Schluchten, mit Ausnahme des Beckens von Mut und der Mündungsebene bei "
-"Silifke, wo er eine markante Landzunge (İncekum Burnu, \"Kap des feinen Sandes"
-"\", in mittelalterlichen Quellen Lena della Bagascia, \"Zunge der Hure\") "
+"Silifke, wo er eine markante Landzunge (İncekum Burnu, \"Kap des feinen "
+"Sandes\", in mittelalterlichen Quellen Lena della Bagascia, \"Zunge der Hure\") "
 "anspült, die weit ins Meer reicht."
 
 #: tib/data/tib_volumes.py:58
@@ -2775,18 +2796,19 @@ msgid ""
 "In TIB 6, the area of the Early Byzantine provinces of Thrakē, Rodopē and "
 "Haimimontos is studied, an area of almost 66,000 km2 distributed among the "
 "states of Bulgaria (about 50,000 km2), Greece (about 9,700 km2) and Turkey "
-"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, territories"
-"\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, Plovdiv, "
-"Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in Greece, "
-"the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital Alexandrupolis) "
-"of the periphery of Eastern Macedonia and Thrace; in Turkey, parts of the İller "
-"Kırklareli and Edirne. The western border is defined on the one hand by the fact "
-"that TIB 6 contains the entire catchment area of the Marica/(H)Ebros river. "
-"Further south, the western border is given by the valley of the river Mesta/"
-"Nestos. The natural northern border of Thrace is the Balkan Mountains, more "
-"precisely the central and eastern Balkans. The ancient and medieval name of the "
-"mountain range is Haimos, which also gives its name to Nos Emine, the cape where "
-"the Balkan ends at the village of Emona on the coast of the Black Sea."
+"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, "
+"territories\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, "
+"Plovdiv, Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in "
+"Greece, the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital "
+"Alexandrupolis) of the periphery of Eastern Macedonia and Thrace; in Turkey, "
+"parts of the İller Kırklareli and Edirne. The western border is defined on the "
+"one hand by the fact that TIB 6 contains the entire catchment area of the Marica/"
+"(H)Ebros river. Further south, the western border is given by the valley of the "
+"river Mesta/Nestos. The natural northern border of Thrace is the Balkan "
+"Mountains, more precisely the central and eastern Balkans. The ancient and "
+"medieval name of the mountain range is Haimos, which also gives its name to Nos "
+"Emine, the cape where the Balkan ends at the village of Emona on the coast of "
+"the Black Sea."
 msgstr ""
 "Im TIB 6 wird das Gebiet der frühbyzantinischen Provinzen Thrakē, Rodopē und "
 "Haimimontos untersucht, eine Fläche von fast 66.000 km2, die sich auf die "
@@ -3625,15 +3647,15 @@ msgid ""
 "alum. - Chios (842 km2), like Lesbos, lies in the immediate vicinity of the "
 "coast of western Asia Minor; it reaches an altitude of up to 1,300 m in a "
 "limestone mountain range, has sufficient water and is partly fertile. In the "
-"southern part of the island, in the area of the so-called \"mastic villages"
-"\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) thrives, "
-"whose resin, the mastic, represented a basis of wealth as a monopolised export "
-"article until modern times. - The small Psara (41 km2), about 19 km west of "
-"Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The island "
-"of Skyros (209 km2), far from the coast, reaches an altitude of almost 800 m in "
-"the southeast, has sufficient water and is partly very fertile. A special "
-"zoological feature is a semi-wild, prehistoric horse, the small \"Skyros pony"
-"\" (equus Cubulus)."
+"southern part of the island, in the area of the so-called \"mastic "
+"villages\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) "
+"thrives, whose resin, the mastic, represented a basis of wealth as a monopolised "
+"export article until modern times. - The small Psara (41 km2), about 19 km west "
+"of Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The "
+"island of Skyros (209 km2), far from the coast, reaches an altitude of almost "
+"800 m in the southeast, has sufficient water and is partly very fertile. A "
+"special zoological feature is a semi-wild, prehistoric horse, the small \"Skyros "
+"pony\" (equus Cubulus)."
 msgstr ""
 "Thasos (379 km2) ist teilweise gebirgig (über 1.200 m hoch), mit Marmorbrüchen, "
 "die seit der Antike betrieben werden, und verfügt über eine ausreichende "
@@ -3653,15 +3675,15 @@ msgstr ""
 "des Alaunabbaus wirtschaftlich bedeutend. - Chios (842 km2) liegt wie Lesbos in "
 "unmittelbarer Nähe der kleinasiatischen Westküste; es erreicht in einem "
 "Kalksteingebirge eine Höhe von bis zu 1.300 m, ist wasserreich und teilweise "
-"fruchtbar. Im südlichen Teil der Insel, im Gebiet der sogenannten \"Mastixdörfer"
-"\" (Mastichochοra), gedeiht der Mastixstrauch (Pistacia lentiscus, var. Chia), "
-"dessen Harz, der Mastix, als monopolisierter Exportartikel bis in die Neuzeit "
-"eine Grundlage des Wohlstands darstellte. - Die kleine Psara (41 km2), etwa 19 "
-"km westlich von Chios, ist bergig (bis fast 600 m), wasserreich und fruchtbar. - "
-"Die Insel Skyros (209 km2), weit von der Küste entfernt, erreicht im Südosten "
-"eine Höhe von fast 800 m, ist wasserreich und teilweise sehr fruchtbar. Eine "
-"zoologische Besonderheit ist ein halbwildes, prähistorisches Pferd, das kleine "
-"\"Skyros-Pony\" (equus Cubulus)."
+"fruchtbar. Im südlichen Teil der Insel, im Gebiet der sogenannten "
+"\"Mastixdörfer\" (Mastichochοra), gedeiht der Mastixstrauch (Pistacia lentiscus, "
+"var. Chia), dessen Harz, der Mastix, als monopolisierter Exportartikel bis in "
+"die Neuzeit eine Grundlage des Wohlstands darstellte. - Die kleine Psara (41 "
+"km2), etwa 19 km westlich von Chios, ist bergig (bis fast 600 m), wasserreich "
+"und fruchtbar. - Die Insel Skyros (209 km2), weit von der Küste entfernt, "
+"erreicht im Südosten eine Höhe von fast 800 m, ist wasserreich und teilweise "
+"sehr fruchtbar. Eine zoologische Besonderheit ist ein halbwildes, "
+"prähistorisches Pferd, das kleine \"Skyros-Pony\" (equus Cubulus)."
 
 #: tib/data/tib_volumes.py:106
 msgid ""
@@ -5485,11 +5507,11 @@ msgstr ""
 "<a href=\"/tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
 "TIB Bänden</a> mit Verlinkungen auf die Seite der jeweiligen TIB Bände und ihre "
 "pdf Dateien (soweit aufgrund des Copyrights erlaubt) online gestellt. Einen Teil "
-"unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank"
-"\">Diabestände</a> haben wir beschrieben und als Scans ebenfalls online "
-"zugänglich gemacht. Schließlich haben wir ein Datenbanksystem für die TIB Balkan "
-"aufgebaut (eine <a href=\"https://openatlas.eu/\" target=\"_blank\"> OpenAtlas</"
-"a> Datenbank, in die alle Resultate der Teilprojekte TIB Balkan sowie "
+"unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" "
+"target=\"_blank\">Diabestände</a> haben wir beschrieben und als Scans ebenfalls "
+"online zugänglich gemacht. Schließlich haben wir ein Datenbanksystem für die TIB "
+"Balkan aufgebaut (eine <a href=\"https://openatlas.eu/\" target=\"_blank\"> "
+"OpenAtlas</a> Datenbank, in die alle Resultate der Teilprojekte TIB Balkan sowie "
 "ausgewählte Aspekte aus den TIB Bänden 16 und 17 laufend einfließen und "
 "jederzeit aktuell über ein Web Applikation abgerufen werden können. Diese "
 "Webapplikation nennen wir <a href=\"/tib-atlas\">„Maps of Power: Historical "
@@ -5722,12 +5744,12 @@ msgid ""
 msgstr ""
 "Das historisch-geographische Projekt Tabula Imperii Byzantini (TIB) wurde auf "
 "Initiative des Begründers der österreichischen Byzantinistik und "
-"Akademiemitglieds <a href=\"https://www.geschichtewiki.wien.gv.at/Herbert_Hunger"
-"\"> Prof. Dr. Herbert Hunger (1914-2000)</a> im Jahre 1966 als Kommission der "
-"Österreichischen Akademie der Wissenschaften (ÖAW) ins Leben gerufen. Seine "
-"Vision der historisch-geographischen Forschung im Rahmen der Byzantinistik an "
-"der ÖAW und der Erstellung eines Atlas des Byzantinischen Reiches begleiten uns "
-"bis jetzt."
+"Akademiemitglieds <a href=\"https://www.geschichtewiki.wien.gv.at/"
+"Herbert_Hunger\"> Prof. Dr. Herbert Hunger (1914-2000)</a> im Jahre 1966 als "
+"Kommission der Österreichischen Akademie der Wissenschaften (ÖAW) ins Leben "
+"gerufen. Seine Vision der historisch-geographischen Forschung im Rahmen der "
+"Byzantinistik an der ÖAW und der Erstellung eines Atlas des Byzantinischen "
+"Reiches begleiten uns bis jetzt."
 
 #: tib/templates/balkan/longterm/longterm.html:13
 msgid ""
@@ -6465,8 +6487,8 @@ msgid ""
 "register</a>."
 msgstr ""
 "Sie können die Listen der geografischen Register der einzelnen veröffentlichten "
-"TIB-Bände (1-13 und 15) sowie eine vollständige Liste über <a href=\"tib-register"
-"\">TIB-Register</a> abrufen."
+"TIB-Bände (1-13 und 15) sowie eine vollständige Liste über <a href=\"tib-"
+"register\">TIB-Register</a> abrufen."
 
 #: tib/templates/tib/digtib/digtib.html:47
 msgid ""
@@ -6598,15 +6620,15 @@ msgstr ""
 "Die Forschung zur Historischen Geographie des Byzantinischen Reiches an der "
 "Österreichischen Akademie der Wissenschaften in Wien wird von der Tabula Imperii "
 "Byzantini (TIB) durchgeführt. Dieses renommierte Projekt wurde 2015 von der <a "
-"href=\"http://www.uai-iua.org/en/projects/104/tabula-imperii-byzantini\" target="
-"\"_blank\">Union Académique Internationale</a> in Brüssel angenommen (Projekt "
-"87) und gleichzeitig in das Schema der Langzeitprojekte der Österreichischen "
-"Akademie der Wissenschaften aufgenommen, basierend auf unabhängigen, "
-"hervorragenden internationalen Evaluierungen. Die TIB erforscht systematisch die "
-"historische Geographie des Byzantinischen Reiches vom Beginn des 4. Jahrhunderts "
-"bis zur Mitte des 15. Jahrhunderts. Ziel des Projektes ist es, einen "
-"historischen Atlas des byzantinischen Raumes von der Spätantike bis zur Frühen "
-"Neuzeit zu erstellen."
+"href=\"http://www.uai-iua.org/en/projects/104/tabula-imperii-byzantini\" "
+"target=\"_blank\">Union Académique Internationale</a> in Brüssel angenommen "
+"(Projekt 87) und gleichzeitig in das Schema der Langzeitprojekte der "
+"Österreichischen Akademie der Wissenschaften aufgenommen, basierend auf "
+"unabhängigen, hervorragenden internationalen Evaluierungen. Die TIB erforscht "
+"systematisch die historische Geographie des Byzantinischen Reiches vom Beginn "
+"des 4. Jahrhunderts bis zur Mitte des 15. Jahrhunderts. Ziel des Projektes ist "
+"es, einen historischen Atlas des byzantinischen Raumes von der Spätantike bis "
+"zur Frühen Neuzeit zu erstellen."
 
 #: tib/templates/tib/frontpage/frontpage.html:28
 msgid "tib_frontpage_individual_regions"
@@ -6648,11 +6670,11 @@ msgstr "Mehr erfahren"
 #: tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href=\"/atlas"
-"\">ausprobieren und testen</a>. Er enthält ausgewählte Daten aus den <a href="
-"\"balkan/subprojects\">Teilprojekten</a> der <a href=\"balkan\">TIB Balkan</a> "
-"und ist noch in Arbeit. Wenn Sie Fragen oder Kommentare haben, wenden Sie sich "
-"bitte an"
+"Unser TIB Map Viewer ist online! Sie können ihn gerne <a href=\"/"
+"atlas\">ausprobieren und testen</a>. Er enthält ausgewählte Daten aus den <a "
+"href=\"balkan/subprojects\">Teilprojekten</a> der <a href=\"balkan\">TIB Balkan</"
+"a> und ist noch in Arbeit. Wenn Sie Fragen oder Kommentare haben, wenden Sie "
+"sich bitte an"
 
 #: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"

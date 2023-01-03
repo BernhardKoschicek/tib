@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-02 14:58+0100\n"
-"PO-Revision-Date: 2022-12-02 15:05+0100\n"
+"POT-Creation-Date: 2023-01-03 15:59+0100\n"
+"PO-Revision-Date: 2023-01-03 16:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.2\n"
+"Generated-By: Babel 2.9.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -265,10 +265,28 @@ msgid "blogpost"
 msgstr "blogpost"
 
 #: tib/data/outreach.py:40
+msgid "Presentation in Barcelona"
+msgstr "Presentation in Barcelona"
+
+#: tib/data/outreach.py:42
+msgid ""
+"Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
+"Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
+"Byzantini and its Reconstruction Work of Late Antique and Medieval  "
+"Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
+"in Barcelona, Spain, on 15 December 2022."
+msgstr ""
+"Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
+"Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
+"Byzantini and its Reconstruction Work of Late Antique and Medieval  "
+"Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
+"in Barcelona, Spain, on 15 December 2022."
+
+#: tib/data/outreach.py:58
 msgid "Promotion Event for TIB 11"
 msgstr "Promotion Event for TIB 11"
 
-#: tib/data/outreach.py:42
+#: tib/data/outreach.py:60
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
@@ -278,36 +296,36 @@ msgstr ""
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 
-#: tib/data/outreach.py:47 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr "Date"
 
-#: tib/data/outreach.py:47
+#: tib/data/outreach.py:65
 msgid "Begin"
 msgstr "Begin"
 
-#: tib/data/outreach.py:48
+#: tib/data/outreach.py:66
 msgid "Venue"
 msgstr "Venue"
 
-#: tib/data/outreach.py:49
+#: tib/data/outreach.py:67
 msgid "1st Floor"
 msgstr "1st Floor"
 
-#: tib/data/outreach.py:49 tib/templates/footer.html:25
+#: tib/data/outreach.py:67 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Vienna"
 
-#: tib/data/outreach.py:50
+#: tib/data/outreach.py:68
 msgid "Registration"
 msgstr "Registration"
 
-#: tib/data/outreach.py:63
+#: tib/data/outreach.py:81
 msgid "Presentation in Leipzig"
 msgstr "Presentation in Leipzig"
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:83
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -320,14 +338,14 @@ msgstr ""
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
 "Wert der digitalen Kartographie und Geokommunikation in der Vermittlung "
 "historischer Inhalte am Beispiel des Projektes ‚Jenseits von Ost und West‘” and "
-"is based on scholarly results from the project <a href=\"subprojects/holdura"
-"\">“Beyond East and West (HOLDURA)”</a>"
+"is based on scholarly results from the project <a href=\"subprojects/"
+"holdura\">“Beyond East and West (HOLDURA)”</a>"
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:95
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24th International Congress of Byzantine Studies in Venice and Padua"
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:99
 msgid "aieb_roundtable"
 msgstr ""
 "The “Commission for the Historical Geography and Spatial Analysis of Byzantium” "
@@ -341,15 +359,15 @@ msgstr ""
 "Interdisciplinary Gaps: New Ways of Making Connections” in Padua, which will be "
 "chaired by Professor Judith Herrin."
 
-#: tib/data/outreach.py:82
+#: tib/data/outreach.py:100
 msgid "For further information and the programme please cf."
 msgstr "For further information and the programme please cf."
 
-#: tib/data/outreach.py:92
+#: tib/data/outreach.py:110
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:113
 msgid "hypotheses_post"
 msgstr ""
 "The paper “OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -357,53 +375,54 @@ msgstr ""
 "St. Popović is presented and  commented in a blogpost by a student of the "
 "University of Cologne:"
 
-#: tib/data/outreach.py:104
+#: tib/data/outreach.py:122
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB volume 11, Macedonia, Southern Part published"
 
-#: tib/data/outreach.py:106
+#: tib/data/outreach.py:124
 msgid "tib_11_release"
 msgstr ""
 "It is with great pleasure that we may announce the publication of the TIB Volume "
 "11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
 "and Mihailo St. Popović as co-authors)."
 
-#: tib/data/outreach.py:107
+#: tib/data/outreach.py:125
 msgid "Cf. in detail:"
 msgstr "Cf. in detail:"
 
-#: tib/data/outreach.py:121
+#: tib/data/outreach.py:139
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:142
 msgid "imc2022"
 msgstr ""
 "During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
 "the team of the TIB Balkans will present its research in the sessions No. 1034, "
 "1134, 1234 and 1334 on Wednesday, 6 July."
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:143
 msgid "Cf. in detail"
 msgstr "Cf. in detail"
 
-#: tib/data/outreach.py:134
+#: tib/data/outreach.py:152
 msgid "presentation at university of cologne, germany"
 msgstr "Presentation at university of cologne, germany"
 
-#: tib/data/outreach.py:136
+#: tib/data/outreach.py:154
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
 "“OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini (Balkan) im "
-"digitalen Zeitalter” at the University of Cologne, Germany at an <a href="
-"\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</a>."
+"digitalen Zeitalter” at the University of Cologne, Germany at an <a "
+"href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</"
+"a>."
 
-#: tib/data/outreach.py:145
+#: tib/data/outreach.py:163
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 
-#: tib/data/outreach.py:147
+#: tib/data/outreach.py:165
 msgid "lange_nacht_22_text"
 msgstr ""
 "In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
@@ -413,11 +432,11 @@ msgstr ""
 "public. At the stand of the academy's Institute for Medieval Research, the TIB-"
 "team organized fun discovery activities such as the Historical Geographer's Quiz "
 "for all ages and presented the everyday work of a TIB researcher in a custom-"
-"made short film, here based on the sub-project <a href=\"/subprojects/holdura"
-"\">Beyond East and West: Geocommunicating the Sacred Landscapes of \"Duklja\" "
-"and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
+"made short film, here based on the sub-project <a href=\"/subprojects/"
+"holdura\">Beyond East and West: Geocommunicating the Sacred Landscapes of "
+"\"Duklja\" and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
 
-#: tib/data/outreach.py:156
+#: tib/data/outreach.py:174
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -425,7 +444,7 @@ msgstr ""
 "Presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
 
-#: tib/data/outreach.py:159
+#: tib/data/outreach.py:177
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
@@ -434,7 +453,7 @@ msgstr ""
 "Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
 "at the IMAFO (ÖAW)."
 
-#: tib/data/outreach.py:167
+#: tib/data/outreach.py:185
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -442,7 +461,7 @@ msgstr ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
 
-#: tib/data/outreach.py:170
+#: tib/data/outreach.py:188
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "
@@ -690,8 +709,8 @@ msgid ""
 "huge potential to offer data suitable for visualisations as well as "
 "formalisation by GIScience. The integration and presentation of the research "
 "data (i.e. on the written sources, monuments and objects of art) of the project "
-"will be achieved through an already existing database and an online <a hrf="
-"\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
+"will be achieved through an already existing database and an online <a "
+"hrf=\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
 msgstr ""
 "(3) Can the religious and cultural influence of the Latin and Byzantine "
 "(Orthodox) faith be traced through small Latin (i.e. “Western”) as well as "
@@ -702,8 +721,8 @@ msgstr ""
 "huge potential to offer data suitable for visualisations as well as "
 "formalisation by GIScience. The integration and presentation of the research "
 "data (i.e. on the written sources, monuments and objects of art) of the project "
-"will be achieved through an already existing database and an online <a hrf="
-"\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
+"will be achieved through an already existing database and an online <a "
+"hrf=\"https://data1.geo.univie.ac.at/projects/tibapp\">map application</a>."
 
 #: tib/data/subprojects.py:21
 msgid ""
@@ -1501,8 +1520,8 @@ msgid ""
 "Ioannina (2011), University of Thrake (2016); Full member, Austrian "
 "Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
 "Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
-"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and Art"
-"\", 1st class, Republic of Austria (2010)."
+"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
+"Art\", 1st class, Republic of Austria (2010)."
 msgstr ""
 "w.M., Prof. Dr.; 1960-1965 Byzantine, Arab and Classical Studies in Vienna "
 "University; 1965 Dr. phil. (Herbert Hunger); postdoctoral studies in Athens and "
@@ -1526,8 +1545,8 @@ msgstr ""
 "Ioannina (2011), University of Thrake (2016); Full member, Austrian "
 "Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
 "Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
-"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and Art"
-"\", 1st class, Republic of Austria (2010)."
+"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
+"Art\", 1st class, Republic of Austria (2010)."
 
 #: tib/data/team.py:81
 msgid ""
@@ -2071,18 +2090,18 @@ msgstr ""
 #: tib/data/tib_volumes.py:31
 msgid ""
 "The area between Kaisareia and Melitēnē, whose settlements had been largely "
-"abandoned in the defensive battles against the Arabs, became a \"desert"
-"\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late antique "
-"settlement surrounded by a defensive wall. Further southwest, the fortress of "
-"Tzamandos was built on a prominent, steep rock cone as a bulwark against the "
-"Arabs."
+"abandoned in the defensive battles against the Arabs, became a "
+"\"desert\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late "
+"antique settlement surrounded by a defensive wall. Further southwest, the "
+"fortress of Tzamandos was built on a prominent, steep rock cone as a bulwark "
+"against the Arabs."
 msgstr ""
 "The area between Kaisareia and Melitēnē, whose settlements had been largely "
-"abandoned in the defensive battles against the Arabs, became a \"desert"
-"\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late antique "
-"settlement surrounded by a defensive wall. Further southwest, the fortress of "
-"Tzamandos was built on a prominent, steep rock cone as a bulwark against the "
-"Arabs."
+"abandoned in the defensive battles against the Arabs, became a "
+"\"desert\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late "
+"antique settlement surrounded by a defensive wall. Further southwest, the "
+"fortress of Tzamandos was built on a prominent, steep rock cone as a bulwark "
+"against the Arabs."
 
 #: tib/data/tib_volumes.py:32
 msgid ""
@@ -2723,34 +2742,36 @@ msgid ""
 "In TIB 6, the area of the Early Byzantine provinces of Thrakē, Rodopē and "
 "Haimimontos is studied, an area of almost 66,000 km2 distributed among the "
 "states of Bulgaria (about 50,000 km2), Greece (about 9,700 km2) and Turkey "
-"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, territories"
-"\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, Plovdiv, "
-"Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in Greece, "
-"the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital Alexandrupolis) "
-"of the periphery of Eastern Macedonia and Thrace; in Turkey, parts of the İller "
-"Kırklareli and Edirne. The western border is defined on the one hand by the fact "
-"that TIB 6 contains the entire catchment area of the Marica/(H)Ebros river. "
-"Further south, the western border is given by the valley of the river Mesta/"
-"Nestos. The natural northern border of Thrace is the Balkan Mountains, more "
-"precisely the central and eastern Balkans. The ancient and medieval name of the "
-"mountain range is Haimos, which also gives its name to Nos Emine, the cape where "
-"the Balkan ends at the village of Emona on the coast of the Black Sea."
+"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, "
+"territories\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, "
+"Plovdiv, Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in "
+"Greece, the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital "
+"Alexandrupolis) of the periphery of Eastern Macedonia and Thrace; in Turkey, "
+"parts of the İller Kırklareli and Edirne. The western border is defined on the "
+"one hand by the fact that TIB 6 contains the entire catchment area of the Marica/"
+"(H)Ebros river. Further south, the western border is given by the valley of the "
+"river Mesta/Nestos. The natural northern border of Thrace is the Balkan "
+"Mountains, more precisely the central and eastern Balkans. The ancient and "
+"medieval name of the mountain range is Haimos, which also gives its name to Nos "
+"Emine, the cape where the Balkan ends at the village of Emona on the coast of "
+"the Black Sea."
 msgstr ""
 "In TIB 6, the area of the Early Byzantine provinces of Thrakē, Rodopē and "
 "Haimimontos is studied, an area of almost 66,000 km2 distributed among the "
 "states of Bulgaria (about 50,000 km2), Greece (about 9,700 km2) and Turkey "
-"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, territories"
-"\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, Plovdiv, "
-"Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in Greece, "
-"the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital Alexandrupolis) "
-"of the periphery of Eastern Macedonia and Thrace; in Turkey, parts of the İller "
-"Kırklareli and Edirne. The western border is defined on the one hand by the fact "
-"that TIB 6 contains the entire catchment area of the Marica/(H)Ebros river. "
-"Further south, the western border is given by the valley of the river Mesta/"
-"Nestos. The natural northern border of Thrace is the Balkan Mountains, more "
-"precisely the central and eastern Balkans. The ancient and medieval name of the "
-"mountain range is Haimos, which also gives its name to Nos Emine, the cape where "
-"the Balkan ends at the village of Emona on the coast of the Black Sea."
+"(about 6,000 km2). In Bulgaria, the following oblasti (\"provinces, "
+"territories\") are affected: Sofia (partly), Blagoevgrad (partly), Pazardžik, "
+"Plovdiv, Smolyan, Kărdžali, Haskovo, Stara Zagora, Sliven, Yambol and Burgas; in "
+"Greece, the nomoi Xanthē, Rodopē (capital Komotēnē) and Ebros (capital "
+"Alexandrupolis) of the periphery of Eastern Macedonia and Thrace; in Turkey, "
+"parts of the İller Kırklareli and Edirne. The western border is defined on the "
+"one hand by the fact that TIB 6 contains the entire catchment area of the Marica/"
+"(H)Ebros river. Further south, the western border is given by the valley of the "
+"river Mesta/Nestos. The natural northern border of Thrace is the Balkan "
+"Mountains, more precisely the central and eastern Balkans. The ancient and "
+"medieval name of the mountain range is Haimos, which also gives its name to Nos "
+"Emine, the cape where the Balkan ends at the village of Emona on the coast of "
+"the Black Sea."
 
 #: tib/data/tib_volumes.py:63
 msgid ""
@@ -3565,15 +3586,15 @@ msgid ""
 "alum. - Chios (842 km2), like Lesbos, lies in the immediate vicinity of the "
 "coast of western Asia Minor; it reaches an altitude of up to 1,300 m in a "
 "limestone mountain range, has sufficient water and is partly fertile. In the "
-"southern part of the island, in the area of the so-called \"mastic villages"
-"\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) thrives, "
-"whose resin, the mastic, represented a basis of wealth as a monopolised export "
-"article until modern times. - The small Psara (41 km2), about 19 km west of "
-"Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The island "
-"of Skyros (209 km2), far from the coast, reaches an altitude of almost 800 m in "
-"the southeast, has sufficient water and is partly very fertile. A special "
-"zoological feature is a semi-wild, prehistoric horse, the small \"Skyros pony"
-"\" (equus Cubulus)."
+"southern part of the island, in the area of the so-called \"mastic "
+"villages\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) "
+"thrives, whose resin, the mastic, represented a basis of wealth as a monopolised "
+"export article until modern times. - The small Psara (41 km2), about 19 km west "
+"of Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The "
+"island of Skyros (209 km2), far from the coast, reaches an altitude of almost "
+"800 m in the southeast, has sufficient water and is partly very fertile. A "
+"special zoological feature is a semi-wild, prehistoric horse, the small \"Skyros "
+"pony\" (equus Cubulus)."
 msgstr ""
 "Thasos (379 km2) is partly mountainous (rising to over 1,200 m), with marble "
 "quarries operating since ancient times, and has an adequate water supply. - "
@@ -3592,15 +3613,15 @@ msgstr ""
 "alum. - Chios (842 km2), like Lesbos, lies in the immediate vicinity of the "
 "coast of western Asia Minor; it reaches an altitude of up to 1,300 m in a "
 "limestone mountain range, has sufficient water and is partly fertile. In the "
-"southern part of the island, in the area of the so-called \"mastic villages"
-"\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) thrives, "
-"whose resin, the mastic, represented a basis of wealth as a monopolised export "
-"article until modern times. - The small Psara (41 km2), about 19 km west of "
-"Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The island "
-"of Skyros (209 km2), far from the coast, reaches an altitude of almost 800 m in "
-"the southeast, has sufficient water and is partly very fertile. A special "
-"zoological feature is a semi-wild, prehistoric horse, the small \"Skyros pony"
-"\" (equus Cubulus)."
+"southern part of the island, in the area of the so-called \"mastic "
+"villages\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) "
+"thrives, whose resin, the mastic, represented a basis of wealth as a monopolised "
+"export article until modern times. - The small Psara (41 km2), about 19 km west "
+"of Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The "
+"island of Skyros (209 km2), far from the coast, reaches an altitude of almost "
+"800 m in the southeast, has sufficient water and is partly very fertile. A "
+"special zoological feature is a semi-wild, prehistoric horse, the small \"Skyros "
+"pony\" (equus Cubulus)."
 
 #: tib/data/tib_volumes.py:106
 msgid ""
@@ -5419,16 +5440,16 @@ msgstr ""
 "Historical Geography. For this reason we have put online a <a href=\"/tib-"
 "register\">complete register of place names (toponyms) from all TIB volumes</a> "
 "with links to the page of the respective TIB volumes and their pdf files (as far "
-"as allowed due to copyright). We have described a part of our rich <a href="
-"\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank\">slide Holdings</a> and "
-"made them accessible online as scans as well. Finally, we have built up a "
-"database system for the TIB Balkans (an <a href=\"https://openatlas.eu/\" target="
-"\"_blank\">OpenAtlas</a> database, into which all results of the subprojects TIB "
-"Balkans as well as selected aspects from the TIB volumes 16 and 17 are "
-"continuously incorporated and can be accessed at any time via a web application. "
-"We call this web application <a href=\"/tib-atlas\">\"Maps of Power: Historical "
-"Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
-"Balkans)\"</a>."
+"as allowed due to copyright). We have described a part of our rich <a "
+"href=\"https://catalogue.tib.oeaw.ac.at/\" target=\"_blank\">slide Holdings</a> "
+"and made them accessible online as scans as well. Finally, we have built up a "
+"database system for the TIB Balkans (an <a href=\"https://openatlas.eu/\" "
+"target=\"_blank\">OpenAtlas</a> database, into which all results of the "
+"subprojects TIB Balkans as well as selected aspects from the TIB volumes 16 and "
+"17 are continuously incorporated and can be accessed at any time via a web "
+"application. We call this web application <a href=\"/tib-atlas\">\"Maps of "
+"Power: Historical Atlas of Places, Borderzones and Migration Dynamics in "
+"Byzantium (TIB Balkans)\"</a>."
 
 #: tib/templates/balkan/digital/explore.html:3
 #: tib/templates/openatlas/explore.html:3
@@ -5741,9 +5762,9 @@ msgstr ""
 "addition to the TIB volumes) and a digital newsletter come into play. For "
 "example, Mihailo St. Popović founded the book series <a href=\"https://histgeo."
 "oeaw.ac.at/\" target=\"_blank\">\"Studies in Historical Geography and Cultural "
-"Heritage\"</a> and, together with his team, publishes the digital <a href="
-"\"https://histgeo.oeaw.ac.at/newsletter/\" target=\"_blank\">\"HistGeo Newsletter"
-"\"</a> on a semi-annual basis.</p>"
+"Heritage\"</a> and, together with his team, publishes the digital <a "
+"href=\"https://histgeo.oeaw.ac.at/newsletter/\" target=\"_blank\">\"HistGeo "
+"Newsletter\"</a> on a semi-annual basis.</p>"
 
 #: tib/templates/balkan/subprojects/subproject_intro.html:3
 msgid "Projects of the TIB Balkan"

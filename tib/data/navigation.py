@@ -78,7 +78,7 @@ tib_digtib_submenu_items = [
     {
         'title': _l('browse_tib_balkans_data'),
         'icon': 'bi-stack',
-        'link': 'balkan/digital/explore',
+        'link': '../balkan/digital/explore',
         'link_type': 'int',
         'tooltip': _l('Browse data from TIB Balkans directly from the OpenAtlas database')
     }, ]

@@ -211,7 +211,30 @@ project_results = {
         ]
     },
     'holdura': '',
-    'borderzones': '',
+    'borderzones':  {
+        'text': [],
+        'list': [],
+        'icons': [
+            {
+                'label': _l('Final project report'),
+                'link': None,
+                'file': 'borderzones/FWF_P 30384-G28_Final Report.pdf',
+                'icon': 'bi bi-journals',
+            },
+            {
+                'label': 'Maps of Power',
+                'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+                'file': None,
+                'icon': 'bi bi-map-fill',
+            },
+            {
+                'label': _l('browse_tib_balkans_data'),
+                'link': '../balkan/digital/explore',
+                'file': None,
+                'icon': 'bi-stack',
+            },
+        ]
+    },
     'mesmy': '',
     'inventory': '',
     'digtib': {

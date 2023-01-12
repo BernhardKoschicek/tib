@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-03 15:59+0100\n"
-"PO-Revision-Date: 2023-01-03 16:00+0100\n"
+"POT-Creation-Date: 2023-01-12 10:08+0100\n"
+"PO-Revision-Date: 2023-01-12 10:11+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -228,7 +228,7 @@ msgid "Graphical map application to access, browse and query data from TIB Balka
 msgstr ""
 "Graphical map application to access, browse and query data from TIB Balkans"
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96
+#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:231
 msgid "browse_tib_balkans_data"
 msgstr "Browse TIB Balkans Data"
 
@@ -1232,7 +1232,8 @@ msgstr ""
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 
-#: tib/data/subprojects.py:188 tib/data/subprojects.py:231
+#: tib/data/subprojects.py:188 tib/data/subprojects.py:219
+#: tib/data/subprojects.py:254
 msgid "Final project report"
 msgstr "Final project report"
 
@@ -1244,7 +1245,7 @@ msgstr "Project"
 msgid "Relief Map"
 msgstr "Relief Map"
 
-#: tib/data/subprojects.py:219
+#: tib/data/subprojects.py:242
 msgid ""
 "The total number of slides to be scanned and processed in the project by the "
 "research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
@@ -1258,7 +1259,7 @@ msgstr ""
 "out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
 "and student employees."
 
-#: tib/data/subprojects.py:220
+#: tib/data/subprojects.py:243
 msgid ""
 "The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
 "to World Heritage\" has addressed the three above-mentioned case studies with "
@@ -1274,7 +1275,7 @@ msgstr ""
 "after state). This created a structured and efficient workflow and best practice "
 "in this field of Historical Geography and Digital Humanities."
 
-#: tib/data/subprojects.py:221
+#: tib/data/subprojects.py:244
 msgid ""
 "Furthermore, Veronika Polloczek has successfully applied for and defended a "
 "dissertation topic at the University of Vienna with the working title \"From the "
@@ -1290,13 +1291,13 @@ msgstr ""
 "by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
 "as a private lecturer at the University of Vienna."
 
-#: tib/data/subprojects.py:222
+#: tib/data/subprojects.py:245
 msgid ""
 "During the term of the research project, the following results were obtained:"
 msgstr ""
 "During the term of the research project, the following results were obtained:"
 
-#: tib/data/subprojects.py:225
+#: tib/data/subprojects.py:248
 msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
@@ -1306,7 +1307,7 @@ msgstr ""
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
 
-#: tib/data/subprojects.py:226
+#: tib/data/subprojects.py:249
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1338,7 +1339,7 @@ msgstr ""
 "pages in the list that lead to a lemma in the respective volume are highlighted "
 "in bold."
 
-#: tib/data/subprojects.py:227
+#: tib/data/subprojects.py:250
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1350,7 +1351,7 @@ msgstr ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 
-#: tib/data/subprojects.py:243
+#: tib/data/subprojects.py:266
 msgid "Image Collection"
 msgstr "Image Collection"
 
@@ -1385,8 +1386,8 @@ msgstr ""
 "Pilgrimages – Late Antiquity – Ephesus."
 
 #: tib/data/team.py:19 tib/data/team.py:49 tib/data/team.py:59 tib/data/team.py:79
-#: tib/data/team.py:99 tib/data/team.py:109 tib/data/team.py:119
-#: tib/data/team.py:129
+#: tib/data/team.py:109 tib/data/team.py:119 tib/data/team.py:129
+#: tib/data/team.py:139
 msgid "scientific_employee"
 msgstr "Scientific Employees"
 
@@ -1560,7 +1561,7 @@ msgstr ""
 "Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, "
 "Heraldry."
 
-#: tib/data/team.py:89
+#: tib/data/team.py:89 tib/data/team.py:99
 msgid "spatial_analyst"
 msgstr "Spatial Analyst"
 
@@ -1578,11 +1579,29 @@ msgstr ""
 "Geomatics applications in Archaeology, Structure from Motion, UV IR and "
 "Multispectral imagery, Deep Learning and Machine Learning for Cultural research."
 
-#: tib/data/team.py:98
+#: tib/data/team.py:101
+msgid ""
+"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
+"in research was the visualization of signatures in maps. espacially economical "
+"maps. 1995 Project for evaluation of map- generalizing software on different "
+"official maps of different countries. 1996 licence for entrepreneurship. Since "
+"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
+"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
+"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
+msgstr ""
+"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
+"in research was the visualization of signatures in maps. espacially economical "
+"maps. 1995 Project for evaluation of map- generalizing software on different "
+"official maps of different countries. 1996 licence for entrepreneurship. Since "
+"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
+"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
+"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
+
+#: tib/data/team.py:108
 msgid "former_employee"
 msgstr "Former Employees"
 
-#: tib/data/team.py:101
+#: tib/data/team.py:111
 msgid ""
 "BA in History, student of medieval history at the University of Vienna. Research "
 "interests include historical geography, GIS, late antique and medieval and "
@@ -1592,38 +1611,38 @@ msgstr ""
 "interests include historical geography, GIS, late antique and medieval and "
 "military history."
 
-#: tib/data/team.py:108 tib/data/team.py:118 tib/data/team.py:128
+#: tib/data/team.py:118 tib/data/team.py:128 tib/data/team.py:138
 msgid "emeritus_scholar"
 msgstr "Emeritus Scholar"
 
-#: tib/data/team.py:111
-msgid ""
-"Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic "
-"collaborator at the Austrian Academy of Sciences; at the Commission for the "
-"Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 "
-"Division of Byzantine Studies of the Institute for Medieval Studies). 1999 "
-"Habilitation at the Institute for Byzantine and Neoellenic Studies of the "
-"University of Vienna. Teaching at the University of Vienna; 1999, 2001 teaching "
-"at the Central European University at Budapest. 2012 retirement after reaching "
-"the legal age of retirement. Continuing voluntarily work for the Tabula Imperii "
-"Byzantine project. Research Interests: Historical Geography of the Byzantine "
-"Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine "
-"periods."
-msgstr ""
-"Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic "
-"collaborator at the Austrian Academy of Sciences; at the Commission for the "
-"Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 "
-"Division of Byzantine Studies of the Institute for Medieval Studies). 1999 "
-"Habilitation at the Institute for Byzantine and Neoellenic Studies of the "
-"University of Vienna. Teaching at the University of Vienna; 1999, 2001 teaching "
-"at the Central European University at Budapest. 2012 retirement after reaching "
-"the legal age of retirement. Continuing voluntarily work for the Tabula Imperii "
-"Byzantine project. Research Interests: Historical Geography of the Byzantine "
-"Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine "
-"periods."
-
 #: tib/data/team.py:121
 msgid ""
+"Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic "
+"collaborator at the Austrian Academy of Sciences; at the Commission for the "
+"Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 "
+"Division of Byzantine Studies of the Institute for Medieval Studies). 1999 "
+"Habilitation at the Institute for Byzantine and Neoellenic Studies of the "
+"University of Vienna. Teaching at the University of Vienna; 1999, 2001 teaching "
+"at the Central European University at Budapest. 2012 retirement after reaching "
+"the legal age of retirement. Continuing voluntarily work for the Tabula Imperii "
+"Byzantine project. Research Interests: Historical Geography of the Byzantine "
+"Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine "
+"periods."
+msgstr ""
+"Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic "
+"collaborator at the Austrian Academy of Sciences; at the Commission for the "
+"Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 "
+"Division of Byzantine Studies of the Institute for Medieval Studies). 1999 "
+"Habilitation at the Institute for Byzantine and Neoellenic Studies of the "
+"University of Vienna. Teaching at the University of Vienna; 1999, 2001 teaching "
+"at the Central European University at Budapest. 2012 retirement after reaching "
+"the legal age of retirement. Continuing voluntarily work for the Tabula Imperii "
+"Byzantine project. Research Interests: Historical Geography of the Byzantine "
+"Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine "
+"periods."
+
+#: tib/data/team.py:131
+msgid ""
 "Dr. phil.; Studies of Classical Philology, Ancient History, Ancient Numismatics "
 "and Byzantine Studies (1960–1968) at the University of Vienna; Dr. phil. in "
 "Ancient History. From 1969 scholarly co-worker in the \"Kommission für die "
@@ -1646,7 +1665,7 @@ msgstr ""
 "Interests: Ancient and Byzantine History, Archaeology, Historical Geography and "
 "Cartography of the Mediterranean"
 
-#: tib/data/team.py:131
+#: tib/data/team.py:141
 msgid ""
 "Mag. Dr. phil.; Mag. phil. (University of Vienna, 1969); Dr. phil. (University "
 "of Vienna, 1975); employed at the Austrian Academy of Sciences since 1969, from "

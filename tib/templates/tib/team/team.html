@@ -37,8 +37,10 @@
                       <h3 class="text-decoration-none">
                         <a href="mailto:{{ member.email }}">
                           <i class="bi bi-envelope-fill"></i></a>
+                        {% if member.academia %}
                         <a href="{{ member.academia }}" target="_blank">
                           <i class="bi bi-mortarboard-fill"></i></a>
+                        {% endif %}
                       </h3>
                     </div>
                   </div>

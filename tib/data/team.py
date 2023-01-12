@@ -93,6 +93,16 @@ tib_team_data = {
         'image': f'{path}/moises.jpg',
         'academia': 'https://oeaw.academia.edu/MoisesHernandez'
     },
+    'ebeer': {
+        'name': 'Elisabeth Charlotte Beer',
+        'team': 'cartographer',
+        'category': _l('spatial_analyst'),
+        'titles': ['Mag.'],
+        'description':  _l('Focus in research was the visualization of signatures in maps. espacially economical maps. 1995 Project for evaluation of map- generalizing software on different official maps of different countries. 1996 licence for entrepreneurship. Since 2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free cartographer for the Long-Term-Project "Tabula Imperii Byzantini (TIB)".'),
+        'email': 'office@beer16.at',
+        'image': f'{path}/elisabeth.jpg',
+        'academia': ''
+    },
     'dschmid': {
         'name': 'David Schmid',
         'team': _l('former_employee'),
@@ -146,6 +156,7 @@ team_categories = {
         tib_team_data['vzervan'],
         tib_team_data['vpolloczek']],
     'Technical_Specialists': [
+        tib_team_data['ebeer'],
         tib_team_data['mhernandez'],
         tib_team_data['bkoschicek']],
     'Former_Employees': [

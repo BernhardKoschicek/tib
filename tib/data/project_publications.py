@@ -1,5 +1,15 @@
 project_publications = [
     {
+        "author": "Markus Breier, Karel Kriz, Alexander Pucher, Lukas Neugebauer",
+        "title": " Beyond East and West – Geocommunicating Historical Sacred Landscapes, in: Proc. Int. Cartogr. Assoc., 4, 14, 2021. (https://doi.org/10.5194/ica-proc-4-14-2021)",
+        "location": "Göttingen",
+        "date": "2021",
+        "pages": "5",
+        "category": ['holdura'],
+        "external_link": 'https://doi.org/10.5194/ica-proc-4-14-2021',
+        "download": 'ica-proc-4-14-2021.pdf'
+    },
+    {
         "author": "A. Bracanović, M. Breier, M. Hernández Cordero u. a.",
         "title": "On the Crossroads between East and West: Geocommunicating Medieval Sacred Landscapes in Today’s Montenegro – First Project Results. DOI: 10.25536/2022q004",
         "location": "Krems",

@@ -163,7 +163,7 @@ outreach = [{
     'title': _l('TIB at the "Lange Nacht der Forschung" in Vienna'),
     'description': [
         _l('lange_nacht_22_text'),
-        format_video_tag('EW_Lange_Nacht_der_Forschung_2022.mp4')],
+        format_video_tag('BEW_Lange_Nacht_der_Forschung_2022.mp4')],
     'category': ['tib', 'balkan'],
     'attachment': []
 }, {

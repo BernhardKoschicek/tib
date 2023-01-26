@@ -1,6 +1,6 @@
 from tib.data.institutes import institutes
 from tib.data.team import tib_team_data
-from tib.util.util import get_dates_formatted
+from tib.util.util import get_dates_formatted, format_video_tag
 
 from flask_babel import lazy_gettext as _l
 
@@ -54,6 +54,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [],
         'part': 'asia',
         'oaID': 0,
     },
@@ -78,6 +79,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [format_video_tag('BEW_Lange_Nacht_der_Forschung_2022.mp4')],
         'part': 'balkan',
         'oaID': 117730,
     },
@@ -98,6 +100,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [],
         'part': 'asia',
         'oaID': 0,
     },
@@ -124,6 +127,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [],
         'part': 'balkan',
         'oaID': 0,
     },
@@ -145,6 +149,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [],
         'part': 'balkan',
         'oaID': 124483,
     },
@@ -165,6 +170,7 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
+        'videos': [],
         'part': 'balkan',
         'oaID': 9962,
     }

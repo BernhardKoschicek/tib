@@ -1,6 +1,5 @@
 <header>
-  <nav role="navigation"
-       class="navbar navbar-expand-lg navbar-violet fixed-top navigation-tib">
+  <nav class="navbar navbar-expand-lg navbar-violet fixed-top navigation-tib">
     <div class="container-fluid">
       <div class="text-center float-start col-2 brand">
         <a href="{{ url_for('tib_home') }}">
@@ -25,10 +24,8 @@
           {% if CURRENT_LANGUAGE == language[0] %}
               <button type="button" class="btn btn-violet bg-violet btn-sm">{{ language[1] }}</button>
           {% else %}
-            <a type="button" href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none">
-              <button  class="btn btn-outline-violet btn-sm">
+            <a href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none btn btn-outline-violet btn-sm">
                 {{ language[1] }}
-              </button>
             </a>
           {%  endif %}
         {% endfor %}

@@ -1,4 +1,4 @@
-<nav role="navigation" class="navigation fixed-top ">
+<nav class="navigation fixed-top ">
   <div class="text-center float-end m-3 brand">
     <a href="{{ url_for('home') }}" class="text-decoration-none">
       <img class="brand-image"
@@ -10,7 +10,7 @@
         {% if CURRENT_LANGUAGE == language[0] %}
             <button type="button" class="btn btn-violet bg-violet btn-sm w-100">{{ language[1] }}</button>
         {% else %}
-          <a type="button" href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none w-100">
+          <a href="{{ url_for('set_language', language=language[0]) }}" class="text-decoration-none w-100">
             <button class="btn btn-outline-violet btn-sm w-100">
               {{ language[1] }}
             </button>

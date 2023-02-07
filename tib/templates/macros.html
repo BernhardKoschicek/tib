@@ -73,7 +73,7 @@
 <!-- Modal Button -->
 <a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ index }}"
    class="text-decoration-none">
-  <img class="img-fluid d-flex z-depth-1" #}
+  <img class="img-fluid d-flex z-depth-1"
        src="{{ url_for('static', filename=img_dict['path']) }}"
        alt="{{ img_dict['description'] }}">
   <p class="small text-center">{{ img_dict['description'] }}</p>
@@ -119,7 +119,7 @@
 <div role="button" class="card mb-3"
      data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
   {% if icon %}
-  <img class="img-fluid d-flex z-depth-1" #}
+  <img class="img-fluid d-flex z-depth-1"
        src="{{ url_for('static', filename=icon.path) }}"
        alt="{{ outreach.title }}">
   <small style="font-size: 0.6rem" class="pt-1 pe-1 text-end">
@@ -201,11 +201,11 @@
         </div>
         <div class="pt-5">
           {% for attach in outreach.attachment %}
-          {% if attach.type == 'pdf' %}
-          <embed
-            src="{{ url_for('static', filename=attach.path) }}#toolbar=1&navpanes=0"
-            width="100%" height="1100px"/>
-          {% endif %}
+            {% if attach.type == 'pdf' %}
+              <embed
+                src="{{ url_for('static', filename=attach.path) }}#toolbar=1&navpanes=0"
+                style="width:100%;height:1100px">
+            {% endif %}
           {% endfor %}
         </div>
       </div>

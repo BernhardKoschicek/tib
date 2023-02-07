@@ -1,5 +1,4 @@
-from flask import Response, redirect, render_template, session, url_for, \
-    request
+from flask import Response, redirect, render_template, session, request
 
 from tib import app
 from tib.data.images.history import tib_history_images

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-01-12 10:08+0100\n"
-"PO-Revision-Date: 2023-01-12 10:11+0100\n"
+"PO-Revision-Date: 2023-02-07 12:56+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -365,7 +365,7 @@ msgstr "For further information and the programme please cf."
 
 #: tib/data/outreach.py:110
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
-msgstr "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
+msgstr "Blogpost on the Paper 'OpenAtlas und historische Geographie'"
 
 #: tib/data/outreach.py:113
 msgid "hypotheses_post"
@@ -420,7 +420,7 @@ msgstr ""
 
 #: tib/data/outreach.py:163
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
-msgstr "TIB at the \"Lange Nacht der Forschung\" in Vienna"
+msgstr "TIB at the 'Lange Nacht der Forschung' in Vienna"
 
 #: tib/data/outreach.py:165
 msgid "lange_nacht_22_text"
@@ -441,15 +441,15 @@ msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
 msgstr ""
-"Presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
-"Networks and Transregional Contexts\""
+"Presentation at 'Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts'"
 
 #: tib/data/outreach.py:177
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
 "www.oeaw.ac.at/en/global-eurasia/detail/news-detail/handlungsspielraeume-"
-"netzwerke-und- transregionale-kontexte\" target=\"_blank\">“Global Eurasia – "
+"netzwerke-und-transregionale-kontexte\" target=\"_blank\">“Global Eurasia – "
 "Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
 "at the IMAFO (ÖAW)."
 

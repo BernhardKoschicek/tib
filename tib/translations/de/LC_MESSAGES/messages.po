@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-01-12 10:08+0100\n"
-"PO-Revision-Date: 2023-01-12 10:11+0100\n"
+"PO-Revision-Date: 2023-02-07 12:56+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -369,7 +369,7 @@ msgstr "Weitere Informationen und das Programm finden Sie hier"
 
 #: tib/data/outreach.py:110
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
-msgstr "Blogpost zum Paper \"OpenAtlas und historische Geographie\""
+msgstr "Blogpost zum Paper 'OpenAtlas und historische Geographie'"
 
 #: tib/data/outreach.py:113
 msgid "hypotheses_post"
@@ -424,7 +424,7 @@ msgstr ""
 
 #: tib/data/outreach.py:163
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
-msgstr "TIB bei der \"Langen Nacht der Forschung\" in Wien"
+msgstr "TIB bei der 'Langen Nacht der Forschung' in Wien"
 
 #: tib/data/outreach.py:165
 msgid "lange_nacht_22_text"
@@ -446,8 +446,8 @@ msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
 msgstr ""
-"Presentation bei \"Global Eurasia – Comparison and Connectivity II: Agency, "
-"Networks and Transregional Contexts\""
+"Präsentation bei 'Global Eurasia – Comparison and Connectivity II: Agency, "
+"Networks and Transregional Contexts'"
 
 #: tib/data/outreach.py:177
 msgid "global_eurasia_5_12_22"

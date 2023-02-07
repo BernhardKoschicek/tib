@@ -116,7 +116,7 @@
 
 {% macro outreach_modal(outreach, index, icon) %}
 <!-- Modal Button -->
-<div role="button" class="card mb-3"
+<div class="card mb-3"
      data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
   {% if icon %}
   <img class="img-fluid d-flex z-depth-1"
@@ -163,7 +163,7 @@
           {{ item | safe }}
         </p>
         {% endfor %}
-        <div id="carouselExampleControls" class="carousel slide col-8"
+        <div id="carouselExampleControls-{{ index }}" class="carousel slide col-8"
              data-bs-ride="carousel">
           <div class="carousel-indicators">
             {% for img in outreach_gallery if outreach.id in img.category %}
@@ -185,14 +185,14 @@
             {% endfor %}
           </div>
           <button class="carousel-control-prev" type="button"
-                  data-bs-target="#carouselExampleControls"
+                  data-bs-target="#carouselExampleControls-{{ index }}"
                   data-bs-slide="prev">
                 <span class="carousel-control-prev-icon"
                       aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
           </button>
           <button class="carousel-control-next" type="button"
-                  data-bs-target="#carouselExampleControls"
+                  data-bs-target="#carouselExampleControls-{{ index }}"
                   data-bs-slide="next">
                 <span class="carousel-control-next-icon"
                       aria-hidden="true"></span>

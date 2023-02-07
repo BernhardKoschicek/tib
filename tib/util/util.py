@@ -65,7 +65,7 @@ def format_link_text(link_: str, text: str) -> str:
 def youtube_iframe(link_: str) -> str:
     return '<iframe width="560" height="315" ' \
            f'src="{link_}" ' \
-           'title="YouTube video  player" frameborder="0" ' \
+           'title="YouTube video  player" ' \
            'allow="accelerometer; autoplay; clipboard-write;  ' \
            'encrypted-media; gyroscope; picture-in-picture" ' \
            'allowfullscreen></iframe>'

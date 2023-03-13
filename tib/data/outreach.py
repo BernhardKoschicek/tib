@@ -33,6 +33,25 @@ types = {
 }
 
 outreach = [{
+    'id': 'serbian_academy',
+    'type': types['presentation'],
+    'date': f"{get_dates_formatted(2023, 2, 22)}",
+    'who': [team['mpopovic']],
+    'title': _l('Presentation at the Serbian Academy of Sciences and Arts'),
+    'description': [
+        _l('Mihailo Popović was invited by the Institute for Byzantine '
+           'Studies of the Serbian Academy of Sciences and Arts to give a paper '
+           'entitled “Пројекат Tabula Imperii Byzantini: о будућности (?) '
+           'проучавања историјске географије Византије” [“The Project Tabula '
+           'Imperii Byzantini: on the Future (?) of the Research in the '
+           'Field of the Historical Geography of Byzantium”] on 22 February '
+           '2023 in Belgrade.')
+    ],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': '',
+        'type': ''}]
+},{
     'id': 'les_ciutats_mediterranies',
     'type': types['presentation'],
     'date': f"{get_dates_formatted(2022, 12, 15)}",

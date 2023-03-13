@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-03-13 09:35+0100\n"
-"PO-Revision-Date: 2023-03-13 09:36+0100\n"
+"POT-Creation-Date: 2023-03-13 12:58+0100\n"
+"PO-Revision-Date: 2023-03-13 12:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -270,11 +270,31 @@ msgid "blogpost"
 msgstr "blogpost"
 
 #: tib/data/outreach.py:40
-msgid "Presentation in Barcelona"
-msgstr "Presentation in Barcelona"
+msgid "Presentation at the Serbian Academy of Sciences and Arts"
+msgstr "Presentation at the Serbian Academy of Sciences and Arts"
 
 #: tib/data/outreach.py:42
 msgid ""
+"Mihailo Popović was invited by the Institute for Byzantine Studies of the "
+"Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
+"Imperii Byzantini: о будућности (?) проучавања историјске географије "
+"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
+"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
+"2023 in Belgrade."
+msgstr ""
+"Mihailo Popović was invited by the Institute for Byzantine Studies of the "
+"Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
+"Imperii Byzantini: о будућности (?) проучавања историјске географије "
+"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
+"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
+"2023 in Belgrade."
+
+#: tib/data/outreach.py:59
+msgid "Presentation in Barcelona"
+msgstr "Presentation in Barcelona"
+
+#: tib/data/outreach.py:61
+msgid ""
 "Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
 "Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
 "Byzantini and its Reconstruction Work of Late Antique and Medieval  "
@@ -287,11 +307,11 @@ msgstr ""
 "Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
 "in Barcelona, Spain, on 15 December 2022."
 
-#: tib/data/outreach.py:58
+#: tib/data/outreach.py:77
 msgid "Promotion Event for TIB 11"
 msgstr "Promotion Event for TIB 11"
 
-#: tib/data/outreach.py:60
+#: tib/data/outreach.py:79
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
@@ -301,36 +321,36 @@ msgstr ""
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 
-#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:84 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr "Date"
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:84
 msgid "Begin"
 msgstr "Begin"
 
-#: tib/data/outreach.py:66
+#: tib/data/outreach.py:85
 msgid "Venue"
 msgstr "Venue"
 
-#: tib/data/outreach.py:67
+#: tib/data/outreach.py:86
 msgid "1st Floor"
 msgstr "1st Floor"
 
-#: tib/data/outreach.py:67 tib/templates/footer.html:25
+#: tib/data/outreach.py:86 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Vienna"
 
-#: tib/data/outreach.py:68
+#: tib/data/outreach.py:87
 msgid "Registration"
 msgstr "Registration"
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:100
 msgid "Presentation in Leipzig"
 msgstr "Presentation in Leipzig"
 
-#: tib/data/outreach.py:83
+#: tib/data/outreach.py:102
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -346,11 +366,11 @@ msgstr ""
 "is based on scholarly results from the project <a href=\"subprojects/"
 "holdura\">“Beyond East and West (HOLDURA)”</a>"
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:114
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24th International Congress of Byzantine Studies in Venice and Padua"
 
-#: tib/data/outreach.py:99
+#: tib/data/outreach.py:118
 msgid "aieb_roundtable"
 msgstr ""
 "The “Commission for the Historical Geography and Spatial Analysis of Byzantium” "
@@ -364,15 +384,15 @@ msgstr ""
 "Interdisciplinary Gaps: New Ways of Making Connections” in Padua, which will be "
 "chaired by Professor Judith Herrin."
 
-#: tib/data/outreach.py:100
+#: tib/data/outreach.py:119
 msgid "For further information and the programme please cf."
 msgstr "For further information and the programme please cf."
 
-#: tib/data/outreach.py:110
+#: tib/data/outreach.py:129
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost on the Paper 'OpenAtlas und historische Geographie'"
 
-#: tib/data/outreach.py:113
+#: tib/data/outreach.py:132
 msgid "hypotheses_post"
 msgstr ""
 "The paper “OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -380,41 +400,41 @@ msgstr ""
 "St. Popović is presented and  commented in a blogpost by a student of the "
 "University of Cologne:"
 
-#: tib/data/outreach.py:122
+#: tib/data/outreach.py:141
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB volume 11, Macedonia, Southern Part published"
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:143
 msgid "tib_11_release"
 msgstr ""
 "It is with great pleasure that we may announce the publication of the TIB Volume "
 "11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
 "and Mihailo St. Popović as co-authors)."
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:144
 msgid "Cf. in detail:"
 msgstr "Cf. in detail:"
 
-#: tib/data/outreach.py:139
+#: tib/data/outreach.py:158
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
 
-#: tib/data/outreach.py:142
+#: tib/data/outreach.py:161
 msgid "imc2022"
 msgstr ""
 "During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
 "the team of the TIB Balkans will present its research in the sessions No. 1034, "
 "1134, 1234 and 1334 on Wednesday, 6 July."
 
-#: tib/data/outreach.py:143
+#: tib/data/outreach.py:162
 msgid "Cf. in detail"
 msgstr "Cf. in detail"
 
-#: tib/data/outreach.py:152
+#: tib/data/outreach.py:171
 msgid "presentation at university of cologne, germany"
 msgstr "Presentation at university of cologne, germany"
 
-#: tib/data/outreach.py:154
+#: tib/data/outreach.py:173
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
@@ -423,11 +443,11 @@ msgstr ""
 "href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</"
 "a>."
 
-#: tib/data/outreach.py:163
+#: tib/data/outreach.py:182
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB at the 'Lange Nacht der Forschung' in Vienna"
 
-#: tib/data/outreach.py:165
+#: tib/data/outreach.py:184
 msgid "lange_nacht_22_text"
 msgstr ""
 "In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
@@ -441,7 +461,7 @@ msgstr ""
 "holdura\">Beyond East and West: Geocommunicating the Sacred Landscapes of "
 "\"Duklja\" and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
 
-#: tib/data/outreach.py:174
+#: tib/data/outreach.py:193
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -449,7 +469,7 @@ msgstr ""
 "Presentation at 'Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts'"
 
-#: tib/data/outreach.py:177
+#: tib/data/outreach.py:196
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
@@ -458,7 +478,7 @@ msgstr ""
 "Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
 "at the IMAFO (ÖAW)."
 
-#: tib/data/outreach.py:185
+#: tib/data/outreach.py:204
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -466,7 +486,7 @@ msgstr ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
 
-#: tib/data/outreach.py:188
+#: tib/data/outreach.py:207
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "

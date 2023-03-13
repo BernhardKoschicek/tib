@@ -6,7 +6,7 @@ objects3d = {
             'The following objects were created within the project <a href="../subprojekte/montenegro">"Cultural heritage in the period of the First World War: the case of the Austro-Hungarian relief map of Montenegro (1916-1918)"</a>.'),
         'models': {
             "montenegro-relief": {
-                "title": ("Relief Map of Montenegro"),
+                "title": _l("relief map of Montenegro"),
                 "icon": "images/boxes_background/cetinje_relief_icon.jpg",
                 "icon_description": _l(
                     "The Austro-Hungarian Relief Map of Montenegro (1917/18, M. Hernández Cordero, 2021)"),

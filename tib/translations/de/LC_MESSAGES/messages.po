@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-03-13 12:58+0100\n"
-"PO-Revision-Date: 2023-03-13 12:59+0100\n"
+"PO-Revision-Date: 2023-03-28 14:19+0200\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -275,7 +275,7 @@ msgstr "Blog Post"
 
 #: tib/data/outreach.py:40
 msgid "Presentation at the Serbian Academy of Sciences and Arts"
-msgstr "Präsentation in der Serbischen Akademie der Wissenschaften und Künste"
+msgstr "Präsentation an der Serbischen Akademie der Wissenschaften und Künste"
 
 #: tib/data/outreach.py:42
 msgid ""
@@ -6653,7 +6653,7 @@ msgstr "Toponymregister"
 #: tib/templates/tib/frontpage/frontpage.html:2
 #: tib/templates/tib/frontpage/frontpage.html:9
 msgid "TIB"
-msgstr "Tablua Imperii Byzantini"
+msgstr "Tabula Imperii Byzantini"
 
 #: tib/templates/tib/frontpage/frontpage.html:8
 msgid "Long-Term Project"

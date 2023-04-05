@@ -276,7 +276,7 @@ project_results = {
             {
                 'label': _l('Final project report'),
                 'link': None,
-                'file': 'digtib/MPopovic_Abschlußbericht_OENB17771.pdf',
+                'file': 'digtib/MPopovic_Abschlussbericht_OENB17771.pdf',
                 'icon': 'bi bi-journals',
             },
             {

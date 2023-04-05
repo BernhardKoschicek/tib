@@ -48,7 +48,7 @@ def format_link(link_: str) -> str:
 def format_video_tag(src: str) -> str:
     return f"""
         <div class="col align-self-center text-center">
-            <video loop muted autoplay controls>
+            <video preload loop muted autoplay controls>
                 <source
                     src="/static/video/{src}"
                     type="video/mp4">

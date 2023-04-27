@@ -40,7 +40,7 @@ tib_team_data = {
         'titles': ['Priv.-Doz.', 'Dr. phil.', 'Mag.'],
         'description':  _l('Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction (University of Vienna, 2000); Dr. phil. with highest distinction (University of Vienna, 2005); Unanimous decision to be granted a licence to teach "History of South-East Europe and Byzantine Studies" (University of Vienna, 2011); 2017-2022: Chair of the "Commission for the Historical Geography and Spatial Analysis of Byzantium" at the International Association of Byzantine Studies (AIEB). Research Interests: History and Culture of South Eastern Europe (7th-16th Centuries), Late Byzantine History (1204-1453), Gender Studies, Historical Geography and Cartography of the Mediterranean, Digital Humanities and Historical Geographic Information Systems (HGIS)'),
         'email': 'Mihailo.Popovic@oeaw.ac.at',
-        'image': f'{path}/mihailo.jpg',
+        'image': f'{path}/mpopovic.png',
         'academia': 'https://oeaw.academia.edu/MihailoPopovic'
     },
     'bkoschicek': {

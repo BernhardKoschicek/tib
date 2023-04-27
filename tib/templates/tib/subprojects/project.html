@@ -74,15 +74,15 @@
     {% if project.videos %}
     <div class="row pt-5 justify-content-center">
         {% for video in project.videos %}
-        <div class="col-8 ">
+        <div class="col-8 justify-content-center text-center align-content-center align-items-center">
             {{ video | safe}}
         </div>
         {% endfor %}
     </div>
     {% endif %}
     {% if results %}
-    <h4 id="resultate" class="pt-5 text-center"><a href="#resultate"
-                                                   class="text-decoration-none">{{_('Results')}}</a>
+    <h4 id="resultate" class="pt-5 text-center">
+        <a href="#resultate" class="text-decoration-none">{{_('Results')}}</a>
     </h4>
     {% for text in results['text'] %}
     <p>{{ text | safe }}</p>
@@ -116,14 +116,14 @@
     {% endif %}
 
     {% if publications %}
-    <h4 id="publications" class="pt-5 text-center"><a href="#publications"
-                                                      class="text-decoration-none">{{_('Publications')}}</a>
+    <h4 id="publications" class="pt-5 text-center">
+        <a href="#publications" class="text-decoration-none">{{_('Publications')}}</a>
     </h4>
     {{ create_table(publications, 'publications', 3) }}
     {% endif %}
     {% if presentations %}
-    <h4 id="presentations" class="pt-5 text-center"><a href="#presentations"
-                                                       class="text-decoration-none">{{_('Presentations')}}</a>
+    <h4 id="presentations" class="pt-5 text-center">
+        <a href="#presentations" class="text-decoration-none">{{_('Presentations')}}</a>
     </h4>
     {{ create_table(presentations, 'presentations', 4) }}
     {% endif %}

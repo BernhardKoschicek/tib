@@ -171,7 +171,7 @@ outreach = [{
     'title': _l('presentation at university of cologne, germany'),
     'description': [
         _l('seminar_koeln'),
-        youtube_iframe('https://www.youtube.com/embed/cmJo9N05WY4')],
+        youtube_iframe('https://www.youtube-nocookie.com/embed/cmJo9N05WY4')],
     'category': ['tib', 'balkan'],
     'attachment': []
 }, {
@@ -182,7 +182,7 @@ outreach = [{
     'title': _l('TIB at the "Lange Nacht der Forschung" in Vienna'),
     'description': [
         _l('lange_nacht_22_text'),
-        format_video_tag('BEW_Lange_Nacht_der_Forschung_2022.mp4')],
+        youtube_iframe('https://www.youtube-nocookie.com/embed/Nhdx2OeWkN8')],
     'category': ['tib', 'balkan'],
     'attachment': []
 }, {

@@ -80,8 +80,8 @@ def balkan_subprojects(project: str = None) -> str:
             publications=get_dict_entries_by_category(
                 project,
                 project_publications),
-            images=get_dict_entries_by_category(project, IMAGES_SUB),
             results=project_results[project],
+            images=get_dict_entries_by_category(project, IMAGES_SUB),
             layout='balkan')
     return render_template(
         'balkan/subprojects/subproject_overview.html',

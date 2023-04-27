@@ -2,8 +2,7 @@ from flask_babel import lazy_gettext as _
 
 from tib.data.institutes import institutes
 from tib.data.team import tib_team_data
-from tib.util.util import get_dates_formatted, format_video_tag
-
+from tib.util.util import get_dates_formatted, youtube_iframe
 
 PATH = 'images/icons/'
 
@@ -80,7 +79,8 @@ subprojects = {
         'presentations': [],
         'publications': [],
         'outreach': [],
-        'videos': [format_video_tag('BEW_Lange_Nacht_der_Forschung_2022.mp4')],
+        'videos': [
+            youtube_iframe('https://www.youtube-nocookie.com/embed/Nhdx2OeWkN8')],
         'part': 'balkan',
         'oaID': 117730,
     },
@@ -235,7 +235,7 @@ project_results = {
             },
         ]
     },
-    'borderzones':  {
+    'borderzones': {
         'text': [],
         'list': [],
         'icons': [

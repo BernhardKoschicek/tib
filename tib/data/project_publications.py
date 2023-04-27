@@ -62,7 +62,7 @@ project_publications = [
         "pages": "179-199",
         "category": ['borderzones'],
         "external_link": '',
-        "download": 'MPopovicVZervanTFiliposkiVerhältnisHerrschertitelRäumeMakedonien.pdf'
+        "download": 'MPopovicVZervanTFiliposkiVerhaeltnisHerrschertitelRaeumeMakedonien.pdf'
     }, {
         "author": "Vratislav Zervan",
         "title": "Prosopographische Bemerkungen zu einer Grenzregion in Zeiten der Krise: Herausragende Akteure und Opfer nach den Eroberungszügen des serbischen Königs Stefan Uroš II. Milutin im byzantinischen Makedonien. Byzantinoslovaca 7 [Zborník k životnému jubileu profesora Miroslava Daniša]",

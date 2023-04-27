@@ -32,6 +32,12 @@ gallery_outreach = [
     }, ]
 
 icons_outreach = {
+    'serbian_academy': {
+        'path': f'{icon_path_outreach}serbian_academy.jpg',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'histgeo_leipzig_22': {
         'path': f'{icon_path_outreach}histgeo_leipzig_22.jpg',
         'license': '',

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-12 10:08+0100\n"
-"PO-Revision-Date: 2023-02-07 12:56+0100\n"
+"POT-Creation-Date: 2023-03-13 12:58+0100\n"
+"PO-Revision-Date: 2023-03-13 12:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 "X-Generator: Poedit 3.2.2\n"
 
 #: tib/data/digital.py:5
@@ -28,6 +28,10 @@ msgstr ""
 "The following objects were created within the project <a href=\"../subprojekte/"
 "montenegro\">\"Cultural heritage in the period of the First World War: the case "
 "of the Austro-Hungarian relief map of Montenegro (1916-1918)\"</a>."
+
+#: tib/data/digital.py:9 tib/data/subprojects.py:224
+msgid "relief map of Montenegro"
+msgstr "Relief map of Montenegro"
 
 #: tib/data/digital.py:11
 msgid ""
@@ -228,7 +232,8 @@ msgid "Graphical map application to access, browse and query data from TIB Balka
 msgstr ""
 "Graphical map application to access, browse and query data from TIB Balkans"
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:231
+#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:230
+#: tib/data/subprojects.py:254
 msgid "browse_tib_balkans_data"
 msgstr "Browse TIB Balkans Data"
 
@@ -265,11 +270,31 @@ msgid "blogpost"
 msgstr "blogpost"
 
 #: tib/data/outreach.py:40
-msgid "Presentation in Barcelona"
-msgstr "Presentation in Barcelona"
+msgid "Presentation at the Serbian Academy of Sciences and Arts"
+msgstr "Presentation at the Serbian Academy of Sciences and Arts"
 
 #: tib/data/outreach.py:42
 msgid ""
+"Mihailo Popović was invited by the Institute for Byzantine Studies of the "
+"Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
+"Imperii Byzantini: о будућности (?) проучавања историјске географије "
+"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
+"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
+"2023 in Belgrade."
+msgstr ""
+"Mihailo Popović was invited by the Institute for Byzantine Studies of the "
+"Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
+"Imperii Byzantini: о будућности (?) проучавања историјске географије "
+"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
+"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
+"2023 in Belgrade."
+
+#: tib/data/outreach.py:59
+msgid "Presentation in Barcelona"
+msgstr "Presentation in Barcelona"
+
+#: tib/data/outreach.py:61
+msgid ""
 "Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
 "Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
 "Byzantini and its Reconstruction Work of Late Antique and Medieval  "
@@ -282,11 +307,11 @@ msgstr ""
 "Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
 "in Barcelona, Spain, on 15 December 2022."
 
-#: tib/data/outreach.py:58
+#: tib/data/outreach.py:77
 msgid "Promotion Event for TIB 11"
 msgstr "Promotion Event for TIB 11"
 
-#: tib/data/outreach.py:60
+#: tib/data/outreach.py:79
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
@@ -296,36 +321,36 @@ msgstr ""
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 
-#: tib/data/outreach.py:65 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:84 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr "Date"
 
-#: tib/data/outreach.py:65
+#: tib/data/outreach.py:84
 msgid "Begin"
 msgstr "Begin"
 
-#: tib/data/outreach.py:66
+#: tib/data/outreach.py:85
 msgid "Venue"
 msgstr "Venue"
 
-#: tib/data/outreach.py:67
+#: tib/data/outreach.py:86
 msgid "1st Floor"
 msgstr "1st Floor"
 
-#: tib/data/outreach.py:67 tib/templates/footer.html:25
+#: tib/data/outreach.py:86 tib/templates/footer.html:25
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Vienna"
 
-#: tib/data/outreach.py:68
+#: tib/data/outreach.py:87
 msgid "Registration"
 msgstr "Registration"
 
-#: tib/data/outreach.py:81
+#: tib/data/outreach.py:100
 msgid "Presentation in Leipzig"
 msgstr "Presentation in Leipzig"
 
-#: tib/data/outreach.py:83
+#: tib/data/outreach.py:102
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -341,11 +366,11 @@ msgstr ""
 "is based on scholarly results from the project <a href=\"subprojects/"
 "holdura\">“Beyond East and West (HOLDURA)”</a>"
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:114
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24th International Congress of Byzantine Studies in Venice and Padua"
 
-#: tib/data/outreach.py:99
+#: tib/data/outreach.py:118
 msgid "aieb_roundtable"
 msgstr ""
 "The “Commission for the Historical Geography and Spatial Analysis of Byzantium” "
@@ -359,15 +384,15 @@ msgstr ""
 "Interdisciplinary Gaps: New Ways of Making Connections” in Padua, which will be "
 "chaired by Professor Judith Herrin."
 
-#: tib/data/outreach.py:100
+#: tib/data/outreach.py:119
 msgid "For further information and the programme please cf."
 msgstr "For further information and the programme please cf."
 
-#: tib/data/outreach.py:110
+#: tib/data/outreach.py:129
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost on the Paper 'OpenAtlas und historische Geographie'"
 
-#: tib/data/outreach.py:113
+#: tib/data/outreach.py:132
 msgid "hypotheses_post"
 msgstr ""
 "The paper “OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -375,41 +400,41 @@ msgstr ""
 "St. Popović is presented and  commented in a blogpost by a student of the "
 "University of Cologne:"
 
-#: tib/data/outreach.py:122
+#: tib/data/outreach.py:141
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB volume 11, Macedonia, Southern Part published"
 
-#: tib/data/outreach.py:124
+#: tib/data/outreach.py:143
 msgid "tib_11_release"
 msgstr ""
 "It is with great pleasure that we may announce the publication of the TIB Volume "
 "11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
 "and Mihailo St. Popović as co-authors)."
 
-#: tib/data/outreach.py:125
+#: tib/data/outreach.py:144
 msgid "Cf. in detail:"
 msgstr "Cf. in detail:"
 
-#: tib/data/outreach.py:139
+#: tib/data/outreach.py:158
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
 
-#: tib/data/outreach.py:142
+#: tib/data/outreach.py:161
 msgid "imc2022"
 msgstr ""
 "During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
 "the team of the TIB Balkans will present its research in the sessions No. 1034, "
 "1134, 1234 and 1334 on Wednesday, 6 July."
 
-#: tib/data/outreach.py:143
+#: tib/data/outreach.py:162
 msgid "Cf. in detail"
 msgstr "Cf. in detail"
 
-#: tib/data/outreach.py:152
+#: tib/data/outreach.py:171
 msgid "presentation at university of cologne, germany"
 msgstr "Presentation at university of cologne, germany"
 
-#: tib/data/outreach.py:154
+#: tib/data/outreach.py:173
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
@@ -418,11 +443,11 @@ msgstr ""
 "href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</"
 "a>."
 
-#: tib/data/outreach.py:163
+#: tib/data/outreach.py:182
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB at the 'Lange Nacht der Forschung' in Vienna"
 
-#: tib/data/outreach.py:165
+#: tib/data/outreach.py:184
 msgid "lange_nacht_22_text"
 msgstr ""
 "In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
@@ -436,7 +461,7 @@ msgstr ""
 "holdura\">Beyond East and West: Geocommunicating the Sacred Landscapes of "
 "\"Duklja\" and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
 
-#: tib/data/outreach.py:174
+#: tib/data/outreach.py:193
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -444,7 +469,7 @@ msgstr ""
 "Presentation at 'Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts'"
 
-#: tib/data/outreach.py:177
+#: tib/data/outreach.py:196
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
@@ -453,7 +478,7 @@ msgstr ""
 "Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
 "at the IMAFO (ÖAW)."
 
-#: tib/data/outreach.py:185
+#: tib/data/outreach.py:204
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -461,7 +486,7 @@ msgstr ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
 
-#: tib/data/outreach.py:188
+#: tib/data/outreach.py:207
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "
@@ -1060,7 +1085,7 @@ msgstr "Univ. Prof. Dr. Alexander Beihammer, University of Notre Dame"
 msgid "Dr. Myrto Veikou, Uppsala University"
 msgstr "Dr. Myrto Veikou, Uppsala University"
 
-#: tib/data/subprojects.py:61
+#: tib/data/subprojects.py:62
 msgid ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and "
 "“Raška” through Space and Time (11th-14th Cent.)"
@@ -1068,7 +1093,7 @@ msgstr ""
 "Beyond East and West: Geocommunicating the Sacred Landscapes of “Duklja” and "
 "“Raška” through Space and Time (11th-14th Cent.)"
 
-#: tib/data/subprojects.py:76
+#: tib/data/subprojects.py:77
 msgid ""
 "Läßt sich im jetzigen Montenegro eine „heilige Landschaft“ aus mittelalterlichen "
 "Kirchen und Klöstern rekonstruieren?"
@@ -1076,11 +1101,11 @@ msgstr ""
 "Can a \"sacred landscape\" of medieval churches and monasteries be reconstructed "
 "in the present Montenegro?"
 
-#: tib/data/subprojects.py:85
+#: tib/data/subprojects.py:87
 msgid "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 msgstr "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 
-#: tib/data/subprojects.py:105
+#: tib/data/subprojects.py:108
 msgid ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
@@ -1088,7 +1113,7 @@ msgstr ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
 
-#: tib/data/subprojects.py:112
+#: tib/data/subprojects.py:115
 msgid ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
@@ -1096,7 +1121,7 @@ msgstr ""
 "University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
 "Montenegro)"
 
-#: tib/data/subprojects.py:113
+#: tib/data/subprojects.py:116
 msgid ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
@@ -1104,13 +1129,13 @@ msgstr ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 
-#: tib/data/subprojects.py:114
+#: tib/data/subprojects.py:117
 msgid ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 msgstr ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 
-#: tib/data/subprojects.py:121
+#: tib/data/subprojects.py:124
 msgid ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im Ersten "
 "Weltkrieg?"
@@ -1118,7 +1143,7 @@ msgstr ""
 "What remained of the Austro-Hungarian occupation of Montenegro during the First "
 "World War?"
 
-#: tib/data/subprojects.py:131
+#: tib/data/subprojects.py:135
 msgid ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
@@ -1126,7 +1151,7 @@ msgstr ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
 
-#: tib/data/subprojects.py:142
+#: tib/data/subprojects.py:146
 msgid ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung von "
 "Kulturdenkmälern auf der Balkanhalbinsel?"
@@ -1134,7 +1159,7 @@ msgstr ""
 "What contribution does the TIB Balkan make to the documentation and preservation "
 "of cultural monuments on the Balkan Peninsula?"
 
-#: tib/data/subprojects.py:152
+#: tib/data/subprojects.py:157
 msgid ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
@@ -1142,7 +1167,7 @@ msgstr ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
 
-#: tib/data/subprojects.py:162
+#: tib/data/subprojects.py:167
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien während "
 "des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
@@ -1150,13 +1175,13 @@ msgstr ""
 "Where and how did people live in the historical landscape of Macedonia during "
 "the Byzantine-Serbian conflict in the 14th century?"
 
-#: tib/data/subprojects.py:177
+#: tib/data/subprojects.py:183
 msgid ""
 "Establishment of contacts with scientists, archives and museums in Montenegro"
 msgstr ""
 "Establishment of contacts with scientists, archives and museums in Montenegro"
 
-#: tib/data/subprojects.py:178
+#: tib/data/subprojects.py:184
 msgid ""
 "Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
 "(1916-1918)"
@@ -1164,7 +1189,7 @@ msgstr ""
 "Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
 "(1916-1918)"
 
-#: tib/data/subprojects.py:179
+#: tib/data/subprojects.py:185
 msgid ""
 "Raising awareness among the Austrian public by publishing the first results in "
 "the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
@@ -1178,7 +1203,7 @@ msgstr ""
 "fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
 "target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
 
-#: tib/data/subprojects.py:180
+#: tib/data/subprojects.py:186
 msgid ""
 "3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
 "project team"
@@ -1186,7 +1211,7 @@ msgstr ""
 "3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
 "project team"
 
-#: tib/data/subprojects.py:181
+#: tib/data/subprojects.py:187
 msgid ""
 "Georeferencing the 3D model and inserting it as a layer in the web application "
 "<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
@@ -1198,7 +1223,7 @@ msgstr ""
 "Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
 "Balkans)</a>."
 
-#: tib/data/subprojects.py:182
+#: tib/data/subprojects.py:188
 msgid ""
 "Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
 "Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
@@ -1208,7 +1233,7 @@ msgstr ""
 "Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
 "Time (11th-14th Cent.)/HOLDURA“</a>"
 
-#: tib/data/subprojects.py:183
+#: tib/data/subprojects.py:189
 msgid ""
 "Joint scientific article of the Austrian and Montenegrin project teams entitled "
 "\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
@@ -1222,7 +1247,7 @@ msgstr ""
 "Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
 "reihe-memo_quer/\">MEMO_quer</a> during 2022."
 
-#: tib/data/subprojects.py:184
+#: tib/data/subprojects.py:190
 msgid ""
 "Presentation of the 3D model of the relief map to the National Museum of "
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
@@ -1232,20 +1257,20 @@ msgstr ""
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 
-#: tib/data/subprojects.py:188 tib/data/subprojects.py:219
-#: tib/data/subprojects.py:254
+#: tib/data/subprojects.py:194 tib/data/subprojects.py:242
+#: tib/data/subprojects.py:277
 msgid "Final project report"
 msgstr "Final project report"
 
-#: tib/data/subprojects.py:200
+#: tib/data/subprojects.py:206
 msgid "Project"
 msgstr "Project"
 
-#: tib/data/subprojects.py:206
+#: tib/data/subprojects.py:212
 msgid "Relief Map"
 msgstr "Relief Map"
 
-#: tib/data/subprojects.py:242
+#: tib/data/subprojects.py:265
 msgid ""
 "The total number of slides to be scanned and processed in the project by the "
 "research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
@@ -1259,7 +1284,7 @@ msgstr ""
 "out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
 "and student employees."
 
-#: tib/data/subprojects.py:243
+#: tib/data/subprojects.py:266
 msgid ""
 "The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
 "to World Heritage\" has addressed the three above-mentioned case studies with "
@@ -1275,7 +1300,7 @@ msgstr ""
 "after state). This created a structured and efficient workflow and best practice "
 "in this field of Historical Geography and Digital Humanities."
 
-#: tib/data/subprojects.py:244
+#: tib/data/subprojects.py:267
 msgid ""
 "Furthermore, Veronika Polloczek has successfully applied for and defended a "
 "dissertation topic at the University of Vienna with the working title \"From the "
@@ -1291,13 +1316,13 @@ msgstr ""
 "by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
 "as a private lecturer at the University of Vienna."
 
-#: tib/data/subprojects.py:245
+#: tib/data/subprojects.py:268
 msgid ""
 "During the term of the research project, the following results were obtained:"
 msgstr ""
 "During the term of the research project, the following results were obtained:"
 
-#: tib/data/subprojects.py:248
+#: tib/data/subprojects.py:271
 msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
@@ -1307,7 +1332,7 @@ msgstr ""
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
 
-#: tib/data/subprojects.py:249
+#: tib/data/subprojects.py:272
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1339,7 +1364,7 @@ msgstr ""
 "pages in the list that lead to a lemma in the respective volume are highlighted "
 "in bold."
 
-#: tib/data/subprojects.py:250
+#: tib/data/subprojects.py:273
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1351,7 +1376,7 @@ msgstr ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 
-#: tib/data/subprojects.py:266
+#: tib/data/subprojects.py:289
 msgid "Image Collection"
 msgstr "Image Collection"
 
@@ -5015,21 +5040,21 @@ msgstr ""
 "Detail of the Relief Map of Montenegro in the Courtyard of the Museum Biljarda "
 "(Cetinje)"
 
-#: tib/data/images/subprojects.py:13
+#: tib/data/images/subprojects.py:14
 msgid ""
 "Pavilion of the Relief Map in the Courtyard of the Museum Biljarda (Cetinje)"
 msgstr ""
 "Pavilion of the Relief Map in the Courtyard of the Museum Biljarda (Cetinje)"
 
-#: tib/data/images/subprojects.py:18
+#: tib/data/images/subprojects.py:20
 msgid "The Bay of Budva in Montenegro"
 msgstr "The Bay of Budva in Montenegro"
 
-#: tib/data/images/subprojects.py:23
+#: tib/data/images/subprojects.py:25
 msgid "Aerial Photo of Montenegro"
 msgstr "Aerial Photo of Montenegro"
 
-#: tib/data/images/subprojects.py:29
+#: tib/data/images/subprojects.py:31
 msgid ""
 "The pavilion where the relief map of Montenegro is now located, Cetinje, "
 "Republic of Montenegro"
@@ -5037,13 +5062,13 @@ msgstr ""
 "The pavilion where the relief map of Montenegro is now located, Cetinje, "
 "Republic of Montenegro"
 
-#: tib/data/images/subprojects.py:37
+#: tib/data/images/subprojects.py:39
 msgid ""
 "The Bay of Kotor on the relief map of Montenegro, Cetinje, Republic of Montenegro"
 msgstr ""
 "The Bay of Kotor on the relief map of Montenegro, Cetinje, Republic of Montenegro"
 
-#: tib/data/images/subprojects.py:45
+#: tib/data/images/subprojects.py:47
 msgid ""
 "The relief map of Montenegro, in the foreground Lake Skadar, Cetinje, Republic "
 "of Montenegro"
@@ -5051,11 +5076,11 @@ msgstr ""
 "The relief map of Montenegro, in the foreground Lake Skadar, Cetinje, Republic "
 "of Montenegro"
 
-#: tib/data/images/subprojects.py:53
+#: tib/data/images/subprojects.py:55
 msgid "The 3D model of the relief map of Montenegro"
 msgstr "The 3D model of the relief map of Montenegro"
 
-#: tib/data/images/subprojects.py:59
+#: tib/data/images/subprojects.py:61
 msgid ""
 "The 3D model of the relief map of Montenegro as a layer in the \"Maps of Power\" "
 "web application"
@@ -5063,7 +5088,7 @@ msgstr ""
 "The 3D model of the relief map of Montenegro as a layer in the \"Maps of Power\" "
 "web application"
 
-#: tib/data/images/subprojects.py:69
+#: tib/data/images/subprojects.py:71
 msgid ""
 "Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from "
 "Different Authors"
@@ -5071,33 +5096,33 @@ msgstr ""
 "Interpretation of the Byzantino-Serbian Border between 1228 and 1334 from "
 "Different Authors"
 
-#: tib/data/images/subprojects.py:74
+#: tib/data/images/subprojects.py:77
 msgid "Fortifications in the Northern Macedonian Region in the 13/14th century"
 msgstr "Fortifications in the Northern Macedonian Region in the 13/14th century"
 
-#: tib/data/images/subprojects.py:79
+#: tib/data/images/subprojects.py:83
 msgid "Road Model based on a k. u k. Marching Map"
 msgstr "Road Model based on a k. u k. Marching Map"
 
-#: tib/data/images/subprojects.py:84
+#: tib/data/images/subprojects.py:88
 msgid ""
 "Markovi Kuli Castle near Prilep from the south, Republic of Northern Macedonia"
 msgstr ""
 "Markovi Kuli Castle near Prilep from the south, Republic of Northern Macedonia"
 
-#: tib/data/images/subprojects.py:90
+#: tib/data/images/subprojects.py:95
 msgid "The Kale elevation in Skopje, Republic of Northern Macedonia"
 msgstr "The Kale elevation in Skopje, Republic of Northern Macedonia"
 
-#: tib/data/images/subprojects.py:96
+#: tib/data/images/subprojects.py:102
 msgid "The old city gate of Ohrid, Republic of Northern Macedonia"
 msgstr "The old city gate of Ohrid, Republic of Northern Macedonia"
 
-#: tib/data/images/subprojects.py:102
+#: tib/data/images/subprojects.py:109
 msgid "Ohrid and Samuilova tvrdina Castle, Republic of Northern Macedonia"
 msgstr "Ohrid and Samuilova tvrdina Castle, Republic of Northern Macedonia"
 
-#: tib/data/images/subprojects.py:110
+#: tib/data/images/subprojects.py:118
 msgid ""
 "Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 1920/30. "
 "Cross-domed church with naos, narthex and exonarthex added in the 16th century"
@@ -5105,7 +5130,7 @@ msgstr ""
 "Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 1920/30. "
 "Cross-domed church with naos, narthex and exonarthex added in the 16th century"
 
-#: tib/data/images/subprojects.py:115
+#: tib/data/images/subprojects.py:124
 msgid ""
 "Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 2010. cross-"
 "domed church with rebuilt exonarthex"
@@ -5113,31 +5138,31 @@ msgstr ""
 "Lesnovo, Monastery of St. Archangel Michael and St. Hermit Gabriel 2010. Cross-"
 "domed church with rebuilt exonarthex"
 
-#: tib/data/images/subprojects.py:120
-msgid ""
-"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the locals "
-"after the end of the Roman Empire due to executions of Christians by the Romans"
-msgstr ""
-"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the locals "
-"after the end of the Roman Empire due to executions of Christians by the Romans"
-
-#: tib/data/images/subprojects.py:125
-msgid ""
-"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the 1980s "
-"onwards"
-msgstr ""
-"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the 1980s "
-"onwards"
-
 #: tib/data/images/subprojects.py:130
 msgid ""
+"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the locals "
+"after the end of the Roman Empire due to executions of Christians by the Romans"
+msgstr ""
+"Ohrid, Ancient Theatre 1988. Ancient theatre in Ohrid, abandoned by the locals "
+"after the end of the Roman Empire due to executions of Christians by the Romans"
+
+#: tib/data/images/subprojects.py:136
+msgid ""
+"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the 1980s "
+"onwards"
+msgstr ""
+"Ohrid, Ancient Theatre 2008. Gradual renovation of the theatre from the 1980s "
+"onwards"
+
+#: tib/data/images/subprojects.py:142
+msgid ""
 "The Cilician Gate (Pylai Kilikias) as the most important connection between "
 "Cilicia and the highlands in Anatolia"
 msgstr ""
 "The Cilician Gate (Pylai Kilikias) as the most important connection between "
 "Cilicia and the highlands in Anatolia"
 
-#: tib/data/images/subprojects.py:135
+#: tib/data/images/subprojects.py:148
 msgid ""
 "Pylai Kilikias 2016. From the 1970s onwards, massive damage to the Cilician Gate "
 "for the purpose of widening the roadway as part of road construction works"
@@ -5145,7 +5170,7 @@ msgstr ""
 "Pylai Kilikias 2016. From the 1970s onwards, massive damage to the Cilician Gate "
 "for the purpose of widening the roadway as part of road construction works"
 
-#: tib/data/images/subprojects.py:140
+#: tib/data/images/subprojects.py:154
 msgid ""
 "Euboia, Panagia Monomeritissa 1967. Extension to the church of the monastery of "
 "Eria, which also served as a dwelling house"
@@ -5153,35 +5178,35 @@ msgstr ""
 "Euboia, Panagia Monomeritissa 1967. Extension to the church of the monastery of "
 "Eria, which also served as a dwelling house"
 
-#: tib/data/images/subprojects.py:145
+#: tib/data/images/subprojects.py:160
 msgid "Euboia, Panagia Monomeritissa 1972. Deconstruction of this annexe in 1972"
 msgstr "Euboia, Panagia Monomeritissa 1972. Deconstruction of this annexe in 1972"
 
-#: tib/data/images/subprojects.py:151
+#: tib/data/images/subprojects.py:167
 msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 1970"
 msgstr "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 1970"
 
-#: tib/data/images/subprojects.py:157
+#: tib/data/images/subprojects.py:174
 msgid "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 2010"
 msgstr "The town of Melnik in south-west Bulgaria, Republic of Bulgaria, 2010"
 
-#: tib/data/images/subprojects.py:163
+#: tib/data/images/subprojects.py:181
 msgid "The monastery church of the Rila Monastery, Republic of Bulgaria, 1977"
 msgstr "The monastery church of the Rila Monastery, Republic of Bulgaria, 1977"
 
-#: tib/data/images/subprojects.py:169
+#: tib/data/images/subprojects.py:188
 msgid "The monastery church of the Rila Monastery, Republic of Bulgaria,2014"
 msgstr "The monastery church of the Rila Monastery, Republic of Bulgaria,2014"
 
-#: tib/data/images/subprojects.py:175
+#: tib/data/images/subprojects.py:195
 msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 1968"
 msgstr "The bay near the town of Ohrid, Republic of Northern Macedonia, 1968"
 
-#: tib/data/images/subprojects.py:181
+#: tib/data/images/subprojects.py:202
 msgid "The bay near the town of Ohrid, Republic of Northern Macedonia, 2017"
 msgstr "The bay near the town of Ohrid, Republic of Northern Macedonia, 2017"
 
-#: tib/data/images/subprojects.py:190
+#: tib/data/images/subprojects.py:212
 msgid ""
 "Bird's eye view of the Doclea archaeological excavation, A: Basilica A, B: "
 "Basilica B and cruciform church, Republic of Montenegro"
@@ -5189,7 +5214,7 @@ msgstr ""
 "Bird's eye view of the Doclea archaeological excavation, A: Basilica A, B: "
 "Basilica B and cruciform church, Republic of Montenegro"
 
-#: tib/data/images/subprojects.py:195
+#: tib/data/images/subprojects.py:218
 msgid ""
 "Bird's eye view of the Doclea archaeological excavation, the western part of the "
 "city in the foreground, Republic of Montenegro"
@@ -5197,7 +5222,7 @@ msgstr ""
 "Bird's eye view of the Doclea archaeological excavation, the western part of the "
 "city in the foreground, Republic of Montenegro"
 
-#: tib/data/images/subprojects.py:200
+#: tib/data/images/subprojects.py:224
 msgid ""
 "The monastery of Sveti Nikola Vranjina (in the centre of the picture) on Lake "
 "Skadar, Republic of Montenegro"
@@ -5205,7 +5230,7 @@ msgstr ""
 "The monastery of Sveti Nikola Vranjina (in the centre of the picture) on Lake "
 "Skadar, Republic of Montenegro"
 
-#: tib/data/images/subprojects.py:205
+#: tib/data/images/subprojects.py:230
 msgid ""
 "The former Latin (Catholic) monastery of Ratac from the 12th/13th century near "
 "the town of Bar, Republic of Montenegro."
@@ -5436,7 +5461,7 @@ msgstr "Austria"
 msgid "Europe"
 msgstr "Europe"
 
-#: tib/templates/footer.html:46 tib/templates/tib/imprint.html:2
+#: tib/templates/footer.html:44 tib/templates/tib/imprint.html:2
 #: tib/templates/tib/imprint.html:6
 msgid "imprint"
 msgstr "Imprint"
@@ -6875,7 +6900,7 @@ msgstr ""
 
 #: tib/templates/tib/publications/publications.html:2
 #: tib/templates/tib/publications/publications.html:6
-#: tib/templates/tib/subprojects/project.html:103
+#: tib/templates/tib/subprojects/project.html:120
 msgid "Publications"
 msgstr "Publications"
 
@@ -6887,24 +6912,24 @@ msgstr "Funded by"
 msgid "Project Number"
 msgstr "Project Number"
 
-#: tib/templates/tib/subprojects/project.html:36
+#: tib/templates/tib/subprojects/project.html:37
 #: tib/templates/tib/subprojects/subprojects.html:28
 msgid "Duration"
 msgstr "Duration"
 
-#: tib/templates/tib/subprojects/project.html:47
+#: tib/templates/tib/subprojects/project.html:50
 msgid "Employees"
 msgstr "Employees"
 
-#: tib/templates/tib/subprojects/project.html:55
+#: tib/templates/tib/subprojects/project.html:58
 msgid "Cooperation and External Employees"
 msgstr "Cooperation and External Employees"
 
-#: tib/templates/tib/subprojects/project.html:72
+#: tib/templates/tib/subprojects/project.html:85
 msgid "Results"
 msgstr "Results"
 
-#: tib/templates/tib/subprojects/project.html:107
+#: tib/templates/tib/subprojects/project.html:126
 msgid "Presentations"
 msgstr "Presentations"
 

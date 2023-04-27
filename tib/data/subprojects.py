@@ -216,7 +216,24 @@ project_results = {
             },
         ]
     },
-    'holdura': '',
+    'holdura': {
+        'text': [],
+        'list': [],
+        'icons': [
+            {
+                'label': _l("relief map of Montenegro"),
+                'link': '/static/3dhop/relief.html',
+                'file': None,
+                'icon': 'bi-image-alt',
+            },
+            {
+                'label': _l('browse_tib_balkans_data'),
+                'link': '../balkan/digital/explore',
+                'file': None,
+                'icon': 'bi-stack',
+            },
+        ]
+    },
     'borderzones':  {
         'text': [],
         'list': [],
@@ -259,7 +276,7 @@ project_results = {
             {
                 'label': _l('Final project report'),
                 'link': None,
-                'file': 'digtib/MPopovic_Abschlußbericht_OENB17771.pdf',
+                'file': 'digtib/MPopovic_Abschlussbericht_OENB17771.pdf',
                 'icon': 'bi bi-journals',
             },
             {

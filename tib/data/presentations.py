@@ -3,6 +3,15 @@ from tib.util.util import get_table_dates_formatted
 
 presentations = [{
     "presenter": "Mihailo St. Popović",
+    "title": "Пројекат Tabula Imperii Byzantini: о будућности (?) проучавања историјске географије Византије ",
+    "conference": "Serbian Academy of Sciences and Arts – SANU",
+    'location': 'Beograd',
+    "date": get_table_dates_formatted(2022, 2, 22),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+},{
+    "presenter": "Mihailo St. Popović",
     "title": "Die historische Geographie von Byzanz neu gedacht – Über den Wert der digitalen Kartographie und Geokommunikation in der Vermittlung historischer Inhalte am Beispiel des Projektes „Jenseits von Ost und West“",
     "conference": "Deutsche Gesellschaft für Kartographie e.V., Sektion Halle – Leipzig",
     'location': 'Leipzig',

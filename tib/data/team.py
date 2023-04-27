@@ -23,6 +23,16 @@ tib_team_data = {
         'image': f'{path}/ariantzi.png',
         'academia': 'https://independent.academia.edu/DAriantzi'
     },
+    'gtheochari': {
+        'name': 'Georgia Theochari',
+        'team': _l('asia_minor'),
+        'category': _l('spatial_analyst'),
+        'titles': ['BSc', 'MSc'],
+        'description':  _l('BSc in Mathematics, Aristotle University of Thessaloniki; MSc in Informatics (Computer Science), Aristotle University of Thessaloniki; Research Interests: Mathematics, Mathematical Modeling, Computational Methods, Information and Communication Technology in Education, Graphs Theory and Spatial Analysis, GIS'),
+        'email': 'gtheocha@csd.auth.gr',
+        'image': f'{path}/gtheochari.jpg',
+        'academia': 'https://www.researchgate.net/profile/Georgia-Theochari'
+    },
     'mpopovic': {
         'name': 'Mihailo Popović',
         'team': _l('balkans'),
@@ -158,7 +168,8 @@ team_categories = {
     'Technical_Specialists': [
         tib_team_data['ebeer'],
         tib_team_data['mhernandez'],
-        tib_team_data['bkoschicek']],
+        tib_team_data['bkoschicek'],
+        tib_team_data['gtheochari']],
     'Former_Employees': [
         tib_team_data['jkoder'],
         tib_team_data['fhild'],

@@ -49,8 +49,8 @@ outreach = [{
     ],
     'category': ['tib', 'balkan'],
     'attachment': [{
-        'path': '',
-        'type': ''}]
+        'path': f'{attach_path}MPopovic_SANU Beograd.pdf',
+        'type': 'pdf'}]
 },{
     'id': 'les_ciutats_mediterranies',
     'type': types['presentation'],

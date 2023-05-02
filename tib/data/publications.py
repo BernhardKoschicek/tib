@@ -1983,6 +1983,56 @@ tib_articles = [
         "location": "Leiden – Boston",
         "date": "2021",
         "pages": "151-182"
+    },
+    {
+        "author": "Mihailo Popović",
+        "title": "The “Hagiogeography” of Saint Archangel Michael in Byzantine"
+                 " Macedonia and the Kingdom of the Scots (4th-15th Centuries)"
+                 ": A Succinct Comparative Approach for Future Research, in: "
+                 "Niš i Vizantija XX, Niš, 3-5. jun 2021. Zbornik radova XX.",
+        "location": "Niš",
+        "date": "2022",
+        "pages": "521-540"
+    },
+    {
+        "author": "Mihailo Popović, Vratislav Zervan",
+        "title": "The “Fatherland” of the Serbian Kings Milutin and Dečanski "
+                 "or Some Additional Thoughts on the “Medieval Serbian "
+                 "Oecumene”. Studia Slavica et Balcanica Petropolitana 1",
+        "location": "St Petersburg",
+        "date": "2022",
+        "pages": "36-57"
+    },
+    {
+        "author": "Mihailo Popović",
+        "title": " A Race Against Time: The Impact of Contemporary "
+                 "Environmental and Demographic Changes on the Research of the"
+                 " Historical Geography of Byzantium, in: 24th International "
+                 "Congress of Byzantine Studies, Volume 1. Proceedings of the "
+                 "Plenary Sessions.",
+        "location": "Venice",
+        "date": "2022",
+        "pages": "191-210"
+    },
+    {
+        "author": "Mihailo Popović et al.",
+        "title": "On the Crossroads between East and West: Geocommunicating "
+                 "Medieval Sacred Landscapes in Today’s Montenegro. First "
+                 "Project Results. MEMO_quer 4, doi: 10.25536/2022q004",
+        "location": "Krems",
+        "date": "2022",
+        "pages": ""
+    },
+    {
+        "author": "Mihailo Popović",
+        "title": "Das Zarenreich Bulgarien und der Souveräne "
+                 "Malteser-Ritter-Orden – die österreichische Sanitätsmission "
+                 "in Sofia (1915-1918), in: Der Krieg auf dem Balkan. Der "
+                 "Eintritt Bulgariens in den 1. Weltkrieg (Miscellanea "
+                 "Bulgarica 26).",
+        "location": "Wien ",
+        "date": "2022",
+        "pages": "81-94"
     }
 ]
 

@@ -38,6 +38,12 @@ icons_outreach = {
         'author': '',
         'url': '',
     },
+    'lead_seals_2022': {
+        'path': f'{icon_path_outreach}lead_seals_2022.jpg',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'histgeo_leipzig_22': {
         'path': f'{icon_path_outreach}histgeo_leipzig_22.jpg',
         'license': '',

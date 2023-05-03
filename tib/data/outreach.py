@@ -1,6 +1,5 @@
 from tib.data.team import tib_team_data as team
-from tib.util.util import format_link, format_video_tag, \
-    get_dates_formatted, youtube_iframe
+from tib.util.util import format_link, get_dates_formatted, youtube_iframe
 from flask_babel import lazy_gettext as _l
 
 img_path = '/images/icons/outreach/'
@@ -33,6 +32,25 @@ types = {
 }
 
 outreach = [{
+    'id': 'lead_seals_2022',
+    'type': types['presentation'],
+    'date': f"{get_dates_formatted(2023, 4, 19)}",
+    'who': [
+        team['akulzer'], team['mpopovic'], team['psoustal'], team['kbelke']],
+    'title': _l('Congress on Byzantine Thrace'),
+    'description': [
+        _l('The TIB and its retired colleagues took part substantially in the '
+           'conference “Lead Seals in Byzantine Thrace” on 19 April 2022 at '
+           'the IMAFO of the ÖAW. While Andreas Külzer and Peter Soustal '
+           'presented papers, Klaus Belke and Mihailo Popović were chairing '
+           'sessions. Finally, Mihailo Popović gave a résumé of the '
+           'conference.')
+    ],
+    'category': ['tib', 'balkan'],
+    'attachment': [{
+        'path': f'{attach_path}Lead-Seals-in-Byzantine-Thrace.pdf',
+        'type': 'pdf'}]
+},{
     'id': 'serbian_academy',
     'type': types['presentation'],
     'date': f"{get_dates_formatted(2023, 2, 22)}",
@@ -51,7 +69,7 @@ outreach = [{
     'attachment': [{
         'path': f'{attach_path}MPopovic_SANU Beograd.pdf',
         'type': 'pdf'}]
-},{
+}, {
     'id': 'les_ciutats_mediterranies',
     'type': types['presentation'],
     'date': f"{get_dates_formatted(2022, 12, 15)}",
@@ -69,7 +87,7 @@ outreach = [{
     'attachment': [{
         'path': f'{attach_path}Prog_Ciutats_Mediterranies_2022.pdf',
         'type': 'pdf'}]
-},{
+}, {
     'id': 'tib11_promotion',
     'type': types['award'],
     'date': f"{get_dates_formatted(2022, 11, 14)}",
@@ -105,7 +123,7 @@ outreach = [{
     'attachment': [{
         'path': f'{attach_path}Popovic_11_22.pdf',
         'type': 'pdf'}]
-},{
+}, {
     'id': 'aieb_roundtable',
     'type': types['online_presentation'],
     'date': f"{get_dates_formatted(2022, 8, 22)}-"

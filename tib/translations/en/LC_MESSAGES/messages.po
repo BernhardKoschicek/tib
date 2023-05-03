@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-03-13 12:58+0100\n"
-"PO-Revision-Date: 2023-03-13 12:59+0100\n"
+"POT-Creation-Date: 2023-05-03 14:09+0200\n"
+"PO-Revision-Date: 2023-05-03 14:14+0200\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -29,7 +29,7 @@ msgstr ""
 "montenegro\">\"Cultural heritage in the period of the First World War: the case "
 "of the Austro-Hungarian relief map of Montenegro (1916-1918)\"</a>."
 
-#: tib/data/digital.py:9 tib/data/subprojects.py:224
+#: tib/data/digital.py:9 tib/data/subprojects.py:225
 msgid "relief map of Montenegro"
 msgstr "Relief map of Montenegro"
 
@@ -232,8 +232,8 @@ msgid "Graphical map application to access, browse and query data from TIB Balka
 msgstr ""
 "Graphical map application to access, browse and query data from TIB Balkans"
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:230
-#: tib/data/subprojects.py:254
+#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:231
+#: tib/data/subprojects.py:255
 msgid "browse_tib_balkans_data"
 msgstr "Browse TIB Balkans Data"
 
@@ -249,32 +249,50 @@ msgstr "View 3D Objects"
 msgid "Examine different 3D objects"
 msgstr "Examine different 3D objects"
 
-#: tib/data/outreach.py:10 tib/data/outreach.py:14
+#: tib/data/outreach.py:9 tib/data/outreach.py:13
 msgid "presentation"
 msgstr "presentation"
 
-#: tib/data/outreach.py:18
+#: tib/data/outreach.py:17
 msgid "award"
 msgstr "award"
 
-#: tib/data/outreach.py:22
+#: tib/data/outreach.py:21
 msgid "science_fair"
 msgstr "Science Fair"
 
-#: tib/data/outreach.py:26
+#: tib/data/outreach.py:25
 msgid "book_release"
 msgstr "book release"
 
-#: tib/data/outreach.py:30
+#: tib/data/outreach.py:29
 msgid "blogpost"
 msgstr "blogpost"
 
 #: tib/data/outreach.py:40
-msgid "Presentation at the Serbian Academy of Sciences and Arts"
-msgstr "Presentation at the Serbian Academy of Sciences and Arts"
+msgid "Congress on Byzantine Thrace"
+msgstr "Congress on Byzantine Thrace"
 
 #: tib/data/outreach.py:42
 msgid ""
+"The TIB and its retired colleagues took part substantially in the conference "
+"“Lead Seals in Byzantine Thrace” on 19 April 2022 at the IMAFO of the ÖAW. While "
+"Andreas Külzer and Peter Soustal presented papers, Klaus Belke and Mihailo "
+"Popović were chairing sessions. Finally, Mihailo Popović gave a résumé of the "
+"conference."
+msgstr ""
+"The TIB and its retired colleagues took part substantially in the conference "
+"“Lead Seals in Byzantine Thrace” on 19 April 2022 at the IMAFO of the ÖAW. While "
+"Andreas Külzer and Peter Soustal presented papers, Klaus Belke and Mihailo "
+"Popović were chairing sessions. Finally, Mihailo Popović gave a résumé of the "
+"conference."
+
+#: tib/data/outreach.py:58
+msgid "Presentation at the Serbian Academy of Sciences and Arts"
+msgstr "Presentation at the Serbian Academy of Sciences and Arts"
+
+#: tib/data/outreach.py:60
+msgid ""
 "Mihailo Popović was invited by the Institute for Byzantine Studies of the "
 "Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
 "Imperii Byzantini: о будућности (?) проучавања историјске географије "
@@ -289,11 +307,11 @@ msgstr ""
 "Research in the Field of the Historical Geography of Byzantium”] on 22 February "
 "2023 in Belgrade."
 
-#: tib/data/outreach.py:59
+#: tib/data/outreach.py:77
 msgid "Presentation in Barcelona"
 msgstr "Presentation in Barcelona"
 
-#: tib/data/outreach.py:61
+#: tib/data/outreach.py:79
 msgid ""
 "Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
 "Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
@@ -307,11 +325,11 @@ msgstr ""
 "Settlements\" at the conference “Les ciutats mediterrànies. Realitat i miratge” "
 "in Barcelona, Spain, on 15 December 2022."
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:95
 msgid "Promotion Event for TIB 11"
 msgstr "Promotion Event for TIB 11"
 
-#: tib/data/outreach.py:79
+#: tib/data/outreach.py:97
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
@@ -321,36 +339,36 @@ msgstr ""
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 
-#: tib/data/outreach.py:84 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:184
 msgid "Date"
 msgstr "Date"
 
-#: tib/data/outreach.py:84
+#: tib/data/outreach.py:102
 msgid "Begin"
 msgstr "Begin"
 
-#: tib/data/outreach.py:85
+#: tib/data/outreach.py:103
 msgid "Venue"
 msgstr "Venue"
 
-#: tib/data/outreach.py:86
+#: tib/data/outreach.py:104
 msgid "1st Floor"
 msgstr "1st Floor"
 
-#: tib/data/outreach.py:86 tib/templates/footer.html:25
+#: tib/data/outreach.py:104 tib/templates/footer.html:15
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Vienna"
 
-#: tib/data/outreach.py:87
+#: tib/data/outreach.py:105
 msgid "Registration"
 msgstr "Registration"
 
-#: tib/data/outreach.py:100
+#: tib/data/outreach.py:118
 msgid "Presentation in Leipzig"
 msgstr "Presentation in Leipzig"
 
-#: tib/data/outreach.py:102
+#: tib/data/outreach.py:120
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -366,11 +384,11 @@ msgstr ""
 "is based on scholarly results from the project <a href=\"subprojects/"
 "holdura\">“Beyond East and West (HOLDURA)”</a>"
 
-#: tib/data/outreach.py:114
+#: tib/data/outreach.py:132
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24th International Congress of Byzantine Studies in Venice and Padua"
 
-#: tib/data/outreach.py:118
+#: tib/data/outreach.py:136
 msgid "aieb_roundtable"
 msgstr ""
 "The “Commission for the Historical Geography and Spatial Analysis of Byzantium” "
@@ -384,15 +402,15 @@ msgstr ""
 "Interdisciplinary Gaps: New Ways of Making Connections” in Padua, which will be "
 "chaired by Professor Judith Herrin."
 
-#: tib/data/outreach.py:119
+#: tib/data/outreach.py:137
 msgid "For further information and the programme please cf."
 msgstr "For further information and the programme please cf."
 
-#: tib/data/outreach.py:129
+#: tib/data/outreach.py:147
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost on the Paper 'OpenAtlas und historische Geographie'"
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:150
 msgid "hypotheses_post"
 msgstr ""
 "The paper “OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -400,41 +418,41 @@ msgstr ""
 "St. Popović is presented and  commented in a blogpost by a student of the "
 "University of Cologne:"
 
-#: tib/data/outreach.py:141
+#: tib/data/outreach.py:159
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB volume 11, Macedonia, Southern Part published"
 
-#: tib/data/outreach.py:143
+#: tib/data/outreach.py:161
 msgid "tib_11_release"
 msgstr ""
 "It is with great pleasure that we may announce the publication of the TIB Volume "
 "11 (\"Macedonia, Southern Part\") written by Peter Soustal (with Andreas Pülz "
 "and Mihailo St. Popović as co-authors)."
 
-#: tib/data/outreach.py:144
+#: tib/data/outreach.py:162
 msgid "Cf. in detail:"
 msgstr "Cf. in detail:"
 
-#: tib/data/outreach.py:158
+#: tib/data/outreach.py:176
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Presentation at International Medieval Congress (IMC) in Leeds"
 
-#: tib/data/outreach.py:161
+#: tib/data/outreach.py:179
 msgid "imc2022"
 msgstr ""
 "During the International Medieval Congress (IMC) in Leeds from 4 to 7 July 2022 "
 "the team of the TIB Balkans will present its research in the sessions No. 1034, "
 "1134, 1234 and 1334 on Wednesday, 6 July."
 
-#: tib/data/outreach.py:162
+#: tib/data/outreach.py:180
 msgid "Cf. in detail"
 msgstr "Cf. in detail"
 
-#: tib/data/outreach.py:171
+#: tib/data/outreach.py:189
 msgid "presentation at university of cologne, germany"
 msgstr "Presentation at university of cologne, germany"
 
-#: tib/data/outreach.py:173
+#: tib/data/outreach.py:191
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz and Mihailo St. Popović present a paper on "
@@ -443,11 +461,11 @@ msgstr ""
 "href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities colloquium</"
 "a>."
 
-#: tib/data/outreach.py:182
+#: tib/data/outreach.py:200
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB at the 'Lange Nacht der Forschung' in Vienna"
 
-#: tib/data/outreach.py:184
+#: tib/data/outreach.py:202
 msgid "lange_nacht_22_text"
 msgstr ""
 "In May 2022, the Austrian Academy of Sciences co-hosted and participated in the "
@@ -461,7 +479,7 @@ msgstr ""
 "holdura\">Beyond East and West: Geocommunicating the Sacred Landscapes of "
 "\"Duklja\" and \"Raška\" through Space and Time (11th-14th Cent.)</a>."
 
-#: tib/data/outreach.py:193
+#: tib/data/outreach.py:211
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -469,7 +487,7 @@ msgstr ""
 "Presentation at 'Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts'"
 
-#: tib/data/outreach.py:196
+#: tib/data/outreach.py:214
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović presented  paper on the TIB at the conference <a href=\"https://"
@@ -478,7 +496,7 @@ msgstr ""
 "Comparison and Connectivity II: Agency, Networks and Transregional Contexts”</a> "
 "at the IMAFO (ÖAW)."
 
-#: tib/data/outreach.py:204
+#: tib/data/outreach.py:222
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -486,7 +504,7 @@ msgstr ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
 
-#: tib/data/outreach.py:207
+#: tib/data/outreach.py:225
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović gave an online paper entitled “On the Use and Usefulness of "
@@ -497,11 +515,11 @@ msgstr ""
 "manifold questions on the Historical Geography of the Byzantine Empire and "
 "Digital Humanities."
 
-#: tib/data/publications.py:2349
+#: tib/data/publications.py:2399
 msgid "TIB_Volumes"
 msgstr "Volumes"
 
-#: tib/data/publications.py:2352
+#: tib/data/publications.py:2402
 msgid ""
 "The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian Academy "
 "of Sciences are the main scholarly result of the project TIB and have been "
@@ -511,11 +529,11 @@ msgstr ""
 "of Sciences are the main scholarly result of the project TIB and have been "
 "published since 1976."
 
-#: tib/data/publications.py:2359
+#: tib/data/publications.py:2409
 msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 msgstr "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 
-#: tib/data/publications.py:2362
+#: tib/data/publications.py:2412
 msgid ""
 "In addition to the main series Tabula Imperii Byzantini (TIB) an accompanying "
 "series entitled Veröffentlichungen der Kommission für die Tabula Imperii "
@@ -529,11 +547,11 @@ msgstr ""
 "1973 and has been replaced by the series Veröffentlichungen zur Byzanzforschung "
 "since 2006."
 
-#: tib/data/publications.py:2371
+#: tib/data/publications.py:2421
 msgid "Historical Geography and Cultural Heritage"
 msgstr "Historical Geography and Cultural Heritage"
 
-#: tib/data/publications.py:2373
+#: tib/data/publications.py:2423
 msgid ""
 "The series <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
 "Historical Geography and Cultural Heritage</a> was founded by Mihailo St. "
@@ -545,11 +563,11 @@ msgstr ""
 "Popović in the spring of 2016 and is edited by him and Andreas Külzer in order "
 "to innovate the historical-geographical research in  Byzantine Studies."
 
-#: tib/data/publications.py:2381 tib/data/publications.py:2382
+#: tib/data/publications.py:2431 tib/data/publications.py:2432
 msgid "Monographs"
 msgstr "Monographs"
 
-#: tib/data/publications.py:2383
+#: tib/data/publications.py:2433
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly monographs and edited volumes on "
@@ -559,11 +577,11 @@ msgstr ""
 "(TIB) are continuously publishing scholarly monographs and edited volumes on "
 "various topics of the Historical Geography of Byzantium."
 
-#: tib/data/publications.py:2389 tib/data/publications.py:2390
+#: tib/data/publications.py:2439 tib/data/publications.py:2440
 msgid "Articles"
 msgstr "Articles"
 
-#: tib/data/publications.py:2391
+#: tib/data/publications.py:2441
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly articles on various topics of the "
@@ -1101,41 +1119,41 @@ msgstr ""
 "Can a \"sacred landscape\" of medieval churches and monasteries be reconstructed "
 "in the present Montenegro?"
 
-#: tib/data/subprojects.py:87
+#: tib/data/subprojects.py:88
 msgid "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 msgstr "Inventory of Late Antique and Medieval Ports along the Western Black Sea"
 
-#: tib/data/subprojects.py:108
+#: tib/data/subprojects.py:109
 msgid ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
 msgstr ""
 "Cultural Heritage in Times of World War I: The Case of the Austro-Hungarian "
 "Relief Map of Montenegro (1916-1918)"
-
-#: tib/data/subprojects.py:115
-msgid ""
-"University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
-"Montenegro)"
-msgstr ""
-"University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
-"Montenegro)"
 
 #: tib/data/subprojects.py:116
 msgid ""
+"University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
+"Montenegro)"
+msgstr ""
+"University of Donja Gorica (Faculty for Culture and Tourism, Podgorica, "
+"Montenegro)"
+
+#: tib/data/subprojects.py:117
+msgid ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 msgstr ""
 "Austrian Archaeological Institute (ÖAI) of the Austrian Academy of Sciences "
 "(Director Priv.-Doz. MMag. Dr. A. Pülz, w.M.)"
 
-#: tib/data/subprojects.py:117
+#: tib/data/subprojects.py:118
 msgid ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 msgstr ""
 "National Museum of Montenegro (Narodni muzej Crne Gore, Cetinje, Montenegro)"
 
-#: tib/data/subprojects.py:124
+#: tib/data/subprojects.py:125
 msgid ""
 "Was blieb von der österreichisch-ungarischen Besetzung Montenegros im Ersten "
 "Weltkrieg?"
@@ -1143,7 +1161,7 @@ msgstr ""
 "What remained of the Austro-Hungarian occupation of Montenegro during the First "
 "World War?"
 
-#: tib/data/subprojects.py:135
+#: tib/data/subprojects.py:136
 msgid ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
@@ -1151,7 +1169,7 @@ msgstr ""
 "The Digital Tabula Imperii Byzantini (Dig-TIB) as Contribution to the World’s "
 "Cultural Heritage"
 
-#: tib/data/subprojects.py:146
+#: tib/data/subprojects.py:147
 msgid ""
 "Welchen Beitrag leistet die TIB Balkan zur Dokumentation und Erhaltung von "
 "Kulturdenkmälern auf der Balkanhalbinsel?"
@@ -1159,7 +1177,7 @@ msgstr ""
 "What contribution does the TIB Balkan make to the documentation and preservation "
 "of cultural monuments on the Balkan Peninsula?"
 
-#: tib/data/subprojects.py:157
+#: tib/data/subprojects.py:158
 msgid ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
@@ -1167,7 +1185,7 @@ msgstr ""
 "Byzantino-Serbian Border Zones in Transition: Migration and Elite Change in pre-"
 "Ottoman Macedonia (1282–1355)"
 
-#: tib/data/subprojects.py:167
+#: tib/data/subprojects.py:168
 msgid ""
 "Wo und wie lebten die Menschen in der historischen Landschaft Makedonien während "
 "des byzantinisch-serbischen Konflikts im 14. Jahrhundert?"
@@ -1175,22 +1193,22 @@ msgstr ""
 "Where and how did people live in the historical landscape of Macedonia during "
 "the Byzantine-Serbian conflict in the 14th century?"
 
-#: tib/data/subprojects.py:183
-msgid ""
-"Establishment of contacts with scientists, archives and museums in Montenegro"
-msgstr ""
-"Establishment of contacts with scientists, archives and museums in Montenegro"
-
 #: tib/data/subprojects.py:184
 msgid ""
-"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
-"(1916-1918)"
+"Establishment of contacts with scientists, archives and museums in Montenegro"
 msgstr ""
-"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
-"(1916-1918)"
+"Establishment of contacts with scientists, archives and museums in Montenegro"
 
 #: tib/data/subprojects.py:185
 msgid ""
+"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
+"(1916-1918)"
+msgstr ""
+"Research and Contextualization of the Austro-Hungarian Relief Map of Montenegro "
+"(1916-1918)"
+
+#: tib/data/subprojects.py:186
+msgid ""
 "Raising awareness among the Austrian public by publishing the first results in "
 "the blog of the newspaper \"Der Standard\" at: <a href=\"https://www.derstandard."
 "at/story/2000117505690/montenegro-im-relief-terra-incognita-auf-dem-balkan?"
@@ -1203,7 +1221,7 @@ msgstr ""
 "fbclid=IwAR2blOQJUHrKWrQrAycc-3SIoMHzksp1HFqz3eX-jW5EU5S7gmqzRiLrtmk\" "
 "target=_blank\">\"Montenegro in Relief: Terra incognita in the Balkans\")</a>"
 
-#: tib/data/subprojects.py:186
+#: tib/data/subprojects.py:187
 msgid ""
 "3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
 "project team"
@@ -1211,7 +1229,7 @@ msgstr ""
 "3D scan of the relief in the National Museum of Montenegro in Cetinje by our "
 "project team"
 
-#: tib/data/subprojects.py:187
+#: tib/data/subprojects.py:188
 msgid ""
 "Georeferencing the 3D model and inserting it as a layer in the web application "
 "<a href=\"https://data1.geo.univie.ac.at/projects/tibapp/\">\"Maps of Power: "
@@ -1223,32 +1241,32 @@ msgstr ""
 "Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB "
 "Balkans)</a>."
 
-#: tib/data/subprojects.py:188
-msgid ""
-"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
-"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
-"Time (11th-14th Cent.)/HOLDURA“</a>"
-msgstr ""
-"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
-"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
-"Time (11th-14th Cent.)/HOLDURA“</a>"
-
 #: tib/data/subprojects.py:189
 msgid ""
-"Joint scientific article of the Austrian and Montenegrin project teams entitled "
-"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
-"Landscapes in Today's Montenegro - First Project Results\" published in the "
-"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
-"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
+"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
+"Time (11th-14th Cent.)/HOLDURA“</a>"
 msgstr ""
-"Joint scientific article of the Austrian and Montenegrin project teams entitled "
-"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
-"Landscapes in Today's Montenegro - First Project Results\" published in the "
-"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
-"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+"Cooperation with the TIB subproject <a href=\"holdura\">„Beyond East and West: "
+"Geocommunicating the Sacred Landscapes of ‘Duklja’ and ‘Raška’ through Space and "
+"Time (11th-14th Cent.)/HOLDURA“</a>"
 
 #: tib/data/subprojects.py:190
 msgid ""
+"Joint scientific article of the Austrian and Montenegrin project teams entitled "
+"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
+"Landscapes in Today's Montenegro - First Project Results\" published in the "
+"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
+"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+msgstr ""
+"Joint scientific article of the Austrian and Montenegrin project teams entitled "
+"\"On the Crossroads between East and West: Geocommunicating Medieval Sacred "
+"Landscapes in Today's Montenegro - First Project Results\" published in the "
+"Austrian online journal <a href=\"https://memo.imareal.sbg.ac.at/2021/04/30/neue-"
+"reihe-memo_quer/\">MEMO_quer</a> during 2022."
+
+#: tib/data/subprojects.py:191
+msgid ""
 "Presentation of the 3D model of the relief map to the National Museum of "
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
@@ -1257,72 +1275,72 @@ msgstr ""
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 
-#: tib/data/subprojects.py:194 tib/data/subprojects.py:242
-#: tib/data/subprojects.py:277
+#: tib/data/subprojects.py:195 tib/data/subprojects.py:243
+#: tib/data/subprojects.py:278
 msgid "Final project report"
 msgstr "Final project report"
 
-#: tib/data/subprojects.py:206
+#: tib/data/subprojects.py:207
 msgid "Project"
 msgstr "Project"
 
-#: tib/data/subprojects.py:212
+#: tib/data/subprojects.py:213
 msgid "Relief Map"
 msgstr "Relief Map"
 
-#: tib/data/subprojects.py:265
-msgid ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
-msgstr ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
-
 #: tib/data/subprojects.py:266
 msgid ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
 msgstr ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
 
 #: tib/data/subprojects.py:267
 msgid ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
 msgstr ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
 
 #: tib/data/subprojects.py:268
 msgid ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+msgstr ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+
+#: tib/data/subprojects.py:269
+msgid ""
 "During the term of the research project, the following results were obtained:"
 msgstr ""
 "During the term of the research project, the following results were obtained:"
 
-#: tib/data/subprojects.py:271
+#: tib/data/subprojects.py:272
 msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
@@ -1332,7 +1350,7 @@ msgstr ""
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
 
-#: tib/data/subprojects.py:272
+#: tib/data/subprojects.py:273
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1364,7 +1382,7 @@ msgstr ""
 "pages in the list that lead to a lemma in the respective volume are highlighted "
 "in bold."
 
-#: tib/data/subprojects.py:273
+#: tib/data/subprojects.py:274
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1376,15 +1394,15 @@ msgstr ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 
-#: tib/data/subprojects.py:289
+#: tib/data/subprojects.py:290
 msgid "Image Collection"
 msgstr "Image Collection"
 
-#: tib/data/team.py:8 tib/data/team.py:18
+#: tib/data/team.py:8 tib/data/team.py:18 tib/data/team.py:28
 msgid "asia_minor"
 msgstr "Asia Minor"
 
-#: tib/data/team.py:9 tib/data/team.py:29
+#: tib/data/team.py:9 tib/data/team.py:39
 msgid "project_leader"
 msgstr "Project Leader"
 
@@ -1410,9 +1428,9 @@ msgstr ""
 "Historical Geography of Asia Minor and the Balkans – Late Antique and Medieval "
 "Pilgrimages – Late Antiquity – Ephesus."
 
-#: tib/data/team.py:19 tib/data/team.py:49 tib/data/team.py:59 tib/data/team.py:79
-#: tib/data/team.py:109 tib/data/team.py:119 tib/data/team.py:129
-#: tib/data/team.py:139
+#: tib/data/team.py:19 tib/data/team.py:59 tib/data/team.py:69 tib/data/team.py:89
+#: tib/data/team.py:119 tib/data/team.py:129 tib/data/team.py:139
+#: tib/data/team.py:149
 msgid "scientific_employee"
 msgstr "Scientific Employees"
 
@@ -1440,208 +1458,220 @@ msgstr ""
 "Hagiography and monasticism – Pilgrimage – Marginalization and subculture groups "
 "(Prostitutes, actors and tavern- keepers) – Gender Studies."
 
-#: tib/data/team.py:28 tib/data/team.py:38 tib/data/team.py:48
-msgid "balkans"
-msgstr "Balkans"
-
-#: tib/data/team.py:31
-msgid ""
-"Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction (University "
-"of Vienna, 2000); Dr. phil. with highest distinction (University of Vienna, "
-"2005); Unanimous decision to be granted a licence to teach \"History of South-"
-"East Europe and Byzantine Studies\" (University of Vienna, 2011); 2017-2022: "
-"Chair of the \"Commission for the Historical Geography and Spatial Analysis of "
-"Byzantium\" at the International Association of Byzantine Studies (AIEB). "
-"Research Interests: History and Culture of South Eastern Europe (7th-16th "
-"Centuries), Late Byzantine History (1204-1453), Gender Studies, Historical "
-"Geography and Cartography of the Mediterranean, Digital Humanities and "
-"Historical Geographic Information Systems (HGIS)"
-msgstr ""
-"Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction (University "
-"of Vienna, 2000); Dr. phil. with highest distinction (University of Vienna, "
-"2005); Unanimous decision to be granted a licence to teach \"History of South-"
-"East Europe and Byzantine Studies\" (University of Vienna, 2011); 2017-2022: "
-"Chair of the \"Commission for the Historical Geography and Spatial Analysis of "
-"Byzantium\" at the International Association of Byzantine Studies (AIEB). "
-"Research Interests: History and Culture of South Eastern Europe (7th-16th "
-"Centuries), Late Byzantine History (1204-1453), Gender Studies, Historical "
-"Geography and Cartography of the Mediterranean, Digital Humanities and "
-"Historical Geographic Information Systems (HGIS)"
-
-#: tib/data/team.py:39
-msgid "software_developer"
-msgstr "Software Developer"
-
-#: tib/data/team.py:41
-msgid ""
-"BSc in Computer Sciences, BA in History, student of Computer Sciences at the "
-"University of Applied Sciences Technikum Wien and currently student of history "
-"at the University of Vienna. Research interests include computer security, "
-"python, Linked Open Data, API, digital reservation, historical geographie, GIS, "
-"medieval and military history."
-msgstr ""
-"BSc in Computer Sciences, BA in History, student of Computer Sciences at the "
-"University of Applied Sciences Technikum Wien and currently student of history "
-"at the University of Vienna. Research interests include computer security, "
-"python, Linked Open Data, API, digital reservation, historical geographie, GIS, "
-"medieval and military history."
-
-#: tib/data/team.py:51
-msgid ""
-"2016 BA in History (University of Vienna); 2016-2021 MA in History (University "
-"of Vienna); Research interest: european history, early-modern history, history "
-"of the european identity, history of the middle ages and late antiquity."
-msgstr ""
-"2016 BA in History (University of Vienna); 2016-2021 MA in History (University "
-"of Vienna); Research interest: european history, early-modern history, history "
-"of the european identity, history of the middle ages and late antiquity."
-
-#: tib/data/team.py:58 tib/data/team.py:78
-msgid "associated_scholars"
-msgstr "Associated Scholars"
-
-#: tib/data/team.py:61
-msgid ""
-"MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in "
-"Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: "
-"PhD in General History (Faculty of Arts, Comenius University, Bratislava); "
-"Research Interests: Byzantine History; Byzantine and Slavonic Literature; "
-"Archaeology; Historical Geography; Lexicography"
-msgstr ""
-"MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in "
-"Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: "
-"PhD in General History (Faculty of Arts, Comenius University, Bratislava); "
-"Research Interests: Byzantine History; Byzantine and Slavonic Literature; "
-"Archaeology; Historical Geography; Lexicography"
-
-#: tib/data/team.py:68
-msgid "tib_editor"
-msgstr "TIB Editor"
-
-#: tib/data/team.py:69
-msgid "editor_of_tib"
-msgstr "Editor of TIB"
-
-#: tib/data/team.py:71
-msgid ""
-"w.M., Prof. Dr.; 1960-1965 Byzantine, Arab and Classical Studies in Vienna "
-"University; 1965 Dr. phil. (Herbert Hunger); postdoctoral studies in Athens and "
-"in Munich (Alexander von Humboldt-Scholarship, 1970/71 and 1974, Hans-Georg "
-"Beck), 1973 \"Habilitation\". 1977 assoc. Professor (University of Vienna); "
-"1978-1985 Professor and director of the department for Byzantine Studies, "
-"Johannes Gutenberg Universität, Mainz, Germany; 1985-2010 Professor and "
-"1987-1989/1991-1993/1995-2010 Director of the Institute for Byzantine and "
-"Neohellenic Studies, University of Vienna. Austrian Archaeological Institute, "
-"interim director, 2007-2009; director of excavations, Ephesos, 2008-2009. "
-"Austrian Academy of Sciences: corresponding member 1989, 2000 full member, "
-"director of the research units \"Tabula Imperii Byzantini\" (until 2005) and "
-"\"Balkan-Kommission\" (until 2007), chair Advisory Board Institut für "
-"Byzanzforschung (2006-2008); Austrian Federal Board of Professors of "
-"Universities, member 1991, president 1993-2003; Austrian Association for "
-"Byzantine Studies, member 1963, president 1996-2014; Association Internationale "
-"des Études Byzantines, vice-president 1986, president 2012-2016; Dumbarton Oaks "
-"Research Library and Collection (Washington). senior fellow Byzantine studies, "
-"2002-2008 (chair 2005-2008); Academy of Athens, foreign member 2007; Academia "
-"Europaea, member (2012); Dr. h. c. University of Athens (2006), University of "
-"Ioannina (2011), University of Thrake (2016); Full member, Austrian "
-"Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
-"Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
-"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
-"Art\", 1st class, Republic of Austria (2010)."
-msgstr ""
-"w.M., Prof. Dr.; 1960-1965 Byzantine, Arab and Classical Studies in Vienna "
-"University; 1965 Dr. phil. (Herbert Hunger); postdoctoral studies in Athens and "
-"in Munich (Alexander von Humboldt-Scholarship, 1970/71 and 1974, Hans-Georg "
-"Beck), 1973 \"Habilitation\". 1977 assoc. Professor (University of Vienna); "
-"1978-1985 Professor and director of the department for Byzantine Studies, "
-"Johannes Gutenberg Universität, Mainz, Germany; 1985-2010 Professor and "
-"1987-1989/1991-1993/1995-2010 Director of the Institute for Byzantine and "
-"Neohellenic Studies, University of Vienna. Austrian Archaeological Institute, "
-"interim director, 2007-2009; director of excavations, Ephesos, 2008-2009. "
-"Austrian Academy of Sciences: corresponding member 1989, 2000 full member, "
-"director of the research units \"Tabula Imperii Byzantini\" (until 2005) and "
-"\"Balkan-Kommission\" (until 2007), chair Advisory Board Institut für "
-"Byzanzforschung (2006-2008); Austrian Federal Board of Professors of "
-"Universities, member 1991, president 1993-2003; Austrian Association for "
-"Byzantine Studies, member 1963, president 1996-2014; Association Internationale "
-"des Études Byzantines, vice-president 1986, president 2012-2016; Dumbarton Oaks "
-"Research Library and Collection (Washington). senior fellow Byzantine studies, "
-"2002-2008 (chair 2005-2008); Academy of Athens, foreign member 2007; Academia "
-"Europaea, member (2012); Dr. h. c. University of Athens (2006), University of "
-"Ioannina (2011), University of Thrake (2016); Full member, Austrian "
-"Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
-"Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
-"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
-"Art\", 1st class, Republic of Austria (2010)."
-
-#: tib/data/team.py:81
-msgid ""
-"Mag.a in Classics, Student of MA Program in Historical Research, Auxiliary "
-"Sciences and Archival Studies at the University of Vienna. Research interests "
-"Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, "
-"Heraldry."
-msgstr ""
-"Mag.a in Classics, Student of MA Program in Historical Research, Auxiliary "
-"Sciences and Archival Studies at the University of Vienna. Research interests "
-"Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, "
-"Heraldry."
-
-#: tib/data/team.py:89 tib/data/team.py:99
+#: tib/data/team.py:29 tib/data/team.py:99 tib/data/team.py:109
 msgid "spatial_analyst"
 msgstr "Spatial Analyst"
 
+#: tib/data/team.py:31
+msgid ""
+"BSc in Mathematics, Aristotle University of Thessaloniki; MSc in Informatics "
+"(Computer Science), Aristotle University of Thessaloniki; Research Interests: "
+"Mathematics, Mathematical Modeling, Computational Methods, Information and "
+"Communication Technology in Education, Graphs Theory and Spatial Analysis, GIS"
+msgstr ""
+"BSc in Mathematics, Aristotle University of Thessaloniki; MSc in Informatics "
+"(Computer Science), Aristotle University of Thessaloniki; Research Interests: "
+"Mathematics, Mathematical Modeling, Computational Methods, Information and "
+"Communication Technology in Education, Graphs Theory and Spatial Analysis, GIS"
+
+#: tib/data/team.py:38 tib/data/team.py:48 tib/data/team.py:58
+msgid "balkans"
+msgstr "Balkans"
+
+#: tib/data/team.py:41
+msgid ""
+"Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction (University "
+"of Vienna, 2000); Dr. phil. with highest distinction (University of Vienna, "
+"2005); Unanimous decision to be granted a licence to teach \"History of South-"
+"East Europe and Byzantine Studies\" (University of Vienna, 2011); 2017-2022: "
+"Chair of the \"Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium\" at the International Association of Byzantine Studies (AIEB). "
+"Research Interests: History and Culture of South Eastern Europe (7th-16th "
+"Centuries), Late Byzantine History (1204-1453), Gender Studies, Historical "
+"Geography and Cartography of the Mediterranean, Digital Humanities and "
+"Historical Geographic Information Systems (HGIS)"
+msgstr ""
+"Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. with highest distinction (University "
+"of Vienna, 2000); Dr. phil. with highest distinction (University of Vienna, "
+"2005); Unanimous decision to be granted a licence to teach \"History of South-"
+"East Europe and Byzantine Studies\" (University of Vienna, 2011); 2017-2022: "
+"Chair of the \"Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium\" at the International Association of Byzantine Studies (AIEB). "
+"Research Interests: History and Culture of South Eastern Europe (7th-16th "
+"Centuries), Late Byzantine History (1204-1453), Gender Studies, Historical "
+"Geography and Cartography of the Mediterranean, Digital Humanities and "
+"Historical Geographic Information Systems (HGIS)"
+
+#: tib/data/team.py:49
+msgid "software_developer"
+msgstr "Software Developer"
+
+#: tib/data/team.py:51
+msgid ""
+"BSc in Computer Sciences, BA in History, student of Computer Sciences at the "
+"University of Applied Sciences Technikum Wien and currently student of history "
+"at the University of Vienna. Research interests include computer security, "
+"python, Linked Open Data, API, digital reservation, historical geographie, GIS, "
+"medieval and military history."
+msgstr ""
+"BSc in Computer Sciences, BA in History, student of Computer Sciences at the "
+"University of Applied Sciences Technikum Wien and currently student of history "
+"at the University of Vienna. Research interests include computer security, "
+"python, Linked Open Data, API, digital reservation, historical geographie, GIS, "
+"medieval and military history."
+
+#: tib/data/team.py:61
+msgid ""
+"2016 BA in History (University of Vienna); 2016-2021 MA in History (University "
+"of Vienna); Research interest: european history, early-modern history, history "
+"of the european identity, history of the middle ages and late antiquity."
+msgstr ""
+"2016 BA in History (University of Vienna); 2016-2021 MA in History (University "
+"of Vienna); Research interest: european history, early-modern history, history "
+"of the european identity, history of the middle ages and late antiquity."
+
+#: tib/data/team.py:68 tib/data/team.py:88
+msgid "associated_scholars"
+msgstr "Associated Scholars"
+
+#: tib/data/team.py:71
+msgid ""
+"MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in "
+"Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: "
+"PhD in General History (Faculty of Arts, Comenius University, Bratislava); "
+"Research Interests: Byzantine History; Byzantine and Slavonic Literature; "
+"Archaeology; Historical Geography; Lexicography"
+msgstr ""
+"MA, PhD; 2006: Master Degree in Archaeology and History; 2010: Master Degree in "
+"Classical Philology (Faculty of Arts, Comenius University, Bratislava); 2014: "
+"PhD in General History (Faculty of Arts, Comenius University, Bratislava); "
+"Research Interests: Byzantine History; Byzantine and Slavonic Literature; "
+"Archaeology; Historical Geography; Lexicography"
+
+#: tib/data/team.py:78
+msgid "tib_editor"
+msgstr "TIB Editor"
+
+#: tib/data/team.py:79
+msgid "editor_of_tib"
+msgstr "Editor of TIB"
+
+#: tib/data/team.py:81
+msgid ""
+"w.M., Prof. Dr.; 1960-1965 Byzantine, Arab and Classical Studies in Vienna "
+"University; 1965 Dr. phil. (Herbert Hunger); postdoctoral studies in Athens and "
+"in Munich (Alexander von Humboldt-Scholarship, 1970/71 and 1974, Hans-Georg "
+"Beck), 1973 \"Habilitation\". 1977 assoc. Professor (University of Vienna); "
+"1978-1985 Professor and director of the department for Byzantine Studies, "
+"Johannes Gutenberg Universität, Mainz, Germany; 1985-2010 Professor and "
+"1987-1989/1991-1993/1995-2010 Director of the Institute for Byzantine and "
+"Neohellenic Studies, University of Vienna. Austrian Archaeological Institute, "
+"interim director, 2007-2009; director of excavations, Ephesos, 2008-2009. "
+"Austrian Academy of Sciences: corresponding member 1989, 2000 full member, "
+"director of the research units \"Tabula Imperii Byzantini\" (until 2005) and "
+"\"Balkan-Kommission\" (until 2007), chair Advisory Board Institut für "
+"Byzanzforschung (2006-2008); Austrian Federal Board of Professors of "
+"Universities, member 1991, president 1993-2003; Austrian Association for "
+"Byzantine Studies, member 1963, president 1996-2014; Association Internationale "
+"des Études Byzantines, vice-president 1986, president 2012-2016; Dumbarton Oaks "
+"Research Library and Collection (Washington). senior fellow Byzantine studies, "
+"2002-2008 (chair 2005-2008); Academy of Athens, foreign member 2007; Academia "
+"Europaea, member (2012); Dr. h. c. University of Athens (2006), University of "
+"Ioannina (2011), University of Thrake (2016); Full member, Austrian "
+"Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
+"Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
+"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
+"Art\", 1st class, Republic of Austria (2010)."
+msgstr ""
+"w.M., Prof. Dr.; 1960-1965 Byzantine, Arab and Classical Studies in Vienna "
+"University; 1965 Dr. phil. (Herbert Hunger); postdoctoral studies in Athens and "
+"in Munich (Alexander von Humboldt-Scholarship, 1970/71 and 1974, Hans-Georg "
+"Beck), 1973 \"Habilitation\". 1977 assoc. Professor (University of Vienna); "
+"1978-1985 Professor and director of the department for Byzantine Studies, "
+"Johannes Gutenberg Universität, Mainz, Germany; 1985-2010 Professor and "
+"1987-1989/1991-1993/1995-2010 Director of the Institute for Byzantine and "
+"Neohellenic Studies, University of Vienna. Austrian Archaeological Institute, "
+"interim director, 2007-2009; director of excavations, Ephesos, 2008-2009. "
+"Austrian Academy of Sciences: corresponding member 1989, 2000 full member, "
+"director of the research units \"Tabula Imperii Byzantini\" (until 2005) and "
+"\"Balkan-Kommission\" (until 2007), chair Advisory Board Institut für "
+"Byzanzforschung (2006-2008); Austrian Federal Board of Professors of "
+"Universities, member 1991, president 1993-2003; Austrian Association for "
+"Byzantine Studies, member 1963, president 1996-2014; Association Internationale "
+"des Études Byzantines, vice-president 1986, president 2012-2016; Dumbarton Oaks "
+"Research Library and Collection (Washington). senior fellow Byzantine studies, "
+"2002-2008 (chair 2005-2008); Academy of Athens, foreign member 2007; Academia "
+"Europaea, member (2012); Dr. h. c. University of Athens (2006), University of "
+"Ioannina (2011), University of Thrake (2016); Full member, Austrian "
+"Archaeological Institute (2010); Distinctions: \"Commander of the Order of the "
+"Phoenix\" of the Hellenic Republic (1996), „Distinguished Decoration in Gold for "
+"Service to the Republic of Austria\" (2004), \"Cross of Merit for Science and "
+"Art\", 1st class, Republic of Austria (2010)."
+
 #: tib/data/team.py:91
 msgid ""
-"Degree History 2007 Universidad Autonónoma de Madrid (UAM) MSc, 2011: Master "
-"Degree in GIS and Spatial Analysis in Archaeology (Institute of Archaeology, "
-"University College London, London) Research Interests: GIS and Spatial Analysis, "
-"Geomatics applications in Archaeology, Structure from Motion, UV IR and "
-"Multispectral imagery, Deep Learning and Machine Learning for Cultural research."
+"Mag.a in Classics, Student of MA Program in Historical Research, Auxiliary "
+"Sciences and Archival Studies at the University of Vienna. Research interests "
+"Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, "
+"Heraldry."
 msgstr ""
-"Degree History 2007 Universidad Autonónoma de Madrid (UAM) MSc, 2011: Master "
-"Degree in GIS and Spatial Analysis in Archaeology (Institute of Archaeology, "
-"University College London, London) Research Interests: GIS and Spatial Analysis, "
-"Geomatics applications in Archaeology, Structure from Motion, UV IR and "
-"Multispectral imagery, Deep Learning and Machine Learning for Cultural research."
+"Mag.a in Classics, Student of MA Program in Historical Research, Auxiliary "
+"Sciences and Archival Studies at the University of Vienna. Research interests "
+"Medieval Sources, Middle and Neo Latin, Palaeography, Digitalization of Sources, "
+"Heraldry."
 
 #: tib/data/team.py:101
 msgid ""
-"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
-"in research was the visualization of signatures in maps. espacially economical "
-"maps. 1995 Project for evaluation of map- generalizing software on different "
-"official maps of different countries. 1996 licence for entrepreneurship. Since "
-"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
-"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
-"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
+"Degree History 2007 Universidad Autonónoma de Madrid (UAM) MSc, 2011: Master "
+"Degree in GIS and Spatial Analysis in Archaeology (Institute of Archaeology, "
+"University College London, London) Research Interests: GIS and Spatial Analysis, "
+"Geomatics applications in Archaeology, Structure from Motion, UV IR and "
+"Multispectral imagery, Deep Learning and Machine Learning for Cultural research."
 msgstr ""
-"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
-"in research was the visualization of signatures in maps. espacially economical "
-"maps. 1995 Project for evaluation of map- generalizing software on different "
-"official maps of different countries. 1996 licence for entrepreneurship. Since "
-"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
-"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
-"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
-
-#: tib/data/team.py:108
-msgid "former_employee"
-msgstr "Former Employees"
+"Degree History 2007 Universidad Autonónoma de Madrid (UAM) MSc, 2011: Master "
+"Degree in GIS and Spatial Analysis in Archaeology (Institute of Archaeology, "
+"University College London, London) Research Interests: GIS and Spatial Analysis, "
+"Geomatics applications in Archaeology, Structure from Motion, UV IR and "
+"Multispectral imagery, Deep Learning and Machine Learning for Cultural research."
 
 #: tib/data/team.py:111
 msgid ""
-"BA in History, student of medieval history at the University of Vienna. Research "
-"interests include historical geography, GIS, late antique and medieval and "
-"military history."
+"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
+"in research was the visualization of signatures in maps. espacially economical "
+"maps. 1995 Project for evaluation of map- generalizing software on different "
+"official maps of different countries. 1996 licence for entrepreneurship. Since "
+"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
+"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
+"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
 msgstr ""
-"BA in History, student of medieval history at the University of Vienna. Research "
-"interests include historical geography, GIS, late antique and medieval and "
-"military history."
+"Mag.rer.nat with distinction in cartography (University of Vienna 1991). Focus "
+"in research was the visualization of signatures in maps. espacially economical "
+"maps. 1995 Project for evaluation of map- generalizing software on different "
+"official maps of different countries. 1996 licence for entrepreneurship. Since "
+"2020 working as self-employed cartographer (CARTOCONSULT BEER). Collaborating "
+"since then with the Austrian Academy of Sciences (ÖAW) in Vienna as free "
+"cartographer for the Long-Term-Project \"Tabula Imperii Byzantini (TIB)\"."
 
-#: tib/data/team.py:118 tib/data/team.py:128 tib/data/team.py:138
-msgid "emeritus_scholar"
-msgstr "Emeritus Scholar"
+#: tib/data/team.py:118
+msgid "former_employee"
+msgstr "Former Employees"
 
 #: tib/data/team.py:121
 msgid ""
+"BA in History, student of medieval history at the University of Vienna. Research "
+"interests include historical geography, GIS, late antique and medieval and "
+"military history."
+msgstr ""
+"BA in History, student of medieval history at the University of Vienna. Research "
+"interests include historical geography, GIS, late antique and medieval and "
+"military history."
+
+#: tib/data/team.py:128 tib/data/team.py:138 tib/data/team.py:148
+msgid "emeritus_scholar"
+msgstr "Emeritus Scholar"
+
+#: tib/data/team.py:131
+msgid ""
 "Dr. phil. (University of Vienna and Munich, 1976); 1976–2012 Academic "
 "collaborator at the Austrian Academy of Sciences; at the Commission for the "
 "Tabula Imperii Byzantini; from 2006 Institute for Byzantine Studies; from 2012 "
@@ -1666,7 +1696,7 @@ msgstr ""
 "Empire, esp. Asia Minor Road, means of traffic in the Roman and Byzantine "
 "periods."
 
-#: tib/data/team.py:131
+#: tib/data/team.py:141
 msgid ""
 "Dr. phil.; Studies of Classical Philology, Ancient History, Ancient Numismatics "
 "and Byzantine Studies (1960–1968) at the University of Vienna; Dr. phil. in "
@@ -1690,7 +1720,7 @@ msgstr ""
 "Interests: Ancient and Byzantine History, Archaeology, Historical Geography and "
 "Cartography of the Mediterranean"
 
-#: tib/data/team.py:141
+#: tib/data/team.py:151
 msgid ""
 "Mag. Dr. phil.; Mag. phil. (University of Vienna, 1969); Dr. phil. (University "
 "of Vienna, 1975); employed at the Austrian Academy of Sciences since 1969, from "
@@ -5437,31 +5467,31 @@ msgstr "The TIB Team works in several subprojects on groundbreaking research"
 msgid "File Not Found"
 msgstr "File Not Found"
 
-#: tib/templates/footer.html:18
+#: tib/templates/footer.html:8
 msgid "contact"
 msgstr "Contact"
 
-#: tib/templates/footer.html:21 tib/templates/tib/imprint.html:11
+#: tib/templates/footer.html:11 tib/templates/tib/imprint.html:11
 msgid "Austrian Academy of Sciences"
 msgstr "Austrian Academy of Sciences"
 
-#: tib/templates/footer.html:22
+#: tib/templates/footer.html:12
 msgid "Institute for Medieval Research"
 msgstr "Institute for Medieval Research"
 
-#: tib/templates/footer.html:23
+#: tib/templates/footer.html:13
 msgid "Division of Byzantine Research"
 msgstr "Division of Byzantine Research"
 
-#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:15
+#: tib/templates/footer.html:15 tib/templates/tib/imprint.html:15
 msgid "Austria"
 msgstr "Austria"
 
-#: tib/templates/footer.html:25
+#: tib/templates/footer.html:15
 msgid "Europe"
 msgstr "Europe"
 
-#: tib/templates/footer.html:44 tib/templates/tib/imprint.html:2
+#: tib/templates/footer.html:25 tib/templates/tib/imprint.html:2
 #: tib/templates/tib/imprint.html:6
 msgid "imprint"
 msgstr "Imprint"
@@ -6621,10 +6651,12 @@ msgstr "Learn more"
 #: tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Our TIB map viewer is online! Please feel free to <a href=\"/atlas\">browse and "
-"test it</a>. It features selected data from the <a href=\"balkan\">TIB Balkans</"
-"a> deriving from its <a href=\"Balkan/subprojects\">sub-projects</a> and is work "
-"in progress. If you have any questions or comments, please feel free to contact"
+"The Frontend “Maps of Power: Historical Atlas of Places, Borderzones and "
+"Migration Dynamics in Byzantium (TIB Balkans)” cannot be accessed at the moment "
+"due to technical reasons, because a version 2.0 is under construction at the "
+"moment. The new version will bear the name “Maps of Power” and be online in "
+"autumn 2023. For further Information: <a href=\"maps-of-power.oeaw.ac.at\" "
+"target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
 
 #: tib/templates/tib/frontpage/tib_map.html:16
 msgid "try it out now"

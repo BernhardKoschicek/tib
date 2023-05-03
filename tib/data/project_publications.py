@@ -1,7 +1,17 @@
 project_publications = [
     {
+        "author": "Katrin Haase, Johannes Tripps",
+        "title": "Jenseits von Ost und West, in: Forschungsmagazin der HTWK Leipzig Einblicke 2023",
+        "location": "Leipzig",
+        "date": "2023",
+        "pages": "5",
+        "category": ['holdura'],
+        "external_link": '',
+        "download": 'Einblicke_SakraleLandschaften.pdf'
+    },
+    {
         "author": "Markus Breier, Karel Kriz, Alexander Pucher, Lukas Neugebauer",
-        "title": " Beyond East and West – Geocommunicating Historical Sacred Landscapes, in: Proc. Int. Cartogr. Assoc., 4, 14, 2021. (https://doi.org/10.5194/ica-proc-4-14-2021)",
+        "title": "Beyond East and West – Geocommunicating Historical Sacred Landscapes, in: Proc. Int. Cartogr. Assoc., 4, 14, 2021. (https://doi.org/10.5194/ica-proc-4-14-2021)",
         "location": "Göttingen",
         "date": "2021",
         "pages": "5",

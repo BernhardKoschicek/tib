@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-03 14:09+0200\n"
-"PO-Revision-Date: 2023-05-03 14:12+0200\n"
+"PO-Revision-Date: 2023-05-03 14:21+0200\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -7122,7 +7122,7 @@ msgstr "Assoziierte Wissenschaftler_innen"
 
 #: tib/util/translations.py:18
 msgid "Technical_Specialists"
-msgstr "Technische Spezialisten"
+msgstr "Technische Spezialist_innen"
 
 #: tib/util/translations.py:19
 msgid "Former_Employees"

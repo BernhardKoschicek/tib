@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-03 14:09+0200\n"
-"PO-Revision-Date: 2023-05-03 14:14+0200\n"
+"POT-Creation-Date: 2023-06-10 20:48+0200\n"
+"PO-Revision-Date: 2023-06-10 20:49+0200\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -29,7 +29,7 @@ msgstr ""
 "montenegro\">\"Cultural heritage in the period of the First World War: the case "
 "of the Austro-Hungarian relief map of Montenegro (1916-1918)\"</a>."
 
-#: tib/data/digital.py:9 tib/data/subprojects.py:225
+#: tib/data/digital.py:9 tib/data/subprojects.py:227
 msgid "relief map of Montenegro"
 msgstr "Relief map of Montenegro"
 
@@ -232,8 +232,8 @@ msgid "Graphical map application to access, browse and query data from TIB Balka
 msgstr ""
 "Graphical map application to access, browse and query data from TIB Balkans"
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:231
-#: tib/data/subprojects.py:255
+#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:233
+#: tib/data/subprojects.py:257
 msgid "browse_tib_balkans_data"
 msgstr "Browse TIB Balkans Data"
 
@@ -1275,8 +1275,8 @@ msgstr ""
 "Montenegro in Cetinje for the purpose of museum exhibitions and digital "
 "presentations."
 
-#: tib/data/subprojects.py:195 tib/data/subprojects.py:243
-#: tib/data/subprojects.py:278
+#: tib/data/subprojects.py:195 tib/data/subprojects.py:245
+#: tib/data/subprojects.py:280
 msgid "Final project report"
 msgstr "Final project report"
 
@@ -1288,59 +1288,71 @@ msgstr "Project"
 msgid "Relief Map"
 msgstr "Relief Map"
 
-#: tib/data/subprojects.py:266
+#: tib/data/subprojects.py:222
 msgid ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
+"The Team Department of Geography and Regional Research (University of Vienna) "
+"has created a customised homepage for our project’s Geocommunication: <a "
+"href=\"https://map.geo.univie.ac.at/bew/\" target=\"_blank\">https://map.geo."
+"univie.ac.at/bew/</a>"
 msgstr ""
-"The total number of slides to be scanned and processed in the project by the "
-"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
-"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
-"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
-"and student employees."
-
-#: tib/data/subprojects.py:267
-msgid ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
-msgstr ""
-"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
-"to World Heritage\" has addressed the three above-mentioned case studies with "
-"their monuments and captured or digitized the respective slide collections in "
-"order to carefully view them through the prism of cultural heritage (before - "
-"after state). This created a structured and efficient workflow and best practice "
-"in this field of Historical Geography and Digital Humanities."
+"The Team Department of Geography and Regional Research (University of Vienna) "
+"has created a customised homepage for our project’s Geocommunication: <a "
+"href=\"https://map.geo.univie.ac.at/bew/\" target=\"_blank\">https://map.geo."
+"univie.ac.at/bew/</a>"
 
 #: tib/data/subprojects.py:268
 msgid ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
 msgstr ""
-"Furthermore, Veronika Polloczek has successfully applied for and defended a "
-"dissertation topic at the University of Vienna with the working title \"From the "
-"Past into the Future - Digital Archiving using the Example of the Historical "
-"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
-"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
-"as a private lecturer at the University of Vienna."
+"The total number of slides to be scanned and processed in the project by the "
+"research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
+"1,252 slides, TIB 16: 939 slides). Their processing and description was carried "
+"out by Veronika Polloczek, the (partly already retired) scientists of the TIB "
+"and student employees."
 
 #: tib/data/subprojects.py:269
 msgid ""
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
+msgstr ""
+"The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
+"to World Heritage\" has addressed the three above-mentioned case studies with "
+"their monuments and captured or digitized the respective slide collections in "
+"order to carefully view them through the prism of cultural heritage (before - "
+"after state). This created a structured and efficient workflow and best practice "
+"in this field of Historical Geography and Digital Humanities."
+
+#: tib/data/subprojects.py:270
+msgid ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+msgstr ""
+"Furthermore, Veronika Polloczek has successfully applied for and defended a "
+"dissertation topic at the University of Vienna with the working title \"From the "
+"Past into the Future - Digital Archiving using the Example of the Historical "
+"Atlas Tabula Imperii Byzantini and its Diathek\", which was officially approved "
+"by the University of Vienna on May 17, 2019 and is supervised by Mihailo Popović "
+"as a private lecturer at the University of Vienna."
+
+#: tib/data/subprojects.py:271
+msgid ""
 "During the term of the research project, the following results were obtained:"
 msgstr ""
 "During the term of the research project, the following results were obtained:"
 
-#: tib/data/subprojects.py:272
+#: tib/data/subprojects.py:274
 msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
@@ -1350,7 +1362,7 @@ msgstr ""
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
 "catalogue.tib.oeaw.ac.at/</a>."
 
-#: tib/data/subprojects.py:273
+#: tib/data/subprojects.py:275
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1382,7 +1394,7 @@ msgstr ""
 "pages in the list that lead to a lemma in the respective volume are highlighted "
 "in bold."
 
-#: tib/data/subprojects.py:274
+#: tib/data/subprojects.py:276
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1394,7 +1406,7 @@ msgstr ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 
-#: tib/data/subprojects.py:290
+#: tib/data/subprojects.py:292
 msgid "Image Collection"
 msgstr "Image Collection"
 
@@ -6658,7 +6670,7 @@ msgstr ""
 "autumn 2023. For further Information: <a href=\"maps-of-power.oeaw.ac.at\" "
 "target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
 
-#: tib/templates/tib/frontpage/tib_map.html:16
+#: tib/templates/tib/frontpage/tib_map.html:12
 msgid "try it out now"
 msgstr "Try it out now"
 

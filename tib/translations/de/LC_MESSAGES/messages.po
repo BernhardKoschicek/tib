@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-03 14:09+0200\n"
-"PO-Revision-Date: 2023-05-03 14:21+0200\n"
+"POT-Creation-Date: 2023-06-10 20:48+0200\n"
+"PO-Revision-Date: 2023-06-10 20:49+0200\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -30,7 +30,7 @@ msgstr ""
 "österreichisch-ungarischen Reliefkarte von Montenegro (1916-1918)\"</a> "
 "entstanden."
 
-#: tib/data/digital.py:9 tib/data/subprojects.py:225
+#: tib/data/digital.py:9 tib/data/subprojects.py:227
 msgid "relief map of Montenegro"
 msgstr "Reliefkarte Montenegro"
 
@@ -235,8 +235,8 @@ msgstr ""
 "Digitale Kartenanwendung um die Daten der TIB Balkan zu durchsuchen und "
 "abzufragen"
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:231
-#: tib/data/subprojects.py:255
+#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:233
+#: tib/data/subprojects.py:257
 msgid "browse_tib_balkans_data"
 msgstr "TIB Balkan Daten erkunden"
 
@@ -1303,8 +1303,8 @@ msgstr ""
 "Überreichung des 3D Modells der Reliefkarte an das Nationalmuseum Montenegros in "
 "Cetinje zum Zweck musealer Ausstellungen und digitaler Präsentationen"
 
-#: tib/data/subprojects.py:195 tib/data/subprojects.py:243
-#: tib/data/subprojects.py:278
+#: tib/data/subprojects.py:195 tib/data/subprojects.py:245
+#: tib/data/subprojects.py:280
 msgid "Final project report"
 msgstr "Projektabschlussbericht"
 
@@ -1316,7 +1316,19 @@ msgstr "Projekt"
 msgid "Relief Map"
 msgstr "Reliefkarte"
 
-#: tib/data/subprojects.py:266
+#: tib/data/subprojects.py:222
+msgid ""
+"The Team Department of Geography and Regional Research (University of Vienna) "
+"has created a customised homepage for our project’s Geocommunication: <a "
+"href=\"https://map.geo.univie.ac.at/bew/\" target=\"_blank\">https://map.geo."
+"univie.ac.at/bew/</a>"
+msgstr ""
+"Das Team des Instituts für Geographie und Regionalforschung (Universität Wien) "
+"hat eine maßgeschneiderte Homepage zwecks Geokommunikation unseres Projektes "
+"erstellt: <a href=\"https://map.geo.univie.ac.at/bew/\" "
+"target=\"_blank\">https://map.geo.univie.ac.at/bew/</a>"
+
+#: tib/data/subprojects.py:268
 msgid ""
 "The total number of slides to be scanned and processed in the project by the "
 "research assistant Veronika Polloczek was 7,172 (TIB 5: 4,981 slides, TIB 12: "
@@ -1331,7 +1343,7 @@ msgstr ""
 "pensionierten) Wissenschaftler der TIB und studentische Mitarbeiter*innen "
 "durchgeführt."
 
-#: tib/data/subprojects.py:267
+#: tib/data/subprojects.py:269
 msgid ""
 "The project \"The Digital Tabula Imperii Byzantini (Dig-TIB) as a Contribution "
 "to World Heritage\" has addressed the three above-mentioned case studies with "
@@ -1348,7 +1360,7 @@ msgstr ""
 "sowie eine Best Practice auf diesem Gebiet der Historischen Geographie und der "
 "Digitalen Geisteswissenschaften geschaffen."
 
-#: tib/data/subprojects.py:268
+#: tib/data/subprojects.py:270
 msgid ""
 "Furthermore, Veronika Polloczek has successfully applied for and defended a "
 "dissertation topic at the University of Vienna with the working title \"From the "
@@ -1364,13 +1376,13 @@ msgstr ""
 "17. Mai 2019 genehmigt wurde und von Mihailo Popović als Privatdozent der "
 "Universität Wien betreut wird."
 
-#: tib/data/subprojects.py:269
+#: tib/data/subprojects.py:271
 msgid ""
 "During the term of the research project, the following results were obtained:"
 msgstr ""
 "In der Laufzeit des Forschungsprojektes wurden folgende Ergebnisse erzielt:"
 
-#: tib/data/subprojects.py:272
+#: tib/data/subprojects.py:274
 msgid ""
 "Transparent presentation and publication of project results as part of TIB's "
 "online resources at <a href=\"https://catalogue.tib.oeaw.ac.at/\">https://"
@@ -1380,7 +1392,7 @@ msgstr ""
 "der Online-Ressourcen der TIB unter <a href=\"https://catalogue.tib.oeaw.ac.at/"
 "\">https://catalogue.tib.oeaw.ac.at/</a>"
 
-#: tib/data/subprojects.py:273
+#: tib/data/subprojects.py:275
 msgid ""
 "The geographical registers of TIB volumes 1 to 15 have been placed online as <a "
 "href=\"/tib-register\">lists of all toponyms with volume and page references</a>."
@@ -1412,7 +1424,7 @@ msgstr ""
 "dadurch den Kontext erschließt. Zudem sind jene Seiten in der Liste fett "
 "hervorgehoben, die zu einem Lemma im jeweiligen Band führen."
 
-#: tib/data/subprojects.py:274
+#: tib/data/subprojects.py:276
 msgid ""
 "The CollectiveAccess portal (frontend) is online at: <a href=\"https://catalogue."
 "tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a>.Users can freely view, "
@@ -1425,7 +1437,7 @@ msgstr ""
 "1.252 Dias, TIB 16: 939 Dias) frei betrachten, durchsuchen, vergleichen, "
 "Metadaten sichten und mit Permalinks zitieren."
 
-#: tib/data/subprojects.py:290
+#: tib/data/subprojects.py:292
 msgid "Image Collection"
 msgstr "Bildkollektion"
 
@@ -6753,7 +6765,7 @@ msgstr ""
 "gehen. Für weiterführende Informationen: <a href=\"maps-of-power.oeaw.ac.at\" "
 "target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
 
-#: tib/templates/tib/frontpage/tib_map.html:16
+#: tib/templates/tib/frontpage/tib_map.html:12
 msgid "try it out now"
 msgstr "Jetzt ausprobieren"
 

@@ -218,7 +218,9 @@ project_results = {
         ]
     },
     'holdura': {
-        'text': [],
+        'text': [
+            _('The Team Department of Geography and Regional Research (University of Vienna) has created a customised homepage for our project’s Geocommunication: <a href="https://map.geo.univie.ac.at/bew/" target="_blank">https://map.geo.univie.ac.at/bew/</a>')
+        ],
         'list': [],
         'icons': [
             {

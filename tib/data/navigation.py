@@ -18,7 +18,8 @@ balkan_nav_items = {
         'balkan_outreach',
         'balkan_team',
         'balkan_volumes'],
-    'balkan_subprojects': [i for i in subprojects if subprojects[i]['part'] == 'balkan'],
+    'balkan_subprojects':
+        [i for i in subprojects if subprojects[i]['part'] == 'balkan'],
     'balkan_digital': ['3dobjects', 'explore']}
 
 balkan_nav_translations = {
@@ -57,21 +58,26 @@ tib_digtib_submenu_items = [
         'icon': 'bi-list-columns-reverse',
         'link': 'tib-register',
         'link_type': 'int',
-        'tooltip': _l('A complete list of geographic registers of the published TIB volumes 1-13 and 15')
+        'tooltip':
+            _l('A complete list of geographic registers of '
+               'the published TIB volumes 1-13 and 15')
     },
     {
         'title': _l('image_collection'),
         'icon': 'bi-images',
         'link_type': 'ext',
         'link': 'https://catalogue.tib.oeaw.ac.at/',
-        'tooltip': _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with metadata')
+        'tooltip':
+            _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and '
+               '16 enriched with metadata')
     },
     # {
     #     'title': _l('map_application'),
     #     'icon': 'bi-map-fill',
     #     'link_type': 'ext',
     #     'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
-    #     'tooltip': _l('Graphical map application to access, browse and query data from TIB Balkans')
+    #     'tooltip': _l('Graphical map application to access,'
+    #     'browse and query data from TIB Balkans')
     #
     # },
     {
@@ -79,7 +85,9 @@ tib_digtib_submenu_items = [
         'icon': 'bi-stack',
         'link': '../balkan/digital/explore',
         'link_type': 'int',
-        'tooltip': _l('Browse data from TIB Balkans directly from the OpenAtlas database')
+        'tooltip':
+            _l('Browse data from TIB Balkans directly '
+               'from the OpenAtlas database')
     }, ]
 
 balkan_digital_submenu_items = [
@@ -88,7 +96,9 @@ balkan_digital_submenu_items = [
         'icon': 'bi-map-fill',
         'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
         'link_type': 'ext',
-        'tooltip': _l('Graphical map application to access, browse and query data from TIB Balkans')
+        'tooltip':
+            _l('Graphical map application to access, browse and '
+               'query data from TIB Balkans')
 
     },
     {
@@ -96,7 +106,9 @@ balkan_digital_submenu_items = [
         'icon': 'bi-stack',
         'link': 'explore',
         'link_type': 'int',
-        'tooltip': _l('Browse data from TIB Balkans directly from the OpenAtlas database')
+        'tooltip':
+            _l('Browse data from TIB Balkans directly from the '
+               'OpenAtlas database')
     },
     {
         'title': _l('View 3D Objects'),

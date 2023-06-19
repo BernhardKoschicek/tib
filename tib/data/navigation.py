@@ -1,4 +1,3 @@
-from flask import url_for
 from flask_babel import lazy_gettext as _l
 
 from tib.data.subprojects import subprojects
@@ -67,14 +66,14 @@ tib_digtib_submenu_items = [
         'link': 'https://catalogue.tib.oeaw.ac.at/',
         'tooltip': _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with metadata')
     },
-    {
-        'title': _l('map_application'),
-        'icon': 'bi-map-fill',
-        'link_type': 'ext',
-        'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
-        'tooltip': _l('Graphical map application to access, browse and query data from TIB Balkans')
-
-    },
+    # {
+    #     'title': _l('map_application'),
+    #     'icon': 'bi-map-fill',
+    #     'link_type': 'ext',
+    #     'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+    #     'tooltip': _l('Graphical map application to access, browse and query data from TIB Balkans')
+    #
+    # },
     {
         'title': _l('browse_tib_balkans_data'),
         'icon': 'bi-stack',

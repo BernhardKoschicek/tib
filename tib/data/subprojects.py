@@ -238,7 +238,7 @@ project_results = {
         ]
     },
     'borderzones': {
-        'text': [],
+        'text': [_('map_application_text')],
         'list': [],
         'icons': [
             {
@@ -248,8 +248,8 @@ project_results = {
                 'icon': 'bi bi-journals',
             },
             {
-                'label': 'Maps of Power',
-                'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+                'label': f'Maps of Power',
+                'link': '',
                 'file': None,
                 'icon': 'bi bi-map-fill',
             },

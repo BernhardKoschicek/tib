@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-06-10 20:48+0200\n"
+"POT-Creation-Date: 2023-06-28 08:48+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,31 +101,31 @@ msgid ""
 "Lukas Neugebauer, 2022)"
 msgstr ""
 
-#: tib/data/navigation.py:7
+#: tib/data/navigation.py:6
 msgid "history"
 msgstr ""
 
-#: tib/data/navigation.py:8
+#: tib/data/navigation.py:7
 msgid "current_status"
 msgstr ""
 
-#: tib/data/navigation.py:9
+#: tib/data/navigation.py:8
 msgid "sub_projects"
 msgstr ""
 
-#: tib/data/navigation.py:10
+#: tib/data/navigation.py:9
 msgid "publications"
 msgstr ""
 
-#: tib/data/navigation.py:11 tib/data/navigation.py:37
+#: tib/data/navigation.py:10 tib/data/navigation.py:37
 msgid "digtib"
 msgstr ""
 
-#: tib/data/navigation.py:12
+#: tib/data/navigation.py:11
 msgid "aieb"
 msgstr ""
 
-#: tib/data/navigation.py:13
+#: tib/data/navigation.py:12
 msgid "team"
 msgstr ""
 
@@ -186,47 +186,46 @@ msgstr ""
 msgid "toponym_register"
 msgstr ""
 
-#: tib/data/navigation.py:61
+#: tib/data/navigation.py:62
 msgid ""
 "A complete list of geographic registers of the published TIB volumes 1-13"
 " and 15"
 msgstr ""
 
-#: tib/data/navigation.py:64
+#: tib/data/navigation.py:66
 msgid "image_collection"
 msgstr ""
 
-#: tib/data/navigation.py:68
+#: tib/data/navigation.py:71
 msgid ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched"
 " with metadata"
 msgstr ""
 
-#: tib/data/navigation.py:71 tib/data/navigation.py:88
-#: tib/templates/tib/frontpage/tib_map.html:5
+#: tib/data/navigation.py:84 tib/data/navigation.py:105
+#: tib/data/subprojects.py:233 tib/data/subprojects.py:257
+msgid "browse_tib_balkans_data"
+msgstr ""
+
+#: tib/data/navigation.py:89 tib/data/navigation.py:110
+msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
+msgstr ""
+
+#: tib/data/navigation.py:95 tib/templates/tib/frontpage/tib_map.html:5
 msgid "map_application"
 msgstr ""
 
-#: tib/data/navigation.py:75 tib/data/navigation.py:92
+#: tib/data/navigation.py:100
 msgid ""
 "Graphical map application to access, browse and query data from TIB "
 "Balkans"
 msgstr ""
 
-#: tib/data/navigation.py:79 tib/data/navigation.py:96
-#: tib/data/subprojects.py:233 tib/data/subprojects.py:257
-msgid "browse_tib_balkans_data"
-msgstr ""
-
-#: tib/data/navigation.py:83 tib/data/navigation.py:100
-msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
-msgstr ""
-
-#: tib/data/navigation.py:103
+#: tib/data/navigation.py:114
 msgid "View 3D Objects"
 msgstr ""
 
-#: tib/data/navigation.py:107
+#: tib/data/navigation.py:118
 msgid "Examine different 3D objects"
 msgstr ""
 
@@ -301,7 +300,7 @@ msgid ""
 "Research of the Institute for Medieval Research (IMAFO)."
 msgstr ""
 
-#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:170
 msgid "Date"
 msgstr ""
 
@@ -957,6 +956,14 @@ msgid ""
 "Vienna) has created a customised homepage for our project’s "
 "Geocommunication: <a href=\"https://map.geo.univie.ac.at/bew/\" "
 "target=\"_blank\">https://map.geo.univie.ac.at/bew/</a>"
+msgstr ""
+
+#: tib/data/subprojects.py:241 tib/templates/tib/frontpage/tib_map.html:7
+msgid "map_application_text"
+msgstr ""
+
+#: tib/data/subprojects.py:251
+msgid "unavailable"
 msgstr ""
 
 #: tib/data/subprojects.py:268
@@ -4337,19 +4344,19 @@ msgstr ""
 msgid "E-Mail"
 msgstr ""
 
-#: tib/templates/tib/aieb/aieb.html:179
+#: tib/templates/tib/aieb/aieb.html:165
 msgid "Documents of the Commission"
 msgstr ""
 
-#: tib/templates/tib/aieb/aieb.html:185
+#: tib/templates/tib/aieb/aieb.html:171
 msgid "Titel"
 msgstr ""
 
-#: tib/templates/tib/aieb/aieb.html:186
+#: tib/templates/tib/aieb/aieb.html:172
 msgid "Download"
 msgstr ""
 
-#: tib/templates/tib/aieb/aieb.html:192
+#: tib/templates/tib/aieb/aieb.html:178
 msgid "Complete Report AIEB 2016-2022"
 msgstr ""
 
@@ -4568,14 +4575,6 @@ msgstr ""
 
 #: tib/templates/tib/frontpage/jumbotron.html:24
 msgid "Learn more"
-msgstr ""
-
-#: tib/templates/tib/frontpage/tib_map.html:7
-msgid "map_application_text"
-msgstr ""
-
-#: tib/templates/tib/frontpage/tib_map.html:12
-msgid "try it out now"
 msgstr ""
 
 #: tib/templates/tib/history/history.html:2

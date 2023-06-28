@@ -130,15 +130,6 @@ project_publications = [
         "external_link": '',
         "download": 'MPopovicVZervanFatherlandoftheSerbianKings.pdf'
     }, {
-        "author": "Mihailo St. Popović",
-        "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Comptes rendus des séances de l’Académie (CRAI)",
-        "location": "Paris",
-        "date": "in Druck",
-        "pages": "",
-        "category": ['borderzones'],
-        "external_link": '',
-        "download": ''
-    }, {
         "author": "Vratislav Zervan",
         "title": "Migration into the Borderzone: A Case Study on Byzantine Macedonia after the Serbian Conquest (1282-1355), in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
         "location": "Leipzig",

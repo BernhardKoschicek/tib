@@ -12,7 +12,7 @@ project_publications = [
     {
         "author": "Branka Vranešević",
         "title": "Iconography of the Parapet Slab from the Church of St. Thomas in Kuti: New Reflections and Possible Interpretations. Zbornik Matice srpske za likovne umetnosti (in print)",
-        "location": "",
+        "location": "Novi Sad",
         "date": "2023",
         "pages": "",
         "category": ['holdura'],

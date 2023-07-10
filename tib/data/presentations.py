@@ -1,7 +1,51 @@
 from tib.util.util import get_table_dates_formatted
 
-
 presentations = [{
+    "presenter": "Branka Vranešević",
+    "title": "Initials with Teratological Motifs in the Belgrade Prophetologion: Witnesses of Entanglement between East and West",
+    "conference": "International Medieval Congress",
+    'location': 'Leeds',
+    "date": get_table_dates_formatted(2023, 7, 6),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+}, {
+    "presenter": "Johannes Tripps",
+    "title": "Objects of Private Devotion as Witnesses to Entanglement between Venice and the Árpád and Nemanjić Dynasties",
+    "conference": "International Medieval Congress",
+    'location': 'Leeds',
+    "date": get_table_dates_formatted(2023, 7, 6),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+}, {
+    "presenter": "Mihailo St. Popović",
+    "title": "A Mother and Two Sons: the Serbian Rulers Helen, Dragutin, and Milutin and Their Entangled Realms in Medieval Serbia",
+    "conference": "International Medieval Congress",
+    'location': 'Leeds',
+    "date": get_table_dates_formatted(2023, 7, 6),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+}, {
+    "presenter": "Bernhard Koschiček-Krombholz",
+    "title": "OpenAtlas: Handling Entangled Data in a Linked Data World",
+    "conference": "International Medieval Congress",
+    'location': 'Leeds',
+    "date": get_table_dates_formatted(2023, 7, 6),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+}, {
+    "presenter": "Dorota Vargová",
+    "title": "tefan Uroš I and Helen of Anjou: The Royal Couple's Influence on the Confessional Structure of the Principality of Zeta in the Late 13th and Early 14th Century",
+    "conference": "International Medieval Congress",
+    'location': 'Leeds',
+    "date": get_table_dates_formatted(2023, 7, 6),
+    "external_link": '',
+    "download": '',
+    "category": ["holdura"]
+}, {
     "presenter": "Mihailo St. Popović",
     "title": "Пројекат Tabula Imperii Byzantini: о будућности (?) проучавања историјске географије Византије ",
     "conference": "Serbian Academy of Sciences and Arts – SANU",
@@ -10,7 +54,7 @@ presentations = [{
     "external_link": '',
     "download": '',
     "category": ["holdura"]
-},{
+}, {
     "presenter": "Mihailo St. Popović",
     "title": "Die historische Geographie von Byzanz neu gedacht – Über den Wert der digitalen Kartographie und Geokommunikation in der Vermittlung historischer Inhalte am Beispiel des Projektes „Jenseits von Ost und West“",
     "conference": "Deutsche Gesellschaft für Kartographie e.V., Sektion Halle – Leipzig",
@@ -19,7 +63,7 @@ presentations = [{
     "external_link": '',
     "download": '',
     "category": ["holdura"]
-},{
+}, {
     "presenter": "Mihailo St. Popović",
     "title": "Doing Historical Geography in A Digital Age: The Case of The Tabula Imperii Byzantini Balkans and Its Public Outreach",
     "conference": "2022 Byzantine Studies Conference",
@@ -28,7 +72,7 @@ presentations = [{
     "external_link": 'https://bsana.net/annual-conference/',
     "download": '',
     "category": ["holdura"]
-},{
+}, {
     "presenter": "Mihailo St. Popović",
     "title": "Historical Geography, Digital Humanities and Database Systems: an Approach to reconstruct “Sacred Landscapes” – the Case of Medieval Duklja and Raška (today’s Montenegro and Serbia)",
     "conference": "Global Eurasia, Workshop II: Handlungsspielräume, Netzwerke und transregionale Kontexte",
@@ -442,7 +486,7 @@ presentations = [{
     "external_link": 'https://byzcongress2022.org/',
     "download": '',
     "category": ["borderzones"]
-},{
+}, {
     "presenter": "Markus Breier",
     "title": "Beyond East and West - A Framework for Researching and Communicating Historical Landscapes",
     "conference": "EuroCarto 2022",
@@ -451,7 +495,7 @@ presentations = [{
     "external_link": '',
     "download": 'eurocarto_2022.pdf',
     "category": ["holdura"]
-},{
+}, {
     "presenter": "Markus Breier",
     "title": "The Sacred Landscape of Medieval Montenegro: Map-Based Communication",
     "conference": "5. Geographie-Werkstatt des Österreichischem Geographieverbands",

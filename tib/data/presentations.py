@@ -38,7 +38,7 @@ presentations = [{
     "category": ["holdura"]
 }, {
     "presenter": "Dorota Vargová",
-    "title": "tefan Uroš I and Helen of Anjou: The Royal Couple's Influence on the Confessional Structure of the Principality of Zeta in the Late 13th and Early 14th Century",
+    "title": "Stefan Uroš I and Helen of Anjou: The Royal Couple's Influence on the Confessional Structure of the Principality of Zeta in the Late 13th and Early 14th Century",
     "conference": "International Medieval Congress",
     'location': 'Leeds',
     "date": get_table_dates_formatted(2023, 7, 6),

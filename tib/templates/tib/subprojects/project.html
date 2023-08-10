@@ -111,19 +111,17 @@
         </div>
       {% endif %}
     {% endif %}
-    <div class="pb-5">
-      {% if publications %}
-        <h4 id="publications" class="pt-5 text-center">
-          <a href="#publications" class="text-decoration-none">{{ _('Publications') }}</a>
-        </h4>
-        {{ create_table(publications, 'publications', 3) }}
-      {% endif %}
-      {% if presentations %}
-        <h4 id="presentations" class="pt-5 text-center">
-          <a href="#presentations" class="text-decoration-none">{{ _('Presentations') }}</a>
-        </h4>
-        {{ create_table(presentations, 'presentations', 4) }}
-      {% endif %}
-    </div>
+    {% if publications %}
+      <h4 id="publications" class="pt-5 text-center">
+        <a href="#publications" class="text-decoration-none">{{ _('Publications') }}</a>
+      </h4>
+      {{ create_table(publications, 'publications', 3) }}
+    {% endif %}
+    {% if presentations %}
+      <h4 id="presentations" class="pt-5 text-center">
+        <a href="#presentations" class="text-decoration-none">{{ _('Presentations') }}</a>
+      </h4>
+      {{ create_table(presentations, 'presentations', 4) }}
+    {% endif %}
   </div>
 {% endblock %}

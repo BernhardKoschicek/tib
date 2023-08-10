@@ -1,5 +1,25 @@
 project_publications = [
     {
+        "author": "Mihailo St. Popović",
+        "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Les Comptes Rendus des Séances de l’Académie des Inscriptions et Belles-Lettres 2/2021 (avril-juin)",
+        "location": "Paris",
+        "date": "2023",
+        "pages": "771-796",
+        "category": ['borderzones'],
+        "external_link": '',
+        "download": 'MPopovicEspaceetpeuplementMacedoinebyzantine.pdf'
+    },
+    {
+        "author": "Branka Vranešević",
+        "title": "Iconography of the Parapet Slab from the Church of St. Thomas in Kuti: New Reflections and Possible Interpretations. Zbornik Matice srpske za likovne umetnosti (in print)",
+        "location": "Novi Sad",
+        "date": "2023",
+        "pages": "",
+        "category": ['holdura'],
+        "external_link": '',
+        "download": ''
+    },
+    {
         "author": "Katrin Haase, Johannes Tripps",
         "title": "Jenseits von Ost und West, in: Forschungsmagazin der HTWK Leipzig Einblicke 2023",
         "location": "Leipzig",
@@ -110,26 +130,8 @@ project_publications = [
         "external_link": '',
         "download": 'MPopovicVZervanFatherlandoftheSerbianKings.pdf'
     }, {
-        "author": "Mihailo St. Popović",
-        "title": "Espace et peuplement en Macédoine byzantine de l’Antiquité tardive à la fin du royaume serbe : l’apport de la Tabula Imperii Byzantini. Comptes rendus des séances de l’Académie (CRAI)",
-        "location": "Paris",
-        "date": "in Druck",
-        "pages": "",
-        "category": ['borderzones'],
-        "external_link": '',
-        "download": ''
-    }, {
         "author": "Vratislav Zervan",
         "title": "Migration into the Borderzone: A Case Study on Byzantine Macedonia after the Serbian Conquest (1282-1355), in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
-        "location": "Leipzig",
-        "date": "in Druck",
-        "pages": "",
-        "category": ['borderzones'],
-        "external_link": '',
-        "download": ''
-    }, {
-        "author": "Markus Breier, Bernhard Koschiček-Krombholz",
-        "title": "Border Interpretation and Its Cartographic Representation, in: Der den Kordax tanzt: Hommage an Johannes Koder und seine Forschungen über Byzanz und den Balkan",
         "location": "Leipzig",
         "date": "in Druck",
         "pages": "",

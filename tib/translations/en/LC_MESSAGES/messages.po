@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-06-10 20:48+0200\n"
-"PO-Revision-Date: 2023-06-10 20:49+0200\n"
+"POT-Creation-Date: 2023-06-28 08:48+0200\n"
+"PO-Revision-Date: 2023-06-28 09:42+0200\n"
 "Last-Translator: \n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -119,31 +119,31 @@ msgstr ""
 "The Monastery of Bogorodica Ratačka, Church C, Montenegro (11th Cent., Lukas "
 "Neugebauer, 2022)"
 
-#: tib/data/navigation.py:7
+#: tib/data/navigation.py:6
 msgid "history"
 msgstr "History"
 
-#: tib/data/navigation.py:8
+#: tib/data/navigation.py:7
 msgid "current_status"
 msgstr "Current Status"
 
-#: tib/data/navigation.py:9
+#: tib/data/navigation.py:8
 msgid "sub_projects"
 msgstr "Subprojects"
 
-#: tib/data/navigation.py:10
+#: tib/data/navigation.py:9
 msgid "publications"
 msgstr "Publications"
 
-#: tib/data/navigation.py:11 tib/data/navigation.py:37
+#: tib/data/navigation.py:10 tib/data/navigation.py:37
 msgid "digtib"
 msgstr "DigTIB"
 
-#: tib/data/navigation.py:12
+#: tib/data/navigation.py:11
 msgid "aieb"
 msgstr "AIEB"
 
-#: tib/data/navigation.py:13
+#: tib/data/navigation.py:12
 msgid "team"
 msgstr "Team"
 
@@ -204,17 +204,17 @@ msgstr "Montenegro"
 msgid "toponym_register"
 msgstr "Toponym Register"
 
-#: tib/data/navigation.py:61
+#: tib/data/navigation.py:62
 msgid ""
 "A complete list of geographic registers of the published TIB volumes 1-13 and 15"
 msgstr ""
 "A complete list of geographic registers of the published TIB volumes 1-13 and 15"
 
-#: tib/data/navigation.py:64
+#: tib/data/navigation.py:66
 msgid "image_collection"
 msgstr "Image Collection"
 
-#: tib/data/navigation.py:68
+#: tib/data/navigation.py:71
 msgid ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
 "metadata"
@@ -222,30 +222,29 @@ msgstr ""
 "Access to more than 7,000 slides of the TIB volumes 5, 12 and 16 enriched with "
 "metadata"
 
-#: tib/data/navigation.py:71 tib/data/navigation.py:88
-#: tib/templates/tib/frontpage/tib_map.html:5
-msgid "map_application"
-msgstr "Map Application"
-
-#: tib/data/navigation.py:75 tib/data/navigation.py:92
-msgid "Graphical map application to access, browse and query data from TIB Balkans"
-msgstr ""
-"Graphical map application to access, browse and query data from TIB Balkans"
-
-#: tib/data/navigation.py:79 tib/data/navigation.py:96 tib/data/subprojects.py:233
+#: tib/data/navigation.py:84 tib/data/navigation.py:105 tib/data/subprojects.py:233
 #: tib/data/subprojects.py:257
 msgid "browse_tib_balkans_data"
 msgstr "Browse TIB Balkans Data"
 
-#: tib/data/navigation.py:83 tib/data/navigation.py:100
+#: tib/data/navigation.py:89 tib/data/navigation.py:110
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr "Browse data from TIB Balkans directly from the OpenAtlas database"
 
-#: tib/data/navigation.py:103
+#: tib/data/navigation.py:95 tib/templates/tib/frontpage/tib_map.html:5
+msgid "map_application"
+msgstr "Map Application"
+
+#: tib/data/navigation.py:100
+msgid "Graphical map application to access, browse and query data from TIB Balkans"
+msgstr ""
+"Graphical map application to access, browse and query data from TIB Balkans"
+
+#: tib/data/navigation.py:114
 msgid "View 3D Objects"
 msgstr "View 3D Objects"
 
-#: tib/data/navigation.py:107
+#: tib/data/navigation.py:118
 msgid "Examine different 3D objects"
 msgstr "Examine different 3D objects"
 
@@ -339,7 +338,7 @@ msgstr ""
 "11) will be officially promoted at the Department of Byzantine Research of the "
 "Institute for Medieval Research (IMAFO)."
 
-#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:184
+#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:170
 msgid "Date"
 msgstr "Date"
 
@@ -1300,6 +1299,20 @@ msgstr ""
 "href=\"https://map.geo.univie.ac.at/bew/\" target=\"_blank\">https://map.geo."
 "univie.ac.at/bew/</a>"
 
+#: tib/data/subprojects.py:241 tib/templates/tib/frontpage/tib_map.html:7
+msgid "map_application_text"
+msgstr ""
+"The Frontend “Maps of Power: Historical Atlas of Places, Borderzones and "
+"Migration Dynamics in Byzantium (TIB Balkans)” cannot be accessed at the moment "
+"due to technical reasons, because a version 2.0 is under construction at the "
+"moment. The new version will bear the name “Maps of Power” and be online in "
+"autumn 2023. For further Information: <a href=\"maps-of-power.oeaw.ac.at\" "
+"target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
+
+#: tib/data/subprojects.py:251
+msgid "unavailable"
+msgstr "unavailable"
+
 #: tib/data/subprojects.py:268
 msgid ""
 "The total number of slides to be scanned and processed in the project by the "
@@ -1529,7 +1542,7 @@ msgstr ""
 "BSc in Computer Sciences, BA in History, student of Computer Sciences at the "
 "University of Applied Sciences Technikum Wien and currently student of history "
 "at the University of Vienna. Research interests include computer security, "
-"python, Linked Open Data, API, digital reservation, historical geographie, GIS, "
+"python, Linked Open Data, API, digital reservation, historical geography, GIS, "
 "medieval and military history."
 
 #: tib/data/team.py:61
@@ -6326,19 +6339,19 @@ msgstr "Country"
 msgid "E-Mail"
 msgstr "E-Mail"
 
-#: tib/templates/tib/aieb/aieb.html:179
+#: tib/templates/tib/aieb/aieb.html:165
 msgid "Documents of the Commission"
 msgstr "Documents of the Commission"
 
-#: tib/templates/tib/aieb/aieb.html:185
+#: tib/templates/tib/aieb/aieb.html:171
 msgid "Titel"
 msgstr "Title"
 
-#: tib/templates/tib/aieb/aieb.html:186
+#: tib/templates/tib/aieb/aieb.html:172
 msgid "Download"
 msgstr "Download"
 
-#: tib/templates/tib/aieb/aieb.html:192
+#: tib/templates/tib/aieb/aieb.html:178
 msgid "Complete Report AIEB 2016-2022"
 msgstr "Complete Report AIEB 2016-2022"
 
@@ -6659,20 +6672,6 @@ msgstr "Activities"
 #: tib/templates/tib/frontpage/jumbotron.html:24
 msgid "Learn more"
 msgstr "Learn more"
-
-#: tib/templates/tib/frontpage/tib_map.html:7
-msgid "map_application_text"
-msgstr ""
-"The Frontend “Maps of Power: Historical Atlas of Places, Borderzones and "
-"Migration Dynamics in Byzantium (TIB Balkans)” cannot be accessed at the moment "
-"due to technical reasons, because a version 2.0 is under construction at the "
-"moment. The new version will bear the name “Maps of Power” and be online in "
-"autumn 2023. For further Information: <a href=\"maps-of-power.oeaw.ac.at\" "
-"target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
-
-#: tib/templates/tib/frontpage/tib_map.html:12
-msgid "try it out now"
-msgstr "Try it out now"
 
 #: tib/templates/tib/history/history.html:2
 msgid "History"
@@ -7279,3 +7278,6 @@ msgstr "Former Employees"
 
 #~ msgid "Browse project database"
 #~ msgstr "Browse project database"
+
+#~ msgid "try it out now"
+#~ msgstr "Try it out now"

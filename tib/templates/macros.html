@@ -1,272 +1,272 @@
 {% macro image_description(title) %}
-<div class="row justify-content-end">
-  <div class="col-12 align-self-end">
-    <p>
-      <small class="image-description float-end bg-dark px-1">
-        {{ title }}
-      </small>
-    </p>
+  <div class="row justify-content-end">
+    <div class="col-12 align-self-end">
+      <p>
+        <small class="image-description float-end bg-dark px-1">
+          {{ title }}
+        </small>
+      </p>
+    </div>
   </div>
-</div>
 {% endmacro %}
 
 
 {% macro counting_icons(key, value) %}
-<div class='col-3 top3 text-center align-content-center'>
-  <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
-  <br>
-  <span class="{{ key }} counter-style"
-        data-from="0" data-to="{{ value['count'] }}"
-        data-time="3000">
+  <div class='col-3 top3 text-center align-content-center'>
+    <i class="bi {{ value['icon'] }}" style="font-size: 1.5rem;"></i>
+    <br>
+    <span class="{{ key }} counter-style"
+          data-from="0" data-to="{{ value['count'] }}"
+          data-time="3000">
 
           </span>
-  <br>
-  <span class="counter-font">{{ value['description'] }}</span>
+    <br>
+    <span class="counter-font">{{ value['description'] }}</span>
 
-</div>
+  </div>
 {% endmacro %}
 
 
 {% macro box_description(title) %}
-<div class="row justify-content-center">
-  <div class="col-12 align-self-center">
-    <p>
-      <small class="image-description">
-        {{ title }}
-      </small>
-    </p>
+  <div class="row justify-content-center">
+    <div class="col-12 align-self-center">
+      <p>
+        <small class="image-description">
+          {{ title }}
+        </small>
+      </p>
+    </div>
   </div>
-</div>
 {% endmacro %}
 
 
 {% macro read_more(target) %}
-<p>
-  <button class="text-decoration-none btn-violet-light rounded-pill px-5 py-1"
-          data-bs-toggle="collapse" aria-controls="{{ target }}"
-          href="#{{ target }}" role="button" aria-expanded="false">
-          <i class="bi bi-caret-down-fill" onclick="readMoreFunction(this)">
-            {{_('Read more')}}...</i>
-  </button>
-</p>
+  <p>
+    <button class="text-decoration-none btn-violet-light rounded-pill px-5 py-1"
+            data-bs-toggle="collapse" aria-controls="{{ target }}"
+            href="#{{ target }}" role="button" aria-expanded="false">
+      <i class="bi bi-caret-down-fill" onclick="readMoreFunction(this)">
+        {{ _('Read more') }}...</i>
+    </button>
+  </p>
 {% endmacro %}
 
 
 {% macro header(title, bold) %}
-<h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
+  <h1 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h1>
 {% endmacro %}
 
 {% macro sub_header(title, bold) %}
-<h5 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h5>
+  <h5 class="{% if bold %}fw-bold{% endif %}">{{ title }}</h5>
 {% endmacro %}
 
 {% macro header_balkan(title, bold) %}
-<h1 class=" display-4">{{ title }}</h1>
+  <h1 class=" display-4">{{ title }}</h1>
 {% endmacro %}
 
 {% macro sub_header_balkan(title, bold) %}
-<h1 class=" display-6">{{ title }}</h1>
+  <h1 class=" display-6">{{ title }}</h1>
 {% endmacro %}
 
 
 {% macro img_modal(img_dict, index) %}
-<!-- Modal Button -->
-<a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ index }}"
-   class="text-decoration-none">
-  <img class="img-fluid d-flex z-depth-1"
-       src="{{ url_for('static', filename=img_dict['path']) }}"
-       alt="{{ img_dict['description'] }}">
-  <p class="small text-center">{{ img_dict['description'] }}</p>
-</a>
+  <!-- Modal Button -->
+  <a href="#" data-bs-toggle="modal" data-bs-target="#modal-{{ index }}"
+     class="text-decoration-none">
+    <img class="img-fluid d-flex z-depth-1"
+         src="{{ url_for('static', filename=img_dict['path']) }}"
+         alt="{{ img_dict['description'] }}">
+    <p class="small text-center">{{ img_dict['description'] }}</p>
+  </a>
 
-<!-- Modal -->
-<div class="modal fade" id="modal-{{ index }}" tabindex="-1"
-     aria-labelledby="modalLabelmodal" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-body mb-0 p-0">
-        <img src="{{ url_for('static', filename=img_dict['path']) }}"
-             alt="{{ img_dict['description'] }}"
-             class="img-fluid d-flex shadow-lg bg-body">
-      </div>
-      <div class="modal-footer justify-content-center">
-        <div class="row">
-          <div class="col-12 text-center">
-            <p>{{ img_dict['description'] }}</p>
-            {% if img_dict['citation'] %}
-            <p>({{ img_dict['citation'] | safe}})</p>
-            {% endif %}
-          </div>
-          <div class="col-12 text-center">
-            <p>
-              <button
-                type="button"
-                class="btn btn-violet btn-rounded btn-md ml-4"
-                data-bs-dismiss="modal">Close
-              </button>
-            </p>
+  <!-- Modal -->
+  <div class="modal fade" id="modal-{{ index }}" tabindex="-1"
+       aria-labelledby="modalLabelmodal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-body mb-0 p-0">
+          <img src="{{ url_for('static', filename=img_dict['path']) }}"
+               alt="{{ img_dict['description'] }}"
+               class="img-fluid d-flex shadow-lg bg-body">
+        </div>
+        <div class="modal-footer justify-content-center">
+          <div class="row">
+            <div class="col-12 text-center">
+              <p>{{ img_dict['description'] }}</p>
+              {% if img_dict['citation'] %}
+                <p>({{ img_dict['citation'] | safe }})</p>
+              {% endif %}
+            </div>
+            <div class="col-12 text-center">
+              <p>
+                <button
+                    type="button"
+                    class="btn btn-violet btn-rounded btn-md ml-4"
+                    data-bs-dismiss="modal">Close
+                </button>
+              </p>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 {% endmacro %}
 
 
 {% macro outreach_modal(outreach, index, icon) %}
-<!-- Modal Button -->
-<div class="card mb-3"
-     data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
-  {% if icon %}
-  <img class="img-fluid d-flex z-depth-1"
-       src="{{ url_for('static', filename=icon.path) }}"
-       alt="{{ outreach.title }}">
-  <small style="font-size: 0.6rem" class="pt-1 pe-1 text-end">
-    {% if icon.license %}
-    {{ icon.license |safe }}
-    {% endif %}
-    {% if icon.author %}
-    by<a class="text-decoration-none"
-         href="{{ icon.url }}">{{ icon.author }}</a>
-    {% endif %}
-  </small>
-  {% else %}
-  <i class="bi {{ outreach.type.bs_icon }} text-center"
-     style="font-size: 5rem;"></i>
-  {% endif %}
-  <div class="card-body">
-    <p class="card-title">{{ outreach.title | safe }}</p>
-    <div class="card-footer text-muted text-start">
-      <small class="text-muted ">
-        <i class="bi bi-calendar-week"></i>&nbsp;{{ outreach.date }}
+  <!-- Modal Button -->
+  <div class="card mb-3"
+       data-bs-toggle="modal" data-bs-target="#modal-{{ index }}">
+    {% if icon %}
+      <img class="img-fluid d-flex z-depth-1"
+           src="{{ url_for('static', filename=icon.path) }}"
+           alt="{{ outreach.title }}">
+      <small style="font-size: 0.6rem" class="pt-1 pe-1 text-end">
+        {% if icon.license %}
+          {{ icon.license |safe }}
+        {% endif %}
+        {% if icon.author %}
+          by<a class="text-decoration-none"
+               href="{{ icon.url }}">{{ icon.author }}</a>
+        {% endif %}
       </small>
+    {% else %}
+      <i class="bi {{ outreach.type.bs_icon }} text-center"
+         style="font-size: 5rem;"></i>
+    {% endif %}
+    <div class="card-body">
+      <p class="card-title">{{ outreach.title | safe }}</p>
+      <div class="card-footer text-muted text-start">
+        <small class="text-muted ">
+          <i class="bi bi-calendar-week"></i>&nbsp;{{ outreach.date }}
+        </small>
+      </div>
     </div>
   </div>
-</div>
 
-<!-- Modal -->
-<div class="modal fade" id="modal-{{ index }}" tabindex="-1"
-     aria-labelledby="modal-{{ index }}" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable modal-xl">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">{{ outreach.title | safe }}</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal"
-                aria-label="Close">
-        </button>
-      </div>
-      <div
-        class="modal-body justify-content-center align-content-center align-items-center">
-        {% for item in outreach.description %}
-        <p>
-          {{ item | safe }}
-        </p>
-        {% endfor %}
-        <div id="carouselExampleControls-{{ index }}" class="carousel slide col-8"
-             data-bs-ride="carousel">
-          <div class="carousel-indicators">
-            {% for img in outreach_gallery if outreach.id in img.category %}
-            <button type="button"
-                    data-bs-target="#carouselExampleIndicators"
-                    data-bs-slide-to="{{ loop.index }}"
-                    {% if loop.first %}class="active"
-                    aria-current="true" {% endif %}
-                    aria-label="{{ loop.index }}"></button>
-            {% endfor %}
-          </div>
-          <div class="carousel-inner">
-            {% for img in outreach_gallery if outreach.id in img.category %}
-
-            <div class="carousel-item {% if loop.first %}active{% endif %}">
-              <img src="{{ url_for('static', filename=img.path) }}"
-                   class="d-block w-100" alt="{{ img.category }}">
+  <!-- Modal -->
+  <div class="modal fade" id="modal-{{ index }}" tabindex="-1"
+       aria-labelledby="modal-{{ index }}" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-xl">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">{{ outreach.title | safe }}</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"
+                  aria-label="Close">
+          </button>
+        </div>
+        <div
+            class="modal-body justify-content-center align-content-center align-items-center">
+          {% for item in outreach.description %}
+            <p>
+              {{ item | safe }}
+            </p>
+          {% endfor %}
+          <div id="carouselExampleControls-{{ index }}" class="carousel slide col-8"
+               data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              {% for img in outreach_gallery if outreach.id in img.category %}
+                <button type="button"
+                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide-to="{{ loop.index }}"
+                        {% if loop.first %}class="active"
+                        aria-current="true" {% endif %}
+                        aria-label="{{ loop.index }}"></button>
+              {% endfor %}
             </div>
-            {% endfor %}
-          </div>
-          <button class="carousel-control-prev" type="button"
-                  data-bs-target="#carouselExampleControls-{{ index }}"
-                  data-bs-slide="prev">
+            <div class="carousel-inner">
+              {% for img in outreach_gallery if outreach.id in img.category %}
+
+                <div class="carousel-item {% if loop.first %}active{% endif %}">
+                  <img src="{{ url_for('static', filename=img.path) }}"
+                       class="d-block w-100" alt="{{ img.category }}">
+                </div>
+              {% endfor %}
+            </div>
+            <button class="carousel-control-prev" type="button"
+                    data-bs-target="#carouselExampleControls-{{ index }}"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon"
                       aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button class="carousel-control-next" type="button"
-                  data-bs-target="#carouselExampleControls-{{ index }}"
-                  data-bs-slide="next">
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button"
+                    data-bs-target="#carouselExampleControls-{{ index }}"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon"
                       aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          <div class="pt-5">
+            {% for attach in outreach.attachment %}
+              {% if attach.type == 'pdf' %}
+                <embed
+                    src="{{ url_for('static', filename=attach.path) }}#toolbar=1&navpanes=0"
+                    style="width:100%;height:1100px">
+              {% endif %}
+            {% endfor %}
+          </div>
         </div>
-        <div class="pt-5">
-          {% for attach in outreach.attachment %}
-            {% if attach.type == 'pdf' %}
-              <embed
-                src="{{ url_for('static', filename=attach.path) }}#toolbar=1&navpanes=0"
-                style="width:100%;height:1100px">
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
 
-      <div class="modal-footer justify-content-center">
-        <div class="row">
-          <div class="col-12 text-center">
-            <p>
-              <button type="button"
-                      class="btn btn-violet btn-rounded btn-md ml-4"
-                      data-bs-dismiss="modal">Close
-              </button>
-            </p>
+        <div class="modal-footer justify-content-center">
+          <div class="row">
+            <div class="col-12 text-center">
+              <p>
+                <button type="button"
+                        class="btn btn-violet btn-rounded btn-md ml-4"
+                        data-bs-dismiss="modal">Close
+                </button>
+              </p>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 {% endmacro %}
 
 
 {% macro create_table(list_, id, order_column) %}
-{% set not_shown = ['category', 'download', 'external_link'] %}
-<table id="table-{{ id }}" class="row-border order-column stripe hover">
-  <thead>
+  {% set not_shown = ['category', 'download', 'external_link'] %}
+  <table id="table-{{ id }}" class="row-border table table-striped dataTable">
+    <thead>
     <tr>
       {% for header in list_[0] if not header in not_shown %}
-      <th>{{ _(header) | title }}</th>
+        <th>{{ _(header) | title }}</th>
       {% endfor %}
       <th></th>
     </tr>
-  </thead>
-  <tbody>
-  {% for item in list_ %}
-  <tr>
-    {% for key, value in item.items() if not key in not_shown %}
-      <td>
-        {{ value }}
-      </td>
+    </thead>
+    <tbody>
+    {% for item in list_ %}
+      <tr>
+        {% for key, value in item.items() if not key in not_shown %}
+          <td>
+            {{ value }}
+          </td>
+        {% endfor %}
+        <td>
+          {% if item.external_link %}
+            <a href="{{ item.external_link }}" class="text-decoration-none"
+               target="_blank">
+              <i class="bi bi-box-arrow-up-right lead"></i>
+            </a>
+          {% endif %}
+          {% if item.download %}
+            <a href="{{ url_for('static', filename='repository/publications/' + item.download ) }}"
+               class="text-decoration-none">
+              <i class="bi bi-file-earmark-arrow-down lead"></i>
+            </a>
+          {% endif %}
+        </td>
+      </tr>
     {% endfor %}
-    <td>
-      {% if item.external_link %}
-        <a href="{{ item.external_link }}" class="text-decoration-none"
-           target="_blank">
-          <i class="bi bi-box-arrow-up-right lead"></i>
-        </a>
-      {% endif %}
-      {% if item.download %}
-        <a href="{{ url_for('static', filename='repository/publications/' + item.download ) }}"
-            class="text-decoration-none">
-        <i class="bi bi-file-earmark-arrow-down lead"></i>
-        </a>
-      {% endif %}
-    </td>
-  </tr>
-  {% endfor %}
-  </tbody>
-</table>
+    </tbody>
+  </table>
 
-<script>
+  <script>
       $(document).ready(function () {
           $('#table-{{ id }}').dataTable({
               "paging": true,
@@ -279,12 +279,21 @@
                   {% if id in ['TIB_Volumes', 'TIB_Bände'] %}'asc'{% else %}'desc'{% endif %}]],
               "info": true,
               "searching": true,
-              "pageLength":  {% if id == 'TIB_Volumes'%}20{% else %}10{% endif %}
+              "pageLength": {% if id == 'TIB_Volumes'%}20{% else %}10{% endif %},
+              buttons: [
+                  {
+                      extend: 'pagination',
+                      className: 'btn btn-danger'
+                  },
+                  {
+                      extend: 'colvis',
+                      className: 'btn btn-warning',
+                  }]
           });
       });
 
 
-</script>
+  </script>
 
 {% endmacro %}
 

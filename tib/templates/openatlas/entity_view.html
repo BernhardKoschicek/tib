@@ -216,7 +216,7 @@
                           {"width": "20%", "targets": 0},
                           {
                               targets: indexLastColumn,
-                              render: $.fn.dataTable.render.ellipsis(200, true)
+                              render: DataTable.render.ellipsis(300, true)
                           }]
                   });
               });
@@ -226,9 +226,6 @@
       </div>
     </div>
   </div>
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.js"></script>
   <script>
       window.addEventListener('load', function () {
           baguetteBox.run('.entity-gallery', {});

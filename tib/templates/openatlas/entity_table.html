@@ -13,7 +13,7 @@
           <p>"{{ view_classes['display_name'] }}" {{_('is currently unavailable')}}</p>
         </div>
       {% else %}
-        <table id="entity_table" class="table table-striped hover order-column"
+        <table id="entity_table" class="row-border table table-striped dataTable"
                style="width:100%">
           <thead>
           <tr>
@@ -52,11 +52,11 @@
               'columnDefs': [
                   {
                       'targets': 3,
-                      'render': $.fn.dataTable.render.ellipsis(200, true)
+                      'render': DataTable.render.ellipsis(300, true)
                   },
                   {
                       'targets': 1,
-                      'render': $.fn.dataTable.render.ellipsis(120, true)
+                      'render': DataTable.render.ellipsis(120, true)
                   }]
           });
       });

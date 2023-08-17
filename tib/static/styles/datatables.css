@@ -1,0 +1,39 @@
+
+.pagination .page-item .page-link {
+  color: #622449; }
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination .page-item .page-link:focus {
+color: #622449;
+}
+.pagination .page-item .page-link:hover {
+color: #622449;
+}
+
+.pagination .page-item.active .page-link {
+    color: white;
+    background-color: #622449;
+border-color: #622449;}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination .page-item.active .page-link:focus {
+background-color: #622449;
+    color: white;
+border-color: #622449;
+}
+
+.pagination .page-item.active .page-link:hover {
+background-color: #622449;
+    color: white;
+border-color: #622449;
+}
+
+.pagination .page-item.disabled .page-link {
+    color: grey;}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination .page-item.disabled .page-link:focus {
+    color: grey;
+}
+
+.pagination .page-item.disabled  {
+    color: grey;
+}
+

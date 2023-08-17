@@ -8,15 +8,15 @@
       </div>
       <div class="col text-end">
         <div class="pt-2 btn-group text-end">
-          <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}"
+          <a href="{{ config['API_PATH'] }}/entity/{{ entity.id_ }}"
              target="_blank" class="btn btn-outline-violet">
             <i class="bi bi-filetype-json" style="font-size: 1.5em"></i>
           </a>
-          <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}?format=pretty-xml"
+          <a href="{{ config['API_PATH'] }}entity/{{ entity.id_ }}?format=pretty-xml"
              target="_blank" class="btn btn-outline-violet">
             <i class="bi bi-filetype-xml" style="font-size: 1.5em"></i>
           </a>
-          <a href="https://tibopenatlas.orthodoxes-europa.at/api/entity/{{ entity.id_ }}?export=csv"
+          <a href="{{ config['API_PATH'] }}entity/{{ entity.id_ }}?export=csv"
              target="_blank" class="btn btn-outline-violet">
             <i class="bi bi-filetype-csv" style="font-size: 1.5em"></i>
           </a>
@@ -216,7 +216,7 @@
                           {"width": "20%", "targets": 0},
                           {
                               targets: indexLastColumn,
-                              render: $.fn.dataTable.render.ellipsis(200, true)
+                              render: DataTable.render.ellipsis(300, true)
                           }]
                   });
               });
@@ -226,9 +226,6 @@
       </div>
     </div>
   </div>
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.js"></script>
   <script>
       window.addEventListener('load', function () {
           baguetteBox.run('.entity-gallery', {});

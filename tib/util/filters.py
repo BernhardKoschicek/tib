@@ -1,6 +1,7 @@
 import flask
 from flask import url_for
 from flask_babel import gettext as _
+
 from tib.data.navigation import \
     balkan_nav_items, tib_digtib_submenu_items, balkan_nav_translations, \
     tib_nav_items
@@ -88,7 +89,8 @@ def tib_digtib_submenu(item: str) -> str:
 def include_css(route: str) -> str:
     css = ''
     for style in ['style', 'burger', 'navbar', 'parallax', 'footer', 'fonts',
-                  'image_hover_effect', 'boxes_background', 'responsiv_grid']:
+                  'image_hover_effect', 'boxes_background', 'responsive_grid',
+                  'datatables']:
         css += f'<link rel="stylesheet" type="text/css"' \
                f' href="/static/styles/{style}.css">'
     return css

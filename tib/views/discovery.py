@@ -1,7 +1,8 @@
 from typing import Any, Dict, List, Optional
 
-from flask import render_template
 import numpy
+from flask import render_template
+
 from tib import app
 from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects
@@ -30,9 +31,11 @@ def get_relation_entities(
         relations: List[Dict[str, Any]]) -> List[Relation]:
     linked_entities = {}
     for entry in linked:
-        linked_entities[entry['features'][0]['@id'].rsplit('/', 1)[-1]] = entry['features'][0]
+        linked_entities[entry['features'][0]['@id'].rsplit('/', 1)[-1]] \
+            = entry['features'][0]
     for relation in relations:
-        linked_entities[relation['relationTo'].rsplit('/', 1)[-1]].update(relation)
+        (linked_entities[relation['relationTo'].rsplit('/', 1)[-1]].
+         update(relation))
     list_ = [value for value in linked_entities.values()]
     return [Relation(entity) for entity in list_]
 
@@ -59,7 +62,8 @@ def get_relations(
         elif relation.relation_system_class == 'source':
             relation_dict.setdefault('sources', []).append(relation)
         elif relation.relation_system_class == 'source_translation':
-            relation_dict.setdefault('source_translations', []).append(relation)
+            (relation_dict.setdefault('source_translations', [])
+             .append(relation))
         elif relation.relation_system_class in \
                 ['place', 'feature', 'stratigraphic_unit']:
             relation_dict.setdefault('places', []).append(relation)
@@ -85,13 +89,11 @@ def get_relations(
 def digital_oa_access(project: str, view: str) -> str:
     data = False
     try:
-        data = get_oa_by_view_class(
-                view,
-                subprojects[project]['oaID'])
+        data = get_oa_by_view_class(view, subprojects[project]['oaID'])
     except:
         pass
     return render_template(
-            'openatlas/entity_table.html',
-            data=data,
-            project=subprojects[project],
-            view_classes=view_classes[view])
+        'openatlas/entity_table.html',
+        data=data,
+        project=subprojects[project],
+        view_classes=view_classes[view])

@@ -1,7 +1,7 @@
 {% extends "balkan/layout.html" %}
 {% block title %}{{ entity.name }}{% endblock %}
 {% block content %}
-  <div class="top7 p-5">
+  <div class="container top7 p-5">
     <div class="row">
       <div class="col-10">
         {{ header(entity.name) }}
@@ -82,29 +82,6 @@
           </table>
         </div>
       </div>
-      <div class="col-6">
-        {% if entity.depictions %}
-          {{ sub_header("Files") }}
-          <div class="entity-gallery gallery-row ">
-            {% for list in images %}
-              <div class="gallery-column ">
-                {% for img in list %}
-                  {% if img.extension == '.mp4' %}
-                    <a href="{{ img.url }}" data-caption="{{ img.title }}">
-                      <i class="bi bi-play-circle display-1 "></i>
-                    </a>
-                  {% else %}
-                    <a href="{{ img.url }}" data-caption="{{ img.title }}">
-                      <img src="{{ img.url + '?image_size=thumbnail' }}"
-                           class="img-fluid" alt="{{ img.title }}">
-                    </a>
-                  {% endif %}
-                {% endfor %}
-              </div>
-            {% endfor %}
-          </div>
-        {% endif %}
-      </div>
     </div>
     {#      <div id="map" class="col-6 pt-5">#}
     {#      </div>#}
@@ -115,17 +92,39 @@
         <div class="col-md-12 pt-3">
           {{ sub_header("Description") }}
           <div id="description">
-            <p>
-              {{ entity.description }}
+            <p class="">
+              {{ entity.description
+              | replace('\n', '<br>')
+              | replace('Hist.:', '<span class="fst-italic">Hist.:</span>')
+              | replace('Mon.:', '<span class="fst-italic">Mon.:</span>')
+              | safe }}
             </p>
           </div>
         </div>
       {% endif %}
 
+      {% if relations['references'] %}
+        <div class="col-md-12 pt-3">
+          {{ sub_header('Literature') }}
+          <div id="description">
+            {% for reference in relations['references'] %}
+              <a tabindex="0" class="text-decoration-none fst-italic" role="button" data-bs-toggle="popover"
+                 data-bs-trigger="focus"
+                 title="<a href='{{ url_for('entity_view', id_=reference.relation_to_id) }}'
+                        class='text-decoration-none'>{{ reference.label }}</a>"
+                 data-bs-content="<p class=''>{{ reference.description }}</p>
+                                  <a href='{{ url_for('entity_view', id_=reference.relation_to_id) }}'
+                                  class='text-decoration-none btn btn-violet-light'>{{ reference.label }}</a>">
+                {{ reference.label }} — {{ reference.relation_description }}</a>
+              {% if loop.last %}{% else %}, {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
 
       <div class="col-md-12 pt-5">
         <h3>Relations</h3>
-        {% for key, value in relations.items() if key != 'types' %}
+        {% for key, value in relations.items() if key not in ['types', 'references'] %}
           <h5 class="pt-3">
             {{ key | replace('_', ' ') | title }} ({{ value|length }})
             <a class="btn btn-violet p-1" data-bs-toggle="collapse"
@@ -146,9 +145,6 @@
                   {% if key in ['events','actors', 'places'] %}
                     <th>Begin</th>
                     <th>End</th>
-                  {% endif %}
-                  {% if key in ['references'] %}
-                    <th>Pages</th>
                   {% endif %}
                   {% if key in  ['actors'] %}
                     <th>Relation Type</th>
@@ -178,11 +174,6 @@
                         {% if item.end %}
                           {{ item.end }}
                         {% endif %}
-                      </td>
-                    {% endif %}
-                    {% if key in ['references'] %}
-                      <td>
-                        {{ item.relation_description }}
                       </td>
                     {% endif %}
                     {% if key in  ['actors'] %}
@@ -224,36 +215,66 @@
         {% endfor %}
 
       </div>
+
+
+      {% if entity.depictions %}
+        {{ sub_header("Files") }}
+        <div class="files row">
+          {% for list in images %}
+            {% for img in list %}
+              <div class="col-lg-2 d-flex justify-content-center align-items-center">
+              <figure>
+              <a href="{{ img.url }}" data-fancybox="gallery" data-caption="{{ img.title }}">
+                <img src="{{ img.url + '?image_size=thumbnail' }}"
+                     class="img-fluid mx-auto d-block" alt="{{ img.title }}">
+              </a>
+                <figcaption class="small text-center pt-1">{{ img.title }}</figcaption>
+                </figure>
+              </div>
+            {% endfor %}
+          {% endfor %}
+        </div>
+      {% endif %}
     </div>
   </div>
+
+  <script src="/static/node_modules/baguettebox.js/dist/baguetteBox.js"></script>
   <script>
       window.addEventListener('load', function () {
-          baguetteBox.run('.entity-gallery', {});
+          baguetteBox.run('.files', {
+              animation: 'fadeIn',
+              noScrollbars: true,
+              titleTag: true,
+              overlayBackgroundColor: 'rgba(56,67,86, 0.8)'
+          });
       });
+      Fancybox.bind("[data-fancybox]", {
+  // Your custom options
+});
   </script>
 
-  <script>
-      $(document).ready(function () {
-          let desc = $('#description');
-          let str = desc.text();
-
-
-          if (str.length > 300) {
-
-              desc.empty().html(str.substring(0, 500));
-
-              let moreLink = '... <a href="#" class="read_more btn btn-violet-light">Read more</a>';
-              desc.append(moreLink);
-
-              $('.read_more').on('click', function (e) {
-                  e.preventDefault();
-                  desc.empty().html(str);
-              });
-
-          }
-
-      });
-  </script>
+  {#  <script>#}
+  {#      $(document).ready(function () {#}
+  {#          let desc = $('#description');#}
+  {#          let str = desc.text();#}
+  {##}
+  {##}
+  {#          if (str.length > 300) {#}
+  {##}
+  {#              desc.empty().html(str.substring(0, 500));#}
+  {##}
+  {#              let moreLink = '... <a href="#" class="read_more btn btn-violet-light">Read more</a>';#}
+  {#              desc.append(moreLink);#}
+  {##}
+  {#              $('.read_more').on('click', function (e) {#}
+  {#                  e.preventDefault();#}
+  {#                  desc.empty().html(str);#}
+  {#              });#}
+  {##}
+  {#          }#}
+  {##}
+  {#      });#}
+  {#  </script>#}
   <script>
       function myFunction(x) {
           x.classList.toggle("bi-caret-up-fill");

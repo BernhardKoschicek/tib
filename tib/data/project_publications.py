@@ -26,7 +26,7 @@ project_publications = [
         "date": "2023",
         "pages": "5",
         "category": ['holdura'],
-        "external_link": '',
+        "external_link": 'https://www.htwk-leipzig.de/forschen/aktuelles/detailansicht/artikel/6277',
         "download": 'Einblicke_SakraleLandschaften.pdf'
     },
     {

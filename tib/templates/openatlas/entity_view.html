@@ -70,10 +70,8 @@
                   <th class="table-active">{{ key }}</th>
                   <td>
                     {% for type in value %}
-                      <a href="{{ url_for('entity_view', id_=type.identifier) }}"
-                         class="btn btn-violet-light px-2 py-1 pill">
-                        {{ type.label }}
-                      </a>
+                      {{ type_popover(type) }}{% if loop.last %}{% else %}, {% endif %}
+
                     {% endfor %}
                   </td>
                 </tr>
@@ -83,9 +81,6 @@
         </div>
       </div>
     </div>
-    {#      <div id="map" class="col-6 pt-5">#}
-    {#      </div>#}
-
 
     <div class="row pt-5">
       {% if entity.description %}
@@ -106,19 +101,18 @@
       {% if relations['references'] %}
         <div class="col-md-12 pt-3">
           {{ sub_header('Literature') }}
-          <div id="description">
-            {% for reference in relations['references'] %}
-              <a tabindex="0" class="text-decoration-none fst-italic" role="button" data-bs-toggle="popover"
-                 data-bs-trigger="focus"
-                 title="<a href='{{ url_for('entity_view', id_=reference.relation_to_id) }}'
+          {% for reference in relations['references'] %}
+            <a tabindex="0" class="text-decoration-none fst-italic" role="button" data-bs-toggle="popover"
+               data-bs-trigger="focus"
+               title="<a href='{{ url_for('entity_view', id_=reference.relation_to_id) }}'
                         class='text-decoration-none'>{{ reference.label }}</a>"
-                 data-bs-content="<p class=''>{{ reference.description }}</p>
+               data-bs-content="<p class=''>{{ reference.description }}</p>
                                   <a href='{{ url_for('entity_view', id_=reference.relation_to_id) }}'
                                   class='text-decoration-none btn btn-violet-light'>{{ reference.label }}</a>">
-                {{ reference.label }} — {{ reference.relation_description }}</a>
-              {% if loop.last %}{% else %}, {% endif %}
-            {% endfor %}
-          </div>
+              {{ reference.label }}{% if reference.relation_description %} —
+                {{ reference.relation_description }}{% endif %}</a>
+            {% if loop.last %}{% else %}, {% endif %}
+          {% endfor %}
         </div>
       {% endif %}
 
@@ -191,8 +185,6 @@
               </table>
             </div>
           </div>
-
-
           <script>
               $(document).ready(function () {
                   var indexLastColumn = $('#table-{{ key }}').find('tr')[0].cells.length - 1;
@@ -213,22 +205,22 @@
               });
           </script>
         {% endfor %}
-
       </div>
 
 
       {% if entity.depictions %}
         {{ sub_header("Files") }}
-        <div class="files row">
+        <div class="row pt-5">
           {% for list in images %}
             {% for img in list %}
               <div class="col-lg-2 d-flex justify-content-center align-items-center">
-              <figure>
-              <a href="{{ img.url }}" data-fancybox="gallery" data-caption="{{ img.title }}">
-                <img src="{{ img.url + '?image_size=thumbnail' }}"
-                     class="img-fluid mx-auto d-block" alt="{{ img.title }}">
-              </a>
-                <figcaption class="small text-center pt-1">{{ img.title }}</figcaption>
+                <figure>
+                  <a href="{{ img.url }}" data-fancybox="gallery"
+                     data-caption="{{ img.title }}{% if img.description %} - {{ img.description }}{% endif %}">
+                    <img src="{{ img.url + '?image_size=thumbnail' }}"
+                         class="img-fluid mx-auto d-block" alt="{{ img.title }}">
+                  </a>
+                  <figcaption class="small text-center pt-1 text-break">{{ img.title }}</figcaption>
                 </figure>
               </div>
             {% endfor %}
@@ -238,19 +230,10 @@
     </div>
   </div>
 
-  <script src="/static/node_modules/baguettebox.js/dist/baguetteBox.js"></script>
   <script>
-      window.addEventListener('load', function () {
-          baguetteBox.run('.files', {
-              animation: 'fadeIn',
-              noScrollbars: true,
-              titleTag: true,
-              overlayBackgroundColor: 'rgba(56,67,86, 0.8)'
-          });
-      });
       Fancybox.bind("[data-fancybox]", {
-  // Your custom options
-});
+          // Your custom options
+      });
   </script>
 
   {#  <script>#}

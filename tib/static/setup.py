@@ -2,9 +2,9 @@ from setuptools import setup
 
 package_json = {
     "dependencies": {
+        "@fancyapps/ui": "^5.0.22",
         "@mapbox/leaflet-pip": "^1.1.0",
         "aos": "2.3.4",
-        "baguettebox.js": "1.11.1",
         "bootstrap-autocomplete": "2.3.7",
         "bootstrap": "^5.1.3",
         "bootstrap-icons": "1.10.3",

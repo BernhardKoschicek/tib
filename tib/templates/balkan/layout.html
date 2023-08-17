@@ -3,14 +3,13 @@
 <head>
   <link rel="stylesheet" href="/static/node_modules/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="/static/node_modules/bootstrap-icons/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="/static/node_modules/baguettebox.js/dist/baguetteBox.css">
   <link rel="stylesheet" href="/static/node_modules/datatables.net-bs5/css/dataTables.bootstrap5.css">
   <link rel="stylesheet" href="/static/node_modules/aos/dist/aos.css">
   <link rel="stylesheet" href="/static/node_modules/@fancyapps/ui/dist/fancybox/fancybox.css">
 
-  <script src="/static/node_modules/aos/dist/aos.js"></script>
+
   <script src="/static/node_modules/@fancyapps/ui/dist/fancybox/fancybox.umd.js"></script>
-  <script src="/static/node_modules/baguettebox.js/dist/baguetteBox.js"></script>
+  <script src="/static/node_modules/aos/dist/aos.js"></script>
   <script src="/static/node_modules/muuri/dist/muuri.js"></script>
   <script src="/static/node_modules/jquery/dist/jquery.min.js"></script>
   <script src="/static/node_modules/jquery-ui-dist/jquery-ui.min.js"></script>
@@ -36,7 +35,7 @@
 <body>
 {% from 'macros.html' import image_description, box_description, read_more,
  counting_icons, header, img_modal, outreach_modal, create_table,
- header_balkan, sub_header_balkan, sub_header with context %}
+ header_balkan, sub_header_balkan, sub_header, type_popover with context %}
 
 {% include 'balkan/navigation.html' %}
 

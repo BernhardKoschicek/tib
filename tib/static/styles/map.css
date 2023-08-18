@@ -1,0 +1,86 @@
+#map {
+    z-index: 0;
+    float: right;
+    height: calc(100vh - 205px);
+    width: 100%;
+}
+
+#popup {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#popup #buttonBar {
+    margin-top: 15px;
+    white-space: nowrap;
+}
+
+.mapFormDiv {
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+#map svg.svg-inline--fa {
+    font-size: 1.2em;
+}
+
+a.manual svg.svg-inline--fa {
+    font-size: 1em;
+}
+
+.mapFormDiv {
+    width: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.mapFormDiv input {
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.mapFormDiv textarea {
+    margin-top: 5px;
+    resize: none;
+}
+
+.mapFormDiv #inputFormTitle {
+    text-transform: capitalize;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#closeButton {
+    color: #ccc;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.full-height {
+    height: 100%;
+}
+
+#coordinatesDiv input.error {
+    border: 5px solid #ffdddd;
+}
+
+.leaflet-points-pane {
+    z-index: 420 !important;
+}
+
+.leaflet-lines-pane {
+    z-index: 410 !important;
+}
+
+.leaflet-shadow-pane {
+    z-index: 400 !important;
+}

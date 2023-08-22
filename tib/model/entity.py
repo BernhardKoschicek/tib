@@ -1,5 +1,5 @@
 import os
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 from tib.model.types import Types
 from tib.model.util import split_date_string, format_date
@@ -26,9 +26,7 @@ class Entity:
         self.end_to = None
         self.begin = None
         self.end = None
-        self.geometry = \
-            (handling_geometry(data['geometry'])) \
-                if 'geometry' in data else None
+        self.geometry = self.handling_geometry(data)
         if 'when' in data:
             self.begin_from = split_date_string(
                 data['when']['timespans'][0]['start']['earliest'])
@@ -75,11 +73,16 @@ class Entity:
         desc = [i['value'] for i in data]
         return desc[0]
 
+    @staticmethod
+    def handling_geometry(
+            data: dict[str, Any]) -> Optional[list[dict[str, Any]]]:
+        if geometry := data.get('geometry'):
+            if geometry['type'] == 'GeometryCollection':
+                return geometry['geometries']
+            else:
+                return geometry
+        return None
 
-def handling_geometry(geometry: dict[str, Any]) -> list[dict[str, Any]]:
-    if geometry['type'] == 'GeometryCollection':
-        geometry = geometry['geometries']
-    return geometry
 
 class Depiction:
     def __init__(self, data: Dict[str, Any]):

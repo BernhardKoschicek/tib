@@ -93,7 +93,6 @@ class Depiction:
         self.extension = os.path.splitext(self.url.rsplit('/', 1)[-1])[1]
 
 
-
 class Relation(Entity):
     def __init__(self, data: Dict[str, Any]):
         super().__init__(data)

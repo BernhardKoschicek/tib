@@ -12,6 +12,7 @@
   <div class="container top7 p-5">
     <div class="row">
       <div class="col-10">
+        {{ entity.geometry }}
         {{ header(entity.name) }}
       </div>
       <div class="col text-end">
@@ -88,10 +89,10 @@
           </table>
         </div>
       </div>
-    <div class="col-6">
-      <div id="map"></div>
+      <div class="col-6 pt-5">
+        <div id="map"></div>
 
-    </div>
+      </div>
     </div>
 
     <div class="row pt-5">
@@ -275,13 +276,17 @@
           x.classList.toggle("bi-caret-up-fill");
       }
   </script>
+  <script>
+  const gisData = {{ entity.geometry | safe }}
+  const entityName = '{{ entity.name | safe }}'
+  </script>
   <script src="/static/node_modules/leaflet/dist/leaflet.js"></script>
   <script src="/static/node_modules/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
   <script src="/static/node_modules/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
   <script src="/static/node_modules/leaflet.fullscreen/Control.FullScreen.js"></script>
   <script src="/static/node_modules/leaflet-imageoverlay-rotated/Leaflet.ImageOverlay.Rotated.js"></script>
   <script src="/static/node_modules/@mapbox/leaflet-pip/leaflet-pip.js"></script>
-
+  <script src="/static/js/map/map.js"></script>
 
 {% endblock %}
 

@@ -1,8 +1,9 @@
 #map {
     z-index: 0;
     float: right;
-    height: calc(100vh - 205px);
+    height: 100%;
     width: 100%;
+    min-height: 350px;
 }
 
 #popup {

@@ -26,7 +26,9 @@ class Entity:
         self.end_to = None
         self.begin = None
         self.end = None
-        self.geometry = data['geometry'] if 'geometry' in data else None
+        self.geometry = \
+            (handling_geometry(data['geometry'])) \
+                if 'geometry' in data else None
         if 'when' in data:
             self.begin_from = split_date_string(
                 data['when']['timespans'][0]['start']['earliest'])
@@ -73,6 +75,11 @@ class Entity:
         desc = [i['value'] for i in data]
         return desc[0]
 
+
+def handling_geometry(geometry: dict[str, Any]) -> list[dict[str, Any]]:
+    if geometry['type'] == 'GeometryCollection':
+        geometry = geometry['geometries']
+    return geometry
 
 class Depiction:
     def __init__(self, data: Dict[str, Any]):

@@ -27,7 +27,6 @@ view_classes = {
 
 
 def get_oa_by_view_class(view: str, project_id: object) -> List[Entity]:
-    print(project_id)
     if view not in view_classes:
         return []
     data = [Entity(entry['features'][0])

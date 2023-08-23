@@ -7,18 +7,32 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 }).addTo(map);
 
-L.geoJSON(gisData).addTo(map);
 
-map.fitBounds(L.geoJSON(gisData).getBounds(), {
-    maxZoom: 13
-});
+if (gisData) {
+    L.geoJSON(gisData).addTo(map);
+    map.fitBounds(L.geoJSON(gisData).getBounds(), {
+        maxZoom: 13
+    });
+    var entityGeom = L.geoJSON(gisData, {
+        onEachFeature: function (feature, layer) {
+            console.log(feature)
+            layer.bindPopup('<b>' + entityName + '</b><p><b>' + feature.title + '</b> ' + feature.description + '</p>');
+        }
+    }).addTo(map);
+}
+if (gisRelatedPlaces) {
+    L.geoJSON(gisRelatedPlaces).addTo(map);
+    map.fitBounds(L.geoJSON(gisRelatedPlaces).getBounds(), {
+        maxZoom: 13
+    });
+    var relatedGeoms = L.geoJSON(gisRelatedPlaces, {
+        onEachFeature: function (feature, layer) {
+            console.log(feature)
+            layer.bindPopup('<p><b>' + feature.title + '</b> ' + feature.description + '</p>');
+        }
+    }).addTo(map);
 
-var layerGroup = L.geoJSON(gisData, {
-    onEachFeature: function (feature, layer) {
-        console.log(feature)
-        layer.bindPopup('<b>' + entityName + '</b><p><b>' + feature.title + ':</b> ' + feature.description + '</p>');
-    }
-}).addTo(map);
+}
 
 
 // Define base layers

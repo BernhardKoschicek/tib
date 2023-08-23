@@ -1,4 +1,4 @@
-from typing import Any, Dict, List, Optional
+from typing import Any, Optional
 
 import numpy
 from flask import render_template
@@ -15,20 +15,30 @@ from tib.util.api_calls import get_entities_linked_to_entity
 def entity_view(id_: int) -> str:
     entity = Entity.get_entity_from_oa(id_)
     linked_entities = get_entities_linked_to_entity(id_)
+    relations = get_relations(
+        get_relation_entities(linked_entities, entity.relations))
+    related_places = get_related_geoms(relations['places']) if 'places' in relations else []
     return render_template(
         'openatlas/entity_view.html',
         entity=entity,
         type_hierarchy=get_types_sorted(entity.types),
         images=numpy.array_split(entity.depictions, 4)
         if entity.depictions else None,
-        relations=get_relations(
-            get_relation_entities(linked_entities, entity.relations))
+        relations=relations,
+        related_places=related_places
     )
 
 
+def get_related_geoms(places: list[Relation]) -> list[dict[str, Any]]:
+    geoms = []
+    for place in places:
+        geoms.append(place.geometry)
+    return sum(geoms, [])
+
+
 def get_relation_entities(
-        linked: List[Dict[str, Any]],
-        relations: List[Dict[str, Any]]) -> List[Relation]:
+        linked: list[dict[str, Any]],
+        relations: list[dict[str, Any]]) -> list[Relation]:
     linked_entities = {}
     for entry in linked:
         linked_entities[entry['features'][0]['@id'].rsplit('/', 1)[-1]] \
@@ -40,7 +50,7 @@ def get_relation_entities(
     return [Relation(entity) for entity in list_]
 
 
-def get_types_sorted(types: List[Types]) -> Optional[Dict[str, Any]]:
+def get_types_sorted(types: list[Types]) -> Optional[dict[str, Any]]:
     if not types:
         return None
     type_hierarchy = {}
@@ -50,7 +60,7 @@ def get_types_sorted(types: List[Types]) -> Optional[Dict[str, Any]]:
 
 
 def get_relations(
-        relations: List[Relation]) -> Dict[str, List[Relation]]:
+        relations: list[Relation]) -> dict[str, list[Relation]]:
     relation_dict = {}
     for relation in relations:
         if relation.relation_system_class in \

@@ -67,10 +67,8 @@
             <tr>
               <th class="table-active">System Class</th>
               <td>
-                <button class="btn btn-violet-light px-2 py-1 pill">
                   {{ entity.system_class }}
-                </button>
-              </td>
+               </td>
             </tr>
             {% if type_hierarchy %}
               {% for key, value in type_hierarchy.items() %}
@@ -78,8 +76,7 @@
                   <th class="table-active">{{ key }}</th>
                   <td>
                     {% for type in value %}
-                      {{ type_popover(type) }}{% if loop.last %}{% else %}, {% endif %}
-
+                      {{ type_popover(type) }}{% if loop.last %}{% else %},{% endif %}
                     {% endfor %}
                   </td>
                 </tr>
@@ -104,6 +101,7 @@
               | replace('\n', '<br>')
               | replace('Hist.:', '<span class="fst-italic">Hist.:</span>')
               | replace('Mon.:', '<span class="fst-italic">Mon.:</span>')
+              | replace('------------------------', '</p><hr class="w-50 mx-auto"><p>')
               | safe }}
             </p>
           </div>
@@ -241,7 +239,8 @@
       {% endif %}
     </div>
   </div>
-
+  {{ entity.geometry | safe }}
+{{ related_places | safe }}
   <script>
       Fancybox.bind("[data-fancybox]", {
           // Your custom options
@@ -276,7 +275,8 @@
       }
   </script>
   <script>
-  const gisData = {{ entity.geometry | safe }}
+  const gisData = {%  if entity.geometry %}{{ entity.geometry | safe }}{% else %}null{% endif %}
+  const gisRelatedPlaces = {{ related_places | safe }}
   const entityName = '{{ entity.name | safe }}'
   </script>
   <script src="/static/node_modules/leaflet/dist/leaflet.js"></script>

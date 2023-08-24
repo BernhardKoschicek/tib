@@ -101,7 +101,6 @@
               | replace('\n', '<br>')
               | replace('Hist.:', '<span class="fst-italic">Hist.:</span>')
               | replace('Mon.:', '<span class="fst-italic">Mon.:</span>')
-              | replace('------------------------', '</p><hr class="w-50 mx-auto"><p>')
               | safe }}
             </p>
           </div>
@@ -239,8 +238,6 @@
       {% endif %}
     </div>
   </div>
-  {{ entity.geometry | safe }}
-{{ related_places | safe }}
   <script>
       Fancybox.bind("[data-fancybox]", {
           // Your custom options

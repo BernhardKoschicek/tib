@@ -3,6 +3,7 @@ from typing import Any, Optional
 import numpy
 from flask import render_template
 
+from model.util import flatten_list_and_remove_duplicates
 from tib import app
 from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects
@@ -33,7 +34,7 @@ def get_related_geoms(places: list[Relation]) -> list[dict[str, Any]]:
     geoms = []
     for place in places:
         geoms.append(place.geometry)
-    return sum(geoms, [])
+    return flatten_list_and_remove_duplicates(geoms)
 
 
 def get_relation_entities(

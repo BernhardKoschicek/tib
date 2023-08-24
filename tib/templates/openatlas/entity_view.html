@@ -273,7 +273,7 @@
   </script>
   <script>
   const gisData = {%  if entity.geometry %}{{ entity.geometry | safe }}{% else %}null{% endif %}
-  const gisRelatedPlaces = {{ related_places | safe }}
+  const gisRelatedPlaces = {%  if related_places %}{{ related_places | safe }}{% else %}null{% endif %}
   const entityName = '{{ entity.name | safe }}'
   </script>
   <script src="/static/node_modules/leaflet/dist/leaflet.js"></script>

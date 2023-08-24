@@ -305,6 +305,6 @@
    data-bs-trigger="focus"
    title="{{ type.hierarchy }} > <a href='{{ url_for('entity_view', id_=type.identifier) }}'
             class='text-decoration-none'>{{ type.label }}</a>"
-   data-bs-content="{% if  type.description %}<p>{{ type.description }}</p>{% endif %}">
+   data-bs-content="{% if type.description %}<p>{{ type.description }}</p>{% endif %}">
   {{ type.label }}{% if type.description %} — {{ type.description }}{% endif %}</a>
 {% endmacro %}

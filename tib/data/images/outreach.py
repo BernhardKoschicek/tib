@@ -32,6 +32,12 @@ gallery_outreach = [
     }, ]
 
 icons_outreach = {
+    'imc_leeds_23': {
+        'path': f'{icon_path_outreach}imc_leeds_23.jpg',
+        'license': '',
+        'author': '',
+        'url': '',
+    },
     'serbian_academy': {
         'path': f'{icon_path_outreach}serbian_academy.jpg',
         'license': '',

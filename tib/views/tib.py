@@ -133,7 +133,7 @@ def tib_contact() -> str:
 
 @app.route('/atlas')
 def tib_atlas() -> Response:
-    return redirect('https://data1.geo.univie.ac.at/projects/tibapp/')
+    return redirect('https://maps-of-power.oeaw.ac.at/frontend')
 
 
 @app.route('/balkan/explore')

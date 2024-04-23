@@ -1,7 +1,11 @@
-from setuptools import setup
-
-package_json = {
-    "dependencies": {
+{
+  "name": "static",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies": {
         "@fancyapps/ui": "^5.0.22",
         "@mapbox/leaflet-pip": "^1.1.0",
         "aos": "2.3.4",
@@ -24,12 +28,10 @@ package_json = {
         "jquery-ui-dist": "^1.13.1",
         "popper.js": "1.16.0",
         "muuri": "^0.9.5"
-    }
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernhardKoschicek/tib.git"
+  },
+  "private": false
 }
-
-setup(
-    name='tib',
-    setup_requires=['calmjs'],
-    package_json=package_json,
-    py_modules=[]
-)

@@ -1,14 +1,14 @@
 # Translations template for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
+# Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-12-30 14:46+0100\n"
+"POT-Creation-Date: 2024-04-23 09:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -202,6 +202,15 @@ msgid ""
 " with metadata"
 msgstr ""
 
+#: tib/data/navigation.py:75 tib/data/navigation.py:95
+#: tib/templates/tib/frontpage/tib_map.html:5
+msgid "map_application"
+msgstr ""
+
+#: tib/data/navigation.py:79
+msgid "Graphical map application to access,browse and query data from TIB Balkans"
+msgstr ""
+
 #: tib/data/navigation.py:84 tib/data/navigation.py:105
 #: tib/data/subprojects.py:233 tib/data/subprojects.py:257
 msgid "browse_tib_balkans_data"
@@ -209,10 +218,6 @@ msgstr ""
 
 #: tib/data/navigation.py:89 tib/data/navigation.py:110
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
-msgstr ""
-
-#: tib/data/navigation.py:95 tib/templates/tib/frontpage/tib_map.html:5
-msgid "map_application"
 msgstr ""
 
 #: tib/data/navigation.py:100
@@ -4511,39 +4516,19 @@ msgid ""
 " Byzantium\" since 2019"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:65
-msgid "You may freely access this online atlas (web application) via"
-msgstr ""
-
-#: tib/templates/tib/digtib/digtib.html:69
-msgid ""
-"Scholarly results as well as digital photographs of the TIB Balkans, i.e."
-" from the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. "
-"Popović) and 17 (\"Nea Epeiros and Praevalis\", Mihailo St. Popović), and"
-" of related <a href=\"/balkan/subprojekte\">sub-projects of the TIB "
-"Balkans</a> with a team of young scholarly co-workers are regularly "
-"embedded in English into a TIB Balkans OpenAtlas Database."
-msgstr ""
-
-#: tib/templates/tib/digtib/digtib.html:72
-msgid ""
-"You may freely query the data embedded in the TIB Balkans OpenAtlas "
-"Database via"
-msgstr ""
-
-#: tib/templates/tib/digtib/digtib.html:75
+#: tib/templates/tib/digtib/digtib.html:66
 msgid ""
 "All three main lines of development are intertwined and form a holistic "
 "approach."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:78
+#: tib/templates/tib/digtib/digtib.html:69
 msgid ""
 "If you would like to read more about all three lines of development, "
 "please cf. the following two articles"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:104
+#: tib/templates/tib/digtib/digtib.html:95
 msgid "Contact"
 msgstr ""
 

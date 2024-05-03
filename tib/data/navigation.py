@@ -94,7 +94,7 @@ balkan_digital_submenu_items = [
     {
         'title': _l('map_application'),
         'icon': 'bi-map-fill',
-        'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+        'link': 'https://atlas.maps-of-power.at/',
         'link_type': 'ext',
         'tooltip':
             _l('Graphical map application to access, browse and '

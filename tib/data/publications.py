@@ -2420,7 +2420,7 @@ tib_publications_data = {
     'HistGeo': {
         'title': _l('Historical Geography and Cultural Heritage'),
         'description':
-            _l('The series <a href="https://histgeo.oeaw.ac.at/" '
+            _l('The series <a href="https://maps-of-power.oeaw.ac.at/histgeo" '
                        'target="_blank">Studies in Historical Geography and '
                        'Cultural Heritage</a> was founded by Mihailo St. '
                        'Popović in the spring of 2016 and is edited by him '

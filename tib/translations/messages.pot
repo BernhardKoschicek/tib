@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-04-23 09:50+0200\n"
+"POT-Creation-Date: 2024-11-20 12:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1073,9 +1073,9 @@ msgid ""
 "Late Antiquity – Ephesus."
 msgstr ""
 
-#: tib/data/team.py:19 tib/data/team.py:59 tib/data/team.py:69
-#: tib/data/team.py:89 tib/data/team.py:119 tib/data/team.py:129
-#: tib/data/team.py:139 tib/data/team.py:149
+#: tib/data/team.py:19 tib/data/team.py:69 tib/data/team.py:89
+#: tib/data/team.py:119 tib/data/team.py:129 tib/data/team.py:139
+#: tib/data/team.py:149
 msgid "scientific_employee"
 msgstr ""
 
@@ -1137,6 +1137,10 @@ msgid ""
 "of history at the University of Vienna. Research interests include "
 "computer security, python, Linked Open Data, API, digital reservation, "
 "historical geographie, GIS, medieval and military history."
+msgstr ""
+
+#: tib/data/team.py:59 tib/data/team.py:118
+msgid "former_employee"
 msgstr ""
 
 #: tib/data/team.py:61
@@ -1226,10 +1230,6 @@ msgid ""
 "(CARTOCONSULT BEER). Collaborating since then with the Austrian Academy "
 "of Sciences (ÖAW) in Vienna as free cartographer for the Long-Term-"
 "Project \"Tabula Imperii Byzantini (TIB)\"."
-msgstr ""
-
-#: tib/data/team.py:118
-msgid "former_employee"
 msgstr ""
 
 #: tib/data/team.py:121
@@ -3140,8 +3140,8 @@ msgstr ""
 
 #: tib/data/tib_volumes.py:160
 msgid ""
-"Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M."
-" Popović, TIB 17, 2021)"
+"The Bay of Tivat with the Peninsula of Saint Archangel Michael (M. "
+"Popović, TIB 17, 2022)"
 msgstr ""
 
 #: tib/data/tib_volumes.py:161
@@ -3454,7 +3454,7 @@ msgstr ""
 msgid "Road Model based on a k. u k. Marching Map"
 msgstr ""
 
-#: tib/data/images/subprojects.py:88
+#: tib/data/images/subprojects.py:88 tib/data/images/volumes.py:62
 msgid ""
 "Markovi Kuli Castle near Prilep from the south, Republic of Northern "
 "Macedonia"
@@ -3464,7 +3464,7 @@ msgstr ""
 msgid "The Kale elevation in Skopje, Republic of Northern Macedonia"
 msgstr ""
 
-#: tib/data/images/subprojects.py:102
+#: tib/data/images/subprojects.py:102 tib/data/images/volumes.py:72
 msgid "The old city gate of Ohrid, Republic of Northern Macedonia"
 msgstr ""
 
@@ -3609,18 +3609,8 @@ msgstr ""
 msgid "Yoğurtçu Kale, 15 km West of Manisa, Asia"
 msgstr ""
 
-#: tib/data/images/volumes.py:62
-msgid ""
-"The Ancient Theatre in Heraclea Lyncestis from the South, Republic of "
-"North Macedonia"
-msgstr ""
-
 #: tib/data/images/volumes.py:67
 msgid "The Ottoman Bridge called Kadin Most in Nevestino, Bulgaria"
-msgstr ""
-
-#: tib/data/images/volumes.py:72
-msgid "Lake Dojran, Republic of North Macedonia"
 msgstr ""
 
 #: tib/data/images/volumes.py:77

@@ -157,7 +157,7 @@ tib_icons = {
     'tib11': _l('Sithonia Peninsula, Bay at the Singitic Gulf, Northern Greece (TIB 11, P. Soustal, M. Popović, 2004)'),
     'tib14': _l('Sardis, West of Modern Salihli, Lydia (TIB 14, A. Külzer, 2013)'),
     'tib16': _l('Traces of an Early Christian Basilica (5. Cent) on the Island of Golem Grad, Repbulic of North Macedonia (M. Popović, TIB 16, 2017)'),
-    'tib17': _l('Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. Popović, TIB 17, 2021)'),
+    'tib17': _l('The Bay of Tivat with the Peninsula of Saint Archangel Michael (M. Popović, TIB 17, 2022)'),
     'tib18': _l('Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)')
 }
 

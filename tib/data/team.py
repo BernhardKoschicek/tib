@@ -55,7 +55,7 @@ tib_team_data = {
     },
     'dvargova': {
         'name': 'Dorota Vargová',
-        'team': _l('balkans'),
+        'team': _l('former_employee'),
         'category': _l('former_employee'),
         'titles': ['MA'],
         'description':  _l('2016 BA in History (University of Vienna); 2016-2021 MA in History (University of Vienna); Research interest: european history, early-modern history, history of the european identity, history of the middle ages and late antiquity.'),
@@ -160,8 +160,7 @@ team_categories = {
         tib_team_data['akulzer'],
         tib_team_data['mpopovic']],
     'Scientific_Employees': [
-        tib_team_data['dariantzi'],
-        tib_team_data['dvargova']],
+        tib_team_data['dariantzi']],
     'Associated_Scholars': [
         tib_team_data['vzervan'],
         tib_team_data['vpolloczek']],
@@ -175,5 +174,6 @@ team_categories = {
         tib_team_data['fhild'],
         tib_team_data['kbelke'],
         tib_team_data['psoustal'],
-        tib_team_data['dschmid']],
+        tib_team_data['dschmid'],
+        tib_team_data['dvargova']]
 }

@@ -66,7 +66,7 @@ tib_digtib_submenu_items = [
         'title': _l('image_collection'),
         'icon': 'bi-images',
         'link_type': 'ext',
-        'link': 'https://catalogue.tib.oeaw.ac.at/',
+        'link': 'tib-collection',
         'tooltip':
             _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and '
                '16 enriched with metadata')

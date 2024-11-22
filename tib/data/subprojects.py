@@ -248,7 +248,7 @@ project_results = {
                 'icon': 'bi bi-journals',
             },
             {
-                'label': f'Maps of Power',
+                'label': 'Maps of Power',
                 'link': '',
                 'file': None,
                 'icon': 'bi bi-map-fill',
@@ -290,7 +290,7 @@ project_results = {
             },
             {
                 'label': _('Image Collection'),
-                'link': 'https://catalogue.tib.oeaw.ac.at/',
+                'link': '../../tib-collection',
                 'file': None,
                 'icon': 'bi bi-images',
             }

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-11-20 12:24+0100\n"
-"PO-Revision-Date: 2024-11-20 14:17+0100\n"
+"POT-Creation-Date: 2024-11-22 13:58+0100\n"
+"PO-Revision-Date: 2024-11-22 15:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 "Vollständiges geografisches Register der veröffentlichten TIB-Bände 1-13 und 15"
 
-#: tib/data/navigation.py:66
+#: tib/data/navigation.py:66 tib/templates/tib/tib_collection.html:4
 msgid "image_collection"
 msgstr "Bildkollektion"
 
@@ -578,11 +578,13 @@ msgid "Historical Geography and Cultural Heritage"
 msgstr "Historical Geography and Cultural Heritage"
 
 #: tib/data/publications.py:2423
+#, fuzzy
 msgid ""
-"The series <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
-"Historical Geography and Cultural Heritage</a> was founded by Mihailo St. "
-"Popović in the spring of 2016 and is edited by him and Andreas Külzer in order "
-"to innovate the historical-geographical research in  Byzantine Studies."
+"The series <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
+"target=\"_blank\">Studies in Historical Geography and Cultural Heritage</a> was "
+"founded by Mihailo St. Popović in the spring of 2016 and is edited by him and "
+"Andreas Külzer in order to innovate the historical-geographical research in  "
+"Byzantine Studies."
 msgstr ""
 "Die Reihe <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
 "target=\"_blank\">Studies in Historical Geography and Cultural Heritage</a> "
@@ -1419,8 +1421,8 @@ msgid ""
 "catalogue.tib.oeaw.ac.at/</a>."
 msgstr ""
 "Transparente Präsentation und Veröffentlichung der Projektresultate im Rahmen "
-"der Online-Ressourcen der TIB unter <a href=\"https://catalogue.tib.oeaw.ac.at/"
-"\">https://catalogue.tib.oeaw.ac.at/</a>"
+"der Online-Ressourcen der TIB unter <a href=\"tib-collection\">https://catalogue."
+"tib.oeaw.ac.at/</a>"
 
 #: tib/data/subprojects.py:275
 msgid ""
@@ -1461,11 +1463,11 @@ msgid ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 msgstr ""
-"Das Portal (Frontend) von CollectiveAccess ist online unter: <a href=\"https://"
-"catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a> Die "
-"Nutzer*innen können die aufgearbeiteten 7.172 Dias (TIB 5: 4.981 Dias, TIB 12: "
-"1.252 Dias, TIB 16: 939 Dias) frei betrachten, durchsuchen, vergleichen, "
-"Metadaten sichten und mit Permalinks zitieren."
+"Das Portal (Frontend) von CollectiveAccess ist online unter: <a href=\"tib-"
+"collection\">https://catalogue.tib.oeaw.ac.at/</a> Die Nutzer*innen können die "
+"aufgearbeiteten 7.172 Dias (TIB 5: 4.981 Dias, TIB 12: 1.252 Dias, TIB 16: 939 "
+"Dias) frei betrachten, durchsuchen, vergleichen, Metadaten sichten und mit "
+"Permalinks zitieren."
 
 #: tib/data/subprojects.py:292
 msgid "Image Collection"
@@ -1548,7 +1550,7 @@ msgstr ""
 "Kommunikationstechnologie im Bildungswesen, Graphentheorie und räumliche "
 "Analyse, GIS"
 
-#: tib/data/team.py:38 tib/data/team.py:48 tib/data/team.py:58
+#: tib/data/team.py:38 tib/data/team.py:48
 msgid "balkans"
 msgstr "Balkan"
 
@@ -1594,7 +1596,7 @@ msgstr ""
 "Data, API, digitale Reservierung, historische Geographie, GIS, mittelalterliche "
 "und militärische Geschichte."
 
-#: tib/data/team.py:59 tib/data/team.py:118
+#: tib/data/team.py:58 tib/data/team.py:59 tib/data/team.py:118
 msgid "former_employee"
 msgstr "Ehemaliger Mitarbeiter"
 
@@ -5614,13 +5616,13 @@ msgstr ""
 "<a href=\"/tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
 "TIB Bänden</a> mit Verlinkungen auf die Seite der jeweiligen TIB Bände und ihre "
 "pdf Dateien (soweit aufgrund des Copyrights erlaubt) online gestellt. Einen Teil "
-"unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" "
-"target=\"_blank\">Diabestände</a> haben wir beschrieben und als Scans ebenfalls "
-"online zugänglich gemacht. Schließlich haben wir eine OpenAtlas Datenbank, in "
-"die alle Resultate der Teilprojekte TIB Balkan sowie ausgewählte Aspekte aus den "
-"TIB Bänden 16 und 17 laufend einfließen und jederzeit aktuell über ein Web "
-"Applikation abgerufen werden können. Diese Webapplikation nennen wir <a "
-"href=\"https://atlas.maps-of-power.at/ \" target=\"_blank\">„Maps of Power“</a>."
+"unserer reichen <a href=\"tib-collection\" target=\"_blank\">Diabestände</a> "
+"haben wir beschrieben und als Scans ebenfalls online zugänglich gemacht. "
+"Schließlich haben wir eine OpenAtlas Datenbank, in die alle Resultate der "
+"Teilprojekte TIB Balkan sowie ausgewählte Aspekte aus den TIB Bänden 16 und 17 "
+"laufend einfließen und jederzeit aktuell über ein Web Applikation abgerufen "
+"werden können. Diese Webapplikation nennen wir <a href=\"https://atlas.maps-of-"
+"power.at/ \" target=\"_blank\">„Maps of Power“</a>."
 
 #: tib/templates/balkan/digital/explore.html:3
 #: tib/templates/openatlas/explore.html:3
@@ -6222,6 +6224,16 @@ msgstr ""
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Weitere Informationen zum Datenschutz auf Internetseiten der ÖAW."
+
+#: tib/templates/tib/tib_collection.html:6
+msgid ""
+"Due to a lack of updates from the software developer of CollectiveAccess,\n"
+"       this application is currently not running. We are looking for new "
+"technical solutions."
+msgstr ""
+"Aufgrund fehlender Updates durch den Softwareentwickler von CollectiveAccess "
+"funktioniert diese Applikation derzeit nicht. Wir suchen nach neuen technischen "
+"Lösungen."
 
 #: tib/templates/tib/aieb/aieb.html:6
 msgid "Commission for the"

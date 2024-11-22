@@ -144,6 +144,11 @@ def tib_discover() -> str:
         view_classes=view_classes)
 
 
+@app.route('/tib-collection')
+def tib_collection() -> str:
+    return render_template('tib/tib_collection.html')
+
+
 @app.route('/language=<language>')
 def set_language(language=None):
     session['language'] = language

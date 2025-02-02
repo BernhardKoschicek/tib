@@ -292,7 +292,32 @@ tib_monographs = [
         "external_link": '',
         "download": ''
     },
-
+    {
+        "author": "Mihailo St. Popović",
+        "title": "Byzantium and the Balkans in the Middle Ages through the "
+                 "Looking Glass of Historical Geography (Romanian Academy, "
+                 "Institute of Archaeology of Iaşi, Florilegium magistrorum "
+                 "historiae archaeologiaeque Antiquitatis et Medii Aevi 25). "
+                 "Bucureşti–Brăila (Editura Academiei Române, Editura Istros "
+                 "a Muzeului Brăilei „Carol I“)",
+        "location": "Bucureşti–Brăila",
+        "date": "2023",
+        "pages": 337,
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "Mihailo St. Popović, Vratislav Zervan, Ralf C. Müller",
+        "title": "Der den Kordax tanzt: Hommage an Johannes Koder und seine "
+                 "Forschungen über Byzanz und den Balkan. ",
+        "location": "Leipzig ",
+        "date": "2024",
+        "pages": 176,
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
 ]
 
 tib_articles = [
@@ -1982,7 +2007,10 @@ tib_articles = [
                  "Byzantine World 9).",
         "location": "Leiden – Boston",
         "date": "2021",
-        "pages": "151-182"
+        "pages": "151-182",
+        "category": [],
+        "external_link": '',
+        "download": ''
     },
     {
         "author": "Mihailo Popović",
@@ -1992,7 +2020,10 @@ tib_articles = [
                  "Niš i Vizantija XX, Niš, 3-5. jun 2021. Zbornik radova XX.",
         "location": "Niš",
         "date": "2022",
-        "pages": "521-540"
+        "pages": "521-540",
+        "category": [],
+        "external_link": '',
+        "download": ''
     },
     {
         "author": "Mihailo Popović, Vratislav Zervan",
@@ -2001,7 +2032,10 @@ tib_articles = [
                  "Oecumene”. Studia Slavica et Balcanica Petropolitana 1",
         "location": "St Petersburg",
         "date": "2022",
-        "pages": "36-57"
+        "pages": "36-57",
+        "category": [],
+        "external_link": '',
+        "download": ''
     },
     {
         "author": "Mihailo Popović",
@@ -2012,7 +2046,10 @@ tib_articles = [
                  "Plenary Sessions.",
         "location": "Venice",
         "date": "2022",
-        "pages": "191-210"
+        "pages": "191-210",
+        "category": [],
+        "external_link": '',
+        "download": ''
     },
     {
         "author": "Mihailo Popović et al.",
@@ -2021,7 +2058,10 @@ tib_articles = [
                  "Project Results. MEMO_quer 4, doi: 10.25536/2022q004",
         "location": "Krems",
         "date": "2022",
-        "pages": ""
+        "pages": "",
+        "category": [],
+        "external_link": '',
+        "download": ''
     },
     {
         "author": "Mihailo Popović",
@@ -2030,9 +2070,89 @@ tib_articles = [
                  "in Sofia (1915-1918), in: Der Krieg auf dem Balkan. Der "
                  "Eintritt Bulgariens in den 1. Weltkrieg (Miscellanea "
                  "Bulgarica 26).",
-        "location": "Wien ",
+        "location": "Wien",
         "date": "2022",
-        "pages": "81-94"
+        "pages": "81-94",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "Mihailo St. Popović, Branka Vranešević, Dorota Vargová",
+        "title": "A Combined Approach to the Reconstruction of the “Sacred "
+                 "Landscape” of Duklja and Raška in the Times of Stefan "
+                 "Nemanja based on Historical Geography, Art and Church "
+                 "History. Zbornik Radova Vizantološkog Instituta 60/2",
+        "location": "Wien",
+        "date": "2023",
+        "pages": "963-979",
+        "category": [],
+        "external_link": '',
+        "download": 'MPopovicBVranesevicDVargova_Sacred Landscape Duklja Raska.pdf'
+    },
+    {
+        "author": "Mabi  Angar, Mihailo St. Popović, Andreas Pülz",
+        "title": "Peć / Patriarchenkloster, in: Reallexikon zur "
+                 "byzantinischen Kunst, Band VII.",
+        "location": "Stuttgart",
+        "date": "2023",
+        "pages": "963-979",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "Dorota Vargová, Branka Vranešević, Mihailo St. Popović",
+        "title": "To Put the Church on the Map: Early Medieval Ecclesiastical "
+                 "Structures and Tendencies in the Region of Duklja (6th–11th "
+                 "Centuries). Initial, A Review of Medieval Studies 11",
+        "location": "Beograd",
+        "date": "2023",
+        "pages": "3-33",
+        "category": [],
+        "external_link": '',
+        "download": 'DVargovaBVranesevicMPopovic To Put the Church on the Map.pdf'
+    },
+    {
+        "author": "Toni Filiposki, Mihailo St. Popović",
+        "title": "The Early Byzantine Urban Appearance of Lychnid in the 5th "
+                 "and 6th Centuries, in: International Scientific Conference "
+                 "75 Year Jubilee of the Institute of Art History and "
+                 "Archaeology. Book of Proceedings",
+        "location": "Skopje",
+        "date": "2024",
+        "pages": "535-543",
+        "category": [],
+        "external_link": '',
+        "download": 'MPopovicTFiliposki_Urban Appearance Lychnid.pdf'
+    },
+    {
+        "author": "Mihailo St. Popović",
+        "title": "Über „kurze Wege“ und „tiefe Gruben“ im Süden der "
+                 "Balkanhalbinsel: die Begriffe „preki put“ und „trap“ in "
+                 "altserbischen mittelalterlichen Quellen, in: Der den Kordax "
+                 "tanzt: Hommage an Johannes Koder und seine Forschungen über "
+                 "Byzanz und den Balkan",
+        "location": "Leipzig",
+        "date": "2024",
+        "pages": "83-92",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "Johannes Tripps, Branka Vranešević, "
+                  "Moisés Hernández Cordero, Mihailo St. Popović",
+        "title": "Towards the Imperial Dignity: A Contribution to the Study "
+                 "of the Imperial Crown of King Stefan Uroš III Dečanski in "
+                 "the Cetinje Monastery. Zbornik Matice srpske za likovne "
+                 "umetnosti 52",
+        "location": "Novi Sad",
+        "date": "2024",
+        "pages": "27-50",
+        "category": [],
+        "external_link": '',
+        "download": 'MPopovic et al The Crown of King Stefan Uros Decanski.pdf'
     }
 ]
 
@@ -2389,6 +2509,18 @@ histgeo = [
         "location": "Novi Sad – Vienna",
         "date": "2018",
         "pages": "195–213, 475–478",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "Ludovic Bender",
+        "title": "Ermitages et monastères rupestres de la Laconie byzantine "
+                 "(XIe-XVe siècle) : Archéologie, topographie et paysages "
+                 "(Studies in Historical Geography and Cultural Heritage 4)",
+        "location": "Novi Sad – Vienna",
+        "date": "2022",
+        "pages": "381",
         "category": [],
         "external_link": '',
         "download": ''

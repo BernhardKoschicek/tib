@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-11-22 13:58+0100\n"
-"PO-Revision-Date: 2024-11-22 15:00+0100\n"
+"POT-Creation-Date: 2025-02-02 22:45+0100\n"
+"PO-Revision-Date: 2025-02-02 23:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -321,10 +321,9 @@ msgstr "Präsentation an der Serbischen Akademie der Wissenschaften und Künste"
 msgid ""
 "Mihailo Popović was invited by the Institute for Byzantine Studies of the "
 "Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
-"Imperii Byzantini: о будућности (?) проучавања историјске географије "
-"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
-"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
-"2023 in Belgrade."
+"Imperii Byzantini: о будућности (?) проучавања историјске географије Византије” "
+"[“The Project Tabula Imperii Byzantini: on the Future (?) of the Research in the "
+"Field of the Historical Geography of Byzantium”] on 22 February 2023 in Belgrade."
 msgstr ""
 "Mihailo Popović wurde vom Institut für Byzantinistik der Serbischen Akademie der "
 "Wissenschaften und Künste eingeladen, um am 22. Februar 2023 in Belgrad einen "
@@ -542,11 +541,11 @@ msgstr ""
 "Vortrag stellten die Zuhörer vielfältige Fragen zur Historischen Geographie des "
 "Byzantinischen Reiches und zu Digital Humanities."
 
-#: tib/data/publications.py:2399
+#: tib/data/publications.py:2531
 msgid "TIB_Volumes"
 msgstr "TIB_Bände"
 
-#: tib/data/publications.py:2402
+#: tib/data/publications.py:2534
 msgid ""
 "The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian Academy "
 "of Sciences are the main scholarly result of the project TIB and have been "
@@ -556,11 +555,11 @@ msgstr ""
 "der Wissenschaften sind das wissenschaftliche Hauptergebnis des Projekts TIB und "
 "werden seit 1976 veröffentlicht."
 
-#: tib/data/publications.py:2409
+#: tib/data/publications.py:2541
 msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 msgstr "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 
-#: tib/data/publications.py:2412
+#: tib/data/publications.py:2544
 msgid ""
 "In addition to the main series Tabula Imperii Byzantini (TIB) an accompanying "
 "series entitled Veröffentlichungen der Kommission für die Tabula Imperii "
@@ -573,11 +572,11 @@ msgstr ""
 "Imperii Byzantini (VTIB) der Österreichischen Akademie der Wissenschaften, die "
 "seit 2006 durch die Reihe Veröffentlichungen zur Byzanzforschung ersetzt wird."
 
-#: tib/data/publications.py:2421
+#: tib/data/publications.py:2553
 msgid "Historical Geography and Cultural Heritage"
 msgstr "Historical Geography and Cultural Heritage"
 
-#: tib/data/publications.py:2423
+#: tib/data/publications.py:2555
 #, fuzzy
 msgid ""
 "The series <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
@@ -592,11 +591,11 @@ msgstr ""
 "Andreas Külzer herausgegeben, um die historisch-geographische Forschung in der "
 "Byzantinistik zu erneuern."
 
-#: tib/data/publications.py:2431 tib/data/publications.py:2432
+#: tib/data/publications.py:2563 tib/data/publications.py:2564
 msgid "Monographs"
 msgstr "Monografien"
 
-#: tib/data/publications.py:2433
+#: tib/data/publications.py:2565
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly monographs and edited volumes on "
@@ -606,11 +605,11 @@ msgstr ""
 "Byzantini (TIB) veröffentlichen kontinuierlich wissenschaftliche Monographien "
 "und Sammelbände zu verschiedenen Themen der Historischen Geographie von Byzanz."
 
-#: tib/data/publications.py:2439 tib/data/publications.py:2440
+#: tib/data/publications.py:2571 tib/data/publications.py:2572
 msgid "Articles"
 msgstr "Artikel"
 
-#: tib/data/publications.py:2441
+#: tib/data/publications.py:2573
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly articles on various topics of the "
@@ -905,8 +904,8 @@ msgid ""
 "monument (cultural property) by Decision No. 1794/1 of September 14, 1948. Apart "
 "from the undoubtedly military-strategic purposes it had during the war years, "
 "this unique object has gained importance over time due to its aesthetic and "
-"historical value, so that it now forms an inevitable tourist attraction."
-"\" (Translation by M. Popović)"
+"historical value, so that it now forms an inevitable tourist attraction.\" "
+"(Translation by M. Popović)"
 msgstr ""
 "Ein im ehemaligen Jugoslawien berühmtes Exemplar einer Reliefkarte der "
 "Balkanhalbinsel ist die Karte Montenegros und angrenzender Gebiete, die 1916/17 "
@@ -1569,10 +1568,10 @@ msgid ""
 msgstr ""
 "Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. mit höchster Auszeichnung "
 "(Universität Wien, 2000); Dr. phil. mit höchster Auszeichnung (Universität Wien, "
-"2005); Einstimmiger Beschluss zur Erteilung der Lehrbefugnis \"Geschichte "
-"Südosteuropas und Byzantinistik\" (Universität Wien, 2011); 2017-2022: "
-"Vorsitzender der \"Commission for the Historical Geography and Spatial Analysis "
-"of Byzantium\" der International Association of Byzantine Studies (AIEB). "
+"2005); Einstimmiger Beschluss zur Erteilung der Lehrbefugnis Geschichte "
+"Südosteuropas und Byzantinistik (Universität Wien, 2011); 2017-2022: "
+"Vorsitzender der Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium der International Association of Byzantine Studies (AIEB). "
 "Forschungsinteressen: Geschichte und Kultur Südosteuropas (7.-16. Jh.), "
 "Spätbyzantinische Geschichte (1204-1453), Gender Studies, Historische Geographie "
 "und Kartographie des Mittelmeerraums, Digital Humanities und Historische "
@@ -2251,11 +2250,11 @@ msgstr ""
 #: tib/data/tib_volumes.py:31
 msgid ""
 "The area between Kaisareia and Melitēnē, whose settlements had been largely "
-"abandoned in the defensive battles against the Arabs, became a "
-"\"desert\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late "
-"antique settlement surrounded by a defensive wall. Further southwest, the "
-"fortress of Tzamandos was built on a prominent, steep rock cone as a bulwark "
-"against the Arabs."
+"abandoned in the defensive battles against the Arabs, became a \"desert\" "
+"(erēmia) with the name Symposion, whose centre lay in Kaleköy, a late antique "
+"settlement surrounded by a defensive wall. Further southwest, the fortress of "
+"Tzamandos was built on a prominent, steep rock cone as a bulwark against the "
+"Arabs."
 msgstr ""
 "Das Gebiet zwischen Kaisareia und Melitēnē, dessen Siedlungen in den "
 "Verteidigungskämpfen gegen die Araber weitgehend aufgegeben worden waren, wurde "
@@ -2805,9 +2804,8 @@ msgstr ""
 "Kappadokien und Kilikien und zugleich der Beginn des östlichen Taurus, der durch "
 "die von Nordosten nach Südwesten verlaufenden Gebirgszüge, die in der Antike "
 "Antitauros genannt wurden, geprägt ist. Im Osten schließt der Amanos (Nur "
-"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das "
-"\"Schweinekap\" (Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien "
-"trennt."
+"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das \"Schweinekap\" "
+"(Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien trennt."
 
 #: tib/data/tib_volumes.py:57
 msgid ""
@@ -3766,15 +3764,15 @@ msgid ""
 "alum. - Chios (842 km2), like Lesbos, lies in the immediate vicinity of the "
 "coast of western Asia Minor; it reaches an altitude of up to 1,300 m in a "
 "limestone mountain range, has sufficient water and is partly fertile. In the "
-"southern part of the island, in the area of the so-called \"mastic "
-"villages\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) "
-"thrives, whose resin, the mastic, represented a basis of wealth as a monopolised "
-"export article until modern times. - The small Psara (41 km2), about 19 km west "
-"of Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The "
-"island of Skyros (209 km2), far from the coast, reaches an altitude of almost "
-"800 m in the southeast, has sufficient water and is partly very fertile. A "
-"special zoological feature is a semi-wild, prehistoric horse, the small \"Skyros "
-"pony\" (equus Cubulus)."
+"southern part of the island, in the area of the so-called \"mastic villages\" "
+"(Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) thrives, whose "
+"resin, the mastic, represented a basis of wealth as a monopolised export article "
+"until modern times. - The small Psara (41 km2), about 19 km west of Chios, is "
+"mountainous (up to almost 600 m), water-rich and fertile. - The island of Skyros "
+"(209 km2), far from the coast, reaches an altitude of almost 800 m in the "
+"southeast, has sufficient water and is partly very fertile. A special zoological "
+"feature is a semi-wild, prehistoric horse, the small \"Skyros pony\" (equus "
+"Cubulus)."
 msgstr ""
 "Thasos (379 km2) ist teilweise gebirgig (über 1.200 m hoch), mit Marmorbrüchen, "
 "die seit der Antike betrieben werden, und verfügt über eine ausreichende "
@@ -6225,7 +6223,7 @@ msgstr ""
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Weitere Informationen zum Datenschutz auf Internetseiten der ÖAW."
 
-#: tib/templates/tib/tib_collection.html:6
+#: tib/templates/tib/digtib/digtib.html:50 tib/templates/tib/tib_collection.html:6
 msgid ""
 "Due to a lack of updates from the software developer of CollectiveAccess,\n"
 "       this application is currently not running. We are looking for new "
@@ -6639,7 +6637,7 @@ msgstr ""
 "mit den jeweiligen Metadaten in die Open-Source-Software CollectiveAccess "
 "eingebettet. Sie können auf diese Daten zugreifen über"
 
-#: tib/templates/tib/digtib/digtib.html:53
+#: tib/templates/tib/digtib/digtib.html:54
 msgid ""
 "For the time being, you may search and compare these slides and view their "
 "metadata, but not download them for scholarly or private use due to copyright "
@@ -6650,7 +6648,7 @@ msgstr ""
 "Österreichischen Akademie der Wissenschaften nicht für den wissenschaftlichen "
 "oder privaten Gebrauch herunterladen."
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:59
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
@@ -6658,7 +6656,7 @@ msgstr ""
 "Der Skadar-See in Montenegro von der Insel Beška aus gesehen, Republik "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 
-#: tib/templates/tib/digtib/digtib.html:62
+#: tib/templates/tib/digtib/digtib.html:63
 msgid ""
 "The third line of development is state of the art Geocommunication of current "
 "TIB content and results. Therefore, the TIB Balkans (Mihailo St. Popović) is "
@@ -6668,14 +6666,14 @@ msgstr ""
 "Die dritte Entwicklungslinie ist die moderne Geokommunikation der aktuellen "
 "Inhalte und Ergebnisse der TIB."
 
-#: tib/templates/tib/digtib/digtib.html:66
+#: tib/templates/tib/digtib/digtib.html:67
 msgid ""
 "All three main lines of development are intertwined and form a holistic approach."
 msgstr ""
 "Alle drei Hauptentwicklungslinien sind miteinander verflochten und bilden einen "
 "holistischen Ansatz."
 
-#: tib/templates/tib/digtib/digtib.html:69
+#: tib/templates/tib/digtib/digtib.html:70
 msgid ""
 "If you would like to read more about all three lines of development, please cf. "
 "the following two articles"
@@ -6683,7 +6681,7 @@ msgstr ""
 "Wenn Sie mehr über alle drei Entwicklungslinien erfahren möchten, lesen Sie "
 "bitte die folgenden beiden Artikel"
 
-#: tib/templates/tib/digtib/digtib.html:95
+#: tib/templates/tib/digtib/digtib.html:96
 msgid "Contact"
 msgstr "Kontakt"
 

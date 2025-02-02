@@ -1,14 +1,14 @@
 # Translations template for PROJECT.
-# Copyright (C) 2024 ORGANIZATION
+# Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-11-22 13:58+0100\n"
+"POT-Creation-Date: 2025-02-02 22:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -433,22 +433,22 @@ msgstr ""
 msgid "seminar_series_april"
 msgstr ""
 
-#: tib/data/publications.py:2399
+#: tib/data/publications.py:2531
 msgid "TIB_Volumes"
 msgstr ""
 
-#: tib/data/publications.py:2402
+#: tib/data/publications.py:2534
 msgid ""
 "The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian "
 "Academy of Sciences are the main scholarly result of the project TIB and "
 "have been published since 1976."
 msgstr ""
 
-#: tib/data/publications.py:2409
+#: tib/data/publications.py:2541
 msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 msgstr ""
 
-#: tib/data/publications.py:2412
+#: tib/data/publications.py:2544
 msgid ""
 "In addition to the main series Tabula Imperii Byzantini (TIB) an "
 "accompanying series entitled Veröffentlichungen der Kommission für die "
@@ -457,11 +457,11 @@ msgid ""
 "Veröffentlichungen zur Byzanzforschung since 2006."
 msgstr ""
 
-#: tib/data/publications.py:2421
+#: tib/data/publications.py:2553
 msgid "Historical Geography and Cultural Heritage"
 msgstr ""
 
-#: tib/data/publications.py:2423
+#: tib/data/publications.py:2555
 msgid ""
 "The series <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
 "target=\"_blank\">Studies in Historical Geography and Cultural "
@@ -470,11 +470,11 @@ msgid ""
 "geographical research in  Byzantine Studies."
 msgstr ""
 
-#: tib/data/publications.py:2431 tib/data/publications.py:2432
+#: tib/data/publications.py:2563 tib/data/publications.py:2564
 msgid "Monographs"
 msgstr ""
 
-#: tib/data/publications.py:2433
+#: tib/data/publications.py:2565
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii "
 "Byzantini (TIB) are continuously publishing scholarly monographs and "
@@ -482,11 +482,11 @@ msgid ""
 "Byzantium."
 msgstr ""
 
-#: tib/data/publications.py:2439 tib/data/publications.py:2440
+#: tib/data/publications.py:2571 tib/data/publications.py:2572
 msgid "Articles"
 msgstr ""
 
-#: tib/data/publications.py:2441
+#: tib/data/publications.py:2573
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii "
 "Byzantini (TIB) are continuously publishing scholarly articles on various"
@@ -4205,6 +4205,7 @@ msgstr ""
 msgid "Further information on data protection on websites of the OeAW."
 msgstr ""
 
+#: tib/templates/tib/digtib/digtib.html:50
 #: tib/templates/tib/tib_collection.html:6
 msgid ""
 "Due to a lack of updates from the software developer of CollectiveAccess,"
@@ -4492,20 +4493,20 @@ msgid ""
 "CollectiveAccess. You may access this data via"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:53
+#: tib/templates/tib/digtib/digtib.html:54
 msgid ""
 "For the time being, you may search and compare these slides and view "
 "their metadata, but not download them for scholarly or private use due to"
 " copyright regulations of the Austrian Academy of Sciences."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:59
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of"
 " Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:62
+#: tib/templates/tib/digtib/digtib.html:63
 msgid ""
 "The third line of development is state of the art Geocommunication of "
 "current TIB content and results. Therefore, the TIB Balkans (Mihailo St. "
@@ -4514,19 +4515,19 @@ msgid ""
 " Byzantium\" since 2019"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:66
+#: tib/templates/tib/digtib/digtib.html:67
 msgid ""
 "All three main lines of development are intertwined and form a holistic "
 "approach."
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:69
+#: tib/templates/tib/digtib/digtib.html:70
 msgid ""
 "If you would like to read more about all three lines of development, "
 "please cf. the following two articles"
 msgstr ""
 
-#: tib/templates/tib/digtib/digtib.html:95
+#: tib/templates/tib/digtib/digtib.html:96
 msgid "Contact"
 msgstr ""
 

@@ -2143,10 +2143,9 @@ tib_articles = [
     {
         "author": "Johannes Tripps, Branka Vranešević, "
                   "Moisés Hernández Cordero, Mihailo St. Popović",
-        "title": "Towards the Imperial Dignity: A Contribution to the Study "
-                 "of the Imperial Crown of King Stefan Uroš III Dečanski in "
-                 "the Cetinje Monastery. Zbornik Matice srpske za likovne "
-                 "umetnosti 52",
+        "title": "On the Subject of Imperial Dignity: A Contribution to the "
+                 "Study of the Crown of King Stefan Uroš III Dečanski in "
+                 "the Monastery of Cetinje",
         "location": "Novi Sad",
         "date": "2024",
         "pages": "27-50",

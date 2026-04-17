@@ -199,7 +199,7 @@ project_results = {
             },
             {
                 'label': 'Maps of Power',
-                'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+                'link': 'https://maps-of-power.oeaw.ac.at/',
                 'file': None,
                 'icon': 'bi bi-map-fill',
             },

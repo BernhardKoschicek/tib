@@ -73,7 +73,6 @@ def tib_digtib_submenu(item: str) -> str:
     <li><hr class="dropdown-divider"></li>
     '''
     for item in tib_digtib_submenu_items:
-        print(item['link'])
         title = f"{item['title']} <i class='bi bi-box-arrow-up-right'></i>" \
             if item['link_type'] == 'ext' else item['title']
         html += f"""

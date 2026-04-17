@@ -1,14 +1,13 @@
-from typing import Any, Optional
-
 import numpy
 from flask import render_template
+from typing import Any, Optional
 
-from model.util import flatten_list_and_remove_duplicates
 from tib import app
 from tib.data.openatlas.oa_access import get_oa_by_view_class, view_classes
 from tib.data.subprojects import subprojects
 from tib.model.entity import Entity, Relation
 from tib.model.types import Types
+from tib.model.util import flatten_list_and_remove_duplicates
 from tib.util.api_calls import get_entities_linked_to_entity
 
 

@@ -56,7 +56,7 @@ tib_digtib_submenu_items = [
     {
         'title': _l('toponym_register'),
         'icon': 'bi-list-columns-reverse',
-        'link': 'tib-register',
+        'link': 'tib_register',
         'link_type': 'int',
         'tooltip':
             _l('A complete list of geographic registers of '
@@ -66,7 +66,7 @@ tib_digtib_submenu_items = [
         'title': _l('image_collection'),
         'icon': 'bi-images',
         'link_type': 'ext',
-        'link': 'tib-collection',
+        'link': 'tib_collection',
         'tooltip':
             _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and '
                '16 enriched with metadata')
@@ -75,7 +75,7 @@ tib_digtib_submenu_items = [
         'title': _l('map_application'),
         'icon': 'bi-map-fill',
         'link_type': 'ext',
-        'link': '/atlas',
+        'link': 'tib_atlas',
         'tooltip': _l('Graphical map application to access,'
         'browse and query data from TIB Balkans')
 
@@ -83,7 +83,7 @@ tib_digtib_submenu_items = [
     {
         'title': _l('browse_tib_balkans_data'),
         'icon': 'bi-stack',
-        'link': '../balkan/digital/explore',
+        'link': 'balkan_digital',
         'link_type': 'int',
         'tooltip':
             _l('Browse data from TIB Balkans directly '

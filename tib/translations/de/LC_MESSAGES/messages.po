@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-06-28 08:48+0200\n"
-"PO-Revision-Date: 2023-06-28 08:49+0200\n"
+"POT-Creation-Date: 2025-02-02 22:45+0100\n"
+"PO-Revision-Date: 2025-02-02 23:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #: tib/data/digital.py:5
 msgid ""
@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 "Vollständiges geografisches Register der veröffentlichten TIB-Bände 1-13 und 15"
 
-#: tib/data/navigation.py:66
+#: tib/data/navigation.py:66 tib/templates/tib/tib_collection.html:4
 msgid "image_collection"
 msgstr "Bildkollektion"
 
@@ -224,6 +224,18 @@ msgstr ""
 "Zugang zu mehr als 7.000 Dias der TIB-Bände 5, 12 und 16, angereichert mit "
 "Metadaten"
 
+#: tib/data/navigation.py:75 tib/data/navigation.py:95
+#: tib/templates/tib/frontpage/tib_map.html:5
+msgid "map_application"
+msgstr "Kartenapplikation"
+
+#: tib/data/navigation.py:79
+#, fuzzy
+msgid "Graphical map application to access,browse and query data from TIB Balkans"
+msgstr ""
+"Digitale Kartenanwendung um die Daten der TIB Balkan zu durchsuchen und "
+"abzufragen"
+
 #: tib/data/navigation.py:84 tib/data/navigation.py:105 tib/data/subprojects.py:233
 #: tib/data/subprojects.py:257
 msgid "browse_tib_balkans_data"
@@ -233,10 +245,6 @@ msgstr "TIB Balkan Daten erkunden"
 msgid "Browse data from TIB Balkans directly from the OpenAtlas database"
 msgstr ""
 "Durchsuchen Sie die Daten von TIB Balkans direkt in der OpenAtlas-Datenbank"
-
-#: tib/data/navigation.py:95 tib/templates/tib/frontpage/tib_map.html:5
-msgid "map_application"
-msgstr "Kartenapplikation"
 
 #: tib/data/navigation.py:100
 msgid "Graphical map application to access, browse and query data from TIB Balkans"
@@ -273,10 +281,25 @@ msgid "blogpost"
 msgstr "Blog Post"
 
 #: tib/data/outreach.py:40
+msgid "TIB Balkans at the IMC Leeds 2023"
+msgstr "Die TIB Balkan auf dem IMC Leeds 2023"
+
+#: tib/data/outreach.py:41
+msgid "imc_leeds_23"
+msgstr ""
+"MitarbeiterInnen des Teams TIB Balkan haben gemeinsam mit KollegInnen des "
+"Naturhistorischen Museums, der Ludwig Boltzmann Gesellschaft, der Hochschule für "
+"Technik, Wirtschaft und Kultur Leipzig, der Universität Belgrad und des ACDH-CH "
+"der Österreichischen Akademie der Wissenschaften ihre neuesten "
+"wissenschaftlichen Ergebnisse in drei Sitzungen mit dem Titel „Entanglements "
+"across Medieval Space, Objects, and Data“ am 6. Juli 2023 beim IMC Leeds "
+"präsentiert."
+
+#: tib/data/outreach.py:52
 msgid "Congress on Byzantine Thrace"
 msgstr "Kongress über das byzantinische Thrakien"
 
-#: tib/data/outreach.py:42
+#: tib/data/outreach.py:54
 msgid ""
 "The TIB and its retired colleagues took part substantially in the conference "
 "“Lead Seals in Byzantine Thrace” on 19 April 2022 at the IMAFO of the ÖAW. While "
@@ -290,18 +313,17 @@ msgstr ""
 "waren Klaus Belke und Mihailo Popović Vorsitzende von Sessions. Schließlich hat "
 "Mihailo Popović auch ein Résumé der Konferenz gemacht."
 
-#: tib/data/outreach.py:58
+#: tib/data/outreach.py:70
 msgid "Presentation at the Serbian Academy of Sciences and Arts"
 msgstr "Präsentation an der Serbischen Akademie der Wissenschaften und Künste"
 
-#: tib/data/outreach.py:60
+#: tib/data/outreach.py:72
 msgid ""
 "Mihailo Popović was invited by the Institute for Byzantine Studies of the "
 "Serbian Academy of Sciences and Arts to give a paper entitled “Пројекат Tabula "
-"Imperii Byzantini: о будућности (?) проучавања историјске географије "
-"Византије” [“The Project Tabula Imperii Byzantini: on the Future (?) of the "
-"Research in the Field of the Historical Geography of Byzantium”] on 22 February "
-"2023 in Belgrade."
+"Imperii Byzantini: о будућности (?) проучавања историјске географије Византије” "
+"[“The Project Tabula Imperii Byzantini: on the Future (?) of the Research in the "
+"Field of the Historical Geography of Byzantium”] on 22 February 2023 in Belgrade."
 msgstr ""
 "Mihailo Popović wurde vom Institut für Byzantinistik der Serbischen Akademie der "
 "Wissenschaften und Künste eingeladen, um am 22. Februar 2023 in Belgrad einen "
@@ -310,11 +332,11 @@ msgstr ""
 "Imperii Byzantini: über die Zukunft (?) der Erforschung der historischen "
 "Geographie von Byzanz“]."
 
-#: tib/data/outreach.py:77
+#: tib/data/outreach.py:89
 msgid "Presentation in Barcelona"
 msgstr "Präsentation in Barcelona"
 
-#: tib/data/outreach.py:79
+#: tib/data/outreach.py:91
 msgid ""
 "Andreas Külzer and Mihailo Popović gave a joint paper entitled \"Reality and "
 "Mirage in the Eastern Mediterranean. The Long Term Project Tabula Imperii "
@@ -328,11 +350,11 @@ msgstr ""
 "Settlements“ bei der Konferenz „Les ciutats mediterrànies. Realitat i miratge“ "
 "in Barcelona, Spanien, am 15. Dezember 2022 gehalten."
 
-#: tib/data/outreach.py:95
+#: tib/data/outreach.py:107
 msgid "Promotion Event for TIB 11"
 msgstr "Buchpräsentation TIB 11"
 
-#: tib/data/outreach.py:97
+#: tib/data/outreach.py:109
 msgid ""
 "On Monday, 14 November 2022, the TIB volume \"Macedonia, Southern Part\" (TIB "
 "11) will be officially promoted at the Department of Byzantine Research of the "
@@ -342,36 +364,36 @@ msgstr ""
 "Teil\" (TIB 11) in der Abteilung für Byzantinische Forschung des Instituts für "
 "Mittelalterforschung (IMAFO) offiziell vorgestellt."
 
-#: tib/data/outreach.py:102 tib/templates/tib/aieb/aieb.html:170
+#: tib/data/outreach.py:114 tib/templates/tib/aieb/aieb.html:170
 msgid "Date"
 msgstr "Datum"
 
-#: tib/data/outreach.py:102
+#: tib/data/outreach.py:114
 msgid "Begin"
 msgstr "Beginn"
 
-#: tib/data/outreach.py:103
+#: tib/data/outreach.py:115
 msgid "Venue"
 msgstr "Veranstalturnsort"
 
-#: tib/data/outreach.py:104
+#: tib/data/outreach.py:116
 msgid "1st Floor"
 msgstr "1er Stock"
 
-#: tib/data/outreach.py:104 tib/templates/footer.html:15
+#: tib/data/outreach.py:116 tib/templates/footer.html:15
 #: tib/templates/tib/imprint.html:15
 msgid "Vienna"
 msgstr "Wien"
 
-#: tib/data/outreach.py:105
+#: tib/data/outreach.py:117
 msgid "Registration"
 msgstr "Anmeldung"
 
-#: tib/data/outreach.py:118
+#: tib/data/outreach.py:130
 msgid "Presentation in Leipzig"
 msgstr "Präsentation in Leipzig"
 
-#: tib/data/outreach.py:120
+#: tib/data/outreach.py:132
 msgid ""
 "On Thursday, 10 November 2022, Mihailo Popović will present a paper in Leipzig, "
 "which is entitled “Die historische Geographie von Byzanz neu gedacht – Über den "
@@ -387,11 +409,11 @@ msgstr ""
 "West‘” trägt und auf wissenschaftlichen Ergebnissen aus dem Projekt <a "
 "href=\"subprojects/holdura\">\"Beyond East and West (HOLDURA)\"</a> basiert."
 
-#: tib/data/outreach.py:132
+#: tib/data/outreach.py:144
 msgid "24th International Congress of Byzantine Studies in Venice and Padua"
 msgstr "24er Internationaler Kongress für Byzantinistik in Venedig und Padua"
 
-#: tib/data/outreach.py:136
+#: tib/data/outreach.py:148
 msgid "aieb_roundtable"
 msgstr ""
 "Die \"Kommission für die Historische Geographie und Raumanalyse von Byzanz\" der "
@@ -405,15 +427,15 @@ msgstr ""
 "The Impact of Contemporary Environmental and Demographic Change on the Research "
 "of the Historical Geography of Byzantium\" in Padua halten."
 
-#: tib/data/outreach.py:137
+#: tib/data/outreach.py:149
 msgid "For further information and the programme please cf."
 msgstr "Weitere Informationen und das Programm finden Sie hier"
 
-#: tib/data/outreach.py:147
+#: tib/data/outreach.py:159
 msgid "Blogpost on the Paper \"OpenAtlas und historische Geographie\""
 msgstr "Blogpost zum Paper 'OpenAtlas und historische Geographie'"
 
-#: tib/data/outreach.py:150
+#: tib/data/outreach.py:162
 msgid "hypotheses_post"
 msgstr ""
 "Das Paper \"OpenAtlas und historische Geographie: Die Tabula Imperii Byzantini "
@@ -421,41 +443,41 @@ msgstr ""
 "St. Popović wird in einem Blogpost von einem Studenten der Universität zu Köln "
 "vorgestellt und kommentiert:"
 
-#: tib/data/outreach.py:159
+#: tib/data/outreach.py:171
 msgid "TIB volume 11, Macedonia, Southern Part published"
 msgstr "TIB Band 11, Mazedonien, Südlicher Teil veröffentlicht"
 
-#: tib/data/outreach.py:161
+#: tib/data/outreach.py:173
 msgid "tib_11_release"
 msgstr ""
 "Mit großer Freude dürfen wir die Veröffentlichung des TIB-Bandes 11 "
 "(\"Mazedonien, südlicher Teil\") ankündigen, der von Peter Soustal (mit Andreas "
 "Pülz und Mihailo St. Popović als Co-Autoren) geschrieben wurde."
 
-#: tib/data/outreach.py:162
+#: tib/data/outreach.py:174
 msgid "Cf. in detail:"
 msgstr "Sehen Sie im Detail:"
 
-#: tib/data/outreach.py:176
+#: tib/data/outreach.py:188
 msgid "presentation at International Medieval Congress (IMC) in Leeds"
 msgstr "Vortrag auf dem Internationalen Mittelalterkongress (IMC) in Leeds"
 
-#: tib/data/outreach.py:179
+#: tib/data/outreach.py:191
 msgid "imc2022"
 msgstr ""
 "Während des Internationalen Mittelalterkongresses (IMC) in Leeds vom 4. bis 7. "
 "Juli 2022 hat das Team der TIB Balkan am Mittwoch, den 6. Juli, seine "
-"Forschungen in den Sitzungen Nr. 1034, 1134, 1234 und 1334 vorstellen."
+"Forschungen in den Sitzungen Nr. 1034, 1134, 1234 und 1334 vorgestellt."
 
-#: tib/data/outreach.py:180
+#: tib/data/outreach.py:192
 msgid "Cf. in detail"
 msgstr "Sehen sie im Detail"
 
-#: tib/data/outreach.py:189
+#: tib/data/outreach.py:201
 msgid "presentation at university of cologne, germany"
 msgstr "Präsentation an der Universität Köln, Deutschland"
 
-#: tib/data/outreach.py:191
+#: tib/data/outreach.py:203
 msgid "seminar_koeln"
 msgstr ""
 "Bernhard Koschiček-Krombholz und Mihailo St. Popović präsentieren einen Vortrag "
@@ -464,11 +486,11 @@ msgstr ""
 "einem <a href=\"https://dhc.hypotheses.org/programm-2022\">Digital Humanities "
 "Kolloquium</a>."
 
-#: tib/data/outreach.py:200
+#: tib/data/outreach.py:212
 msgid "TIB at the \"Lange Nacht der Forschung\" in Vienna"
 msgstr "TIB bei der 'Langen Nacht der Forschung' in Wien"
 
-#: tib/data/outreach.py:202
+#: tib/data/outreach.py:214
 msgid "lange_nacht_22_text"
 msgstr ""
 "Im Mai 2022 war die Österreichische Akademie der Wissenschaften "
@@ -483,7 +505,7 @@ msgstr ""
 "holdura\">Jenseits von Ost und West: Geokommunikation der heiligen Landschaften "
 "\"Duklja\" und \"Raška\" durch Raum und Zeit (11.-14. Jh.)</a>. basiert."
 
-#: tib/data/outreach.py:211
+#: tib/data/outreach.py:223
 msgid ""
 "presentation at \"Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts\""
@@ -491,7 +513,7 @@ msgstr ""
 "Präsentation bei 'Global Eurasia – Comparison and Connectivity II: Agency, "
 "Networks and Transregional Contexts'"
 
-#: tib/data/outreach.py:214
+#: tib/data/outreach.py:226
 msgid "global_eurasia_5_12_22"
 msgstr ""
 "Mihailo Popović hat auf der Konferenz <a href=\"https://www.oeaw.ac.at/en/global-"
@@ -500,7 +522,7 @@ msgstr ""
 "Agency, Networks and Transregional Contexts\"</a> am IMAFO (ÖAW) einen Vortrag "
 "über die TIB gehalten."
 
-#: tib/data/outreach.py:222
+#: tib/data/outreach.py:234
 msgid ""
 "On the Use and Usefulness of Digital Humanities in the Historical Geography of "
 "Byzantium"
@@ -508,7 +530,7 @@ msgstr ""
 "Über den Nutzen und die Nützlichkeit der digitalen Geisteswissenschaften in der "
 "historischen Geographie von Byzanz"
 
-#: tib/data/outreach.py:225
+#: tib/data/outreach.py:237
 msgid "seminar_series_april"
 msgstr ""
 "Mihailo Popović hielt am 1. April 2022 einen Online-Vortrag mit dem Titel \"On "
@@ -519,11 +541,11 @@ msgstr ""
 "Vortrag stellten die Zuhörer vielfältige Fragen zur Historischen Geographie des "
 "Byzantinischen Reiches und zu Digital Humanities."
 
-#: tib/data/publications.py:2399
+#: tib/data/publications.py:2531
 msgid "TIB_Volumes"
 msgstr "TIB_Bände"
 
-#: tib/data/publications.py:2402
+#: tib/data/publications.py:2534
 msgid ""
 "The volumes of the series Tabula Imperii Byzantini (TIB) of the Austrian Academy "
 "of Sciences are the main scholarly result of the project TIB and have been "
@@ -533,11 +555,11 @@ msgstr ""
 "der Wissenschaften sind das wissenschaftliche Hauptergebnis des Projekts TIB und "
 "werden seit 1976 veröffentlicht."
 
-#: tib/data/publications.py:2409
+#: tib/data/publications.py:2541
 msgid "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 msgstr "Veröffentlichungen der Kommission für die Tabula Imperii Byzantini"
 
-#: tib/data/publications.py:2412
+#: tib/data/publications.py:2544
 msgid ""
 "In addition to the main series Tabula Imperii Byzantini (TIB) an accompanying "
 "series entitled Veröffentlichungen der Kommission für die Tabula Imperii "
@@ -550,27 +572,30 @@ msgstr ""
 "Imperii Byzantini (VTIB) der Österreichischen Akademie der Wissenschaften, die "
 "seit 2006 durch die Reihe Veröffentlichungen zur Byzanzforschung ersetzt wird."
 
-#: tib/data/publications.py:2421
+#: tib/data/publications.py:2553
 msgid "Historical Geography and Cultural Heritage"
 msgstr "Historical Geography and Cultural Heritage"
 
-#: tib/data/publications.py:2423
+#: tib/data/publications.py:2555
+#, fuzzy
 msgid ""
-"The series <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
-"Historical Geography and Cultural Heritage</a> was founded by Mihailo St. "
-"Popović in the spring of 2016 and is edited by him and Andreas Külzer in order "
-"to innovate the historical-geographical research in  Byzantine Studies."
+"The series <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
+"target=\"_blank\">Studies in Historical Geography and Cultural Heritage</a> was "
+"founded by Mihailo St. Popović in the spring of 2016 and is edited by him and "
+"Andreas Külzer in order to innovate the historical-geographical research in  "
+"Byzantine Studies."
 msgstr ""
-"Die Reihe <a href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">Studies in "
-"Historical Geography and Cultural Heritage</a> wurde im Frühjahr 2016 von "
-"Mihailo St. Popović gegründet und wird von ihm und Andreas Külzer herausgegeben, "
-"um die historisch-geographische Forschung in der Byzantinistik zu erneuern."
+"Die Reihe <a href=\"https://maps-of-power.oeaw.ac.at/histgeo\" "
+"target=\"_blank\">Studies in Historical Geography and Cultural Heritage</a> "
+"wurde im Frühjahr 2016 von Mihailo St. Popović gegründet und wird von ihm und "
+"Andreas Külzer herausgegeben, um die historisch-geographische Forschung in der "
+"Byzantinistik zu erneuern."
 
-#: tib/data/publications.py:2431 tib/data/publications.py:2432
+#: tib/data/publications.py:2563 tib/data/publications.py:2564
 msgid "Monographs"
 msgstr "Monografien"
 
-#: tib/data/publications.py:2433
+#: tib/data/publications.py:2565
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly monographs and edited volumes on "
@@ -580,11 +605,11 @@ msgstr ""
 "Byzantini (TIB) veröffentlichen kontinuierlich wissenschaftliche Monographien "
 "und Sammelbände zu verschiedenen Themen der Historischen Geographie von Byzanz."
 
-#: tib/data/publications.py:2439 tib/data/publications.py:2440
+#: tib/data/publications.py:2571 tib/data/publications.py:2572
 msgid "Articles"
 msgstr "Artikel"
 
-#: tib/data/publications.py:2441
+#: tib/data/publications.py:2573
 msgid ""
 "The project leaders and scholarly co-workers of the Tabula Imperii Byzantini "
 "(TIB) are continuously publishing scholarly articles on various topics of the "
@@ -879,8 +904,8 @@ msgid ""
 "monument (cultural property) by Decision No. 1794/1 of September 14, 1948. Apart "
 "from the undoubtedly military-strategic purposes it had during the war years, "
 "this unique object has gained importance over time due to its aesthetic and "
-"historical value, so that it now forms an inevitable tourist attraction."
-"\" (Translation by M. Popović)"
+"historical value, so that it now forms an inevitable tourist attraction.\" "
+"(Translation by M. Popović)"
 msgstr ""
 "Ein im ehemaligen Jugoslawien berühmtes Exemplar einer Reliefkarte der "
 "Balkanhalbinsel ist die Karte Montenegros und angrenzender Gebiete, die 1916/17 "
@@ -1330,16 +1355,9 @@ msgstr ""
 #: tib/data/subprojects.py:241 tib/templates/tib/frontpage/tib_map.html:7
 msgid "map_application_text"
 msgstr ""
-"Das Frontend „Maps of Power: Historical Atlas of Places, Borderzones and "
-"Migration Dynamics in Byzantium (TIB Balkans)“ ist derzeit aus technischen "
-"Gründen nicht abrufbar, weil derzeit eine Version 2.0 programmiert wird. Diese "
-"neue Version wird den Namen „Maps of Power“ haben und im Herbst 2023 online "
-"gehen. Für weiterführende Informationen: <a href=\"maps-of-power.oeaw.ac.at\" "
+"Das neue Frontend „Maps of Power – Karten der Macht“ ist abrufbar. "
+"Weiterführende Informationen: <a href=\"https://maps-of-power.oeaw.ac.at\" "
 "target=\"_blank\">maps-of-power.oeaw.ac.at</a>"
-
-#: tib/data/subprojects.py:251
-msgid "unavailable"
-msgstr "derzeit nicht verfügbar"
 
 #: tib/data/subprojects.py:268
 msgid ""
@@ -1402,8 +1420,8 @@ msgid ""
 "catalogue.tib.oeaw.ac.at/</a>."
 msgstr ""
 "Transparente Präsentation und Veröffentlichung der Projektresultate im Rahmen "
-"der Online-Ressourcen der TIB unter <a href=\"https://catalogue.tib.oeaw.ac.at/"
-"\">https://catalogue.tib.oeaw.ac.at/</a>"
+"der Online-Ressourcen der TIB unter <a href=\"tib-collection\">https://catalogue."
+"tib.oeaw.ac.at/</a>"
 
 #: tib/data/subprojects.py:275
 msgid ""
@@ -1444,11 +1462,11 @@ msgid ""
 "search, compare, view metadata, and cite the processed 7,172 slides (TIB 5: "
 "4,981 slides, TIB 12: 1,252 slides, TIB 16: 939 slides) with permalinks."
 msgstr ""
-"Das Portal (Frontend) von CollectiveAccess ist online unter: <a href=\"https://"
-"catalogue.tib.oeaw.ac.at/\">https://catalogue.tib.oeaw.ac.at/</a> Die "
-"Nutzer*innen können die aufgearbeiteten 7.172 Dias (TIB 5: 4.981 Dias, TIB 12: "
-"1.252 Dias, TIB 16: 939 Dias) frei betrachten, durchsuchen, vergleichen, "
-"Metadaten sichten und mit Permalinks zitieren."
+"Das Portal (Frontend) von CollectiveAccess ist online unter: <a href=\"tib-"
+"collection\">https://catalogue.tib.oeaw.ac.at/</a> Die Nutzer*innen können die "
+"aufgearbeiteten 7.172 Dias (TIB 5: 4.981 Dias, TIB 12: 1.252 Dias, TIB 16: 939 "
+"Dias) frei betrachten, durchsuchen, vergleichen, Metadaten sichten und mit "
+"Permalinks zitieren."
 
 #: tib/data/subprojects.py:292
 msgid "Image Collection"
@@ -1484,9 +1502,8 @@ msgstr ""
 "- Historische Geographie Kleinasiens und des Balkans - Spätantike und "
 "mittelalterliche Pilgerreisen - Spätantike - Ephesos."
 
-#: tib/data/team.py:19 tib/data/team.py:59 tib/data/team.py:69 tib/data/team.py:89
-#: tib/data/team.py:119 tib/data/team.py:129 tib/data/team.py:139
-#: tib/data/team.py:149
+#: tib/data/team.py:19 tib/data/team.py:69 tib/data/team.py:89 tib/data/team.py:119
+#: tib/data/team.py:129 tib/data/team.py:139 tib/data/team.py:149
 msgid "scientific_employee"
 msgstr "Wissenschaftliche Mitarbeiterinnen"
 
@@ -1532,7 +1549,7 @@ msgstr ""
 "Kommunikationstechnologie im Bildungswesen, Graphentheorie und räumliche "
 "Analyse, GIS"
 
-#: tib/data/team.py:38 tib/data/team.py:48 tib/data/team.py:58
+#: tib/data/team.py:38 tib/data/team.py:48
 msgid "balkans"
 msgstr "Balkan"
 
@@ -1551,10 +1568,10 @@ msgid ""
 msgstr ""
 "Priv.-Doz. Mag. Dr. phil.; 2000: Mag. phil. mit höchster Auszeichnung "
 "(Universität Wien, 2000); Dr. phil. mit höchster Auszeichnung (Universität Wien, "
-"2005); Einstimmiger Beschluss zur Erteilung der Lehrbefugnis \"Geschichte "
-"Südosteuropas und Byzantinistik\" (Universität Wien, 2011); 2017-2022: "
-"Vorsitzender der \"Commission for the Historical Geography and Spatial Analysis "
-"of Byzantium\" der International Association of Byzantine Studies (AIEB). "
+"2005); Einstimmiger Beschluss zur Erteilung der Lehrbefugnis Geschichte "
+"Südosteuropas und Byzantinistik (Universität Wien, 2011); 2017-2022: "
+"Vorsitzender der Commission for the Historical Geography and Spatial Analysis of "
+"Byzantium der International Association of Byzantine Studies (AIEB). "
 "Forschungsinteressen: Geschichte und Kultur Südosteuropas (7.-16. Jh.), "
 "Spätbyzantinische Geschichte (1204-1453), Gender Studies, Historische Geographie "
 "und Kartographie des Mittelmeerraums, Digital Humanities und Historische "
@@ -1577,6 +1594,10 @@ msgstr ""
 "Universität Wien. Forschungsinteressen: Computersicherheit, Python, Linked Open "
 "Data, API, digitale Reservierung, historische Geographie, GIS, mittelalterliche "
 "und militärische Geschichte."
+
+#: tib/data/team.py:58 tib/data/team.py:59 tib/data/team.py:118
+msgid "former_employee"
+msgstr "Ehemaliger Mitarbeiter"
 
 #: tib/data/team.py:61
 msgid ""
@@ -1713,10 +1734,6 @@ msgstr ""
 "tätig (CARTOCONSULT BEER). Seither Zusammenarbeit mit der Österreichischen "
 "Akademie der Wissenschaften (ÖAW) in Wien als freier Kartograph für das "
 "Langzeitprojekt \"Tabula Imperii Byzantini (TIB)\"."
-
-#: tib/data/team.py:118
-msgid "former_employee"
-msgstr "Ehemalige Mitarbeiter"
 
 #: tib/data/team.py:121
 msgid ""
@@ -2233,11 +2250,11 @@ msgstr ""
 #: tib/data/tib_volumes.py:31
 msgid ""
 "The area between Kaisareia and Melitēnē, whose settlements had been largely "
-"abandoned in the defensive battles against the Arabs, became a "
-"\"desert\" (erēmia) with the name Symposion, whose centre lay in Kaleköy, a late "
-"antique settlement surrounded by a defensive wall. Further southwest, the "
-"fortress of Tzamandos was built on a prominent, steep rock cone as a bulwark "
-"against the Arabs."
+"abandoned in the defensive battles against the Arabs, became a \"desert\" "
+"(erēmia) with the name Symposion, whose centre lay in Kaleköy, a late antique "
+"settlement surrounded by a defensive wall. Further southwest, the fortress of "
+"Tzamandos was built on a prominent, steep rock cone as a bulwark against the "
+"Arabs."
 msgstr ""
 "Das Gebiet zwischen Kaisareia und Melitēnē, dessen Siedlungen in den "
 "Verteidigungskämpfen gegen die Araber weitgehend aufgegeben worden waren, wurde "
@@ -2787,9 +2804,8 @@ msgstr ""
 "Kappadokien und Kilikien und zugleich der Beginn des östlichen Taurus, der durch "
 "die von Nordosten nach Südwesten verlaufenden Gebirgszüge, die in der Antike "
 "Antitauros genannt wurden, geprägt ist. Im Osten schließt der Amanos (Nur "
-"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das "
-"\"Schweinekap\" (Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien "
-"trennt."
+"Dağları, \"Berge des Lichts\"), der nach Süden verläuft, an das \"Schweinekap\" "
+"(Ra''s al-Hinzīr, Domuz Burnu) an, das Kilikien von Syrien trennt."
 
 #: tib/data/tib_volumes.py:57
 msgid ""
@@ -3748,15 +3764,15 @@ msgid ""
 "alum. - Chios (842 km2), like Lesbos, lies in the immediate vicinity of the "
 "coast of western Asia Minor; it reaches an altitude of up to 1,300 m in a "
 "limestone mountain range, has sufficient water and is partly fertile. In the "
-"southern part of the island, in the area of the so-called \"mastic "
-"villages\" (Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) "
-"thrives, whose resin, the mastic, represented a basis of wealth as a monopolised "
-"export article until modern times. - The small Psara (41 km2), about 19 km west "
-"of Chios, is mountainous (up to almost 600 m), water-rich and fertile. - The "
-"island of Skyros (209 km2), far from the coast, reaches an altitude of almost "
-"800 m in the southeast, has sufficient water and is partly very fertile. A "
-"special zoological feature is a semi-wild, prehistoric horse, the small \"Skyros "
-"pony\" (equus Cubulus)."
+"southern part of the island, in the area of the so-called \"mastic villages\" "
+"(Mastichochοra), the mastic shrub (Pistacia lentiscus, var. Chia) thrives, whose "
+"resin, the mastic, represented a basis of wealth as a monopolised export article "
+"until modern times. - The small Psara (41 km2), about 19 km west of Chios, is "
+"mountainous (up to almost 600 m), water-rich and fertile. - The island of Skyros "
+"(209 km2), far from the coast, reaches an altitude of almost 800 m in the "
+"southeast, has sufficient water and is partly very fertile. A special zoological "
+"feature is a semi-wild, prehistoric horse, the small \"Skyros pony\" (equus "
+"Cubulus)."
 msgstr ""
 "Thasos (379 km2) ist teilweise gebirgig (über 1.200 m hoch), mit Marmorbrüchen, "
 "die seit der Antike betrieben werden, und verfügt über eine ausreichende "
@@ -4890,11 +4906,11 @@ msgstr ""
 
 #: tib/data/tib_volumes.py:160
 msgid ""
-"Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. "
-"Popović, TIB 17, 2021)"
+"The Bay of Tivat with the Peninsula of Saint Archangel Michael (M. Popović, TIB "
+"17, 2022)"
 msgstr ""
-"Österreichisch-ungarische Festung Kabala auf der Halbinsel Luštica, Montenegro "
-"(M. Popović, TIB 17, 2021)"
+"Die Bucht von Tivat mit der Halbinsel des Heiligen Erzengels Michael (M. "
+"Popović, TIB 17, 2022)"
 
 #: tib/data/tib_volumes.py:161
 msgid "Kaunos and its Marshy Harbour (TIB 8 and TIB 18, F. Hild, 1994)"
@@ -5227,7 +5243,7 @@ msgstr "Festungsanlagen in der nordmakedonischen Region im 13/14. Jahrhundert"
 msgid "Road Model based on a k. u k. Marching Map"
 msgstr "Straßenmodell basierend auf einer k. u k. Marschkarte"
 
-#: tib/data/images/subprojects.py:88
+#: tib/data/images/subprojects.py:88 tib/data/images/volumes.py:62
 msgid ""
 "Markovi Kuli Castle near Prilep from the south, Republic of Northern Macedonia"
 msgstr "Die Burg Markovi Kuli bei Prilep von Süden, Republik Nordmazedonien"
@@ -5236,7 +5252,7 @@ msgstr "Die Burg Markovi Kuli bei Prilep von Süden, Republik Nordmazedonien"
 msgid "The Kale elevation in Skopje, Republic of Northern Macedonia"
 msgstr "Die Erhebung Kale in Skopje, Republik Nordmazedonien"
 
-#: tib/data/images/subprojects.py:102
+#: tib/data/images/subprojects.py:102 tib/data/images/volumes.py:72
 msgid "The old city gate of Ohrid, Republic of Northern Macedonia"
 msgstr "Das alte Stadttor von Ohrid, Republik Nordmazedonien"
 
@@ -5403,19 +5419,9 @@ msgstr "Hisar bei Kiraz, Asien"
 msgid "Yoğurtçu Kale, 15 km West of Manisa, Asia"
 msgstr "Yoğurtçu Kale, 15 km westlich von Manisa, Asien"
 
-#: tib/data/images/volumes.py:62
-msgid ""
-"The Ancient Theatre in Heraclea Lyncestis from the South, Republic of North "
-"Macedonia"
-msgstr "Die Burg Markovi Kuli bei Prilep von Süden, Republik Nordmazedonien"
-
 #: tib/data/images/volumes.py:67
 msgid "The Ottoman Bridge called Kadin Most in Nevestino, Bulgaria"
 msgstr "Die osmanische Brücke namens Kadin Most in Nevestino, Bulgarien"
-
-#: tib/data/images/volumes.py:72
-msgid "Lake Dojran, Republic of North Macedonia"
-msgstr "Das alte Stadttor von Ohrid, Republik Nordmazedonien"
 
 #: tib/data/images/volumes.py:77
 msgid ""
@@ -5433,7 +5439,7 @@ msgstr "Die Kirche von Prečista Krajinska, Montenegro"
 
 #: tib/data/images/volumes.py:94
 msgid "The Old Town of Budva, Montenegro"
-msgstr "Die Bucht von Budva in Montenegro"
+msgstr "Die Stadtmauern von Budva in Montenegro"
 
 #: tib/data/images/volumes.py:99
 msgid "On the Shores of Lake Skadar, Montenegro"
@@ -5608,16 +5614,13 @@ msgstr ""
 "<a href=\"/tib-register\">Gesamtverzeichnis der Ortsnamen (Toponyme) aus allen "
 "TIB Bänden</a> mit Verlinkungen auf die Seite der jeweiligen TIB Bände und ihre "
 "pdf Dateien (soweit aufgrund des Copyrights erlaubt) online gestellt. Einen Teil "
-"unserer reichen <a href=\"https://catalogue.tib.oeaw.ac.at/\" "
-"target=\"_blank\">Diabestände</a> haben wir beschrieben und als Scans ebenfalls "
-"online zugänglich gemacht. Schließlich haben wir ein Datenbanksystem für die TIB "
-"Balkan aufgebaut (eine <a href=\"https://openatlas.eu/\" target=\"_blank\"> "
-"OpenAtlas</a> Datenbank, in die alle Resultate der Teilprojekte TIB Balkan sowie "
-"ausgewählte Aspekte aus den TIB Bänden 16 und 17 laufend einfließen und "
-"jederzeit aktuell über ein Web Applikation abgerufen werden können. Diese "
-"Webapplikation nennen wir <a href=\"/tib-atlas\">„Maps of Power: Historical "
-"Atlas of Places, Borderzones and Migration Dynamics in Byzantium (TIB Balkans)“</"
-"a>."
+"unserer reichen <a href=\"tib-collection\" target=\"_blank\">Diabestände</a> "
+"haben wir beschrieben und als Scans ebenfalls online zugänglich gemacht. "
+"Schließlich haben wir eine OpenAtlas Datenbank, in die alle Resultate der "
+"Teilprojekte TIB Balkan sowie ausgewählte Aspekte aus den TIB Bänden 16 und 17 "
+"laufend einfließen und jederzeit aktuell über ein Web Applikation abgerufen "
+"werden können. Diese Webapplikation nennen wir <a href=\"https://atlas.maps-of-"
+"power.at/ \" target=\"_blank\">„Maps of Power“</a>."
 
 #: tib/templates/balkan/digital/explore.html:3
 #: tib/templates/openatlas/explore.html:3
@@ -5936,10 +5939,10 @@ msgstr ""
 "Online- und Printmedien vertreten. In der Verbreitung von Wissen und Resultaten "
 "kommen sowohl eine eigene Buchreihe (zusätzlich zu den TIB Bänden) als auch ein "
 "digitaler Newsletter zum Tragen. So hat Mihailo St. Popović die Buchreihe <a "
-"href=\"https://histgeo.oeaw.ac.at/\" target=\"_blank\">„Studies in Historical "
-"Geography and Cultural Heritage“</a> begründet und gibt mit seinem Team "
-"halbjährlich den digitalen <a href=\"https://histgeo.oeaw.ac.at/newsletter/\" "
-"target=\"_blank\"> „HistGeo Newsletter“</a> heraus.</p>"
+"href=\"https://maps-of-power.oeaw.ac.at/histgeo\" target=\"_blank\">„Studies in "
+"Historical Geography and Cultural Heritage“</a> begründet und gibt mit seinem "
+"Team halbjährlich den digitalen <a href=\"https://maps-of-power.oeaw.ac.at/"
+"histgeo\" target=\"_blank\">„HistGeo Newsletter“</a> heraus.</p>"
 
 #: tib/templates/balkan/subprojects/subproject_intro.html:3
 msgid "Projects of the TIB Balkan"
@@ -5958,7 +5961,7 @@ msgstr ""
 "Anträge bei in- und ausländischen Forschungsförderungsgesellschaften "
 "eingeworben. Seit 2006 hat M. Popović Fördermittel in der Höhe von 1.908.593 "
 "Euro erfolgreich beantragt und mit diesem Betrag zahlreiche vielversprechende "
-"WissenschaflterInnen in seinen Projekten angestellt, um gemeinsam "
+"WissenschaftlerInnen in seinen Projekten angestellt, um gemeinsam "
 "zukunftsweisende Themen der Historischen Geographie der Balkanhalbinsel für die "
 "Österreichische Akademie der Wissenschaften zu erforschen."
 
@@ -6219,6 +6222,16 @@ msgstr ""
 #: tib/templates/tib/imprint.html:52
 msgid "Further information on data protection on websites of the OeAW."
 msgstr "Weitere Informationen zum Datenschutz auf Internetseiten der ÖAW."
+
+#: tib/templates/tib/digtib/digtib.html:50 tib/templates/tib/tib_collection.html:6
+msgid ""
+"Due to a lack of updates from the software developer of CollectiveAccess,\n"
+"       this application is currently not running. We are looking for new "
+"technical solutions."
+msgstr ""
+"Aufgrund fehlender Updates durch den Softwareentwickler von CollectiveAccess "
+"funktioniert diese Applikation derzeit nicht. Wir suchen nach neuen technischen "
+"Lösungen."
 
 #: tib/templates/tib/aieb/aieb.html:6
 msgid "Commission for the"
@@ -6624,7 +6637,7 @@ msgstr ""
 "mit den jeweiligen Metadaten in die Open-Source-Software CollectiveAccess "
 "eingebettet. Sie können auf diese Daten zugreifen über"
 
-#: tib/templates/tib/digtib/digtib.html:53
+#: tib/templates/tib/digtib/digtib.html:54
 msgid ""
 "For the time being, you may search and compare these slides and view their "
 "metadata, but not download them for scholarly or private use due to copyright "
@@ -6635,7 +6648,7 @@ msgstr ""
 "Österreichischen Akademie der Wissenschaften nicht für den wissenschaftlichen "
 "oder privaten Gebrauch herunterladen."
 
-#: tib/templates/tib/digtib/digtib.html:58
+#: tib/templates/tib/digtib/digtib.html:59
 msgid ""
 "Lake Skadar in Montenegro as Viewed from the Island of Beška, Republic of "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
@@ -6643,7 +6656,7 @@ msgstr ""
 "Der Skadar-See in Montenegro von der Insel Beška aus gesehen, Republik "
 "Montenegro, 2022 (Bernhard Koschiček-Krombholz)"
 
-#: tib/templates/tib/digtib/digtib.html:62
+#: tib/templates/tib/digtib/digtib.html:63
 msgid ""
 "The third line of development is state of the art Geocommunication of current "
 "TIB content and results. Therefore, the TIB Balkans (Mihailo St. Popović) is "
@@ -6651,45 +6664,16 @@ msgid ""
 "Atlas of Places, Borderzones and Migration Dynamics in Byzantium\" since 2019"
 msgstr ""
 "Die dritte Entwicklungslinie ist die moderne Geokommunikation der aktuellen "
-"Inhalte und Ergebnisse der TIB. Daher erstellt, entwickelt und pflegt die TIB "
-"Balkan (Mihailo St. Popović) seit 2019 den Online-Atlas \"Maps of Power: "
-"Historical Atlas of Places, Borderzones and Migration Dynamics in Byzantium\"."
+"Inhalte und Ergebnisse der TIB."
 
-#: tib/templates/tib/digtib/digtib.html:65
-msgid "You may freely access this online atlas (web application) via"
-msgstr "Sie haben freien Zugang zu diesem Online-Atlas (Webanwendung) über"
-
-#: tib/templates/tib/digtib/digtib.html:69
-msgid ""
-"Scholarly results as well as digital photographs of the TIB Balkans, i.e. from "
-"the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) and 17 "
-"(\"Nea Epeiros and Praevalis\", Mihailo St. Popović), and of related <a href=\"/"
-"balkan/subprojekte\">sub-projects of the TIB Balkans</a> with a team of young "
-"scholarly co-workers are regularly embedded in English into a TIB Balkans "
-"OpenAtlas Database."
-msgstr ""
-"Wissenschaftliche Ergebnisse sowie digitale Fotografien der TIB Balkan, z.B. aus "
-"den TIB-Bänden 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) und 17 "
-"(\"Nea Epeiros and Praevalis\", Mihailo St. Popović), und von <a href=\"/balkan/"
-"subprojekte\">verwandten Teilprojekten der TIB Balkan</a> mit einem Team junger "
-"wissenschaftlicher Mitarbeiter werden regelmäßig in englischer Sprache in eine "
-"TIB Balkans OpenAtlas Database eingebettet."
-
-#: tib/templates/tib/digtib/digtib.html:72
-msgid ""
-"You may freely query the data embedded in the TIB Balkans OpenAtlas Database via"
-msgstr ""
-"Sie können die in der TIB Balkans OpenAtlas-Datenbank enthaltenen Daten frei "
-"abfragen über"
-
-#: tib/templates/tib/digtib/digtib.html:75
+#: tib/templates/tib/digtib/digtib.html:67
 msgid ""
 "All three main lines of development are intertwined and form a holistic approach."
 msgstr ""
 "Alle drei Hauptentwicklungslinien sind miteinander verflochten und bilden einen "
 "holistischen Ansatz."
 
-#: tib/templates/tib/digtib/digtib.html:78
+#: tib/templates/tib/digtib/digtib.html:70
 msgid ""
 "If you would like to read more about all three lines of development, please cf. "
 "the following two articles"
@@ -6697,7 +6681,7 @@ msgstr ""
 "Wenn Sie mehr über alle drei Entwicklungslinien erfahren möchten, lesen Sie "
 "bitte die folgenden beiden Artikel"
 
-#: tib/templates/tib/digtib/digtib.html:104
+#: tib/templates/tib/digtib/digtib.html:96
 msgid "Contact"
 msgstr "Kontakt"
 
@@ -6767,6 +6751,10 @@ msgstr "Aktivitäten"
 #: tib/templates/tib/frontpage/jumbotron.html:24
 msgid "Learn more"
 msgstr "Mehr erfahren"
+
+#: tib/templates/tib/frontpage/tib_map.html:12
+msgid "try it out now"
+msgstr "Jetzt ausprobieren"
 
 #: tib/templates/tib/history/history.html:2
 msgid "History"
@@ -7042,7 +7030,7 @@ msgstr ""
 
 #: tib/templates/tib/publications/publications.html:2
 #: tib/templates/tib/publications/publications.html:6
-#: tib/templates/tib/subprojects/project.html:120
+#: tib/templates/tib/subprojects/project.html:116
 msgid "Publications"
 msgstr "Publikationen"
 
@@ -7054,24 +7042,24 @@ msgstr "Finanziert durch"
 msgid "Project Number"
 msgstr "Projektnummer"
 
-#: tib/templates/tib/subprojects/project.html:37
+#: tib/templates/tib/subprojects/project.html:36
 #: tib/templates/tib/subprojects/subprojects.html:28
 msgid "Duration"
 msgstr "Dauer"
 
-#: tib/templates/tib/subprojects/project.html:50
+#: tib/templates/tib/subprojects/project.html:47
 msgid "Employees"
 msgstr "Mitarbeitende"
 
-#: tib/templates/tib/subprojects/project.html:58
+#: tib/templates/tib/subprojects/project.html:55
 msgid "Cooperation and External Employees"
 msgstr "Kooperationen und externe Mitarbeiter"
 
-#: tib/templates/tib/subprojects/project.html:85
+#: tib/templates/tib/subprojects/project.html:82
 msgid "Results"
 msgstr "Resultate"
 
-#: tib/templates/tib/subprojects/project.html:126
+#: tib/templates/tib/subprojects/project.html:122
 msgid "Presentations"
 msgstr "Präsentationen"
 
@@ -7387,5 +7375,45 @@ msgstr "Ehemalige Mitarbeiter"
 #~ msgid "Browse project database"
 #~ msgstr "Projektdatenbank durchsuchen"
 
-#~ msgid "try it out now"
-#~ msgstr "Jetzt ausprobieren"
+#~ msgid "unavailable"
+#~ msgstr "derzeit nicht verfügbar"
+
+#~ msgid "You may freely access this online atlas (web application) via"
+#~ msgstr "Sie haben freien Zugang zu diesem Online-Atlas (Webanwendung) über"
+
+#~ msgid ""
+#~ "Scholarly results as well as digital photographs of the TIB Balkans, i.e. "
+#~ "from the TIB volumes 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) "
+#~ "and 17 (\"Nea Epeiros and Praevalis\", Mihailo St. Popović), and of related "
+#~ "<a href=\"/balkan/subprojekte\">sub-projects of the TIB Balkans</a> with a "
+#~ "team of young scholarly co-workers are regularly embedded in English into a "
+#~ "TIB Balkans OpenAtlas Database."
+#~ msgstr ""
+#~ "Wissenschaftliche Ergebnisse sowie digitale Fotografien der TIB Balkan, z.B. "
+#~ "aus den TIB-Bänden 16 (\"Macedonia, Northern Part\", Mihailo St. Popović) und "
+#~ "17 (\"Nea Epeiros and Praevalis\", Mihailo St. Popović), und von <a href=\"/"
+#~ "balkan/subprojekte\">verwandten Teilprojekten der TIB Balkan</a> mit einem "
+#~ "Team junger wissenschaftlicher Mitarbeiter werden regelmäßig in englischer "
+#~ "Sprache in eine TIB Balkans OpenAtlas Database eingebettet."
+
+#~ msgid ""
+#~ "You may freely query the data embedded in the TIB Balkans OpenAtlas Database "
+#~ "via"
+#~ msgstr ""
+#~ "Sie können die in der TIB Balkans OpenAtlas-Datenbank enthaltenen Daten frei "
+#~ "abfragen über"
+
+#~ msgid ""
+#~ "Austro-Hungarian Fortress Kabala on the Luštica Peninsula, Montenegro (M. "
+#~ "Popović, TIB 17, 2021)"
+#~ msgstr ""
+#~ "Österreichisch-ungarische Festung Kabala auf der Halbinsel Luštica, "
+#~ "Montenegro (M. Popović, TIB 17, 2021)"
+
+#~ msgid ""
+#~ "The Ancient Theatre in Heraclea Lyncestis from the South, Republic of North "
+#~ "Macedonia"
+#~ msgstr "Die Burg Markovi Kuli bei Prilep von Süden, Republik Nordmazedonien"
+
+#~ msgid "Lake Dojran, Republic of North Macedonia"
+#~ msgstr "Das alte Stadttor von Ohrid, Republik Nordmazedonien"

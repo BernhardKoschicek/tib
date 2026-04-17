@@ -32,9 +32,21 @@ types = {
 }
 
 outreach = [{
+    'id': 'imc_leeds_23',
+    'type': types['presentation'],
+    'date': f"{get_dates_formatted(2023, 7, 6)}",
+    'who': [team['mpopovic'], team['dvargova'], team['bkoschicek']],
+    'icon': 'imc_leeds_23.jpg',
+    'title': _l('TIB Balkans at the IMC Leeds 2023'),
+    'description': [_l('imc_leeds_23')],
+    'category': ['tib', 'balkan', 'holdura'],
+    'attachment': [{
+        'path': '',
+        'type': ''}]
+},{
     'id': 'lead_seals_2022',
     'type': types['presentation'],
-    'date': f"{get_dates_formatted(2023, 4, 19)}",
+    'date': f"{get_dates_formatted(2022, 4, 19)}",
     'who': [
         team['akulzer'], team['mpopovic'], team['psoustal'], team['kbelke']],
     'title': _l('Congress on Byzantine Thrace'),

@@ -6,7 +6,13 @@ from flask_wtf.csrf import CSRFProtect
 
 app = Flask(__name__, instance_relative_config=True)
 csrf = CSRFProtect(app)
-babel = Babel(app)
+def get_locale() -> str:
+    return session.get(
+        'language',
+        request.accept_languages.best_match(app.config['LANGUAGES'].keys()))
+
+
+babel = Babel(app, locale_selector=get_locale)
 app.config.from_object('config')  # type: ignore
 if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
     app.config.from_pyfile('production.py')
@@ -14,13 +20,6 @@ if (Path(app.root_path).parent / 'instance' / 'production.py').is_file():
 # pylint: disable=wrong-import-position, import-outside-toplevel
 from tib.util import filters, util
 from tib.views import tib, balkan, discovery
-
-
-@babel.localeselector
-def get_locale() -> str:
-    return session.get(
-        'language',
-        request.accept_languages.best_match(app.config['LANGUAGES'].keys()))
 
 
 @app.context_processor

@@ -133,7 +133,7 @@ def tib_contact() -> str:
 
 @app.route('/atlas')
 def tib_atlas() -> Response:
-    return redirect('https://data1.geo.univie.ac.at/projects/tibapp/')
+    return redirect('https://maps-of-power.oeaw.ac.at/frontend')
 
 
 @app.route('/balkan/explore')
@@ -142,6 +142,11 @@ def tib_discover() -> str:
         'openatlas/explore.html',
         subprojects_dict=subprojects,
         view_classes=view_classes)
+
+
+@app.route('/tib-collection')
+def tib_collection() -> str:
+    return render_template('tib/tib_collection.html')
 
 
 @app.route('/language=<language>')

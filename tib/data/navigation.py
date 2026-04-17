@@ -66,20 +66,20 @@ tib_digtib_submenu_items = [
         'title': _l('image_collection'),
         'icon': 'bi-images',
         'link_type': 'ext',
-        'link': 'https://catalogue.tib.oeaw.ac.at/',
+        'link': 'tib-collection',
         'tooltip':
             _l('Access to more than 7,000 slides of the TIB volumes 5, 12 and '
                '16 enriched with metadata')
     },
-    # {
-    #     'title': _l('map_application'),
-    #     'icon': 'bi-map-fill',
-    #     'link_type': 'ext',
-    #     'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
-    #     'tooltip': _l('Graphical map application to access,'
-    #     'browse and query data from TIB Balkans')
-    #
-    # },
+    {
+        'title': _l('map_application'),
+        'icon': 'bi-map-fill',
+        'link_type': 'ext',
+        'link': '/atlas',
+        'tooltip': _l('Graphical map application to access,'
+        'browse and query data from TIB Balkans')
+
+    },
     {
         'title': _l('browse_tib_balkans_data'),
         'icon': 'bi-stack',
@@ -94,7 +94,7 @@ balkan_digital_submenu_items = [
     {
         'title': _l('map_application'),
         'icon': 'bi-map-fill',
-        'link': 'https://data1.geo.univie.ac.at/projects/tibapp/',
+        'link': 'https://atlas.maps-of-power.at/',
         'link_type': 'ext',
         'tooltip':
             _l('Graphical map application to access, browse and '

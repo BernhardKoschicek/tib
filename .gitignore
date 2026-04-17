@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 .idea
-/tib/static/package.json
 /tib/static/package-lock.json
+/tib/static/node_modules/

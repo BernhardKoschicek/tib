@@ -159,11 +159,8 @@ team_categories = {
     'Heads_of_the_TIB': [
         tib_team_data['akulzer'],
         tib_team_data['mpopovic']],
-    'Scientific_Employees': [
-        tib_team_data['dariantzi']],
-    'Associated_Scholars': [
-        tib_team_data['vzervan'],
-        tib_team_data['vpolloczek']],
+    'Scientific_Employees': [],
+    'Associated_Scholars': [],
     'Technical_Specialists': [
         tib_team_data['ebeer'],
         tib_team_data['mhernandez'],
@@ -175,5 +172,8 @@ team_categories = {
         tib_team_data['kbelke'],
         tib_team_data['psoustal'],
         tib_team_data['dschmid'],
-        tib_team_data['dvargova']]
+        tib_team_data['dvargova'],
+        tib_team_data['vzervan'],
+        tib_team_data['vpolloczek'],
+        tib_team_data['dariantzi']]
 }

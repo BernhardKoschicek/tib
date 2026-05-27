@@ -2152,6 +2152,51 @@ tib_articles = [
         "category": [],
         "external_link": '',
         "download": 'MPopovic et al The Crown of King Stefan Uros Decanski.pdf'
+    },
+    {
+        "author": "M. Popović",
+        "title": "„Friedensarbeit inmitten tollsten Krieges“ – Hochschulkurse, "
+                 "Denkmalkunde und Archäologie im Hinterland des deutschen "
+                 "Abschnittes der Salonikifront während und nach dem Ersten "
+                 "Weltkrieg. kunsttexte.de - Journal für Kunst- und "
+                 "Bildgeschichte 2025/1 – Ostblick, Themenheft: "
+                 "Kunstschutz-Initiativen im Ersten Weltkrieg in Ostmitteleuropa "
+                 "[online publiziert]",
+        "location": "",
+        "date": "2025",
+        "pages": "",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "M. Popović, M. Đokić Petrović und V. Polomac",
+        "title": "Named Entity Recognition for Pre-modern Serbian: A Preliminary "
+                 "Study, in: Proceedings of the International Conference South "
+                 "Slavic Languages in the Digital Environment. JuDig. Thematic "
+                 "Collection of Papers [peer reviewed]",
+        "location": "Belgrade",
+        "date": "2025",
+        "pages": "295-310",
+        "category": [],
+        "external_link": 'https://doi.fil.bg.ac.rs/volume.php?pt=eb_ser&issue=judig-2025-1&i=17',
+        "download": ''
+    },
+    {
+        "author": "М. Поповић",
+        "title": "Српске племкиње и монаштво у средњем веку: поређење Јелене "
+                 "Анжујске и Маре Бранковић у њиховим односима према "
+                 "бенедиктинцима/фрањевцима и светогорским монасима [Serbische "
+                 "adelige Frauen und das Mönchtum im Mittelalter: ein Vergleich "
+                 "zwischen Hélène d’Anjou und Mara Branković in ihren "
+                 "Beziehungen zu den Benediktinern/Franziskanern und den "
+                 "Athosmönchen], in: Дванаеста казивања о Светој Гори",
+        "location": "Београд",
+        "date": "2025",
+        "pages": "57-80",
+        "category": [],
+        "external_link": '',
+        "download": ''
     }
 ]
 
@@ -2520,6 +2565,32 @@ histgeo = [
         "location": "Novi Sad – Vienna",
         "date": "2022",
         "pages": "381",
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "M. Popović (ed.)",
+        "title": "Wilderness Revisited: Its Essence, Perception, Description and "
+                 "Image in Byzantium and Beyond (Studies in Historical Geography "
+                 "and Cultural Heritage 5)",
+        "location": "Vienna–Novi Sad (Akademska knjiga)",
+        "date": "2026",
+        "pages": 455,
+        "category": [],
+        "external_link": '',
+        "download": ''
+    },
+    {
+        "author": "M. Popović",
+        "title": "Terrifying Aspects of Mountains and Their Wilderness in the "
+                 "Medieval Balkans and the Channel Islands as Mirrored in the "
+                 "Lives of Saints, in: Wilderness Revisited: Its Essence, "
+                 "Perception, Description and Image in Byzantium and Beyond "
+                 "(Studies in Historical Geography and Cultural Heritage 5)",
+        "location": "Vienna–Novi Sad",
+        "date": "2026",
+        "pages": "251-271",
         "category": [],
         "external_link": '',
         "download": ''

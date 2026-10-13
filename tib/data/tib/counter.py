@@ -7,7 +7,7 @@ counter = {
         'icon': 'bi-book-fill'
     },
     'tib_making': {
-        'count': 5,
+        'count': 3,
         'description': _l('TIB Volumes in Progress'),
         'icon': 'bi-pencil-fill'
     },

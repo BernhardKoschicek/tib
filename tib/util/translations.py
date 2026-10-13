@@ -16,6 +16,7 @@ _l('Heads_of_the_TIB')
 _l('Scientific_Employees')
 _l('Associated_Scholars')
 _l('Technical_Specialists')
+_l('Retired_Employees')
 _l('Former_Employees')
 
 

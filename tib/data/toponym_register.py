@@ -112,9 +112,4 @@ register_volume = {
         'register': '',
         'published': False,
     },
-    'tib18': {
-        'title': _l('TIB 18 Caria'),
-        'register': '',
-        'published': False,
-    },
 }

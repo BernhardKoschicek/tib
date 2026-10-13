@@ -1,4 +1,4 @@
-from flask import Response, redirect, render_template, session, request
+from flask import Response, abort, redirect, render_template, session, request
 
 from tib import app
 from tib.data.images.history import tib_history_images
@@ -42,9 +42,10 @@ def tib_history() -> str:
 @app.route('/current_status/<volume>')
 @app.route('/current-status')
 @app.route('/current-status/<volume>')
-@app.route('/current-status/<volume>')
 def tib_current_status(volume: str = None) -> str:
     if volume:
+        if volume not in tib_volumes_dict:
+            abort(404)
         return render_template(
             'tib/current_status/volume.html',
             navigation=get_prev_and_next_item_of_dict(

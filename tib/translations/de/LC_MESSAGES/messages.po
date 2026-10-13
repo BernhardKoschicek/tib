@@ -4841,15 +4841,15 @@ msgstr ""
 "verbunden."
 
 #: tib/data/tib_volumes.py:152
-#, python-format
+#, no-python-format
 msgid ""
 "According to the relief, the processing area is a mountain and basin country. "
-"About 80% of the territory is hilly or mountainous, the remaining 20% plain. The "
+"About 80%% of the territory is hilly or mountainous, the remaining 20%% plain. The "
 "TIB 16 study area is mainly characterised by rivers draining to the south, which "
 "lead to the partly marshy, fertile coastal plains of the Thermaic Gulf and the "
 "northern Aegean Sea. The rivers of northern Macedonia belong to three river "
-"basins. The Aegean river basin is the largest with a catchment area of 87% of "
-"the country's territory, followed by the Adriatic with about 12% and the small "
+"basins. The Aegean river basin is the largest with a catchment area of 87%% of "
+"the country's territory, followed by the Adriatic with about 12%% and the small "
 "remainder accounted for by the Danube river basin. The longest and largest river "
 "in Northern Macedonia is the Vardar with a total length of 388 km. Of this, "
 "about 300 km are in Northern Macedonia. In southwestern Bulgaria, the Struma is "
@@ -4864,13 +4864,13 @@ msgid ""
 "(area 43 km2)."
 msgstr ""
 "Dem Relief nach zu urteilen, ist das Bearbeitungsgebiet ein Berg- und "
-"Beckenland. Etwa 80% des Gebiets sind hügelig oder gebirgig, die restlichen "
-"20% sind flach. Das Untersuchungsgebiet der TIB 16 ist hauptsächlich durch nach "
+"Beckenland. Etwa 80%% des Gebiets sind hügelig oder gebirgig, die restlichen "
+"20%% sind flach. Das Untersuchungsgebiet der TIB 16 ist hauptsächlich durch nach "
 "Süden entwässernde Flüsse geprägt, die in die teilweise sumpfigen, fruchtbaren "
 "Küstenebenen des Thermaischen Golfs und der nördlichen Ägäis münden. Die Flüsse "
 "Nordmazedoniens gehören zu drei Flusseinzugsgebieten. Das Flussgebiet der Ägäis "
-"ist mit einem Einzugsgebiet von 87% der Landesfläche das größte, gefolgt von der "
-"Adria mit etwa 12% und dem kleinen Rest, der auf das Flussgebiet der Donau "
+"ist mit einem Einzugsgebiet von 87%% der Landesfläche das größte, gefolgt von der "
+"Adria mit etwa 12%% und dem kleinen Rest, der auf das Flussgebiet der Donau "
 "entfällt. Der längste und größte Fluss in Nordmazedonien ist der Vardar mit "
 "einer Gesamtlänge von 388 km. Davon liegen etwa 300 km in Nordmakedonien. Im "
 "Südwesten Bulgariens ist die Struma der längste und größte Fluss mit einer Länge "
@@ -7124,6 +7124,10 @@ msgid "Technical_Specialists"
 msgstr "Technische Spezialist_innen"
 
 #: tib/util/translations.py:19
+msgid "Retired_Employees"
+msgstr "Pensionierte Mitarbeiter"
+
+#: tib/util/translations.py:20
 msgid "Former_Employees"
 msgstr "Ehemalige Mitarbeiter"
 
